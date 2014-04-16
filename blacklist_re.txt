@@ -6,6 +6,7 @@ kancolle
 \.youtube\.com
 \.googlevideo\.com
 \.xbox\.com
+\.himado\.in
 majikichi\.com
 [^/][^/]*soku.*
 [^/][^/]*2ch.*
