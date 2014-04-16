@@ -1,0 +1,7 @@
+talk\.google\.com:5222
+accounts\.youtube\.com
+//[^/][^/]*\.ac\.jp/
+//[^/][^/]*\.ed\.jp/
+//[^/][^/]*\.go\.jp/
+//[^/][^/]*\.google\.co\.jp/
+//[^/][^/]*\.google\.com/

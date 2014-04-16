@@ -1,0 +1,5 @@
+/gadget/js/kcs_login\.js
+/gadget/js/kcs_flash\.js
+/gadget/js/kcs_global\.js
+/kcscontents
+/kancolle
