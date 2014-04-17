@@ -1,5 +1,6 @@
 .*\.dmm\.com
 .*\.dmmgames\.com
+.*\.gungho\.jp
 kancolle
 .*auctions\.search\.yahoo\.co\.jp
 \.nicovideo\.jp
