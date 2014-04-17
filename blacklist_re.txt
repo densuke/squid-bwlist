@@ -1,6 +1,7 @@
 .*\.dmm\.com
 .*\.bakusai\.com
 .*\.mmoloda\.com
+.*\.mmoloda-.*\.com
 .*\.dmmgames\.com
 itunes\.apple\.com
 .*\.gungho\.jp
