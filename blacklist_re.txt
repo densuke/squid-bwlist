@@ -1,4 +1,5 @@
 .*\.dmm\.com
+.*\.lol2048\.com
 .*\.bakusai\.com
 .*\.hamelnovel\.com
 .*\.mmoloda\.com
