@@ -5,3 +5,4 @@ accounts\.youtube\.com
 //[^/][^/]*\.go\.jp/
 //[^/][^/]*\.google\.co\.jp/
 //[^/][^/]*\.google\.com/
+//[^/][^/]*\.smartnews\.be/
