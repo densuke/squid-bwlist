@@ -1,5 +1,6 @@
 .*\.dmm\.com
 .*\.bakusai\.com
+.*\.hamelnovel\.com
 .*\.mmoloda\.com
 .*\.mmoloda-.*\.com
 .*\.dmmgames\.com
