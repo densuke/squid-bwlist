@@ -2,6 +2,7 @@
 .*\.dmmgames\.com
 itunes\.apple\.com
 .*\.gungho\.jp
+.*\.mbga\.jp
 kancolle
 .*auctions\.search\.yahoo\.co\.jp
 \.nicovideo\.jp
