@@ -1,3 +1,4 @@
+.*\.yugioh-wiki\.net
 .*\.dmm\.com
 .*\.lol2048\.com
 .*\.bakusai\.com
