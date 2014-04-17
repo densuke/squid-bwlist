@@ -1,4 +1,5 @@
 .*\.dmm\.com
+.*\.mmoloda\.com
 .*\.dmmgames\.com
 itunes\.apple\.com
 .*\.gungho\.jp
