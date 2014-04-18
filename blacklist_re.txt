@@ -35,3 +35,4 @@ pokemon
 baito\.mynavi\.jp
 \.gameon\.jp
 \.klabgames\.net
+cafe-capy\.net/cookieclicker
