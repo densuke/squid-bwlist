@@ -37,3 +37,4 @@ baito\.mynavi\.jp
 \.klabgames\.net
 cafe-capy\.net/cookieclicker
 freegame\.on\.arena\.ne\.jp
+hangame\.co\.jp
