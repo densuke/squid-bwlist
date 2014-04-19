@@ -3,3 +3,5 @@
 /gadget/js/kcs_global\.js
 /kcscontents
 /kancolle
+/[^/]*dqn.*/
+
