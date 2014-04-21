@@ -6,3 +6,4 @@
 /kancolle
 /[^/]*dqn.*/
 /kcsapi/api_
+/kcs/.*swf
