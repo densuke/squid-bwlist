@@ -7,3 +7,4 @@
 /[^/]*dqn.*/
 /kcsapi/api_
 /kcs/.*swf
+/2ch
