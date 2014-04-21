@@ -25,6 +25,7 @@ majikichi\.com
 [^/][^/]*pandora\.tv.*
 [^/][^/]*niziero\.com.*
 [^/][^/]*monster-strike\.com.*
+[^/][^/]*mogera\.jp
 \.twitch\.tv
 auctions\.c\.yimg\.jp
 linegames\.com
