@@ -5,4 +5,4 @@
 /cookieclicker
 /kancolle
 /[^/]*dqn.*/
-
+/kcsapi/api_
