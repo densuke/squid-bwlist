@@ -19,6 +19,7 @@ kancolle
 majikichi\.com
 [^/][^/]*soku.*
 [^/][^/]*2ch.*
+[^/][^/]*0ch.*
 [^/][^/]*elog-ch.*
 [^/][^/]*4ch.*
 [^/][^/]*pso2.*
