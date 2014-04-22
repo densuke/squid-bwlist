@@ -43,3 +43,4 @@ freegame\.on\.arena\.ne\.jp
 .*mhf-g\.jp
 .*gamenetall\.web\.fc2\.com
 .*777town\.net
+.*nefficient\.jp
