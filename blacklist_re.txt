@@ -42,3 +42,4 @@ freegame\.on\.arena\.ne\.jp
 .*hangame\.co\.jp
 .*mhf-g\.jp
 .*gamenetall\.web\.fc2\.com
+.*777town\.net
