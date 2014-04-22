@@ -8,3 +8,10 @@
 .*/kcsapi/api_
 .*/kcs/.*swf
 .*/2ch
+pachinko
+pachislot
+pazdra
+pazudora
+pazzledra
+pudz\.
+
