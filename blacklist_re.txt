@@ -41,3 +41,4 @@ cafe-capy\.net/cookieclicker
 freegame\.on\.arena\.ne\.jp
 .*hangame\.co\.jp
 .*mhf-g\.jp
+.*gamenetall\.web\.fc2\.com
