@@ -44,3 +44,4 @@ freegame\.on\.arena\.ne\.jp
 .*gamenetall\.web\.fc2\.com
 .*777town\.net
 .*nefficient\.jp
+.*qq\.com
