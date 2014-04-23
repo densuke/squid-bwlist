@@ -60,4 +60,5 @@ clip\.vn
 .*vid-dl\.net
 .*dl-video\.net
 anipo\.jp
+.*shinra-game\.jp
 
