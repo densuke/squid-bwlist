@@ -61,4 +61,5 @@ clip\.vn
 .*dl-video\.net
 anipo\.jp
 .*shinra-game\.jp
+.*antennash\.com
 
