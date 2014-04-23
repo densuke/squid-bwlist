@@ -62,4 +62,4 @@ clip\.vn
 anipo\.jp
 .*shinra-game\.jp
 .*antennash\.com
-
+.*srworld\.net
