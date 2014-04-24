@@ -63,3 +63,5 @@ anipo\.jp
 .*shinra-game\.jp
 .*antennash\.com
 .*srworld\.net
+loljp-wiki\.tk
+.*loljp-wiki\.tk
