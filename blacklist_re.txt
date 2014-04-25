@@ -66,3 +66,4 @@ anipo\.jp
 loljp-wiki\.tk
 .*loljp-wiki\.tk
 .*lolking\.net
+.*joysound\.com
