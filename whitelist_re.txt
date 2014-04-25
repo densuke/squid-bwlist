@@ -8,3 +8,5 @@ accounts\.youtube\.com
 //[^/][^/]*\.smartnews\.be/
 //[^/][^/]*\.rikunabi\.com/
 //[^/][^/]*\.mynavi\.jp/
+//[^/][^/]*\.amazon\.co\.jp/
+//[^/][^/]*\.amazon\.com/
