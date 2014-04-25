@@ -68,3 +68,6 @@ loljp-wiki\.tk
 .*lolking\.net
 .*joysound\.com
 .*netkeiba\.com
+.*min-fx\.jp
+.*gendama\.jp
+
