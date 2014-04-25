@@ -67,3 +67,4 @@ loljp-wiki\.tk
 .*loljp-wiki\.tk
 .*lolking\.net
 .*joysound\.com
+.*netkeiba\.com
