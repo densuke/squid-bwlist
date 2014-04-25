@@ -6,3 +6,5 @@ accounts\.youtube\.com
 //[^/][^/]*\.google\.co\.jp/
 //[^/][^/]*\.google\.com/
 //[^/][^/]*\.smartnews\.be/
+//[^/][^/]*\.rikunabi\.com/
+//[^/][^/]*\.mynavi\.jp/
