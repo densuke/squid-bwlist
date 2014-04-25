@@ -10,3 +10,6 @@ accounts\.youtube\.com
 //[^/][^/]*\.mynavi\.jp/
 //[^/][^/]*\.amazon\.co\.jp/
 //[^/][^/]*\.amazon\.com/
+//[^/][^/]*\.jiji\.com/.*sokuho.*
+//[^/][^/]*\.asahi\.com/.*sokuho.*
+
