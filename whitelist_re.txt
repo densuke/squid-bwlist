@@ -16,4 +16,5 @@ accounts\.youtube\.com
 //[^/][^/]*\.amazon\.com/
 //[^/][^/]*\.jiji\.com/.*sokuho.*
 //[^/][^/]*\.asahi\.com/.*sokuho.*
+//[^/][^/]*\.url\.trendmicro\.com/
 
