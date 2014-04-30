@@ -70,4 +70,5 @@ loljp-wiki\.tk
 .*netkeiba\.com
 .*min-fx\.jp
 .*gendama\.jp
-
+gunslinger-stratos\.jp
+.*gunslinger-stratos\.jp
