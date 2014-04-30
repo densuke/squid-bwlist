@@ -5,10 +5,14 @@ accounts\.youtube\.com
 //[^/][^/]*\.go\.jp/
 //[^/][^/]*\.google\.co\.jp/
 //[^/][^/]*\.google\.com/
+//[^/][^/]*\.hotmail\.com/
 //[^/][^/]*\.smartnews\.be/
 //[^/][^/]*\.rikunabi\.com/
 //[^/][^/]*\.mynavi\.jp/
+//[^/][^/]*\.wikipedia\.org/
+//[^/][^/]*\.live\.jp/
 //[^/][^/]*\.amazon\.co\.jp/
+//[^/][^/]*\mail\.yahoo\.co\.jp/
 //[^/][^/]*\.amazon\.com/
 //[^/][^/]*\.jiji\.com/.*sokuho.*
 //[^/][^/]*\.asahi\.com/.*sokuho.*
