@@ -25,6 +25,7 @@ majikichi\.com
 [^/][^/]*pso2.*
 [^/][^/]*pandora\.tv.*
 [^/][^/]*niziero\.com.*
+[^/][^/]*sinajs\.cn
 [^/][^/]*monster-strike\.com
 [^/][^/]*mogera\.jp
 [^/][^/]*vimeo\.com
