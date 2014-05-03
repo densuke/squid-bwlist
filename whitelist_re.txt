@@ -1,4 +1,4 @@
-talk\.google\.com:5222
+talk\.google\.com
 accounts\.youtube\.com
 //[^/][^/]*\.ac\.jp/
 //[^/][^/]*\.ed\.jp/
@@ -14,6 +14,7 @@ accounts\.youtube\.com
 //[^/][^/]*\.amazon\.co\.jp/
 //[^/][^/]*\mail\.yahoo\.co\.jp/
 //[^/][^/]*\.amazon\.com/
+//img\.youtube.\.com/
 //[^/][^/]*\.jiji\.com/.*sokuho.*
 //[^/][^/]*\.asahi\.com/.*sokuho.*
 //[^/][^/]*\.url\.trendmicro\.com/
