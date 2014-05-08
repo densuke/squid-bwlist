@@ -5,6 +5,8 @@ accounts\.youtube\.com
 //[^/][^/]*\.go\.jp/
 //[^/][^/]*\.google\.co\.jp/
 //[^/][^/]*\.google\.com/
+//[^/][^/]*\.windowsupdate\.com/
+//[^/][^/]*\.ws\.microsoft\.com/
 //[^/][^/]*\.hotmail\.com/
 //[^/][^/]*\.smartnews\.be/
 //[^/][^/]*\.rikunabi\.com/
