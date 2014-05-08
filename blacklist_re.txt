@@ -1,7 +1,7 @@
 .*\.yugioh-wiki\.net
 .*\.dmm\.com
 .*\.dmm\.co\.jp
-.*\360safe\.com
+.*360safe\.com
 .*\.lol2048\.com
 .*\.bakusai\.com
 .*\.hamelnovel\.com
