@@ -1,5 +1,6 @@
 .*\.yugioh-wiki\.net
 .*\.dmm\.com
+.*\.dmm\.co\.jp
 .*\360safe\.com
 .*\.lol2048\.com
 .*\.bakusai\.com
@@ -13,6 +14,7 @@ itunes\.apple\.com
 kancolle
 .*auctions\.search\.yahoo\.co\.jp
 \.nicovideo\.jp
+\.smilevideo\.jp
 \.youtube\.com
 \.googlevideo\.com
 \.xbox\.com
@@ -76,3 +78,9 @@ loljp-wiki\.tk
 .*gendama\.jp
 gunslinger-stratos\.jp
 .*gunslinger-stratos\.jp
+.*vimeocdn\.com
+video\.sina\.com\.cn
+vube\.com
+.*ccpgamescdn\.com
+.*jeuxvideo24\.com
+.*redtube\.com
