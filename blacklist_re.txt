@@ -1,7 +1,7 @@
 .*\.yugioh-wiki\.net
 .*\.dmm\.com
 .*\.dmm\.co\.jp
-.*\360safe\.com
+.*360safe\.com
 .*\.lol2048\.com
 .*\.bakusai\.com
 .*\.hamelnovel\.com
@@ -27,6 +27,8 @@ majikichi\.com
 [^/][^/]*4ch.*
 [^/][^/]*pso2.*
 [^/][^/]*pandora\.tv.*
+[^/][^/]*dka-hero\.com
+[^/][^/]*pachimon\.tv
 [^/][^/]*niziero\.com.*
 [^/][^/]*sinajs\.cn
 [^/][^/]*monster-strike\.com
