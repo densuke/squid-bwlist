@@ -27,6 +27,8 @@ majikichi\.com
 [^/][^/]*4ch.*
 [^/][^/]*pso2.*
 [^/][^/]*pandora\.tv.*
+[^/][^/]*dka-hero\.com
+[^/][^/]*pachimon\.tv
 [^/][^/]*niziero\.com.*
 [^/][^/]*sinajs\.cn
 [^/][^/]*monster-strike\.com
