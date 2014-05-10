@@ -27,6 +27,7 @@ majikichi\.com
 [^/][^/]*4ch.*
 [^/][^/]*pso2.*
 [^/][^/]*pandora\.tv.*
+[^/][^/]*twitcasting\.tv
 [^/][^/]*eroantenna\.com
 [^/][^/]*dka-hero\.com
 [^/][^/]*pachimon\.tv
