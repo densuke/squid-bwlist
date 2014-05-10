@@ -28,6 +28,7 @@ majikichi\.com
 [^/][^/]*pso2.*
 [^/][^/]*pandora\.tv.*
 [^/][^/]*twitcasting\.tv
+[^/][^/]*ustream\.tv
 [^/][^/]*eroantenna\.com
 [^/][^/]*dka-hero\.com
 [^/][^/]*pachimon\.tv
