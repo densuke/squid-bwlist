@@ -37,6 +37,7 @@ majikichi\.com
 [^/][^/]*monster-strike\.com
 [^/][^/]*mogera\.jp
 [^/][^/]*do-mono\.jp
+[^/][^/]*4gamer\.net
 [^/][^/]*vimeo\.com
 \.twitch\.tv
 auctions\.c\.yimg\.jp
