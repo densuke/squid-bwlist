@@ -15,6 +15,7 @@ kancolle
 .*auctions\.search\.yahoo\.co\.jp
 \.nicovideo\.jp
 \.smilevideo\.jp
+[^/][^/]*nicoseiga\.jp
 \.youtube\.com
 \.googlevideo\.com
 \.xbox\.com
