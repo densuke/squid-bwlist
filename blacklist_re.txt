@@ -10,7 +10,7 @@
 .*\.dmmgames\.com
 itunes\.apple\.com
 .*\.gungho\.jp
-.*\.eagate\.575\.jp
+.*\.eagate\.573\.jp
 .*\.mbga\.jp
 kancolle
 .*auctions\.search\.yahoo\.co\.jp
