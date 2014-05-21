@@ -62,6 +62,7 @@ freegame\.on\.arena\.ne\.jp
 .*nefficient\.jp
 .*qq\.com
 .*say-move\.org
+.*komica\.org
 .*nosub\.tv
 .*b9dm\.com
 .*anitube\.se
