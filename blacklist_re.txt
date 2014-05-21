@@ -4,6 +4,8 @@
 .*\.dmm\.com
 .*\.dmm\.co\.jp
 .*360safe\.com
+mtg-jp\.com
+.*\.mtg-jp\.com
 .*\.lol2048\.com
 .*\.bakusai\.com
 .*\.hamelnovel\.com
