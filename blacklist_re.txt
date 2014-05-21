@@ -39,6 +39,7 @@ majikichi\.com
 [^/][^/]*eroantenna\.com
 [^/][^/]*dka-hero\.com
 [^/][^/]*pachimon\.tv
+pachimon\.tv
 [^/][^/]*niziero\.com.*
 [^/][^/]*sinajs\.cn
 [^/][^/]*monster-strike\.com
