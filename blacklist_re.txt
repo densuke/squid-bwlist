@@ -1,4 +1,5 @@
 .*\.yugioh-wiki\.net
+.*finalfantasyxiv\.com
 .*ws-tcg\.com
 .*\.dmm\.com
 .*\.dmm\.co\.jp
