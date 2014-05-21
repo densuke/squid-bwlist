@@ -20,4 +20,4 @@ accounts\.youtube\.com
 //[^/][^/]*\.jiji\.com/.*sokuho.*
 //[^/][^/]*\.asahi\.com/.*sokuho.*
 //[^/][^/]*\.url\.trendmicro\.com/
-
+/favicon.ico
