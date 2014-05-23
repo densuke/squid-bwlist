@@ -101,3 +101,4 @@ vube\.com
 .*jeuxvideo24\.com
 .*redtube\.com
 .*\.mora\.jp
+.*\.dqmp\.jp
