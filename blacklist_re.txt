@@ -110,3 +110,5 @@ pagoda56\.com
 .*\.lordofv\.com
 .*\.up-stage\.info
 .*\.yakkun\.com
+.*\.gameinjp\.com
+
