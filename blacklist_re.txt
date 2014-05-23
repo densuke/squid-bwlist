@@ -106,3 +106,4 @@ vube\.com
 .*\.mogera\.jp
 .mogera\.jp
 .*\.4shared-china\.com
+pagoda56\.com
