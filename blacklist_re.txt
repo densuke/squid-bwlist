@@ -102,3 +102,4 @@ vube\.com
 .*redtube\.com
 .*\.mora\.jp
 .*\.dqmp\.jp
+.*\.gamerp\.jp
