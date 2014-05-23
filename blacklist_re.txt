@@ -107,3 +107,5 @@ vube\.com
 .mogera\.jp
 .*\.4shared-china\.com
 pagoda56\.com
+.*\.lordofv\.com
+.*\.up-stage\.info
