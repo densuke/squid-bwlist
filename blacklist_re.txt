@@ -100,3 +100,4 @@ vube\.com
 .*ccpgamescdn\.com
 .*jeuxvideo24\.com
 .*redtube\.com
+.*\.mora\.jp
