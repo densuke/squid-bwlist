@@ -103,4 +103,6 @@ vube\.com
 .*\.mora\.jp
 .*\.dqmp\.jp
 .*\.gamerp\.jp
-.*\mogera\.jp
+.*\.mogera\.jp
+.mogera\.jp
+.*\.4shared-china\.com
