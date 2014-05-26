@@ -113,3 +113,4 @@ pagoda56\.com
 .*\.gameinjp\.com
 .*chat8181\.com
 .*chat8181\.jp
+.*\.stickershop\.line\.naver\.jp
