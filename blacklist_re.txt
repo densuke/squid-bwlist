@@ -111,4 +111,5 @@ pagoda56\.com
 .*\.up-stage\.info
 .*\.yakkun\.com
 .*\.gameinjp\.com
-
+.*chat8181\.com
+.*chat8181\.jp
