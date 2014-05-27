@@ -27,6 +27,8 @@ kancolle
 \.xbox\.com
 \.himado\.in
 majikichi\.com
+[^/][^/]*pachi.*
+[^/][^/]*slot.*
 [^/][^/]*soku.*
 [^/][^/]*2ch.*
 [^/][^/]*0ch.*
