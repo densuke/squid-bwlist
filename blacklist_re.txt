@@ -27,6 +27,13 @@ kancolle
 \.xbox\.com
 \.himado\.in
 majikichi\.com
+[^/][^/]*monhang\.com
+[^/][^/]*caribbeancom\.com
+[^/][^/]*worldoftanks.*
+[^/][^/]*kamikouryaku.*
+[^/][^/]*shitaraba.*
+[^/][^/]*2dbook.*
+[^/][^/]*damepo.*
 [^/][^/]*pachi.*
 [^/][^/]*slot.*
 [^/][^/]*soku.*
