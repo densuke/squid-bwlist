@@ -13,7 +13,7 @@ mtg-jp\.com
 .*\.mmoloda\.com
 .*\.mmoloda-.*\.com
 .*\.dmmgames\.com
-itunes\.apple\.com
+buy\.itunes\.apple\.com
 .*\.gungho\.jp
 .*\.eagate\.573\.jp
 .*\.mbga\.jp
