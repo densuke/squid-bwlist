@@ -29,6 +29,9 @@ kancolle
 majikichi\.com
 [^/][^/]*monhang\.com
 [^/][^/]*caribbeancom\.com
+[^/][^/]*pazudora.*\.com
+[^/][^/]*nishifukuma\.com
+[^/][^/]*butt3rs\.com
 [^/][^/]*worldoftanks.*
 [^/][^/]*kamikouryaku.*
 [^/][^/]*shitaraba.*
