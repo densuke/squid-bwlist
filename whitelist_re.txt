@@ -18,7 +18,7 @@ upp.itunes.apple.com
 //[^/][^/]*\.amazon\.co\.jp/
 //[^/][^/]*\mail\.yahoo\.co\.jp/
 //[^/][^/]*\.amazon\.com/
-img\.youtube.\.com
+img\.youtube\.com
 //[^/][^/]*\.jiji\.com/.*sokuho.*
 //[^/][^/]*\.asahi\.com/.*sokuho.*
 //[^/][^/]*\.url\.trendmicro\.com/
