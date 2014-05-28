@@ -23,4 +23,4 @@ img\.youtube\.com
 //[^/][^/]*\.asahi\.com/.*sokuho.*
 //[^/][^/]*\.url\.trendmicro\.com/
 /favicon.ico
-[&?]slot
+[&?]_?slot
