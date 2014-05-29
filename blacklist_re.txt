@@ -27,6 +27,7 @@ kancolle
 \.xbox\.com
 \.himado\.in
 majikichi\.com
+[^/][^/]*coj-agentlabo\.com
 [^/][^/]*monhang\.com
 [^/][^/]*caribbeancom\.com
 [^/][^/]*pazudora.*\.com
