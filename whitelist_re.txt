@@ -2,6 +2,7 @@ talk\.google\.com
 accounts\.youtube\.com
 init.itunes.apple.com
 upp.itunes.apple.com
+//[^/][^/]\.g\.doubleclick\.net/
 //[^/][^/]*\.ac\.jp/
 //[^/][^/]*\.ed\.jp/
 //[^/][^/]*\.go\.jp/
