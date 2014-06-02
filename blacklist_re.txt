@@ -5,6 +5,7 @@
 .*\.dmm\.co\.jp
 .*360safe\.com
 mtg-jp\.com
+.*\.cosp\.jp
 .*\.wizards\.com
 .*\.mtg-jp\.com
 .*\.lol2048\.com
