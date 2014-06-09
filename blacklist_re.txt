@@ -43,6 +43,7 @@ majikichi\.com
 [^/][^/]*slot.*/
 [^/][^/]*soku.*
 [^/][^/]*2ch.*
+[^/][^/]*warosu.*
 [^/][^/]*0ch.*
 [^/][^/]*elog-ch.*
 [^/][^/]*4ch.*
@@ -135,3 +136,15 @@ g-heaven\.net
 [^/][^/]*g-heaven\.net
 twin-angel\.com
 .*\.twin-angel\.com
+\.hulu\.jp
+\.hulu\.com
+\.huluim\.com
+jin115\.com
+karapaia
+free-video-movie
+gamekana
+gikotena
+100shiki
+kotaku
+labaq
+
