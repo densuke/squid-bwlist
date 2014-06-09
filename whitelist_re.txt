@@ -28,3 +28,5 @@ img\.youtube\.com
 //[^/][^/]*\.url\.trendmicro\.com/
 /favicon.ico
 \.amasvc\.com
+\.insynchq\.com
+\.dropbox\.com
