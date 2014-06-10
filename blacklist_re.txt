@@ -151,3 +151,4 @@ labaq
 \.wowgame\.jp
 \.fezero\.jp
 thegame\.jp
+gundam
