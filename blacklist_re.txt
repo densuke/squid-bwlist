@@ -149,3 +149,4 @@ kotaku
 labaq
 \.esuteru\.com
 \.wowgame\.jp
+\.fezero\.jp
