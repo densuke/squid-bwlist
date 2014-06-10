@@ -148,3 +148,4 @@ gikotena
 kotaku
 labaq
 \.esuteru\.com
+\.wowgame\.jp
