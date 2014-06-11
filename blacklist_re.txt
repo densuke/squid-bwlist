@@ -153,3 +153,4 @@ labaq
 thegame\.jp
 gundam
 travian\.jp
+beatmania
