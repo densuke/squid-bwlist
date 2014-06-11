@@ -154,3 +154,5 @@ thegame\.jp
 gundam
 travian\.jp
 beatmania
+\.paperman\.jp
+\.gamescampus\.co\.jp
