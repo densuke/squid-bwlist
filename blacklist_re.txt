@@ -156,3 +156,4 @@ travian\.jp
 beatmania
 \.paperman\.jp
 \.gamescampus\.co\.jp
+photobag\.in
