@@ -157,3 +157,4 @@ beatmania
 \.paperman\.jp
 \.gamescampus\.co\.jp
 photobag\.in
+comicimg\.comico\.jp
