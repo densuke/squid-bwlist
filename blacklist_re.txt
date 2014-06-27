@@ -158,3 +158,4 @@ beatmania
 \.gamescampus\.co\.jp
 photobag\.in
 comicimg\.comico\.jp
+\.atgames\.jp
