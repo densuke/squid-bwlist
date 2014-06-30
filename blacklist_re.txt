@@ -161,4 +161,5 @@ comicimg\.comico\.jp
 \.atgames\.jp
 \.bngames\.net
 \.gamemaps\.com
-
+\.shikihime-garden\.com
+\.dayztv\.com
