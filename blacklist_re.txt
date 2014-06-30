@@ -160,3 +160,5 @@ photobag\.in
 comicimg\.comico\.jp
 \.atgames\.jp
 \.bngames\.net
+\.gamemaps\.com
+
