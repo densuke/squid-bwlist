@@ -163,3 +163,8 @@ comicimg\.comico\.jp
 \.gamemaps\.com
 \.shikihime-garden\.com
 \.dayztv\.com
+uploader\.net
+freakshare\.com
+catshare\.org
+terafile\.co
+\.oboom\.com
