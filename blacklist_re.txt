@@ -168,3 +168,4 @@ freakshare\.com
 catshare\.org
 terafile\.co
 \.oboom\.com
+\.onepiece-tc\.jp
