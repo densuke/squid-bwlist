@@ -170,3 +170,4 @@ terafile\.co
 \.oboom\.com
 \.onepiece-tc\.jp
 \.pupu\.jp
+gamebanana\.com
