@@ -171,3 +171,6 @@ terafile\.co
 \.onepiece-tc\.jp
 \.pupu\.jp
 gamebanana\.com
+playtomic\.com
+\.playtomic\.com
+
