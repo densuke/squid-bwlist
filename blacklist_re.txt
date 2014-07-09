@@ -180,3 +180,5 @@ cho\.jpcommunity\.com
 \.game1wiki\.com
 gamerfree\.blog\.fc2\.com
 \.se-kirara\.jp
+.darksummoner\.jp
+darksummoner\.jp
