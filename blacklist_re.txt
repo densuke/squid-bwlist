@@ -182,3 +182,4 @@ gamerfree\.blog\.fc2\.com
 \.se-kirara\.jp
 .darksummoner\.jp
 darksummoner\.jp
+game-api\.ameba\.jp
