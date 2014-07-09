@@ -183,3 +183,7 @@ gamerfree\.blog\.fc2\.com
 .darksummoner\.jp
 darksummoner\.jp
 game-api\.ameba\.jp
+\.tricksterwiki\.info
+\.latale\.jp
+\.pangya\.jp
+
