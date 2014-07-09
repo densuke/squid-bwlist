@@ -173,4 +173,10 @@ terafile\.co
 gamebanana\.com
 playtomic\.com
 \.playtomic\.com
+chaosheroesonline
+cho\.swiki\.jp
+cho\.jpcommunity\.com
+\.j-cg\.com
+\.game1wiki\.com
+gamerfree\.blog\.fc2\.com
 
