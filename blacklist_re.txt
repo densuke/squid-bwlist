@@ -186,4 +186,5 @@ game-api\.ameba\.jp
 \.tricksterwiki\.info
 \.latale\.jp
 \.pangya\.jp
-media\.fc2\.com
+\.fc2\.com
+\.littlesolo\.com
