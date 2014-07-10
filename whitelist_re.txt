@@ -30,3 +30,4 @@ img\.youtube\.com
 \.amasvc\.com
 \.insynchq\.com
 \.dropbox\.com
+liveupdate\.symantecliveupdate\.com
