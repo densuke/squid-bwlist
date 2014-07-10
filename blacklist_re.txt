@@ -190,3 +190,4 @@ game-api\.ameba\.jp
 \.littlesolo\.com
 leagueoflegends\.com
 \.naver\.net
+donderhiroba\.jp
