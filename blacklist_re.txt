@@ -189,3 +189,4 @@ game-api\.ameba\.jp
 \.fc2\.com
 \.littlesolo\.com
 leagueoflegends\.com
+\.naver\.net
