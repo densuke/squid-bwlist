@@ -191,3 +191,4 @@ game-api\.ameba\.jp
 leagueoflegends\.com
 \.naver\.net
 donderhiroba\.jp
+\.onsen\.ag
