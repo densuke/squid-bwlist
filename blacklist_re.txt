@@ -188,3 +188,4 @@ game-api\.ameba\.jp
 \.pangya\.jp
 \.fc2\.com
 \.littlesolo\.com
+leagueoflegends\.com
