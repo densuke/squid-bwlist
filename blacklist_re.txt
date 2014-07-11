@@ -192,3 +192,12 @@ leagueoflegends\.com
 \.naver\.net
 donderhiroba\.jp
 \.onsen\.ag
+anicole\.net
+\.ryushare\.com
+ryushare\.com
+\.rapidgator\.net
+rapidgator\.net
+\.turbobit\.net
+turbobit\.net
+\.uploaded\.to
+uploaded\.to
