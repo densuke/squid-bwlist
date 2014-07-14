@@ -202,3 +202,5 @@ turbobit\.net
 \.uploaded\.to
 uploaded\.to
 \.daumcdn\.net
+kakuge-checker\.com
+
