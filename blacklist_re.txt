@@ -201,3 +201,4 @@ rapidgator\.net
 turbobit\.net
 \.uploaded\.to
 uploaded\.to
+\.daumcdn\.net
