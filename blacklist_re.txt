@@ -203,4 +203,4 @@ turbobit\.net
 uploaded\.to
 \.daumcdn\.net
 kakuge-checker\.com
-
+\.museru\.com
