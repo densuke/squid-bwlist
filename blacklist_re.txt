@@ -205,3 +205,4 @@ uploaded\.to
 kakuge-checker\.com
 \.museru\.com
 dka-hero\.com
+pso2\.swiki\.jp
