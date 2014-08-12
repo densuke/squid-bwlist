@@ -13,9 +13,11 @@ Squidでアクセスできなくしたほうが良いブラック&amp;ホワイ�
 
 特に難しくはしていません
 
-* `blacklist_re.txt`: ブラックリスト(主にホスト名向け)
-* `blackpath_re.txt`: ブラックリスト(パス部分)
-* `whitelist_re.txt`: ホワイトリスト
+* `blackhost.txt`: ホスト名ブラックリスト
+* `blacklist_re.txt`: 正規表現版ブラックリスト(〜速のような"soku"を含むものといったやつ向け)
+* `blackpath_re.txt`: 正規表現版ブラックリスト(パス部分)
+* `whitehost.txt`: ホスト名ホワイトリスト
+* `whitelist_re.txt`: 正規表現版ホワイトリスト
 
 その他、READMEなどがありますが、割愛します
 
