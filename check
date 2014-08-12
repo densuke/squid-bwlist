@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "checking VM status..."
+ST=$(vagrant status|grep virtualbox|awk '{print $2}')
+
+if [ "x$ST" = "xsaved" ]; then
+ echo "resuming VM"
+ vagrant resume
+ ST=$(vagrant status|grep virtualbox|awk '{print $2}')
+fi
+
+if [ ! "x$ST" = "xrunning" ]; then
+ echo "*** starting checker VM ***"
+ vagrant up
+ ST=$(vagrant status|grep virtualbox|awk '{print $2}')
+ if [ ! "x$ST" = "xrunning" ]; then
+  echo "unable to start VM, check environments"
+  exit 1
+ fi
+fi
+
+echo "--- check black/white list ---"
+echo '※ "no running copy"の出力は正常です'
+vagrant ssh -c "sudo squid3 -f /vagrant/check.conf -k check"
+
+vagrant suspend
