@@ -28,3 +28,4 @@
 .insynchq.com
 .dropbox.com
 .liveupdate.symantecliveupdate.com
+10.16.0.2
