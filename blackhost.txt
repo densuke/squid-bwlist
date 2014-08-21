@@ -163,3 +163,4 @@
 .yakkun.com
 .youtube.com
 .yugioh-wiki.net
+.thisisgame.com
