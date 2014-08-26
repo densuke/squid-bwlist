@@ -136,7 +136,6 @@
 .sinajs.cn
 .smilevideo.jp
 .srworld.net
-.stickershop.line.naver.jp
 .terafile.co
 .tgd.jp
 .thegame.jp
