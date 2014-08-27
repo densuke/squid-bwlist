@@ -1,11 +1,13 @@
 .4gamer.net
 .4shared-china.com
 .777town.net
+.9post.jp
 .anicole.net
 .anime44.com
 .anipo.jp
 .anitube.se
 .antennash.com
+.ask.fm
 .atgames.jp
 .auctions.c.yimg.jp
 .auctions.search.yahoo.co.jp
@@ -21,6 +23,7 @@
 .carview.co.jp
 .catshare.org
 .ccpgamescdn.com
+.chain-chronicle.net
 .chaosheroesonline
 .chat8181.com
 .chat8181.jp
