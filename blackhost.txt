@@ -110,6 +110,7 @@
 .museru.com
 .naver.net
 .ncfost.jp
+.ncsoft.jp
 .nefficient.jp
 .netkeiba.com
 .nicoseiga.jp
@@ -127,6 +128,7 @@
 .paperman.jp
 .photobag.in
 .playtomic.com
+.plaync.com
 .pong.com
 .pso2.jp
 .pso2.swiki.jp
