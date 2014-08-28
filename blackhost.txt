@@ -31,6 +31,7 @@
 .cho.swiki.jp
 .clip.vn
 .coj-agentlabo.com
+.com2us.com
 .comicimg.comico.jp
 .cosp.jp
 .dailymotion.com
