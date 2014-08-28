@@ -108,6 +108,7 @@
 .mtg-jp.com
 .museru.com
 .naver.net
+.ncfost.jp
 .nefficient.jp
 .netkeiba.com
 .nicoseiga.jp
