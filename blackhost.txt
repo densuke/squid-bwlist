@@ -172,3 +172,5 @@
 .youtube.com
 .yugioh-wiki.net
 .thisisgame.com
+.wav.tv
+
