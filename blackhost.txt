@@ -73,6 +73,7 @@
 .gunslinger-stratos.jp
 .hamelnovel.com
 .hangame.co.jp
+.hangame.com
 .himado.in
 .hulu.com
 .hulu.jp
