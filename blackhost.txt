@@ -98,6 +98,7 @@
 .loljp-wiki.tk
 .lolking.net
 .lordofv.com
+.maplestory.jp
 .majikichi.com
 .mbga.jp
 .mhf-g.jp
