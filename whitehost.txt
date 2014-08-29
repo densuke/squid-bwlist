@@ -8,6 +8,7 @@
 .go.jp
 .google.co.jp
 .google.com
+.jorudan.co.jp
 .windowsupdate.com
 .ws.microsoft.com
 .hotmail.com
