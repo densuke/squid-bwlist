@@ -174,4 +174,4 @@
 .yugioh-wiki.net
 .thisisgame.com
 .wav.tv
-
+.winvz.jp
