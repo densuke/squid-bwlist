@@ -32,4 +32,4 @@
 10.16.0.2
 error.fc2.com
 meta.wikimedia.org
-
+itpass.jp
