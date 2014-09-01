@@ -149,6 +149,7 @@
 .sinajs.cn
 .smilevideo.jp
 .sensns.com
+.speedtrace.co.jp
 .srworld.net
 .terafile.co
 .tgd.jp
