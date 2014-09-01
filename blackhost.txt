@@ -147,6 +147,7 @@
 .shinra-game.jp
 .sinajs.cn
 .smilevideo.jp
+.sensns.com
 .srworld.net
 .terafile.co
 .tgd.jp
