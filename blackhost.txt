@@ -157,6 +157,7 @@
 .spcdnpc.i-mobile.co.jp
 .speedtrace.co.jp
 .srworld.net
+.tpnav.com
 .terafile.co
 .tgd.jp
 .thegame.jp
