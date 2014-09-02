@@ -15,6 +15,7 @@
 .smartnews.be
 .rikunabi.com
 .mynavi.jp
+.wikimedia.org
 .wikipedia.org
 .live.jp
 .amazon.co.jp
@@ -31,5 +32,4 @@
 .liveupdate.symantecliveupdate.com
 10.16.0.2
 error.fc2.com
-meta.wikimedia.org
 itpass.jp
