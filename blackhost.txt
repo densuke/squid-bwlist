@@ -158,6 +158,7 @@
 .spcdnpc.i-mobile.co.jp
 .speedtrace.co.jp
 .srworld.net
+.steamcommunity.com
 .tpnav.com
 .terafile.co
 .tgd.jp
