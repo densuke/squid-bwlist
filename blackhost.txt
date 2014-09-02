@@ -61,6 +61,7 @@
 .freegame.on.arena.ne.jp
 .getgold.jp
 .g-heaven.net
+.game4broke.sakura.ne.jp
 .game-api.ameba.jp
 .game1wiki.com
 .gamebanana.com
