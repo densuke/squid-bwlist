@@ -118,6 +118,7 @@
 .money-life.doorblog.jp
 .monhang.com
 .monster-strike.com
+.monst-research.com
 .mora.jp
 .mtg-jp.com
 .museru.com
