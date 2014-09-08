@@ -110,6 +110,8 @@
 .mbga.jp
 .mhf-g.jp
 .min-fx.jp
+.download.minecraft.net
+.download.minecraft.com
 .mmoloda.com
 .mogera.jp
 .money-life.doorblog.jp
