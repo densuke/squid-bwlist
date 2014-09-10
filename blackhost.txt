@@ -102,6 +102,7 @@
 .linegame.com
 .linegames.com
 .littlesolo.com
+.loljp-mirror.tk
 .lol2048.com
 .loljp-wiki.tk
 .lolking.net
