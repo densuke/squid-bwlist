@@ -196,6 +196,7 @@
 .yakkun.com
 .youtube.com
 .yugioh-wiki.net
+.yuyu-tei.jp
 .thisisgame.com
 .wav.tv
 .winvz.jp
