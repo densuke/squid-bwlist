@@ -27,3 +27,4 @@ soku
 urasunday
 warosu
 worldoftanks
+//torrent
