@@ -16,4 +16,4 @@ pazzledra
 pudz\.
 /\~r/redtube/videos
 /jyoushiki
-
+/wows_a/na/patches_
