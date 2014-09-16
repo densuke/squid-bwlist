@@ -172,6 +172,7 @@
 .speedtrace.co.jp
 .srworld.net
 .steamcommunity.com
+.steamstatic.com
 .syanago.com
 .tpnav.com
 .terafile.co
