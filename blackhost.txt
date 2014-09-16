@@ -95,6 +95,7 @@
 .kakuge-checker.com
 .klabgames.net
 .komica.org
+.kroko.jp
 .latale.jp
 .leagueoflegends.com
 .letv.com
