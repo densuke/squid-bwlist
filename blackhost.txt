@@ -140,6 +140,7 @@
 .oboom.com
 .onepiece-tc.jp
 .onsen.ag
+.oroti.net
 .ppy.sh
 .otatama.net
 .pachimon.tv
