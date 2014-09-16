@@ -116,6 +116,7 @@
 .download.minecraft.net
 .download.minecraft.com
 .mmoloda.com
+.mobafire.com
 .mogera.jp
 .money-life.doorblog.jp
 .monhang.com
