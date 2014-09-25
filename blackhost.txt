@@ -206,3 +206,9 @@
 .thisisgame.com
 .wav.tv
 .winvz.jp
+.faststore.org
+.bitshare.com
+.freakshare.com
+.rapidgator.net
+.uploaded.net
+.uploadable.ch
