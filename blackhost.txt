@@ -137,6 +137,7 @@
 .ncsoft.jp
 .nefficient.jp
 .netkeiba.com
+.newsch.info
 .nicoseiga.jp
 .nicovideo.jp
 .nishifukuma.com
