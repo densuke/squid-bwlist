@@ -211,4 +211,5 @@
 .yakkun.com
 .youtube.com
 .yugioh-wiki.net
+.yugioh-list.com
 .yuyu-tei.jp
