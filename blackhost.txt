@@ -103,6 +103,7 @@
 .klabgames.net
 .komica.org
 .kroko.jp
+.native.hekk.org
 .latale.jp
 .leagueoflegends.com
 .letv.com
