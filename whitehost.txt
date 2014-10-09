@@ -2,6 +2,7 @@
 .init.itunes.apple.com
 .upp.itunes.apple.com
 #.googleads.g.doubleclick.net
+.amazon-adsystem.com
 .g.doubleclick.net
 .ac.jp
 .ed.jp
@@ -34,3 +35,4 @@
 10.16.0.2
 error.fc2.com
 itpass.jp
+thumbnail.image.rakuten.co.jp
