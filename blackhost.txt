@@ -106,6 +106,7 @@
 .fast2ch.dip.jp
 .faststore.org
 .fc2.com
+.fc2web.com
 .fezero.jp
 .figsoku.net
 .finalfantasyxiv.com
