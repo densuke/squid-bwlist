@@ -28,6 +28,7 @@
 .agag.tw
 .akb2ch.com
 .akb48rompen.com
+.alfalfalfa.com
 .amebagames.com
 .anicole.net
 .anige-sokuhou.ldblog.jp
@@ -54,10 +55,10 @@
 .bilibili.tv
 .bitshare.com
 .blog-news.doorblog.jp
-.blog.livedoor.jp
 .bngames.net
 .boon.s349.xrea.com
 .bouyomi.jp
+.brow2ing.doorblog.jp
 .butt3rs.com
 .buy.itunes.apple.com
 .cafe-capy.net
@@ -117,6 +118,7 @@
 .funger-antena.info
 .g-heaven.net
 .gadgetlife2ch.blomaga.jp
+.gahalog.2chblog.jp
 .gakkushi.com
 .game-api.ameba.jp
 .game1wiki.com
@@ -144,6 +146,7 @@
 .gurugurulog.com
 .gurumi-ch.com
 .hamelnovel.com
+.hamusoku.com
 .hangame.co.jp
 .hangame.com
 .hatebu-1000users-over.com
@@ -174,6 +177,7 @@
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
 .kancolle.doorblog.jp
+.karapaia.livedoor.biz
 .katsumoku.net
 .katuru.com
 .kijyomatome.com
@@ -182,9 +186,11 @@
 .kizyo.net
 .klabgames.net
 .komica.org
+.kotaro269.com
 .kroko.jp
 .kyousoku.net
 .kyuukaiou.ldblog.jp
+.labaq.com
 .labo.tv
 .latale.jp
 .leagueoflegends.com
