@@ -34,3 +34,4 @@
 10.16.0.2
 error.fc2.com
 itpass.jp
+thumbnail.image.rakuten.co.jp
