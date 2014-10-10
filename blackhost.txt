@@ -124,6 +124,7 @@
 .game1wiki.com
 .game4broke.sakura.ne.jp
 .gamebanana.com
+.gamefeat.net
 .gameinjp.com
 .gamemaps.com
 .gamenetall.web.fc2.com
@@ -258,6 +259,7 @@
 .news-choice.net
 .newsch.info
 .newspickup.com
+.nexon.co.jp
 .ngnews.me
 .nicomato.com
 .nicoseiga.jp
@@ -292,6 +294,7 @@
 .pokesen.com
 .pong.com
 .ppy.sh
+.project-diva-ac.net
 .pso2.jp
 .pso2.swiki.jp
 .pupu.jp
