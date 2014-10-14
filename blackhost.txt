@@ -48,7 +48,6 @@
 .asianews2ch.jp
 .ask.fm
 .atgames.jp
-.auctions.c.yimg.jp
 .auctions.search.yahoo.co.jp
 .b.hatena.ne.jp
 .b9dm.com
