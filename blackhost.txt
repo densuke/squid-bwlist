@@ -28,6 +28,7 @@
 .aceonline.arario.jp/
 .agag.tw
 .akb2ch.com
+.akb48matomemory.com
 .akb48rompen.com
 .alfalfalfa.com
 .amebagames.com
@@ -44,6 +45,7 @@
 .applean.info
 .aramame.doorblog.jp
 .arithgame.jp
+.asianews2ch.jp
 .ask.fm
 .atgames.jp
 .auctions.c.yimg.jp
@@ -53,6 +55,7 @@
 .baito.mynavi.jp
 .bakattan.com
 .bakusai.com
+.beelzeboulxxx.com
 .bilibili.tv
 .bitshare.com
 .blog-news.doorblog.jp
@@ -82,6 +85,7 @@
 .comicimg.comico.jp
 .cosp.jp
 .dailymotion.com
+.damage0.blomaga.jp
 .darksummoner.jp
 .daumcdn.net
 .dayztv.com
@@ -150,6 +154,7 @@
 .gurumi-ch.com
 .hamelnovel.com
 .hamusoku.com
+.hanalog.com
 .hangame.co.jp
 .hangame.com
 .hatebu-1000users-over.com
@@ -158,13 +163,17 @@
 .hijikisokuhou.doorblog.jp
 .himado.in
 .himarin.net
+.himasoku.com
+.hosyusokuhou.jp
 .hulu.com
 .hulu.jp
 .huluim.com
 .huntersokuho.com
 .iii.main.jp
 .ikeike2ch.jp
+.ikumamasokuhou.com
 .imas-cg.net
+.inazumanews2.com
 .itibusizyuu.jp
 .iwashi.biz
 .j-cg.com
@@ -174,6 +183,7 @@
 .jinkutsu.net
 .joysound.com
 .jpddl.com
+.jumpmatome2ch.blog.fc2.com
 .jumpsokuhou.com
 .jyouhouya3.net
 .kabooo.net
@@ -186,6 +196,7 @@
 .kijyomatome.com
 .kikonboti.com
 .kisslog2.com
+.kitimama-matome.net
 .kizyo.net
 .klabgames.net
 .komica.org
@@ -273,16 +284,19 @@
 .nicovideo.jp
 .nishifukuma.com
 .niziero.com
+.nomusoku.blomaga.jp
 .nosub.tv
 .nukistream.com
 .nullpoantenna.com
 .nyaasoku.com
 .nyan.eggtree.net
+.nyankobiyori.com
 .oboom.com
 .oletower.com
 .onecall2ch.com
 .onepiece-tc.jp
 .onesoku.com
+.oniyomech.livedoor.biz
 .onsen.ag
 .oroti.net
 .otanew.jp
@@ -310,9 +324,11 @@
 .rapidgator.net
 .redtube.com
 .repsoku.net
+.ronsoku.com
 .rotco.jp
 .rss.harikonotora.net
 .ryushare.com
+.samuraigoal.doorblog.jp
 .say-move.org
 .se-kirara.jp
 .seikatuch.com
