@@ -1,3 +1,4 @@
+.urls.api.twitter.com
 .b.hatena.ne.jp
 .accounts.youtube.com
 .init.itunes.apple.com
