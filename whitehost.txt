@@ -39,3 +39,4 @@ error.fc2.com
 itpass.jp
 thumbnail.image.rakuten.co.jp
 ssp.advg.jp
+.adnxs.com
