@@ -3,6 +3,7 @@
 .2blo.net
 .2ch-2.net
 .2ch-a.net
+.2ch-antenna.com
 .2ch-c.net
 .2ch-k.net
 .2ch-m.info
@@ -117,6 +118,7 @@
 .freegame.on.arena.ne.jp
 .funger-antena.info
 .g-heaven.net
+.ga-t.net
 .gadgetlife2ch.blomaga.jp
 .gahalog.2chblog.jp
 .gakkushi.com
@@ -241,9 +243,11 @@
 .mora.jp
 .morikinoko.com
 .moudamepo.com
+.mt-antenna.info
 .mtg-jp.com
 .museru.com
 .mylostgames.com
+.nantoka-antenna.com
 .native.hekk.org
 .naver.net
 .naverland.naver.jp
@@ -254,6 +258,7 @@
 .nekomemo.com
 .netkeiba.com
 .netsaru.jp
+.newblo7.net
 .newmofu.doorblog.jp
 .newpuru.doorblog.jp
 .news-choice.net
@@ -301,6 +306,7 @@
 .qoo-app.com
 .qq.com
 .r30r30r30.antenam.info
+.railgun-antenna.info
 .rapidgator.net
 .redtube.com
 .repsoku.net
