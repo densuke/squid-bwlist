@@ -17,3 +17,6 @@ pudz\.
 /\~r/redtube/videos
 /jyoushiki
 /wows_a/na/patches_
+/suguyaru_matome
+/toku_soku
+
