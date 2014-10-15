@@ -52,6 +52,7 @@
 .ask.fm
 .atgames.jp
 .auctions.search.yahoo.co.jp
+.averonew.com
 .b.hatena.ne.jp
 .b9dm.com
 .bagemato.blog.jp
@@ -124,7 +125,17 @@
 .eagate.573.jp
 .emu-russia.net
 .eriones.com
+.ero-anime.jp
+.ero-video.net
 .eroantenna.com
+.eroeroga.com
+.erogal.biz
+.erogazoufactory.com
+.eromanga.jp
+.erop.jp
+.eropeg.net
+.erosy.info
+.erotika.jp
 .escape-game.com
 .esuteru.com
 .exawarosu.net
@@ -159,7 +170,6 @@
 .gameon.jp
 .gamerfree.blog.fc2.com
 .gamerp.jp
-.ero-video.net
 .gamescampus.co.jp
 .gamez.jp
 .gendama.jp
@@ -185,6 +195,7 @@
 .hatebu-1000users-over.com
 .hatenanotebook.com
 .hemine.co
+.heroesandgenerals.com
 .hijikisokuhou.doorblog.jp
 .himado.in
 .himarin.net
@@ -369,6 +380,7 @@
 .pazumato.com
 .pazupura.com
 .photobag.in
+.pinkerodougasex.com
 .plaync.com
 .playtomic.com
 .pokesen.com
@@ -508,3 +520,4 @@
 .yugioh-list.com
 .yugioh-wiki.net
 .yuyu-tei.jp
+.zerochan.net
