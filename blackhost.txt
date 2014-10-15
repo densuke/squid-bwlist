@@ -413,3 +413,5 @@
 .yugioh-list.com
 .yugioh-wiki.net
 .yuyu-tei.jp
+.game.ever.jp
+
