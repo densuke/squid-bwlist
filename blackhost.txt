@@ -13,6 +13,7 @@
 .2ch.anything-navi.net
 .2ch.kijishima.com
 .2ch.logpo.jp
+.2ch.sc
 .2channel.antenam.info
 .2chblog.jp
 .2chfinder.com
