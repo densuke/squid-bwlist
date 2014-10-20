@@ -521,3 +521,4 @@
 .yugioh-wiki.net
 .yuyu-tei.jp
 .zerochan.net
+.pathofexile.com
