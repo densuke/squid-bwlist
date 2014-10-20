@@ -522,3 +522,5 @@
 .yuyu-tei.jp
 .zerochan.net
 .pathofexile.com
+.gamejolt.com
+.monst.appbank.net
