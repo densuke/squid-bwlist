@@ -524,3 +524,4 @@
 .pathofexile.com
 .gamejolt.com
 .monst.appbank.net
+.gb-wiki.net
