@@ -260,6 +260,7 @@
 .littlesolo.com
 .livejupiter.net
 .lol2048.com
+.lol-museum.net
 .loljp-mirror.tk
 .loljp-wiki.tk
 .lolking.net
