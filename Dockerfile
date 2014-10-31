@@ -1,4 +1,4 @@
-FROM densuke/trusty-jp
+FROM densuke/ubuntu-jp-remix:trusty
 
 RUN apt-get update && apt-get -y install squid3 && initctl stop squid3
 RUN sed -e 's;^start on runlevel;# start on runlevel;' \
