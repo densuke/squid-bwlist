@@ -253,7 +253,9 @@
 .leagueoflegends.com
 .letv.com
 .lhrpg.org
+.linegame.jp
 .linegame.com
+.linegames.jp
 .linegames.com
 .littlesolo.com
 .livejupiter.net
