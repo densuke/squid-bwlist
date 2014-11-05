@@ -96,6 +96,7 @@
 .coj-agentlabo.com
 .com2us.com
 .comicimg.comico.jp
+.cosmicbreak.jp
 .cosp.jp
 .dailymotion.com
 .damage0.blomaga.jp
@@ -166,6 +167,7 @@
 .gamebanana.com
 .gamefeat.net
 .gameinjp.com
+.gamejolt.com
 .gamemaps.com
 .gamenetall.web.fc2.com
 .gameon.jp
@@ -173,6 +175,7 @@
 .gamerp.jp
 .gamescampus.co.jp
 .gamez.jp
+.gb-wiki.net
 .gendama.jp
 .get2ch.net
 .getgold.jp
@@ -240,6 +243,7 @@
 .kizyo.net
 .klabgames.net
 .komica.org
+.konaminet.jp
 .kotaro269.com
 .kroko.jp
 .kuroneko-wiz9675.net
@@ -253,14 +257,14 @@
 .leagueoflegends.com
 .letv.com
 .lhrpg.org
-.linegame.jp
 .linegame.com
-.linegames.jp
+.linegame.jp
 .linegames.com
+.linegames.jp
 .littlesolo.com
 .livejupiter.net
-.lol2048.com
 .lol-museum.net
+.lol2048.com
 .loljp-mirror.tk
 .loljp-wiki.tk
 .lolking.net
@@ -290,9 +294,10 @@
 .matomeru2ch.com
 .mbga.jp
 .mbmato.doorblog.jp
-.mhf-g.jp
 .mh4g.org
+.mhf-g.jp
 .military38.com
+.million-arthurs.com
 .min-fx.jp
 .minna-antenna.com
 .mmoloda.com
@@ -307,6 +312,7 @@
 .mons.doorblog.jp
 .monsoku.info
 .monst-research.com
+.monst.appbank.net
 .monster-strike.com
 .monsterstrikekouryaku.com
 .monstop-matome.com
@@ -377,6 +383,7 @@
 .pandora.tv
 .pangya.jp
 .paperman.jp
+.pathofexile.com
 .pazdra.blog.jp
 .pazudora-ken.com
 .pazudoracyanman.net
@@ -526,7 +533,3 @@
 .yugioh-wiki.net
 .yuyu-tei.jp
 .zerochan.net
-.pathofexile.com
-.gamejolt.com
-.monst.appbank.net
-.gb-wiki.net
