@@ -104,6 +104,9 @@
 .comicimg.comico.jp
 .cosmicbreak.jp
 .cosp.jp
+.cylab.jp
+.cyzo.co.jp
+.cyzowoman.com
 .dailymotion.com
 .damage0.blomaga.jp
 .darksummoner.jp
@@ -319,6 +322,8 @@
 .mbga.jp
 .mbmato.doorblog.jp
 .media-shelf.net
+.menscyzo.com
+.mess-y.com
 .mh4g.org
 .mhf-g.jp
 .military38.com
@@ -407,6 +412,7 @@
 .orewiz.mobi
 .oroti.net
 .otanew.jp
+.otapol.jp
 .otatama.net
 .otonarisoku.com
 .owata-net.com
@@ -433,6 +439,7 @@
 .pokesen.com
 .pong.com
 .ppy.sh
+.premiumcyzo.com
 .project-diva-ac.net
 .pso2.jp
 .pso2.swiki.jp
@@ -458,6 +465,7 @@
 .samuraigoal.doorblog.jp
 .say-move.org
 .sdgfro.blog.jp
+.sdvx.info
 .se-kirara.jp
 .seikatuch.com
 .semimaru.s47.xrea.com
@@ -503,6 +511,7 @@
 .theatn.net
 .thegame.jp
 .thisisgame.com
+.tocana.jp
 .tokkaban.com
 .touaseikei.matomesakura.com
 .tpnav.com
@@ -577,4 +586,3 @@
 .yugioh-wiki.net
 .yuyu-tei.jp
 .zerochan.net
-.sdvx.info
