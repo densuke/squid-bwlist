@@ -588,3 +588,4 @@
 .yuyu-tei.jp
 .zerochan.net
 .gaym.jp
+.game-kids.net
