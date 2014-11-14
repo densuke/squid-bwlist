@@ -589,3 +589,8 @@
 .zerochan.net
 .gaym.jp
 .game-kids.net
+.teamys.net
+.amiami.jp
+.baidu.com
+.dmmgameswiki.com
+
