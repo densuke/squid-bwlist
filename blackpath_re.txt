@@ -19,4 +19,4 @@ pudz\.
 /wows_a/na/patches_
 /suguyaru_matome
 /toku_soku
-
+/.*DodontoFServer.rb
