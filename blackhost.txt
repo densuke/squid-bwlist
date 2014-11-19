@@ -596,3 +596,5 @@
 .talewiki.com
 .getchu.com
 .commseed.jp
+.jojoss.jp
+
