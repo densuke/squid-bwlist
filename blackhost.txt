@@ -593,4 +593,6 @@
 .amiami.jp
 .baidu.com
 .dmmgameswiki.com
-
+.talewiki.com
+.getchu.com
+.commseed.jp
