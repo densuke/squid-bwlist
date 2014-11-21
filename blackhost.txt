@@ -598,3 +598,5 @@
 .commseed.jp
 .jojoss.jp
 .bestelevenplus.jp
+.moto-neta.com
+.narutoapp.jp
