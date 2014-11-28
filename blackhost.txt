@@ -600,3 +600,8 @@
 .bestelevenplus.jp
 .moto-neta.com
 .narutoapp.jp
+.anime-sharing.com
+.syosetu.org
+.simplemeet.me
+.amfys.net
+
