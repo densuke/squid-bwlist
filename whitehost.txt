@@ -40,3 +40,4 @@ itpass.jp
 thumbnail.image.rakuten.co.jp
 ssp.advg.jp
 .adnxs.com
+git.amfys.net
