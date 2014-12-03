@@ -1,4 +1,3 @@
-
 .0matome.com
 .1000mg.jp
 .120.hp2.jp
@@ -616,3 +615,7 @@
 .yugioh-wiki.net
 .yuyu-tei.jp
 .zerochan.net
+.2chspa.com
+.game-news.biz
+.top55.net
+
