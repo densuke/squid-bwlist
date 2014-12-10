@@ -636,5 +636,4 @@
 .eroga-station.com
 .mmo-logres.com
 .kingdomhearts.jp
-.coj-agentlabo.com
 
