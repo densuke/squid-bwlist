@@ -634,3 +634,4 @@
 .pokecheck.org
 .2ch-neonews.com
 .eroga-station.com
+.mmo-logres.com
