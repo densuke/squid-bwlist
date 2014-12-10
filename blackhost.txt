@@ -630,3 +630,4 @@
 .gamecopyworld.com
 .yugioh-card.com
 .virtuagirlhd.com
+.pokecheck.org
