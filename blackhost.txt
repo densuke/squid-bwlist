@@ -136,8 +136,8 @@
 .do-mono.jp
 .donderhiroba.jp
 .dorapon.info
-.download.minecraft.com
-.download.minecraft.net
+.minecraft.com
+.minecraft.net
 .dpface.info
 .dqmp.jp
 .dqmsl.co
@@ -181,7 +181,6 @@
 .gadgetlife2ch.blomaga.jp
 .gahalog.2chblog.jp
 .gakkushi.com
-.game-api.ameba.jp
 .game-kids.net
 .game.ever.jp
 .game1wiki.com
@@ -621,4 +620,10 @@
 .game4broke.sakura.ne.jp
 .gamecity.ne.jp
 .ggame.jp
+.mojang.com
+.ameba.jp
+.amebame.com
+.xn--28j3f296j4hlf7s.biz
+.xn--cck1b8b8bd5hj6ft354dk17a.com
+.xn--sckyeodz36l941b.jp
 
