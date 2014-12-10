@@ -185,7 +185,6 @@
 .game-kids.net
 .game.ever.jp
 .game1wiki.com
-.game4broke.sakura.ne.jp
 .gamebanana.com
 .gamefeat.net
 .gameinjp.com
