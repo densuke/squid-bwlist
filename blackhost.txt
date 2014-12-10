@@ -222,6 +222,7 @@
 .hangame.co.jp
 .hangame.com
 .hatebu-1000users-over.com
+.100shiki.com
 .hatenanotebook.com
 .hemine.co
 .heroesandgenerals.com
@@ -631,3 +632,5 @@
 .yugioh-card.com
 .virtuagirlhd.com
 .pokecheck.org
+.2ch-neonews.com
+.eroga-station.com
