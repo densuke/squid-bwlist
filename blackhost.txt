@@ -65,6 +65,7 @@
 .b9dm.com
 .bagemato.blog.jp
 .baidu.com
+.baidu.jp
 .baito.mynavi.jp
 .bakankoku.com
 .bakattan.com
