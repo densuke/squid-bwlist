@@ -75,7 +75,6 @@
 .bestelevenplus.jp
 .besttrendnews.net
 .bfmatometto.info
-.bilibili.tv
 .bipblog.com
 .bitshare.com
 .blog-news.doorblog.jp
@@ -291,7 +290,6 @@
 .kyousoku.net
 .kyuukaiou.ldblog.jp
 .labaq.com
-.labo.tv
 .latale.jp
 .leagueoflegends.com
 .letv.com
@@ -414,7 +412,6 @@
 .nishifukuma.com
 .niziero.com
 .nomusoku.blomaga.jp
-.nosub.tv
 .nukistream.com
 .nullpoantenna.com
 .nyaasoku.com
@@ -436,11 +433,9 @@
 .otatama.net
 .otonarisoku.com
 .owata-net.com
-.pachimon.tv
 .pad-plus.com
 .pad.atenasoku.com
 .pagoda56.com
-.pandora.tv
 .pangya.jp
 .paperman.jp
 .parts.blog.livedoor.jp
@@ -551,16 +546,12 @@
 .turbobit.net
 .turusokuhou.com
 .twin-angel.com
-.twitcasting.tv
-.twitch.tv
 .u1sokuhou.ldblog.jp
 .uhouho2ch.com
 .up-stage.info
-.uploadable.ch
 .uploaded.net
 .uploaded.to
 .uploader.net
-.ustream.tv
 .vid-dl.net
 .video.sina.com.cn
 .vimeo.com
@@ -570,7 +561,6 @@
 .vube.com
 .wara2ch.com
 .watch2chan.com
-.wav.tv
 .webnew.net
 .winvz.jp
 .wizards.com
