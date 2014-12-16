@@ -644,4 +644,5 @@
 .x-legend.co.jp
 .cybergadget.co.jp
 .yjsnpi.nu
+.applibot.co.jp
 
