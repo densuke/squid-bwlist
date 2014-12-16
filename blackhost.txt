@@ -642,3 +642,4 @@
 .mh-m.jp
 .gu3.jp
 .x-legend.co.jp
+.cybergadget.co.jp
