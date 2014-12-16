@@ -638,3 +638,4 @@
 .p-world.co.jp
 .tv
 .ch
+.ponos.co.jp
