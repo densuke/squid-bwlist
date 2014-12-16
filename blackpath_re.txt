@@ -20,3 +20,4 @@ pudz\.
 /suguyaru_matome
 /toku_soku
 /.*DodontoFServer.rb
+/minecraft
