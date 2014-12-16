@@ -29,3 +29,4 @@ warosu
 worldoftanks
 //torrent
 /CyBreaker
+//xn--
