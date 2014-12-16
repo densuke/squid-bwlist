@@ -646,3 +646,5 @@
 .yjsnpi.nu
 .applibot.co.jp
 .p-world.co.jp
+.tv
+.ch
