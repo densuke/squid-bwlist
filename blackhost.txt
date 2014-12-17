@@ -640,3 +640,4 @@
 .ch
 .ponos.co.jp
 .wonderpla.net
+.gamerch.com
