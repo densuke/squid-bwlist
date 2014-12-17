@@ -646,3 +646,4 @@
 .o0o0.jp
 .dixq.net
 .play-app.net
+.getuploader.com
