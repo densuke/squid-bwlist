@@ -642,3 +642,4 @@
 .wonderpla.net
 .gamerch.com
 .inside-games.jp
+.line-apps.com
