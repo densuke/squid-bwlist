@@ -639,3 +639,4 @@
 .tv
 .ch
 .ponos.co.jp
+.wonderpla.net
