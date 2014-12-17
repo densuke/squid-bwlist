@@ -641,3 +641,4 @@
 .ponos.co.jp
 .wonderpla.net
 .gamerch.com
+.inside-games.jp
