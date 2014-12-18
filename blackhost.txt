@@ -647,3 +647,4 @@
 .dixq.net
 .play-app.net
 .getuploader.com
+.wemade.jp
