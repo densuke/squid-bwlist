@@ -664,3 +664,6 @@
 .jscape.jp
 .h-ken.net
 .comico.jp
+.puzu.biz
+.pazu.biz
+
