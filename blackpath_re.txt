@@ -21,3 +21,4 @@ pudz\.
 /toku_soku
 /.*DodontoFServer.rb
 /minecraft
+/xvdchl.com
