@@ -111,7 +111,6 @@
 .coj-agentlabo.com
 .college2ch.blomaga.jp
 .com2us.com
-.comicimg.comico.jp
 .commseed.jp
 .cosmicbreak.jp
 .cosp.jp
@@ -664,3 +663,4 @@
 .lukemcg.com
 .jscape.jp
 .h-ken.net
+.comico.jp
