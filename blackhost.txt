@@ -668,3 +668,4 @@
 .pazu.biz
 .xboxlive.com
 .tokyoloader.com
+.sega-net.com
