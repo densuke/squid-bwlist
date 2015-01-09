@@ -209,6 +209,7 @@
 .gogoanime.com
 .goo-net.com
 .googlevideo.com
+.googlevideo.com:443
 .gossip1.net
 .gundamseries.doorblog.jp
 .gungho.jp
