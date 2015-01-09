@@ -668,3 +668,4 @@
 .pazu.biz
 .lglime.com
 .xboxlive.com
+.tokyoloader.com
