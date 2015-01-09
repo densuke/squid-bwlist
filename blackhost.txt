@@ -669,3 +669,4 @@
 .lglime.com
 .xboxlive.com
 .tokyoloader.com
+.sega-net.com
