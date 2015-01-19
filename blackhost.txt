@@ -672,3 +672,6 @@
 .tokyoloader.com
 .sega-net.com
 .wot-news.com
+.moeerolibrary.com
+.eroanimedouga.net
+
