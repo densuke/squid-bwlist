@@ -335,6 +335,7 @@
 .latale.jp
 .leagueoflegends.com
 .letv.com
+.lglime.com
 .lhrpg.org
 .line-apps.com
 .line.me
