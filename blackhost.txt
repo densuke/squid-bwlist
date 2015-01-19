@@ -71,6 +71,7 @@
 .ask.fm
 .atgames.jp
 .auctions.search.yahoo.co.jp
+.averodogazo.com
 .averonew.com
 .avtv-movie.com
 .b.hatena.ne.jp
@@ -152,6 +153,7 @@
 .dmmgameswiki.com
 .do-mono.jp
 .dogazofree.com
+.dokoda.jp
 .donderhiroba.jp
 .dorapon.info
 .dpface.info
@@ -281,6 +283,7 @@
 .imas-cg.net
 .immoral.jp
 .inazumanews2.com
+.infopot.jp
 .injulog.com
 .inside-games.jp
 .itibusizyuu.jp
@@ -300,6 +303,7 @@
 .jscape.jp
 .jumpmatome2ch.blog.fc2.com
 .jumpsokuhou.com
+.jword.jp
 .jyouhouya3.net
 .kabooo.net
 .kakuge-checker.com
@@ -321,6 +325,7 @@
 .klabgames.net
 .komica.org
 .konaminet.jp
+.konomoe.at.webry.info
 .kotaro269.com
 .kroko.jp
 .kuromacyo.livedoor.biz
@@ -546,9 +551,11 @@
 .rotco.jp
 .rottengirl.net
 .rpgmaker.net
+.rss-rank.com
 .rss.harikonotora.net
 .ryushare.com
 .saiani.net
+.saisin-news.com
 .samuraigoal.doorblog.jp
 .say-move.org
 .sdgfro.blog.jp
@@ -571,6 +578,7 @@
 .shironekoproject-news.com
 .shironekoproject.jp
 .shironekosokuhou.blog.jp
+.shiroutmove.com
 .simplemeet.me
 .sinajs.cn
 .sironekokouryaku.com
@@ -604,9 +612,11 @@
 .terafile.co
 .tgd.jp
 .the-3rd.net
+.the100yengamer.com
 .theatn.net
 .thegame.jp
 .thisisgame.com
+.tidaltv.com
 .tocana.jp
 .tokimeki-s.com
 .tokkaban.com
@@ -628,6 +638,7 @@
 .u1sokuhou.ldblog.jp
 .uhouho2ch.com
 .up-stage.info
+.updatepm.com
 .uploaded.net
 .uploaded.to
 .uploader.net
@@ -637,6 +648,7 @@
 .video.sina.com.cn
 .vimeo.com
 .vimeocdn.com
+.vipelog.com
 .vipick.net
 .vipper2ch.doorblog.jp
 .virtuagirlhd.com
