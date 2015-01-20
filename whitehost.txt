@@ -42,3 +42,4 @@ ssp.advg.jp
 .adnxs.com
 git.amfys.net
 .arukikata.co.jp
+.windows.com
