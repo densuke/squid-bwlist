@@ -46,3 +46,5 @@ git.amfys.net
 .windows.com
 .googleusercontent.com
 .avast.com
+.teamviewer.com
+
