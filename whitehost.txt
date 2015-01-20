@@ -45,3 +45,4 @@ git.amfys.net
 .arukikata.co.jp
 .windows.com
 .googleusercontent.com
+.avast.com
