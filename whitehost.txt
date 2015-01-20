@@ -1,3 +1,4 @@
+.eset.com
 .urls.api.twitter.com
 .b.hatena.ne.jp
 .accounts.youtube.com
