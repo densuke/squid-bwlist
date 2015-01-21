@@ -719,3 +719,10 @@
 .yuyu-tei.jp
 .zerochan.net
 .superhero-movie.com
+.boardgamearena.net
+.asobism.co.jp
+.evastore.jp
+.webike.net
+.asahiwa.jp
+.bravelyarchive.jp
+
