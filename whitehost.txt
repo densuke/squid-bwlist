@@ -48,3 +48,6 @@ git.amfys.net
 .avast.com
 .teamviewer.com
 .cloudfront.net
+.facebook.com
+.amazonaws.com
+
