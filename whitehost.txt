@@ -50,4 +50,4 @@ git.amfys.net
 .cloudfront.net
 .facebook.com
 .amazonaws.com
-
+.gstatic.com
