@@ -725,4 +725,6 @@
 .webike.net
 .asahiwa.jp
 .bravelyarchive.jp
-
+.oshiete-kun.net
+.chiebukuro.yahoo.co.jp
+.oshiete.goo.ne.jp
