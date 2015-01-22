@@ -730,3 +730,4 @@
 .oshiete.goo.ne.jp
 .mtgwiki.com
 .nimg.jp
+.po-kaki-to.com
