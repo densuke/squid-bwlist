@@ -729,3 +729,4 @@
 .chiebukuro.yahoo.co.jp
 .oshiete.goo.ne.jp
 .mtgwiki.com
+.nimg.jp
