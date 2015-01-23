@@ -29,3 +29,4 @@ pudz\.
 /player.swf
 ^/video
 ^/douga
+/yugioh
