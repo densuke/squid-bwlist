@@ -731,3 +731,9 @@
 .mtgwiki.com
 .nimg.jp
 .po-kaki-to.com
+.ch9.ms
+.movietrailers-db.com
+.codecflesh.xyz
+.warmmovie.com
+.at-douga.com
+

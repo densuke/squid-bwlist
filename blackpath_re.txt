@@ -23,3 +23,9 @@ pudz\.
 /minecraft
 /xvdchl.com
 /majisonictokyo
+/.*video.*swf$
+/.*video.*mp4$
+/videoPlayer.js
+/player.swf
+^/video
+^/douga
