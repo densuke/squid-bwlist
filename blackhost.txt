@@ -26,6 +26,7 @@
 .2chfinder.com
 .2chmap.com
 .2chmatome.sakura.ne.jp
+.2chmm.com
 .2chnavi.net
 .2chspa.com
 .2d-plus.com
@@ -272,6 +273,7 @@
 .hanalog.com
 .hangame.co.jp
 .hangame.com
+.harikonotora.net
 .hatebu-1000users-over.com
 .hatenanotebook.com
 .hemine.co
@@ -333,6 +335,7 @@
 .kijyomatome.com
 .kikonboti.com
 .kimonolog.com
+.kimsoku.com
 .kingdomhearts.jp
 .kininatta2chmatome.doorblog.jp
 .kisslog2.com
@@ -379,6 +382,7 @@
 .lovelive-matome.com
 .lovelive.blomaga.jp
 .lukemcg.com
+.madskills.com
 .magicianwizsoku.com
 .magsoku.blomaga.jp
 .mahoneko.info
