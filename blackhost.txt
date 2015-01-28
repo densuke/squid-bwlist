@@ -17,7 +17,6 @@
 .2ch-net.jp
 .2ch.anything-navi.net
 .2ch.kijishima.com
-.2ch.logpo.jp
 .2ch.net
 .2ch.sc
 .2channel.antenam.info
@@ -31,6 +30,7 @@
 .2chspa.com
 .2d-plus.com
 .2hk.mobi
+.2mtmex.com
 .4gamer.net
 .4shared-china.com
 .777.nifty.com
@@ -64,7 +64,6 @@
 .appholic.cc
 .applean.info
 .applibot.co.jp
-.aramame.doorblog.jp
 .arithgame.jp
 .arurusoku.blog.jp
 .asahiwa.jp
@@ -96,16 +95,13 @@
 .bfmatometto.info
 .bipblog.com
 .bitshare.com
-.blog-news.doorblog.jp
 .blog.with2.net
 .bngames.net
 .boardgamearena.net
 .boon.s349.xrea.com
 .bouyomi.jp
 .brafrontier.info
-.bravefront.doorblog.jp
 .bravelyarchive.jp
-.brow2ing.doorblog.jp
 .buhidoh.net
 .burusoku-vip.com
 .butt3rs.com
@@ -120,7 +116,6 @@
 .ch
 .ch9.ms
 .chain-chronicle.net
-.chainkuro.doorblog.jp
 .chainnokizuna.com
 .chanchro.info
 .chaos2ch.com
@@ -166,6 +161,7 @@
 .dogazofree.com
 .dokoda.jp
 .donderhiroba.jp
+.doorblog.jp
 .dorapon.info
 .dpface.info
 .dqmp.jp
@@ -252,7 +248,6 @@
 .giko-news.com
 .girlsreader.com
 .girlsvip-matome.com
-.glove.doorblog.jp
 .gogoanime.com
 .goo-net.com
 .googlevideo.com
@@ -261,7 +256,6 @@
 .gotfes.com
 .grabzer.com
 .gu3.jp
-.gundamseries.doorblog.jp
 .gungho.jp
 .gunslinger-stratos.jp
 .gurugurulog.com
@@ -278,7 +272,6 @@
 .hatenanotebook.com
 .hemine.co
 .heroesandgenerals.com
-.hijikisokuhou.doorblog.jp
 .himado.in
 .himarin.net
 .himasoku.com
@@ -309,12 +302,9 @@
 .iwashi.biz
 .j-antenna.com
 .j-cg.com
-.jacklog.doorblog.jp
 .jeuxvideo24.com
 .jin115.com
 .jinkutsu.net
-.jojo-ch.doorblog.jp
-.jojoboken.doorblog.jp
 .jojomato.blog.jp
 .jojoss.jp
 .joysound.com
@@ -327,7 +317,6 @@
 .kabooo.net
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
-.kancolle.doorblog.jp
 .karapaia.livedoor.biz
 .katsumoku.net
 .katuru.com
@@ -337,7 +326,6 @@
 .kimonolog.com
 .kimsoku.com
 .kingdomhearts.jp
-.kininatta2chmatome.doorblog.jp
 .kisslog2.com
 .kita-kore.com
 .kitimama-matome.net
@@ -372,6 +360,7 @@
 .linegames.jp
 .littlesolo.com
 .livejupiter.net
+.logpo.jp
 .lol-museum.net
 .lol2048.com
 .loljp-mirror.tk
@@ -389,7 +378,6 @@
 .majikichi.com
 .maplestory.jp
 .marugoto-antenna.com
-.mashlife.doorblog.jp
 .master-asia.livedoor.biz
 .matolabel.net
 .matome-blog.jp
@@ -409,7 +397,6 @@
 .matometatta-news.net
 .matomeume.com
 .mbga.jp
-.mbmato.doorblog.jp
 .media-shelf.net
 .menscyzo.com
 .mess-y.com
@@ -430,17 +417,14 @@
 .mnstmato.com
 .mnstmatome.blog.jp
 .mobafire.com
-.mobsoku.doorblog.jp
 .moeerolibrary.com
 .moerank.com
 .moeruasia.net
 .mogera.jp
 .mojang.com
 .mokugeki.jp
-.money-life.doorblog.jp
 .monhang.com
 .monmato.com
-.mons.doorblog.jp
 .monsoku.info
 .monst-research.com
 .monst.appbank.net
@@ -484,8 +468,6 @@
 .netouyonews.net
 .netsaru.jp
 .newblo7.net
-.newmofu.doorblog.jp
-.newpuru.doorblog.jp
 .news-choice.net
 .news-select.net
 .news-three-stars.net
@@ -564,9 +546,7 @@
 .pupu.jp
 .puyo-q.info
 .puyopuyo-room.com
-.puyopuyoqu.doorblog.jp
 .puyoque.com
-.puzdra.doorblog.jp
 .puzdra.jp
 .puzu.biz
 .puzzdrashinbun.com
@@ -587,7 +567,6 @@
 .ryushare.com
 .saiani.net
 .saisin-news.com
-.samuraigoal.doorblog.jp
 .say-move.org
 .sdgfro.blog.jp
 .sdvx.info
@@ -620,7 +599,6 @@
 .sonicch.com
 .sow.blog.jp
 .speedtrace.co.jp
-.squallchannel.doorblog.jp
 .srworld.net
 .ssmatomeantenna.info
 .static.naver.jp
@@ -634,7 +612,6 @@
 .suresuta.jp
 .syanago.com
 .syosetu.org
-.taison1224.doorblog.jp
 .taiwannohannou.com
 .takara.ms
 .takenokosokuhou.com
@@ -660,9 +637,7 @@
 .touaseikei.matomesakura.com
 .tpnav.com
 .travian.jp
-.treasonnews.doorblog.jp
 .tricksterwiki.info
-.trivianews.doorblog.jp
 .trpg.net
 .turbobit.net
 .turusokuhou.com
@@ -686,7 +661,7 @@
 .vimeocdn.com
 .vipelog.com
 .vipick.net
-.vipper2ch.doorblog.jp
+.vippers.jp
 .virtuagirlhd.com
 .vube.com
 .wara2ch.com

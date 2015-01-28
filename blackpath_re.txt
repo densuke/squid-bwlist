@@ -30,3 +30,7 @@ pudz\.
 ^/video
 ^/douga
 /yugioh
+^/warota
+/minnagasoku
+nijimoe
+
