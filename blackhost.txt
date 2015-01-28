@@ -30,7 +30,9 @@
 .2chspa.com
 .2d-plus.com
 .2hk.mobi
+.2logch.sakura.ne.jp
 .2mtmex.com
+.3keta.net
 .4gamer.net
 .4shared-china.com
 .777.nifty.com
@@ -211,7 +213,6 @@
 .g-heaven.net
 .ga-t.net
 .gadgetlife2ch.blomaga.jp
-.gahalog.2chblog.jp
 .gakkushi.com
 .game-kids.net
 .game-news.biz
@@ -341,10 +342,12 @@
 .kuroneko-wiz9675.net
 .kurowizmatomete.com
 .kurowizu.net
+.kurushiunai.jp
 .kyokugen.info
 .kyonyudouga.com
 .kyousoku.net
 .kyuukaiou.ldblog.jp
+.kyuusai2nd.net
 .labaq.com
 .latale.jp
 .leagueoflegends.com
@@ -500,6 +503,7 @@
 .onesoku.com
 .oniyomech.livedoor.biz
 .onsen.ag
+.oowata.com
 .open2ch.net
 .orewiz.mobi
 .oroti.net
