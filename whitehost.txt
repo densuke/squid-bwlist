@@ -51,3 +51,5 @@ git.amfys.net
 .facebook.com
 .amazonaws.com
 .gstatic.com
+.ch9.ms
+.msdn.com
