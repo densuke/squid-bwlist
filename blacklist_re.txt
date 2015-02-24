@@ -30,3 +30,4 @@ worldoftanks
 //torrent
 /CyBreaker
 //xn--
+//[^/][^/]*matome[^/][^/]*/
