@@ -32,3 +32,4 @@ worldoftanks
 //xn--
 //[^/][^/]*matome[^/][^/]*/
 a9vg
+galnavi
