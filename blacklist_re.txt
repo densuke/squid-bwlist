@@ -31,3 +31,4 @@ worldoftanks
 /CyBreaker
 //xn--
 //[^/][^/]*matome[^/][^/]*/
+a9vg
