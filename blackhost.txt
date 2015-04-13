@@ -763,3 +763,6 @@
 .megamiengage.com
 .photo-capsule.net
 .torrent-anime.com
+.colopl.jp
+.cocone.jp
+.playstation.com
