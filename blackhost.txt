@@ -766,3 +766,4 @@
 .cocone.jp
 .playstation.com
 .nyaa.se
+.radiko.jp
