@@ -765,3 +765,4 @@
 .colopl.jp
 .cocone.jp
 .playstation.com
+.nyaa.se
