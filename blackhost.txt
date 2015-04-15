@@ -771,4 +771,4 @@
 .tonarinoyj.jp
 .momovideo.net
 .youngjump.jp
-
+.kd.local
