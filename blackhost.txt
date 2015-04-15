@@ -767,3 +767,4 @@
 .playstation.com
 .nyaa.se
 .radiko.jp
+.bandainamco-ol.jp
