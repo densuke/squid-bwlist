@@ -769,4 +769,6 @@
 .radiko.jp
 .bandainamco-ol.jp
 .tonarinoyj.jp
+.momovideo.net
+.youngjump.jp
 
