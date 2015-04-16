@@ -18,6 +18,7 @@ pudz\.
 /jyoushiki
 /wows_a/na/patches_
 /suguyaru_matome
+.naver.jp/matome/
 /toku_soku
 /.*DodontoFServer.rb
 /minecraft
