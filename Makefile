@@ -8,3 +8,8 @@ update:
 	git merge origin/master
 	git checkout $(NOW)
 
+sort:
+	sort -u  blackhost.txt > blackhost.tmp
+	- cmp blackhost.txt blackhost.tmp || mv -v blackhost.tmp blackhost.txt
+	rm -f blackhost.tmp
+	./check
