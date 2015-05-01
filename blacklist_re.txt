@@ -33,3 +33,4 @@ worldoftanks
 //[^/][^/]*matome[^/][^/]*/
 a9vg
 galnavi
+.i-mobile.co.jp/ad_link
