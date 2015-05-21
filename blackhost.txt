@@ -1,3 +1,4 @@
+
 .0matome.com
 .1000mg.jp
 .100shiki.com
@@ -164,6 +165,7 @@
 .dayztv.com
 .dechau.com
 .deko8.jp
+.derbyimpact.jp
 .digital-mixnews.com
 .divdiv.info
 .dixq.net
@@ -266,6 +268,7 @@
 .girlsreader.com
 .girlsvip-matome.com
 .gogoanime.com
+.goldv.ash.jp
 .goo-net.com
 .googlevideo.com
 .googlevideo.com:443
@@ -563,6 +566,7 @@
 .pico-n.com
 .pict-navi.net
 .pinkerodougasex.com
+.pipa.jp
 .play-app.net
 .plaync.com
 .playstation.com
@@ -607,6 +611,7 @@
 .sdvx.info
 .se-kirara.jp
 .sega-net.com
+.sega-pc.com
 .seikatuch.com
 .sekurosu.com
 .semimaru.s47.xrea.com
@@ -677,6 +682,7 @@
 .travian.jp
 .tricksterwiki.info
 .trpg.net
+.ttpod.cn
 .tube8.com
 .turbobit.net
 .turusokuhou.com
