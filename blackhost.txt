@@ -787,3 +787,4 @@
 .za-sh.com
 .zerochan.net
 .zopim.com
+.howto-box.jp
