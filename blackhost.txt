@@ -398,6 +398,7 @@
 .lovelive-matome.com
 .lovelive.blomaga.jp
 .lukemcg.com
+.lvchat.info
 .madskills.com
 .magicianwizsoku.com
 .magsoku.blomaga.jp
