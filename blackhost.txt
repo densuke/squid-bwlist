@@ -563,6 +563,7 @@
 .parts.blog.livedoor.jp
 .pathofexile.com
 .pazdra.blog.jp
+.pazdra.rssread.net
 .pazu.biz
 .pazudora-ken.com
 .pazudoracyanman.net
