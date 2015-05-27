@@ -46,6 +46,7 @@
 .absurd.blogo.jp
 .aceonline.arario.jp
 .agag.tw
+.ageofstrife.com
 .akb2ch.com
 .akb48matomemory.com
 .akb48rompen.com
@@ -58,6 +59,7 @@
 .angel-live.com
 .anicole.net
 .anige-sokuhou.ldblog.jp
+.animate-onlineshop.jp
 .anime-sharing.com
 .anime44.com
 .animemories.net
@@ -438,6 +440,8 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
+.milihime.jp
+.milihime.jp.edgesuite.net
 .military38.com
 .million-arthurs.com
 .min-fx.jp
@@ -682,6 +686,7 @@
 .tokkaban.com
 .tokua.info
 .tokyoloader.com
+.tonakai.aki.gs
 .tonarinoyj.jp
 .top55.net
 .torepiro.com
@@ -748,6 +753,7 @@
 .www.tukuruyoantena.com
 .www6.ocn.ne.jp
 .x-legend.co.jp
+.x0.to
 .xbox.com
 .xboxlive.com
 .xhamster.com
