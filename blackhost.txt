@@ -127,6 +127,7 @@
 .buzznews.asia
 .cafe-capy.net
 .caribbeancom.com
+.carsensor.net
 .carview.co.jp
 .catshare.org
 .ccpgamescdn.com
@@ -140,6 +141,7 @@
 .chaosheroesonline
 .chat8181.com
 .chat8181.jp
+.chess.com
 .chi-wo.com
 .chiebukuro.yahoo.co.jp
 .chiku-antena.com
@@ -276,11 +278,13 @@
 .gogoanime.com
 .goldv.ash.jp
 .goo-net.com
+.goobike.com
 .googlevideo.com
 .googlevideo.com:443
 .gossip1.net
 .gotfes.com
 .grabzer.com
+.groovecoaster.jp
 .gu3.jp
 .gungho.jp
 .gunslinger-stratos.jp
@@ -412,6 +416,7 @@
 .magsoku.blomaga.jp
 .mahoneko.info
 .majikichi.com
+.mangapolo.com
 .maplestory.jp
 .marugoto-antenna.com
 .master-asia.livedoor.biz
@@ -527,6 +532,7 @@
 .nicotalk.com
 .nicovideo.jp
 .nimg.jp
+.nintendo.co.jp
 .nishifukuma.com
 .niziero.com
 .nomusoku.blomaga.jp
@@ -552,6 +558,7 @@
 .oroti.net
 .oshiete-kun.net
 .oshiete.goo.ne.jp
+.otakumode.com
 .otanew.jp
 .otapol.jp
 .otatama.net
@@ -685,6 +692,7 @@
 .thisisgame.com
 .tidaltv.com
 .tocana.jp
+.tohofes.com
 .tokimeki-s.com
 .tokkaban.com
 .tokua.info
