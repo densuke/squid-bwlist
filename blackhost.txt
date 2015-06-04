@@ -466,6 +466,7 @@
 .mnstmato.com
 .mnstmatome.blog.jp
 .mobafire.com
+.mobiusfinalfantasy.com
 .moeerolibrary.com
 .moerank.com
 .moeruasia.net
@@ -561,6 +562,7 @@
 .open2ch.net
 .orewiz.mobi
 .oroti.net
+.orz.hm
 .oshiete-kun.net
 .oshiete.goo.ne.jp
 .otakumode.com
@@ -817,5 +819,3 @@
 .za-sh.com
 .zerochan.net
 .zopim.com
-.mobiusfinalfantasy.com
-
