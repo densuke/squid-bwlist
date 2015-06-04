@@ -21,6 +21,7 @@
 .2ch.kijishima.com
 .2ch.net
 .2ch.sc
+.2chan.net
 .2channel.antenam.info
 .2channeler.com
 .2chblog.jp
@@ -231,6 +232,7 @@
 .figsoku.net
 .finalfantasyxiv.com
 .flvto.com
+.fo-lens.net
 .fortalk.net
 .freakshare.com
 .free-video-movie
@@ -313,6 +315,7 @@
 .honyakusitem.blogspot.jp
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
+.howto-box.jp
 .hulu.com
 .hulu.jp
 .huluim.com
@@ -407,6 +410,7 @@
 .lolking.net
 .lordofv.com
 .lostzeromagichs.jp
+.lova.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
 .lukemcg.com
