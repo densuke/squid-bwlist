@@ -132,6 +132,7 @@
 .catshare.org
 .ccpgamescdn.com
 .cebq.biz
+.cf-vanguard.com
 .ch
 .ch9.ms
 .chain-chronicle.net
@@ -555,6 +556,7 @@
 .oniyomech.livedoor.biz
 .onsen.ag
 .oowata.com
+.op.gg
 .open2ch.net
 .orewiz.mobi
 .oroti.net
@@ -666,6 +668,7 @@
 .sonicch.com
 .sow.blog.jp
 .speedtrace.co.jp
+.square-enix.com
 .srworld.net
 .ssmatomeantenna.info
 .static.naver.jp
@@ -727,6 +730,7 @@
 .uploader.net
 .ushi.cc
 .ustre.am
+.uta-net.com
 .uuu9.com
 .vid-dl.net
 .video.sina.com.cn
@@ -807,6 +811,7 @@
 .yugioh-card.com
 .yugioh-list.com
 .yugioh-wiki.net
+.yume-100.com
 .yuyu-tei.jp
 .za-sh.com
 .zerochan.net
