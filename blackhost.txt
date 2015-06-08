@@ -201,6 +201,7 @@
 .dragonquest.jp
 .draque-matome.com
 .dreadnought-tcg.com
+.ds-voice.net
 .ea.com
 .eagate.573.jp
 .eitarosoft.co.jp
@@ -652,6 +653,7 @@
 .se-kirara.jp
 .sega-net.com
 .sega-pc.com
+.sega.jp
 .seikatuch.com
 .sekurosu.com
 .semimaru.s47.xrea.com
