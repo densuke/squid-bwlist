@@ -37,6 +37,7 @@
 .2mtmex.com
 .3gokushi.jp
 .3keta.net
+.4coma.com
 .4gamer.net
 .4shared-china.com
 .777.nifty.com
@@ -109,7 +110,6 @@
 .bike.blogmura.com
 .bipblog.com
 .bitshare.com
-.blog.with2.net
 .bmcaxis.jp
 .bn765.com
 .bngames.net
@@ -120,6 +120,7 @@
 .bpro-next.jp
 .brafrontier.info
 .bravelyarchive.jp
+.broccoli.co.jp
 .buhidoh.net
 .burusoku-vip.com
 .butt3rs.com
@@ -148,6 +149,7 @@
 .chiku-antena.com
 .cho.jpcommunity.com
 .cho.swiki.jp
+.chomanga.com
 .clip.vn
 .cocone.jp
 .codecflesh.xyz
@@ -172,6 +174,7 @@
 .dayztv.com
 .dechau.com
 .deko8.jp
+.dengeki.com
 .dengekionline.com
 .derbyimpact.jp
 .digital-mixnews.com
@@ -200,6 +203,7 @@
 .dreadnought-tcg.com
 .ea.com
 .eagate.573.jp
+.eitarosoft.co.jp
 .elementalstory.com
 .emu-russia.net
 .eriones.com
@@ -267,6 +271,7 @@
 .gamez.jp
 .gaym.jp
 .gb-wiki.net
+.gbf-wiki.com
 .gekiyaku.com
 .gendama.jp
 .gensen2ch.com
@@ -351,8 +356,10 @@
 .jword.jp
 .jyouhouya3.net
 .kabooo.net
+.kakao.com
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
+.kanichat.com
 .kanpani.jp
 .karapaia.livedoor.biz
 .katsumoku.net
@@ -483,6 +490,7 @@
 .monsterstrikekouryaku.com
 .monstop-matome.com
 .monsutojyoma.blog.jp
+.moo.jp
 .moog-games.jp
 .moog.me
 .mora.jp
@@ -535,6 +543,7 @@
 .nicoseiga.jp
 .nicosoku.blomaga.jp
 .nicotalk.com
+.nicotto.jp
 .nicovideo.jp
 .nimg.jp
 .nintendo.co.jp
@@ -571,6 +580,7 @@
 .otatama.net
 .otonarisoku.com
 .owata-net.com
+.p-ch.jp
 .p-world.co.jp
 .pad-plus.com
 .pad.atenasoku.com
@@ -690,6 +700,7 @@
 .takenokosokuhou.com
 .talewiki.com
 .tamesure.com
+.taobao.com
 .tbn17.com
 .teamys.net
 .terafile.co
@@ -737,6 +748,7 @@
 .uuu9.com
 .vid-dl.net
 .video.sina.com.cn
+.videos.real.com
 .vimeo.com
 .vimeocdn.com
 .vipelog.com
@@ -751,6 +763,7 @@
 .webnew.net
 .wemade.jp
 .winvz.jp
+.with2.net
 .wizards.com
 .wizblack.com
 .wizdamashi.com
@@ -811,6 +824,7 @@
 .youngjump.jp
 .youtu.be
 .youtube.com
+.yu-gi-oh.xyz
 .yugioh-card.com
 .yugioh-list.com
 .yugioh-wiki.net
