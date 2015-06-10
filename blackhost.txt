@@ -104,6 +104,7 @@
 .bandainamco-ol.jp
 .bcatwiz.com
 .beelzeboulxxx.com
+.benricho.org
 .bestelevenplus.jp
 .besttrendnews.net
 .bfmatometto.info
@@ -151,6 +152,7 @@
 .cho.swiki.jp
 .chomanga.com
 .clip.vn
+.cn
 .cocone.jp
 .codecflesh.xyz
 .coj-agentlabo.com
@@ -281,6 +283,7 @@
 .getgold.jp
 .getuploader.com
 .ggame.jp
+.gigafile.nu
 .giko-news.com
 .girlsreader.com
 .girlsvip-matome.com
@@ -674,7 +677,6 @@
 .shironekosokuhou.blog.jp
 .shiroutmove.com
 .simplemeet.me
-.sinajs.cn
 .sironekokouryaku.com
 .smartphone-electric.net
 .smilevideo.jp
@@ -729,7 +731,6 @@
 .travian.jp
 .tricksterwiki.info
 .trpg.net
-.ttpod.cn
 .tube8.com
 .turbobit.net
 .turusokuhou.com
@@ -749,7 +750,6 @@
 .uta-net.com
 .uuu9.com
 .vid-dl.net
-.video.sina.com.cn
 .videos.real.com
 .vimeo.com
 .vimeocdn.com
@@ -835,3 +835,4 @@
 .za-sh.com
 .zerochan.net
 .zopim.com
+.zumst.com
