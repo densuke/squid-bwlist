@@ -731,6 +731,7 @@
 .torepiro.com
 .torrent-anime.com
 .touaseikei.matomesakura.com
+.touken-ranbu.jp
 .tpnav.com
 .travian.jp
 .tricksterwiki.info
