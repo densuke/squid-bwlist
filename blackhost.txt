@@ -298,6 +298,7 @@
 .grabzer.com
 .groovecoaster.jp
 .gu3.jp
+.gundam-kizuna.jp
 .gungho.jp
 .gunslinger-stratos.jp
 .gurugurulog.com
@@ -628,6 +629,7 @@
 .puyo-q.info
 .puyopuyo-room.com
 .puyoque.com
+.puyoquest.jp
 .puzdra.jp
 .puzu.biz
 .puzzdrashinbun.com
