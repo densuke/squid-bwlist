@@ -575,6 +575,7 @@
 .op.gg
 .open2ch.net
 .orewiz.mobi
+.org.hm
 .oroti.net
 .orz.hm
 .oshiete-kun.net
