@@ -1,3 +1,4 @@
 /favicon.ico
 # 本来ブロックしている .g.doubleclick.netとぶつかるため
 //.*.googleads.g.doubleclick.net
+www.ds-voice.net/wp/
