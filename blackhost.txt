@@ -470,6 +470,7 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
+.milestone-net.co.jp
 .milihime.jp
 .milihime.jp.edgesuite.net
 .military38.com
