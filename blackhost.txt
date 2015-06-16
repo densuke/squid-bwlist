@@ -54,6 +54,7 @@
 .akb48matomemory.com
 .akb48rompen.com
 .alfalfalfa.com
+.aliyun.com
 .ameba.jp
 .amebagames.com
 .amebame.com
@@ -561,6 +562,7 @@
 .nexon.co.jp
 .ngnews.me
 .nicoblomaga.jp
+.nicodic.jp
 .nicomato.com
 .nicoseiga.jp
 .nicosoku.blomaga.jp
@@ -571,6 +573,7 @@
 .nintendo.co.jp
 .nishifukuma.com
 .niziero.com
+.noahapps.jp
 .nomusoku.blomaga.jp
 .nukistream.com
 .nullpoantenna.com
