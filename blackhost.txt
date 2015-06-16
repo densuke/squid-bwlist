@@ -245,6 +245,7 @@
 .flvto.com
 .fo-lens.net
 .fortalk.net
+.fpsjp.net
 .freakshare.com
 .free-video-movie
 .freegame.on.arena.ne.jp
@@ -429,6 +430,7 @@
 .lordofv.com
 .lostzeromagichs.jp
 .lova.jp
+.lovelive-anime.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
 .lukemcg.com
@@ -468,6 +470,7 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
+.milestone-net.co.jp
 .milihime.jp
 .milihime.jp.edgesuite.net
 .military38.com
@@ -716,6 +719,7 @@
 .talewiki.com
 .tamesure.com
 .taobao.com
+.tatsumix.com
 .tbn17.com
 .teamys.net
 .terafile.co
