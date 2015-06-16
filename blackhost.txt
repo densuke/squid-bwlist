@@ -74,6 +74,7 @@
 .appholic.cc
 .applean.info
 .applibot.co.jp
+.archeage.jpn.org
 .arithgame.jp
 .arurusoku.blog.jp
 .asahiwa.jp
