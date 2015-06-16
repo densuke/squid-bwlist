@@ -853,3 +853,4 @@
 .zerochan.net
 .zopim.com
 .zumst.com
+.で。
