@@ -298,6 +298,7 @@
 .giko-news.com
 .girlsreader.com
 .girlsvip-matome.com
+.gmo.jp
 .gogoanime.com
 .goldv.ash.jp
 .goo-net.com
