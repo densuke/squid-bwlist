@@ -130,6 +130,7 @@
 .buy.itunes.apple.com
 .buzznews.asia
 .cafe-capy.net
+.capcom-onlinegames.jp
 .caribbeancom.com
 .carsensor.net
 .carview.co.jp
