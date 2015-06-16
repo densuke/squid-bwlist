@@ -48,6 +48,8 @@
 .aceonline.arario.jp
 .agag.tw
 .ageofstrife.com
+.agkn.com
+.aichuun.co
 .akb2ch.com
 .akb48matomemory.com
 .akb48rompen.com
@@ -76,6 +78,7 @@
 .applibot.co.jp
 .archeage.jpn.org
 .arithgame.jp
+.aruaru.me
 .arurusoku.blog.jp
 .asahiwa.jp
 .asg.to
@@ -249,6 +252,7 @@
 .freakshare.com
 .free-video-movie
 .freegame.on.arena.ne.jp
+.fumi23.com
 .funger-antena.info
 .g-heaven.net
 .ga-t.net
@@ -312,6 +316,7 @@
 .gurumi-ch.com
 .h-douga.net
 .h-ken.net
+.hackadoll.com
 .hamelnovel.com
 .hamusoku.com
 .hanalog.com
@@ -373,6 +378,7 @@
 .kanasoku.s130.coreserver.jp
 .kanichat.com
 .kanpani.jp
+.kantanstart.jp
 .karapaia.livedoor.biz
 .katsumoku.net
 .katuru.com
@@ -461,6 +467,7 @@
 .matometanews.com
 .matometatta-news.net
 .matomeume.com
+.mbga-platform.jp
 .mbga.jp
 .media-shelf.net
 .megamiengage.com
@@ -581,6 +588,7 @@
 .onepiece-tc.jp
 .onesoku.com
 .oniyomech.livedoor.biz
+.onlinegamer.jp
 .onsen.ag
 .oowata.com
 .op.gg
@@ -695,6 +703,7 @@
 .smartphone-electric.net
 .smilevideo.jp
 .smq.jp
+.sogou.com
 .solty.2-d.jp
 .sonicch.com
 .sow.blog.jp
@@ -751,6 +760,7 @@
 .turbobit.net
 .turusokuhou.com
 .tv
+.twi1.me
 .twin-angel.com
 .tyabo.com
 .u1sokuhou.ldblog.jp
@@ -833,6 +843,7 @@
 .xvideosinclt.com
 .xvideosnavi.mobi
 .xxxxxxxx.jp
+.yac.me
 .yakkun.com
 .yamimeta.com
 .yanen.org
