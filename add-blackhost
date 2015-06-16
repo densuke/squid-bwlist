@@ -27,9 +27,9 @@ while [ ! "x$1" = "x" ]; do
  if [ ! $? = 0 ]; then
   D=".${D}"
  fi
- echo "$D" >> blackhost.txt && \
- make sort && git add blackhost.txt && git commit -m "batch commit" && \
- git checkout develop && git merge "${BRANCH}" && \
- git checkout master && git merge develop
+ echo "$D" >> blackhost.txt
  shift
 done
+make sort && git add blackhost.txt && git commit -m "batch commit" && \
+git checkout develop && git merge "${BRANCH}" && \
+git checkout master && git merge develop
