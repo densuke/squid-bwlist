@@ -250,6 +250,7 @@
 .fo-lens.net
 .fortalk.net
 .fpsjp.net
+.fpsunknown.com
 .freakshare.com
 .free-video-movie
 .freegame.on.arena.ne.jp
