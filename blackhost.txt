@@ -683,6 +683,7 @@
 .saisin-news.com
 .sao-game.jp
 .say-move.org
+.scorecardresearch.com
 .sdgfro.blog.jp
 .sdvx.info
 .se-kirara.jp
