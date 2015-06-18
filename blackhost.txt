@@ -677,6 +677,7 @@
 .rss-rank.com
 .rss.harikonotora.net
 .ryushare.com
+.saba-navi.com
 .saiani.net
 .saisin-news.com
 .sao-game.jp
