@@ -379,6 +379,7 @@
 .jword.jp
 .jyouhouya3.net
 .kabooo.net
+.kai-you.net
 .kakao.com
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
