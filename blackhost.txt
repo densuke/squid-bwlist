@@ -160,6 +160,7 @@
 .cho.jpcommunity.com
 .cho.swiki.jp
 .chomanga.com
+.civ5nobunaga.com
 .clip.vn
 .cn
 .cocone.jp
