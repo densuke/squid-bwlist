@@ -349,6 +349,7 @@
 .huluim.com
 .huntersokuho.com
 .huyosoku.com
+.hxh-channel-or-jp.s3.amazonaws.com
 .i-mobile.co.jp
 .idol-blog.com
 .idoldvd.co.jp
