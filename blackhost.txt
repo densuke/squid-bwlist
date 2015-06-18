@@ -857,6 +857,7 @@
 .xvideosnavi.mobi
 .xxxxxxxx.jp
 .yac.me
+.yahoo-mbga.jp
 .yakkun.com
 .yamimeta.com
 .yanen.org
