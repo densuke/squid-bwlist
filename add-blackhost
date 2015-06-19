@@ -27,9 +27,17 @@ while [ ! "x$1" = "x" ]; do
  if [ ! $? = 0 ]; then
   D=".${D}"
  fi
- echo "$D" >> blackhost.txt
+ echo "$D" >> blackhost.txt && \
+ make sort 
+ ./check
+ if [ $? = 0 ]; then
+  git add blackhost.txt
+ else
+  git checkout blackhost.txt
+	echo "REVERTED DOMAIN $D" > /dev/stderr
+ fi
  shift
 done
-make sort && git add blackhost.txt && git commit -m "batch commit" && \
+git commit -m "batch commit" && \
 git checkout develop && git merge "${BRANCH}" && \
 git checkout master && git merge develop
