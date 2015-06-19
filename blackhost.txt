@@ -129,6 +129,7 @@
 .bpro-next.jp
 .brafrontier.info
 .bravelyarchive.jp
+.brightcove.co.jp
 .broccoli.co.jp
 .buhidoh.net
 .burusoku-vip.com
@@ -343,20 +344,24 @@
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
 .howto-box.jp
+.hujiang.com
 .hulu.com
 .hulu.jp
 .huluim.com
 .huntersokuho.com
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
+.hxh.gamerch.com
 .i-mobile.co.jp
 .idol-blog.com
 .idoldvd.co.jp
 .idolscope.com
 .iii.main.jp
+.ijinshan.com
 .ikeike2ch.jp
 .ikumamasokuhou.com
 .imas-cg.net
+.imikowa.com
 .immoral.jp
 .inazumanews2.com
 .infopot.jp
@@ -391,6 +396,7 @@
 .katsumoku.net
 .katuru.com
 .kd.local
+.kekkaisensen.com
 .ken-ch.vqpv.biz
 .kijyomatome.com
 .kikonboti.com
@@ -582,6 +588,7 @@
 .nishifukuma.com
 .niziero.com
 .noahapps.jp
+.nomaki.jp
 .nomusoku.blomaga.jp
 .nukistream.com
 .nullpoantenna.com
@@ -648,6 +655,7 @@
 .playtomic.com
 .po-kaki-to.com
 .pokecheck.org
+.pokemon.co.jp
 .pokesen.com
 .pong.com
 .ponos.co.jp
@@ -711,6 +719,8 @@
 .shironekosokuhou.blog.jp
 .shiroutmove.com
 .simplemeet.me
+.sinaimg.cn
+.sinfonia-wld.com
 .sironekokouryaku.com
 .smartphone-electric.net
 .smilevideo.jp
@@ -720,6 +730,7 @@
 .sonicch.com
 .sow.blog.jp
 .speedtrace.co.jp
+.sqex.to
 .square-enix.com
 .srworld.net
 .ssmatomeantenna.info
@@ -733,6 +744,7 @@
 .superhero-movie.com
 .suresuta.jp
 .syanago.com
+.syosetu.com
 .syosetu.org
 .taipingu.net
 .taiwannohannou.com
