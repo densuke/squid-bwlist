@@ -213,6 +213,7 @@
 .dqmslchannel.com
 .dqmslsuperlight.com
 .dqmslyaruyo.com
+.dqx.jp
 .dragonquest.jp
 .draque-matome.com
 .dreadnought-tcg.com
