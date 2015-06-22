@@ -75,6 +75,7 @@
 .antena.m-yellow.com
 .antenna.ebb.jp
 .antennash.com
+.app-liv.jp
 .appholic.cc
 .applean.info
 .applibot.co.jp
