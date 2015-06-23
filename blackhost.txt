@@ -903,6 +903,7 @@
 .yume-100.com
 .yuyu-tei.jp
 .za-sh.com
+.zatunen.com
 .zerochan.net
 .zopim.com
 .zumst.com
