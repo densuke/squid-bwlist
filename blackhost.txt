@@ -165,6 +165,7 @@
 .cho.swiki.jp
 .chomanga.com
 .civ5nobunaga.com
+.clan-battle.jp
 .clip.vn
 .cn
 .cocone.jp
@@ -904,4 +905,3 @@
 .zerochan.net
 .zopim.com
 .zumst.com
-.で。
