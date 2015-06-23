@@ -164,6 +164,7 @@
 .cho.jpcommunity.com
 .cho.swiki.jp
 .chomanga.com
+.clan-battle.jp
 .clip.vn
 .cn
 .cocone.jp
