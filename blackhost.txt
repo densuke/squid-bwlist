@@ -859,7 +859,7 @@
 .wot-news.com
 .wowgame.jp
 .ws-tcg.com
-.www.60me.com
+.60me.com
 .www.harikonotora.net
 .www.j-antenna.com
 .www.karzusp.net
