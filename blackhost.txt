@@ -168,6 +168,7 @@
 .cho.swiki.jp
 .chomanga.com
 .chonborista.com
+.civ5nobunaga.com
 .clan-battle.jp
 .clip.vn
 .cn
@@ -714,6 +715,7 @@
 .saisin-news.com
 .sao-game.jp
 .say-move.org
+.scorecardresearch.com
 .sdgfro.blog.jp
 .sdvx.info
 .se-kirara.jp
@@ -724,6 +726,7 @@
 .sekurosu.com
 .semimaru.s47.xrea.com
 .sensns.com
+.sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shinobi.jp
@@ -919,4 +922,3 @@
 .zerochan.net
 .zopim.com
 .zumst.com
-.で。
