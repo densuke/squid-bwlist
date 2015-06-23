@@ -167,6 +167,7 @@
 .cho.jpcommunity.com
 .cho.swiki.jp
 .chomanga.com
+.chonborista.com
 .civ5nobunaga.com
 .clan-battle.jp
 .clip.vn
@@ -725,6 +726,7 @@
 .sekurosu.com
 .semimaru.s47.xrea.com
 .sensns.com
+.sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shinobi.jp
