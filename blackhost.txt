@@ -285,6 +285,7 @@
 .gamemaps.com
 .gamenetall.web.fc2.com
 .gameon.jp
+.gamepedia.com
 .gamerch.com
 .gamerfree.blog.fc2.com
 .gamerp.jp
