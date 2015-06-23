@@ -913,6 +913,7 @@
 .yume-100.com
 .yuyu-tei.jp
 .za-sh.com
+.zap.jp.net
 .zatunen.com
 .zerochan.net
 .zopim.com
