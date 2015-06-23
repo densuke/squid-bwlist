@@ -527,6 +527,7 @@
 .monhang.com
 .monmato.com
 .monsoku.info
+.monst-news.net
 .monst-research.com
 .monst.appbank.net
 .monster-strike.com
