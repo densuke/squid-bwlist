@@ -122,6 +122,7 @@
 .bilibili.com
 .bipblog.com
 .bitshare.com
+.bluestacks.com
 .bmcaxis.jp
 .bn765.com
 .bngames.net
