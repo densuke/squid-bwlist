@@ -49,6 +49,7 @@
 .absurd.blogo.jp
 .aceonline.arario.jp
 .agag.tw
+.agar.io
 .ageofstrife.com
 .agkn.com
 .aichuun.co
@@ -80,6 +81,7 @@
 .appholic.cc
 .applean.info
 .applibot.co.jp
+.arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
 .aruaru.me
@@ -122,6 +124,7 @@
 .bilibili.com
 .bipblog.com
 .bitshare.com
+.bluestacks.com
 .bmcaxis.jp
 .bn765.com
 .bngames.net
@@ -164,7 +167,9 @@
 .cho.jpcommunity.com
 .cho.swiki.jp
 .chomanga.com
+.chonborista.com
 .civ5nobunaga.com
+.clan-battle.jp
 .clip.vn
 .cn
 .cocone.jp
@@ -253,6 +258,7 @@
 .ffrk.blog.jp
 .ffrkmato.blog.jp
 .figsoku.net
+.finalfantasy.jp
 .finalfantasyxiv.com
 .flvto.com
 .fo-lens.net
@@ -262,6 +268,7 @@
 .freakshare.com
 .free-video-movie
 .freegame.on.arena.ne.jp
+.fujimarukun.co.jp
 .fumi23.com
 .funger-antena.info
 .g-heaven.net
@@ -285,6 +292,7 @@
 .gamemaps.com
 .gamenetall.web.fc2.com
 .gameon.jp
+.gamepedia.com
 .gamerch.com
 .gamerfree.blog.fc2.com
 .gamerp.jp
@@ -388,10 +396,12 @@
 .jumpmatome2ch.blog.fc2.com
 .jumpsokuhou.com
 .jword.jp
+.jwpltx.com
 .jyouhouya3.net
 .kabooo.net
 .kai-you.net
 .kakao.com
+.kakonacl.xsrv.jp
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
 .kanichat.com
@@ -433,6 +443,7 @@
 .labaq.com
 .latale.jp
 .leagueoflegends.com
+.lelezhen.com
 .letv.com
 .lglime.com
 .lhrpg.org
@@ -524,6 +535,7 @@
 .monhang.com
 .monmato.com
 .monsoku.info
+.monst-news.net
 .monst-research.com
 .monst.appbank.net
 .monster-strike.com
@@ -551,6 +563,7 @@
 .mylostgames.com
 .myurdayz.com
 .nade-saka.com
+.nagariknews.com
 .nagisa-inc.jp
 .namekuji.jp
 .nantoka-antenna.com
@@ -655,6 +668,7 @@
 .pipa.jp
 .pixiv.net
 .plastic-memories.jp
+.platinumgames.co.jp
 .play-app.net
 .plaync.com
 .playstation.com
@@ -667,6 +681,7 @@
 .ponos.co.jp
 .ppy.sh
 .premiumcyzo.com
+.probuilds.net
 .project-diva-ac.net
 .pso2.jp
 .pso2.swiki.jp
@@ -711,6 +726,7 @@
 .sekurosu.com
 .semimaru.s47.xrea.com
 .sensns.com
+.sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shinobi.jp
@@ -756,6 +772,7 @@
 .syanago.com
 .syosetu.com
 .syosetu.org
+.tabtter.jp
 .taipingu.net
 .taiwannohannou.com
 .takara.ms
@@ -801,6 +818,7 @@
 .twirobo.com
 .tyabo.com
 .u1sokuhou.ldblog.jp
+.ubisoft.co.jp
 .uhouho2ch.com
 .unlock.fm
 .up-stage.info
@@ -841,6 +859,7 @@
 .wot-news.com
 .wowgame.jp
 .ws-tcg.com
+.www.60me.com
 .www.harikonotora.net
 .www.j-antenna.com
 .www.karzusp.net
@@ -899,7 +918,8 @@
 .yume-100.com
 .yuyu-tei.jp
 .za-sh.com
+.zap.jp.net
+.zatunen.com
 .zerochan.net
 .zopim.com
 .zumst.com
-.で。
