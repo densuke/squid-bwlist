@@ -359,7 +359,7 @@
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
 .howto-box.jp
-.http://sagaplanets.product.co.jp/
+.sagaplanets.product.co.jp
 .hujiang.com
 .hulu.com
 .hulu.jp
