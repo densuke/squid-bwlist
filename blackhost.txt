@@ -81,6 +81,7 @@
 .appholic.cc
 .applean.info
 .applibot.co.jp
+.arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
 .aruaru.me
