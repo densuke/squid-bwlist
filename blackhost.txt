@@ -388,10 +388,12 @@
 .jumpmatome2ch.blog.fc2.com
 .jumpsokuhou.com
 .jword.jp
+.jwpltx.com
 .jyouhouya3.net
 .kabooo.net
 .kai-you.net
 .kakao.com
+.kakonacl.xsrv.jp
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
 .kanichat.com
