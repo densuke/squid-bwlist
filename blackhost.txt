@@ -766,6 +766,7 @@
 .syanago.com
 .syosetu.com
 .syosetu.org
+.tabtter.jp
 .taipingu.net
 .taiwannohannou.com
 .takara.ms
