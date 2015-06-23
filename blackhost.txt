@@ -40,6 +40,7 @@
 .4coma.com
 .4gamer.net
 .4shared-china.com
+.60me.com
 .6182.info
 .777.nifty.com
 .777town.net
@@ -358,6 +359,7 @@
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
 .howto-box.jp
+.sagaplanets.product.co.jp
 .hujiang.com
 .hulu.com
 .hulu.jp
@@ -860,7 +862,6 @@
 .wot-news.com
 .wowgame.jp
 .ws-tcg.com
-.www.60me.com
 .www.harikonotora.net
 .www.j-antenna.com
 .www.karzusp.net
