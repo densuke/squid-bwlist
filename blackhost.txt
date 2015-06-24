@@ -145,6 +145,7 @@
 .buzznews.asia
 .cafe-capy.net
 .capcom-onlinegames.jp
+.capcom.co.jp
 .caribbeancom.com
 .carsensor.net
 .carview.co.jp
@@ -306,6 +307,7 @@
 .gbf-wiki.com
 .gekiyaku.com
 .gendama.jp
+.genieesspv.jp
 .gensen2ch.com
 .get2ch.net
 .getchu.com
@@ -358,6 +360,7 @@
 .honyakusitem.blogspot.jp
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
+.hotp.jp
 .howto-box.jp
 .sagaplanets.product.co.jp
 .hujiang.com
@@ -503,6 +506,7 @@
 .mbga-platform.jp
 .mbga.jp
 .media-shelf.net
+.mega.co.nz
 .megamiengage.com
 .mementoo.info
 .menscyzo.com
@@ -718,6 +722,7 @@
 .saisin-news.com
 .sao-game.jp
 .say-move.org
+.sbr-vcj.com
 .scorecardresearch.com
 .sdgfro.blog.jp
 .sdvx.info
