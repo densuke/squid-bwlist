@@ -350,6 +350,7 @@
 .hatenanotebook.com
 .hemine.co
 .heroesandgenerals.com
+.heroz.jp
 .himado.in
 .himarin.net
 .himasoku.com
@@ -361,6 +362,7 @@
 .hotkoreanews.blogspot.jp
 .hotp.jp
 .howto-box.jp
+.sagaplanets.product.co.jp
 .hujiang.com
 .hulu.com
 .hulu.jp
