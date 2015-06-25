@@ -362,7 +362,6 @@
 .hotkoreanews.blogspot.jp
 .hotp.jp
 .howto-box.jp
-.sagaplanets.product.co.jp
 .hujiang.com
 .hulu.com
 .hulu.jp
@@ -718,6 +717,7 @@
 .rss.harikonotora.net
 .ryushare.com
 .saba-navi.com
+.sagaplanets.product.co.jp
 .saiani.net
 .saisin-news.com
 .sao-game.jp
