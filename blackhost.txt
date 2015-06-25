@@ -309,6 +309,7 @@
 .gendama.jp
 .genieesspv.jp
 .gensen2ch.com
+.geo-online.co.jp
 .get2ch.net
 .getchu.com
 .getgold.jp
