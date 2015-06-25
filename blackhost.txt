@@ -793,6 +793,7 @@
 .tatsumix.com
 .tbn17.com
 .teamys.net
+.techjp.jp
 .terafile.co
 .tgd.jp
 .tgl.jp
