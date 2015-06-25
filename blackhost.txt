@@ -1,4 +1,5 @@
 
+./add-blackhost
 .0matome.com
 .1000mg.jp
 .100shiki.com
@@ -59,6 +60,7 @@
 .akb48rompen.com
 .alfalfalfa.com
 .aliyun.com
+.amano-jack.jp
 .ameba.jp
 .amebagames.com
 .amebame.com
@@ -430,6 +432,7 @@
 .kitimama-matome.net
 .kizyo.net
 .klabgames.net
+.kokotodo.nobody.jp
 .komica.org
 .konaminet.jp
 .konomoe.at.webry.info
@@ -462,6 +465,7 @@
 .linegames.jp
 .littlesolo.com
 .livejupiter.net
+.liveleak.com
 .liverail.com
 .logpo.jp
 .lol-museum.net
@@ -585,6 +589,7 @@
 .nekomemo.com
 .nekowithwiz.blog.jp
 .netatama.net
+.netgamewiki.com
 .netgeek.biz
 .netkeiba.com
 .netouyonews.net
@@ -690,6 +695,7 @@
 .premiumcyzo.com
 .probuilds.net
 .project-diva-ac.net
+.psnova.net
 .pso2.jp
 .pso2.swiki.jp
 .pupu.jp
@@ -726,6 +732,7 @@
 .sbr-vcj.com
 .scorecardresearch.com
 .sdgfro.blog.jp
+.sdin.jp
 .sdvx.info
 .se-kirara.jp
 .sega-net.com
@@ -752,12 +759,14 @@
 .shironekosokuhou.blog.jp
 .shiroutmove.com
 .shishioh.info
+.showbyrock-anime.com
 .simplemeet.me
 .sinaimg.cn
 .sinfonia-wld.com
 .sironekokouryaku.com
 .smartphone-electric.net
 .smilevideo.jp
+.smj.io
 .smq.jp
 .sogou.com
 .solty.2-d.jp
@@ -792,6 +801,7 @@
 .tatsumix.com
 .tbn17.com
 .teamys.net
+.techjp.jp
 .terafile.co
 .tgd.jp
 .tgl.jp
@@ -825,6 +835,7 @@
 .twi1.me
 .twin-angel.com
 .twirobo.com
+.twpf.jp
 .tyabo.com
 .u1sokuhou.ldblog.jp
 .ubisoft.co.jp
@@ -851,6 +862,7 @@
 .wara2ch.com
 .warmmovie.com
 .watch2chan.com
+.wazap.com
 .webike.net
 .webnew.net
 .wemade.jp
