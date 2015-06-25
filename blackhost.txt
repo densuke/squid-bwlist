@@ -765,6 +765,7 @@
 .sironekokouryaku.com
 .smartphone-electric.net
 .smilevideo.jp
+.smj.io
 .smq.jp
 .sogou.com
 .solty.2-d.jp
