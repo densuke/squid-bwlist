@@ -1,4 +1,5 @@
 
+./add-blackhost
 .0matome.com
 .1000mg.jp
 .100shiki.com
@@ -824,6 +825,7 @@
 .twi1.me
 .twin-angel.com
 .twirobo.com
+.twpf.jp
 .tyabo.com
 .u1sokuhou.ldblog.jp
 .ubisoft.co.jp
