@@ -431,6 +431,7 @@
 .kitimama-matome.net
 .kizyo.net
 .klabgames.net
+.kokotodo.nobody.jp
 .komica.org
 .konaminet.jp
 .konomoe.at.webry.info
