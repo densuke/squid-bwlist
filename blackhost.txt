@@ -80,6 +80,7 @@
 .antena.m-yellow.com
 .antenna.ebb.jp
 .antennash.com
+.app-heaven.net
 .app-liv.jp
 .appholic.cc
 .applean.info
@@ -307,6 +308,7 @@
 .gaym.jp
 .gb-wiki.net
 .gbf-wiki.com
+.gekikarareview.com
 .gekiyaku.com
 .gendama.jp
 .genieesspv.jp
@@ -388,6 +390,7 @@
 .infopot.jp
 .injulog.com
 .inside-games.jp
+.ipav.xyz
 .itibusizyuu.jp
 .iwashi.biz
 .j-antenna.com
@@ -450,6 +453,7 @@
 .kyuukaiou.ldblog.jp
 .kyuusai2nd.net
 .labaq.com
+.lady.com
 .latale.jp
 .leagueoflegends.com
 .lelezhen.com
@@ -486,6 +490,7 @@
 .magsoku.blomaga.jp
 .mahoneko.info
 .majikichi.com
+.mangabox.me
 .mangapolo.com
 .maplestory.jp
 .marugoto-antenna.com
@@ -564,9 +569,11 @@
 .msmtk.com
 .mstmtt.com
 .mt-antenna.info
+.mt2.in
 .mtg-jp.com
 .mtgwiki.com
 .mudainodocument.com
+.muketsu.info
 .muryouav.net
 .museru.com
 .muwangpark.com
@@ -713,6 +720,7 @@
 .railgun-antenna.info
 .random-call.net
 .rapidgator.net
+.real.com
 .recochoku.jp
 .redtube.com
 .repsoku.net
@@ -735,6 +743,7 @@
 .sdin.jp
 .sdvx.info
 .se-kirara.jp
+.seesaawiki.jp
 .sega-net.com
 .sega-pc.com
 .sega.jp
@@ -745,6 +754,7 @@
 .sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
+.shindanmaker.com
 .shinobi.jp
 .shinra-game.jp
 .shironeko-blog.com
@@ -787,6 +797,7 @@
 .superhero-movie.com
 .suresuta.jp
 .suruga-ya.jp
+.swiki.jp
 .syanago.com
 .syosetu.com
 .syosetu.org
@@ -811,7 +822,9 @@
 .thegame.jp
 .thisisgame.com
 .tidaltv.com
+.tkssp.com
 .tocana.jp
+.togetter.com
 .tohofes.com
 .tokimeki-s.com
 .tokkaban.com
@@ -829,6 +842,7 @@
 .tricksterwiki.info
 .trpg.net
 .tube8.com
+.tumblr.com
 .turbobit.net
 .turusokuhou.com
 .tv
@@ -867,6 +881,7 @@
 .webnew.net
 .wemade.jp
 .winvz.jp
+.wish.com
 .with2.net
 .wizards.com
 .wizblack.com
