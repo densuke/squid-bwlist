@@ -170,7 +170,6 @@
 .chiebukuro.yahoo.co.jp
 .chiku-antena.com
 .cho.jpcommunity.com
-.cho.swiki.jp
 .chomanga.com
 .chonborista.com
 .civ5nobunaga.com
