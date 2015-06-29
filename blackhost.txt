@@ -98,6 +98,7 @@
 .aso-bo.com
 .asobism.co.jp
 .at-douga.com
+.atelier-ps3.jp
 .atgames.jp
 .auctions.search.yahoo.co.jp
 .averodogazo.com
@@ -166,6 +167,7 @@
 .chat8181.com
 .chat8181.jp
 .chess.com
+.chesscomfiles.com
 .chi-wo.com
 .chiebukuro.yahoo.co.jp
 .chiku-antena.com
@@ -188,6 +190,7 @@
 .conangame.jp
 .cosmicbreak.jp
 .cosp.jp
+.crank-in.net
 .cybergadget.co.jp
 .cylab.jp
 .cyzo.co.jp
@@ -562,6 +565,7 @@
 .moog.me
 .mora.jp
 .morikinoko.com
+.moto-nari.com
 .moto-neta.com
 .moudamepo.com
 .movietrailers-db.com
@@ -703,6 +707,7 @@
 .project-diva-ac.net
 .psnova.net
 .pso2.jp
+.pso2es.jp
 .pupu.jp
 .puyo-q.info
 .puyopuyo-room.com
@@ -849,6 +854,7 @@
 .twirobo.com
 .twpf.jp
 .tyabo.com
+.u-note.me
 .u1sokuhou.ldblog.jp
 .ubisoft.co.jp
 .uhouho2ch.com
