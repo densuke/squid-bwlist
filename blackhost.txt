@@ -80,6 +80,7 @@
 .antena.m-yellow.com
 .antenna.ebb.jp
 .antennash.com
+.app-adforce.jp
 .app-heaven.net
 .app-liv.jp
 .appholic.cc
@@ -118,6 +119,7 @@
 .bakusai.com
 .bandai-hobbuy.net
 .bandainamco-ol.jp
+.bandainamcogames.co.jp
 .bcatwiz.com
 .beelzeboulxxx.com
 .benricho.org
@@ -275,6 +277,7 @@
 .freakshare.com
 .free-video-movie
 .freegame.on.arena.ne.jp
+.friend-birthday.com
 .fujimarukun.co.jp
 .fumi23.com
 .funger-antena.info
@@ -598,6 +601,7 @@
 .negisoku.com
 .nekomemo.com
 .nekowithwiz.blog.jp
+.nend.net
 .netatama.net
 .netgamewiki.com
 .netgeek.biz
@@ -721,6 +725,7 @@
 .r30r30r30.antenam.info
 .radiko.jp
 .railgun-antenna.info
+.rakugan.com
 .random-call.net
 .rapidgator.net
 .real.com
@@ -842,6 +847,7 @@
 .touken-ranbu.jp
 .tpnav.com
 .travian.jp
+.trendpride.com
 .tricksterwiki.info
 .trpg.net
 .tube8.com
