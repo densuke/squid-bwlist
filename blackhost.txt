@@ -50,6 +50,7 @@
 .a9vg.com
 .absurd.blogo.jp
 .aceonline.arario.jp
+.aemedia.org
 .agag.tw
 .agar.io
 .ageofstrife.com
@@ -120,6 +121,7 @@
 .bandai-hobbuy.net
 .bandainamco-ol.jp
 .bandainamcogames.co.jp
+.battlefield.com
 .bcatwiz.com
 .beelzeboulxxx.com
 .benricho.org
@@ -281,6 +283,7 @@
 .fujimarukun.co.jp
 .fumi23.com
 .funger-antena.info
+.funkygunstattoo.com
 .g-heaven.net
 .ga-t.net
 .gadgetlife2ch.blomaga.jp
@@ -313,6 +316,7 @@
 .gaym.jp
 .gb-wiki.net
 .gbf-wiki.com
+.geekles.net
 .gekikarareview.com
 .gekiyaku.com
 .gendama.jp
@@ -341,6 +345,7 @@
 .groovecoaster.jp
 .gu3.jp
 .gundam-kizuna.jp
+.gundam-vs.jp
 .gungho.jp
 .gunplablog.com
 .gunslinger-stratos.jp
@@ -488,6 +493,7 @@
 .lovelive-anime.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
+.luidas.com
 .lukemcg.com
 .lvchat.info
 .madskills.com
@@ -550,6 +556,7 @@
 .moerank.com
 .moeruasia.net
 .mogera.jp
+.moguragames.com
 .mojang.com
 .mokugeki.jp
 .momovideo.net
@@ -707,6 +714,7 @@
 .ponos.co.jp
 .ppy.sh
 .premiumcyzo.com
+.pripara.jp
 .probuilds.net
 .project-diva-ac.net
 .psnova.net
