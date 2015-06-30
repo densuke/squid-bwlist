@@ -377,6 +377,7 @@
 .hotkoreanews.blogspot.jp
 .hotp.jp
 .howto-box.jp
+.http://fecipher.jp/
 .hujiang.com
 .hulu.com
 .hulu.jp
