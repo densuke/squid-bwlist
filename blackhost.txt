@@ -790,7 +790,6 @@
 .shishioh.info
 .showbyrock-anime.com
 .simplemeet.me
-.sinaimg.cn
 .sinfonia-wld.com
 .sironekokouryaku.com
 .smartphone-electric.net
@@ -901,6 +900,7 @@
 .webike.net
 .webnew.net
 .wemade.jp
+.winneri.info
 .winvz.jp
 .wish.com
 .with2.net
