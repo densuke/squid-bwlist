@@ -35,4 +35,4 @@ pudz\.
 /minnagasoku
 nijimoe
 ^/7daystodie
-
+/api/MemberGetMyState
