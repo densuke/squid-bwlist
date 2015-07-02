@@ -1,5 +1,4 @@
-
-./add-blackhost
+157.7.191.103
 .0matome.com
 .1000mg.jp
 .100shiki.com
