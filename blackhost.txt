@@ -88,6 +88,7 @@
 .appholic.cc
 .applean.info
 .applibot.co.jp
+.applover.us
 .arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
@@ -286,6 +287,7 @@
 .fumi23.com
 .funger-antena.info
 .funkygunstattoo.com
+.fx-startup.com
 .g-heaven.net
 .ga-t.net
 .gadgetlife2ch.blomaga.jp
@@ -394,6 +396,7 @@
 .idoldvd.co.jp
 .idolscope.com
 .iii.main.jp
+.ijbblog.com
 .ijinshan.com
 .ikeike2ch.jp
 .ikumamasokuhou.com
@@ -684,6 +687,7 @@
 .pad-plus.com
 .pad.atenasoku.com
 .pagoda56.com
+.pakapon.com
 .pangya.jp
 .paperman.jp
 .parts.blog.livedoor.jp
@@ -772,6 +776,8 @@
 .sekurosu.com
 .semimaru.s47.xrea.com
 .sensns.com
+.sensodyne.es
+.sensodyne.jp
 .sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
@@ -862,6 +868,7 @@
 .trendpride.com
 .tricksterwiki.info
 .trpg.net
+.tsundora.com
 .tube8.com
 .tumblr.com
 .turbobit.net
@@ -895,6 +902,7 @@
 .vippers.jp
 .virtuagirlhd.com
 .vube.com
+.wallpaperup.com
 .wara2ch.com
 .warmmovie.com
 .watch2chan.com
