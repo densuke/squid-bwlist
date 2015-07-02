@@ -821,6 +821,7 @@
 .square-enix.com
 .srworld.net
 .ssmatomeantenna.info
+.startappservice.com
 .static.naver.jp
 .steamcommunity.com
 .steampowered.com
