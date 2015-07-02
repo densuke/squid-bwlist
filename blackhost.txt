@@ -105,6 +105,7 @@
 .atelier-ps3.jp
 .atgames.jp
 .auctions.search.yahoo.co.jp
+.autoc-one.jp
 .averodogazo.com
 .averonew.com
 .avtv-movie.com
@@ -212,6 +213,7 @@
 .dengeki.com
 .dengekionline.com
 .derbyimpact.jp
+.devilishdesign.net
 .digital-mixnews.com
 .divdiv.info
 .dixq.net
@@ -415,6 +417,7 @@
 .jeuxvideo24.com
 .jin115.com
 .jinkutsu.net
+.jiqoo.jp
 .johnnyswest-love.com
 .jojomato.blog.jp
 .jojoss.jp
@@ -426,6 +429,7 @@
 .jword.jp
 .jwpltx.com
 .jyouhouya3.net
+.k-img.com
 .kabooo.net
 .kai-you.net
 .kaikatsu.jp
@@ -480,6 +484,7 @@
 .lhrpg.org
 .lightrend.com
 .line-apps.com
+.line-tatsujin.com
 .line.me
 .linegame.com
 .linegame.jp
@@ -838,6 +843,7 @@
 .taobao.com
 .tatsumix.com
 .tbn17.com
+.team-detonation.net
 .teamys.net
 .techjp.jp
 .terafile.co
@@ -908,6 +914,7 @@
 .warmmovie.com
 .watch2chan.com
 .wazap.com
+.weban.jp
 .webike.net
 .webnew.net
 .wemade.jp
