@@ -196,6 +196,7 @@
 .cosmicbreak.jp
 .cosp.jp
 .crank-in.net
+.curecos.com
 .cybergadget.co.jp
 .cylab.jp
 .cyzo.co.jp
@@ -428,6 +429,7 @@
 .jwpltx.com
 .jyouhouya3.net
 .k-img.com
+.ka-nabell.com
 .kabooo.net
 .kai-you.net
 .kaikatsu.jp
