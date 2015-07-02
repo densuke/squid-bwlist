@@ -1,4 +1,3 @@
-157.7.191.103
 .0matome.com
 .1000mg.jp
 .100shiki.com
@@ -802,6 +801,7 @@
 .shironekosokuhou.blog.jp
 .shiroutmove.com
 .shishioh.info
+.shogionline.jp
 .showbyrock-anime.com
 .simplemeet.me
 .sinfonia-wld.com
@@ -997,3 +997,4 @@
 .zerochan.net
 .zopim.com
 .zumst.com
+157.7.191.103
