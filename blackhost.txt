@@ -444,7 +444,6 @@
 .karapaia.livedoor.biz
 .katsumoku.net
 .katuru.com
-.kd.local
 .kekkaisensen.com
 .ken-ch.vqpv.biz
 .kijyomatome.com
