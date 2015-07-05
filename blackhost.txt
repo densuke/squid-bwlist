@@ -762,6 +762,7 @@
 .rpgmaker.net
 .rss-rank.com
 .rss.harikonotora.net
+.ruisenhoukai.com
 .ryushare.com
 .saba-navi.com
 .sagaplanets.product.co.jp
