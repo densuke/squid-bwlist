@@ -751,6 +751,7 @@
 .puzzdrashinbun.com
 .qoo-app.com
 .qq.com
+.quiz-wiz.com
 .r30r30r30.antenam.info
 .radiko.jp
 .railgun-antenna.info
