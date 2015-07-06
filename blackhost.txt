@@ -41,6 +41,7 @@
 .4shared-china.com
 .60me.com
 .6182.info
+.724685.com
 .777.nifty.com
 .777town.net
 .9post.jp
@@ -498,6 +499,7 @@
 .logpo.jp
 .lol-museum.net
 .lol2048.com
+.lolipop.jp
 .loljp-mirror.tk
 .loljp-wiki.tk
 .lolking.net
@@ -709,6 +711,7 @@
 .pazudorayarouzu.com
 .pazumato.com
 .pazupura.com
+.peco-japan.com
 .photo-capsule.net
 .photobag.in
 .photoshopvip.net
