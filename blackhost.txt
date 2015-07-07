@@ -170,6 +170,7 @@
 .chanchro.info
 .chaos2ch.com
 .chaosheroesonline
+.charlotte-anime.jp
 .chat8181.com
 .chat8181.jp
 .chess.com
@@ -379,6 +380,7 @@
 .himasoku.com
 .hishaku.com
 .hklmm.com
+.hokanko-alt.com
 .honmotakeshi.com
 .honwaka2ch.livedoor.biz
 .honyakusitem.blogspot.jp
@@ -813,6 +815,7 @@
 .shishioh.info
 .shogionline.jp
 .showbyrock-anime.com
+.simg.jp
 .simplemeet.me
 .sinfonia-wld.com
 .sironekokouryaku.com
