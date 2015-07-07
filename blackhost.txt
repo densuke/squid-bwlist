@@ -294,6 +294,7 @@
 .g-heaven.net
 .ga-t.net
 .gadgetlife2ch.blomaga.jp
+.gakkougurashi.com
 .gakkushi.com
 .galnavi.info
 .game-kids.net
@@ -388,6 +389,7 @@
 .hotkoreanews.blogspot.jp
 .hotp.jp
 .howto-box.jp
+.hrs-game.main.jp
 .hujiang.com
 .hulu.com
 .hulu.jp
@@ -480,6 +482,7 @@
 .labaq.com
 .lady.com
 .latale.jp
+.ldblog.jp
 .leadboltapps.net
 .leagueoflegends.com
 .lelezhen.com
@@ -904,6 +907,7 @@
 .u1sokuhou.ldblog.jp
 .ubisoft.co.jp
 .uhouho2ch.com
+.umaru-ani.me
 .unlock.fm
 .up-stage.info
 .updatepm.com
