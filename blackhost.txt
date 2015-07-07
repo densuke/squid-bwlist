@@ -68,7 +68,6 @@
 .amiami.jp
 .angel-live.com
 .anicole.net
-.anige-sokuhou.ldblog.jp
 .animate-onlineshop.jp
 .anime-sharing.com
 .anime44.com
@@ -477,7 +476,6 @@
 .kyokugen.info
 .kyonyudouga.com
 .kyousoku.net
-.kyuukaiou.ldblog.jp
 .kyuusai2nd.net
 .labaq.com
 .lady.com
@@ -904,7 +902,6 @@
 .twpf.jp
 .tyabo.com
 .u-note.me
-.u1sokuhou.ldblog.jp
 .ubisoft.co.jp
 .uhouho2ch.com
 .umaru-ani.me
