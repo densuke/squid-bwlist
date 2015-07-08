@@ -46,6 +46,7 @@
 .777town.net
 .9post.jp
 .a-lim.jp
+.a4c.jp
 .a9vg.com
 .absurd.blogo.jp
 .aceonline.arario.jp
@@ -134,6 +135,7 @@
 .bilibili.com
 .bipblog.com
 .bitshare.com
+.bitsummit.org
 .bluestacks.com
 .bmcaxis.jp
 .bn765.com
@@ -265,6 +267,7 @@
 .esuteru.com
 .evastore.jp
 .exawarosu.net
+.fairydoll.jp
 .fast2ch.dip.jp
 .faststore.org
 .fc2.com
@@ -360,6 +363,7 @@
 .gunslinger-stratos.jp
 .gurugurulog.com
 .gurumi-ch.com
+.gust.co.jp
 .h-douga.net
 .h-ken.net
 .hackadoll.com
@@ -932,6 +936,7 @@
 .weban.jp
 .webike.net
 .webnew.net
+.webtruyen.com
 .wemade.jp
 .winneri.info
 .winvz.jp
