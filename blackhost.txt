@@ -2,6 +2,7 @@
 .1000mg.jp
 .100shiki.com
 .120.hp2.jp
+.1geki.jp
 .1kibaku.jp
 .2-carat.net
 .2blo.net
@@ -242,11 +243,13 @@
 .draque-matome.com
 .dreadnought-tcg.com
 .ds-voice.net
+.e-shota.com
 .ea.com
 .eagate.573.jp
 .eitarosoft.co.jp
 .elementalstory.com
 .emu-russia.net
+.enq-maker.com
 .eriones.com
 .ero-an.com
 .ero-anime.jp
@@ -293,7 +296,9 @@
 .funger-antena.info
 .funkygunstattoo.com
 .fx-startup.com
+.fx2ch.net
 .g-heaven.net
+.g-takumi.com
 .ga-t.net
 .gadgetlife2ch.blomaga.jp
 .gakkougurashi.com
@@ -411,8 +416,10 @@
 .ikeike2ch.jp
 .ikumamasokuhou.com
 .imas-cg.net
+.imas-cinderella.com
 .imikowa.com
 .immoral.jp
+.imperialsaga.jp
 .inazumanews2.com
 .infopot.jp
 .injulog.com
@@ -526,6 +533,7 @@
 .majikichi.com
 .mangabox.me
 .mangapolo.com
+.manmai.jp
 .maplestory.jp
 .marugoto-antenna.com
 .master-asia.livedoor.biz
@@ -551,6 +559,7 @@
 .media-shelf.net
 .mega.co.nz
 .megamiengage.com
+.melon.com
 .mementoo.info
 .menscyzo.com
 .mess-y.com
@@ -858,6 +867,7 @@
 .takara.ms
 .takenokosokuhou.com
 .talewiki.com
+.taleworlds.com
 .tamesure.com
 .taobao.com
 .tatsumix.com
@@ -1006,6 +1016,7 @@
 .youtu.be
 .youtube.com
 .yu-gi-oh.xyz
+.yucasee.jp
 .yugioh-card.com
 .yugioh-list.com
 .yugioh-wiki.net
