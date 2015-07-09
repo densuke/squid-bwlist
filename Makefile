@@ -1,3 +1,5 @@
+.PHONY: all update sort
+
 all:
 
 NOW=$(shell git branch | fgrep '*' | sed -e 's;\*;;g')
