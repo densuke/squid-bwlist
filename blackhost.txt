@@ -40,6 +40,7 @@
 .4coma.com
 .4gamer.net
 .4shared-china.com
+.54.200.156.56
 .60me.com
 .6182.info
 .724685.com
@@ -409,6 +410,7 @@
 .hxh-channel-or-jp.s3.amazonaws.com
 .hxh.gamerch.com
 .i-mobile.co.jp
+.i2i.jp
 .idol-blog.com
 .idoldvd.co.jp
 .idolscope.com
@@ -481,6 +483,7 @@
 .konomoe.at.webry.info
 .kotaro269.com
 .kroko.jp
+.ksmobile.com
 .kuku.lu
 .kuromacyo.livedoor.biz
 .kuroneko-wiz9675.net
@@ -540,6 +543,7 @@
 .manna-jp.com
 .maplestory.jp
 .marugoto-antenna.com
+.marupeke296.com
 .master-asia.livedoor.biz
 .matolabel.net
 .matome-blog.jp
@@ -561,6 +565,7 @@
 .mbga-platform.jp
 .mbga.jp
 .media-shelf.net
+.mediafire.com
 .mega.co.nz
 .megamiengage.com
 .melon.com
@@ -583,6 +588,7 @@
 .minkchan.com
 .minna-antenna.com
 .minpuzz.com
+.mixi.jp
 .mmo-logres.com
 .mmoloda.com
 .mnstmato.com
@@ -638,6 +644,7 @@
 .nantoka-antenna.com
 .narutoapp.jp
 .native.hekk.org
+.naver.jp
 .naver.net
 .naverland.naver.jp
 .ncfost.jp
@@ -835,11 +842,13 @@
 .shiroutmove.com
 .shishioh.info
 .shogionline.jp
+.shoshinsha.com
 .showbyrock-anime.com
 .simg.jp
 .simplemeet.me
 .sinfonia-wld.com
 .sironekokouryaku.com
+.sisainlive.com
 .smartphone-electric.net
 .smilevideo.jp
 .smj.io
@@ -1012,6 +1021,7 @@
 .xxxxxxxx.jp
 .yac.me
 .yahoo-mbga.jp
+.yakan.net
 .yakkun.com
 .yamimeta.com
 .yanen.org
