@@ -228,6 +228,7 @@
 .dmmgameswiki.com
 .do-mono.jp
 .dogazofree.com
+.dokidokivisual.com
 .dokoda.jp
 .donderhiroba.jp
 .doorblog.jp
@@ -359,6 +360,7 @@
 .gossip1.net
 .gotfes.com
 .grabzer.com
+.granbluefantasy.jp
 .groovecoaster.jp
 .gu3.jp
 .gundam-kizuna.jp
@@ -411,6 +413,7 @@
 .idoldvd.co.jp
 .idolscope.com
 .iii.main.jp
+.iinaa.net
 .ijbblog.com
 .ijinshan.com
 .ikeike2ch.jp
@@ -534,6 +537,7 @@
 .mangabox.me
 .mangapolo.com
 .manmai.jp
+.manna-jp.com
 .maplestory.jp
 .marugoto-antenna.com
 .master-asia.livedoor.biz
@@ -673,6 +677,7 @@
 .nishifukuma.com
 .niziero.com
 .noahapps.jp
+.nobuwiki.org
 .nomaki.jp
 .nomusoku.blomaga.jp
 .nukistream.com
@@ -776,6 +781,7 @@
 .random-call.net
 .rapidgator.net
 .real.com
+.realonigokko.com
 .recochoku.jp
 .redtube.com
 .repsoku.net
@@ -791,6 +797,7 @@
 .sagaplanets.product.co.jp
 .saiani.net
 .saisin-news.com
+.santalab.me
 .sao-game.jp
 .say-move.org
 .sbr-vcj.com
