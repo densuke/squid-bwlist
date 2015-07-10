@@ -810,7 +810,6 @@
 .sao-game.jp
 .say-move.org
 .sbr-vcj.com
-.scorecardresearch.com
 .sdgfro.blog.jp
 .sdin.jp
 .sdvx.info
