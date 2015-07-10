@@ -769,6 +769,7 @@
 .probuilds.net
 .project-diva-ac.net
 .psnova.net
+.pso-world.com
 .pso2.jp
 .pso2es.jp
 .pupu.jp
@@ -959,6 +960,7 @@
 .wara2ch.com
 .warmmovie.com
 .watch2chan.com
+.wate.jp
 .wazap.com
 .weban.jp
 .webike.net
