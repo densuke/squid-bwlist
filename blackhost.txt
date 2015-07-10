@@ -306,6 +306,7 @@
 .gakkougurashi.com
 .gakkushi.com
 .galnavi.info
+.gamdom.biz
 .game-kids.net
 .game-news.biz
 .game.ever.jp
