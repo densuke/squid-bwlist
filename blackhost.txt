@@ -125,6 +125,7 @@
 .bandai-hobbuy.net
 .bandainamco-ol.jp
 .bandainamcogames.co.jp
+.barks.jp
 .battlefield.com
 .bcatwiz.com
 .beelzeboulxxx.com
@@ -151,6 +152,7 @@
 .bravelyarchive.jp
 .brightcove.co.jp
 .broccoli.co.jp
+.bto-pc.jp
 .buhidoh.net
 .burusoku-vip.com
 .butt3rs.com
@@ -352,6 +354,7 @@
 .girlsreader.com
 .girlsvip-matome.com
 .gmo.jp
+.gmocloud.com
 .gmossp-sp.jp
 .gogoanime.com
 .goldv.ash.jp
@@ -388,6 +391,7 @@
 .hemine.co
 .heroesandgenerals.com
 .heroz.jp
+.highgamers.com
 .himado.in
 .himarin.net
 .himasoku.com
@@ -473,6 +477,7 @@
 .kimsoku.com
 .king.com
 .kingdomhearts.jp
+.kingtopdeals.com
 .kisslog2.com
 .kita-kore.com
 .kitimama-matome.net
@@ -580,6 +585,7 @@
 .milihime.jp
 .milihime.jp.edgesuite.net
 .military38.com
+.millennium-war.net
 .million-arthurs.com
 .min-fx.jp
 .minatosoft.com
@@ -661,6 +667,7 @@
 .netkeiba.com
 .netouyonews.net
 .netsaru.jp
+.neulion.com
 .neutralx0.net
 .newblo7.net
 .news-choice.net
@@ -697,6 +704,7 @@
 .o0o0.jp
 .oboega-01.blog.jp
 .oboom.com
+.obunko.com
 .octoba.jp
 .okoshi-yasu.com
 .oletower.com
@@ -757,6 +765,7 @@
 .plaync.com
 .playstation.com
 .playtomic.com
+.pmang.jp
 .po-kaki-to.com
 .pokecheck.org
 .pokemon.co.jp
@@ -918,6 +927,7 @@
 .touken-ranbu.jp
 .tpnav.com
 .travian.jp
+.treeofsavior.it
 .trendpride.com
 .tricksterwiki.info
 .trpg.net
@@ -936,6 +946,7 @@
 .ubisoft.co.jp
 .uhouho2ch.com
 .umaru-ani.me
+.unicast.smart.usen.com
 .unlock.fm
 .up-stage.info
 .updatepm.com
