@@ -932,6 +932,7 @@
 .tidaltv.com
 .tkssp.com
 .tocana.jp
+.togech.jp
 .togetter.com
 .tohofes.com
 .tokimeki-s.com
