@@ -279,6 +279,7 @@
 .evastore.jp
 .exawarosu.net
 .fairydoll.jp
+.famitsu.com
 .fast2ch.dip.jp
 .faststore.org
 .fc2.com
