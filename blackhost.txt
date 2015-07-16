@@ -689,6 +689,7 @@
 .ngnews.me
 .nicoblomaga.jp
 .nicodic.jp
+.nicoken.com
 .nicomato.com
 .nicoseiga.jp
 .nicosoku.blomaga.jp
