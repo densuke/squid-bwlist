@@ -124,6 +124,7 @@
 .bakusai.com
 .bandai-hobbuy.net
 .bandainamco-ol.jp
+.bandainamcoent.co.jp
 .bandainamcogames.co.jp
 .barks.jp
 .battlefield.com
@@ -158,6 +159,7 @@
 .butt3rs.com
 .buy.itunes.apple.com
 .buzznews.asia
+.c-lab.link
 .cafe-capy.net
 .capcom-onlinegames.jp
 .capcom.co.jp
@@ -315,6 +317,7 @@
 .game-kids.net
 .game-news.biz
 .game.ever.jp
+.game.goo.ne.jp
 .game1wiki.com
 .game4broke.blogspot.com
 .game4broke.sakura.ne.jp
@@ -423,6 +426,7 @@
 .i2i.jp
 .idol-blog.com
 .idoldvd.co.jp
+.idolmaster.jp
 .idolscope.com
 .iii.main.jp
 .iinaa.net
@@ -464,6 +468,7 @@
 .kabooo.net
 .kai-you.net
 .kaikatsu.jp
+.kairisei-ma.jp
 .kakao.com
 .kakonacl.xsrv.jp
 .kakuge-checker.com
@@ -738,6 +743,7 @@
 .otatama.net
 .otonarisoku.com
 .owata-net.com
+.p-bandai.jp
 .p-ch.jp
 .p-world.co.jp
 .pad-plus.com
@@ -904,6 +910,7 @@
 .taiwannohannou.com
 .takara.ms
 .takenokosokuhou.com
+.tales-ch.jp
 .talewiki.com
 .taleworlds.com
 .tamesure.com
@@ -958,6 +965,7 @@
 .ubisoft.co.jp
 .uhouho2ch.com
 .umaru-ani.me
+.uneedzone.jp
 .unicast.smart.usen.com
 .unlock.fm
 .up-stage.info
@@ -1063,6 +1071,7 @@
 .yugioh-list.com
 .yugioh-wiki.net
 .yume-100.com
+.yuna-service.com
 .yuyu-tei.jp
 .za-sh.com
 .zap.jp.net
