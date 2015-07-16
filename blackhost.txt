@@ -40,7 +40,6 @@
 .4coma.com
 .4gamer.net
 .4shared-china.com
-54.200.156.56
 .60me.com
 .6182.info
 .724685.com
@@ -255,6 +254,7 @@
 .eitarosoft.co.jp
 .elementalstory.com
 .emu-russia.net
+.enflatpark.com
 .enq-maker.com
 .eriones.com
 .ero-an.com
@@ -298,6 +298,7 @@
 .freegame.on.arena.ne.jp
 .friend-birthday.com
 .fujimarukun.co.jp
+.fullcomp.jp
 .fumi23.com
 .funger-antena.info
 .funkygunstattoo.com
@@ -342,6 +343,7 @@
 .geekles.net
 .gekikarareview.com
 .gekiyaku.com
+.genbujp.com
 .gendama.jp
 .genieesspv.jp
 .gensen2ch.com
@@ -504,6 +506,7 @@
 .kyuusai2nd.net
 .labaq.com
 .lady.com
+.lanceandmasques.jp
 .latale.jp
 .ldblog.jp
 .leadboltapps.net
@@ -572,6 +575,7 @@
 .matomeume.com
 .mbga-platform.jp
 .mbga.jp
+.mdpr.jp
 .media-shelf.net
 .mediafire.com
 .mega.co.nz
@@ -741,6 +745,7 @@
 .paperman.jp
 .parts.blog.livedoor.jp
 .pathofexile.com
+.patolesoft.net
 .pazdra.blog.jp
 .pazdra.rssread.net
 .pazu.biz
@@ -1063,3 +1068,4 @@
 .zopim.com
 .zumst.com
 157.7.191.103
+54.200.156.56
