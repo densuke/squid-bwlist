@@ -37,3 +37,4 @@ galnavi
 ios.noahapps.jp/api.php
 fpsjp.net
 w2solution.com/asmart/
+sai-zen-sen.jp/comics/
