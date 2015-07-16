@@ -957,6 +957,7 @@
 .turusokuhou.com
 .tv
 .twi1.me
+.twimg.com
 .twin-angel.com
 .twirobo.com
 .twpf.jp
