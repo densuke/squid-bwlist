@@ -94,6 +94,7 @@
 .applibot.co.jp
 .applion.jp
 .applover.us
+.appteam.biz
 .arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
@@ -1054,6 +1055,7 @@
 .xn--gameofwar-8r4so63l.jp
 .xn--h9jnav5fb1b3dtd.com
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.biz
+.xn--lckzah2d6d3dcb9fdc6hh3361lt4sbxb4cj78e.com
 .xn--n8j7dyg5cue613zibj2tn.xn--2ch-li4b4gya9z.com
 .xn--pck6bvfc1708dnjua.net
 .xn--sckyeodz36l941b.jp
