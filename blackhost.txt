@@ -549,6 +549,7 @@
 .lordofv.com
 .lostzeromagichs.jp
 .lova.jp
+.love-collection.com
 .lovelive-anime.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
@@ -945,6 +946,7 @@
 .tokimeki-s.com
 .tokkaban.com
 .tokua.info
+.tokyo-lc.com
 .tokyoloader.com
 .tonakai.aki.gs
 .tonarinoyj.jp
@@ -1087,6 +1089,7 @@
 .za-sh.com
 .zap.jp.net
 .zatunen.com
+.zero-plan.com
 .zerochan.net
 .zopim.com
 .zumst.com
