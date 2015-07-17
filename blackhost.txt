@@ -67,6 +67,7 @@
 .ameba.jp
 .amebagames.com
 .amebame.com
+.ameblo.jp
 .amfys.net
 .amiami.jp
 .angel-live.com
@@ -86,9 +87,11 @@
 .app-heaven.net
 .app-liv.jp
 .app-wiki.info
+.appget.com
 .appholic.cc
 .applean.info
 .applibot.co.jp
+.applion.jp
 .applover.us
 .arcenserv.info
 .archeage.jpn.org
