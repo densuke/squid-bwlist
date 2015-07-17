@@ -157,6 +157,7 @@
 .buhidoh.net
 .burusoku-vip.com
 .butt3rs.com
+.butterfly-corp.jp
 .buy.itunes.apple.com
 .buzznews.asia
 .c-lab.link
@@ -748,10 +749,12 @@
 .p-bandai.jp
 .p-ch.jp
 .p-world.co.jp
+.pachiseven.jp
 .pad-plus.com
 .pad.atenasoku.com
 .pagoda56.com
 .pakapon.com
+.pakemania.net
 .pangya.jp
 .paperman.jp
 .parts.blog.livedoor.jp
@@ -1034,6 +1037,7 @@
 .xhamster.com
 .xn--28j3f296j4hlf7s.biz
 .xn--2ch-li4b4gya9z.com
+.xn--7-0gu7b.net
 .xn--cck1b8b8bd5hj6ft354dk17a.com
 .xn--dckc6b4c0aj0bt9o5czde7i.com
 .xn--eckgx3bc0odb2ob4r.com
