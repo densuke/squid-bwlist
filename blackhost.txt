@@ -451,6 +451,7 @@
 .ipav.xyz
 .iruna.jp
 .itibusizyuu.jp
+.itunes.apple.com
 .iwashi.biz
 .j-antenna.com
 .j-cg.com
@@ -787,6 +788,7 @@
 .plastic-memories.jp
 .platinumgames.co.jp
 .play-app.net
+.play.google.com
 .plaync.com
 .playstation.com
 .playtomic.com
