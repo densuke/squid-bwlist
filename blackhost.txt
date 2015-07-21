@@ -71,6 +71,7 @@
 .ameblo.jp
 .amfys.net
 .amiami.jp
+.amoad.com
 .angel-live.com
 .anicole.net
 .animate-onlineshop.jp
@@ -1100,6 +1101,7 @@
 .zero-plan.com
 .zerochan.net
 .zopim.com
+.zucks.net
 .zumst.com
 157.7.191.103
 54.200.156.56
