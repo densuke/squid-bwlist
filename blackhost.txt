@@ -66,6 +66,7 @@
 .akb48rompen.com
 .alfalfalfa.com
 .aliyun.com
+.amaebi.net
 .amano-jack.jp
 .ameba.jp
 .amebagames.com
@@ -288,6 +289,7 @@
 .evastore.jp
 .exawarosu.net
 .fairydoll.jp
+.fam-ad.com
 .famitsu.com
 .fast2ch.dip.jp
 .faststore.org
