@@ -19,6 +19,7 @@
 .2ch-net.jp
 .2ch.anything-navi.net
 .2ch.kijishima.com
+.2ch.logpo.jp
 .2ch.net
 .2ch.sc
 .2chan.net
@@ -53,6 +54,7 @@
 .a9vg.com
 .absurd.blogo.jp
 .aceonline.arario.jp
+.adresult.jp
 .aemedia.org
 .agag.tw
 .agar.io
@@ -192,6 +194,7 @@
 .chi-wo.com
 .chiebukuro.yahoo.co.jp
 .chiku-antena.com
+.chip-union.net
 .cho.jpcommunity.com
 .chomanga.com
 .chonborista.com
@@ -299,6 +302,7 @@
 .finalfantasyxiv.com
 .flvto.com
 .fo-lens.net
+.focas.jp
 .fortalk.net
 .fpsjp.net
 .fpsunknown.com
@@ -432,6 +436,7 @@
 .hxh.gamerch.com
 .i-mobile.co.jp
 .i2i.jp
+.i2iparts.jp
 .idol-blog.com
 .idoldvd.co.jp
 .idolmaster.jp
@@ -498,6 +503,7 @@
 .king.com
 .kingdomhearts.jp
 .kingtopdeals.com
+.kinyu-z.net
 .kisslog2.com
 .kita-kore.com
 .kitimama-matome.net
@@ -605,6 +611,7 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
+.microad.jp
 .milestone-net.co.jp
 .milihime.jp
 .milihime.jp.edgesuite.net
@@ -834,6 +841,7 @@
 .realonigokko.com
 .recochoku.jp
 .redtube.com
+.rental-rental.net
 .repsoku.net
 .ronsoku.com
 .rotco.jp
@@ -1100,6 +1108,7 @@
 .zatunen.com
 .zero-plan.com
 .zerochan.net
+.ziyu.net
 .zopim.com
 .zucks.net
 .zumst.com
