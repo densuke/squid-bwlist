@@ -19,7 +19,6 @@
 .2ch-net.jp
 .2ch.anything-navi.net
 .2ch.kijishima.com
-.2ch.logpo.jp
 .2ch.net
 .2ch.sc
 .2chan.net
@@ -565,6 +564,7 @@
 .lovelive-anime.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
+.lovetoy.jp
 .luidas.com
 .lukemcg.com
 .lvchat.info
