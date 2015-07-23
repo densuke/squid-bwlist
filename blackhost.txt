@@ -727,6 +727,7 @@
 .nicovideo.jp
 .nimg.jp
 .nintendo.co.jp
+.nintendowifi.net
 .nishifukuma.com
 .niziero.com
 .noahapps.jp
