@@ -193,6 +193,7 @@
 .chess.com
 .chesscomfiles.com
 .chi-wo.com
+.chibicon.net
 .chiebukuro.yahoo.co.jp
 .chiku-antena.com
 .chip-union.net
