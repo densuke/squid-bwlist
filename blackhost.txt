@@ -55,6 +55,7 @@
 .aceonline.arario.jp
 .adjust.com
 .adresult.jp
+.advertising.com
 .aemedia.org
 .agag.tw
 .agar.io
