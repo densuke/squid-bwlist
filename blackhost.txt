@@ -52,6 +52,7 @@
 .a9vg.com
 .absurd.blogo.jp
 .aceonline.arario.jp
+.ad-v.jp
 .adimg.net
 .adingo.jp
 .adjust.com
@@ -152,7 +153,9 @@
 .bipblog.com
 .bitshare.com
 .bitsummit.org
+.blazegames.jp
 .blogmura.com
+.blogo.jp
 .blogsys.jp
 .bluestacks.com
 .bmcaxis.jp
@@ -531,6 +534,7 @@
 .kotaro269.com
 .kroko.jp
 .ksmobile.com
+.kuaibo.com
 .kuku.lu
 .kuromacyo.livedoor.biz
 .kuroneko-wiz9675.net
@@ -852,6 +856,7 @@
 .qoo-app.com
 .qq.com
 .quiz-wiz.com
+.qvod.com
 .r30r30r30.antenam.info
 .radiko.jp
 .railgun-antenna.info
