@@ -90,6 +90,7 @@
 .anitube.se
 .antch.net
 .antena.m-yellow.com
+.antenam.info
 .antenna.ebb.jp
 .antennash.com
 .app-adforce.jp
@@ -153,6 +154,7 @@
 .bipblog.com
 .bitshare.com
 .bitsummit.org
+.blogmura.com
 .blogsys.jp
 .bluestacks.com
 .bmcaxis.jp
@@ -222,6 +224,7 @@
 .cosmicbreak.jp
 .cosp.jp
 .crank-in.net
+.criteo.com
 .curecos.com
 .cybergadget.co.jp
 .cylab.jp
@@ -235,12 +238,14 @@
 .dd-on.jp
 .dechau.com
 .deko8.jp
+.dendou.jp
 .dengeki.com
 .dengekionline.com
 .derbyimpact.jp
 .devilishdesign.net
 .digital-mixnews.com
 .divdiv.info
+.diveluck.com
 .dixq.net
 .dka-hero.com
 .dl-video.net
@@ -420,12 +425,14 @@
 .heroesandgenerals.com
 .heroz.jp
 .highgamers.com
+.hijyoushiki.sakura.ne.jp
 .himado.in
 .himarin.net
 .himasoku.com
 .hishaku.com
 .hklmm.com
 .hokanko-alt.com
+.honey-rope.jugem.jp
 .honeyworks.jp
 .honmotakeshi.com
 .honwaka2ch.livedoor.biz
@@ -474,6 +481,7 @@
 .j-antenna.com
 .j-cg.com
 .jeuxvideo24.com
+.jimdo.com
 .jin115.com
 .jinkutsu.net
 .jiqoo.jp
@@ -927,6 +935,7 @@
 .sonicch.com
 .sow.blog.jp
 .speedtrace.co.jp
+.sportsnavi.dtiblog.com
 .sqex.to
 .square-enix.com
 .srworld.net
@@ -957,6 +966,7 @@
 .taleworlds.com
 .tamesure.com
 .taobao.com
+.tarikin.net
 .tatsumix.com
 .tbn17.com
 .team-detonation.net
@@ -1091,6 +1101,7 @@
 .xn--ss-ci4aa8ub.com
 .xn--u9jwfk5a1cc8qdb1qb.com
 .xonline.jp
+.xrea.com
 .xvideo-jp.com
 .xvideo.com
 .xvideos-field.com
@@ -1119,6 +1130,7 @@
 .yugioh-card.com
 .yugioh-list.com
 .yugioh-wiki.net
+.yukinyan.jp
 .yume-100.com
 .yuna-service.com
 .yuyu-tei.jp
