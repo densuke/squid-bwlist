@@ -831,6 +831,7 @@
 .pmang.jp
 .po-kaki-to.com
 .pokecheck.org
+.pokemon-br.com
 .pokemon.co.jp
 .pokesen.com
 .pong.com
