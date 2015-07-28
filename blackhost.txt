@@ -826,6 +826,7 @@
 .play.google.com
 .plaync.com
 .playstation.com
+.playtika.com
 .playtomic.com
 .pmang.jp
 .po-kaki-to.com
