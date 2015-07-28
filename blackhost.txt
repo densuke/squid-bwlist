@@ -22,7 +22,6 @@
 .2ch.net
 .2ch.sc
 .2chan.net
-.2channel.antenam.info
 .2channeler.com
 .2chblog.jp
 .2chfinder.com
@@ -149,7 +148,6 @@
 .besttrendnews.net
 .bfmatometto.info
 .big-celeb.jp
-.bike.blogmura.com
 .bilibili.com
 .bipblog.com
 .bitshare.com
@@ -162,7 +160,6 @@
 .bngames.net
 .boardgamearena.net
 .bokudora.jp
-.boon.s349.xrea.com
 .bouyomi.jp
 .bpro-next.jp
 .brafrontier.info
@@ -895,7 +892,6 @@
 .sega.jp
 .seikatuch.com
 .sekurosu.com
-.semimaru.s47.xrea.com
 .sensns.com
 .sensodyne.es
 .sensodyne.jp
