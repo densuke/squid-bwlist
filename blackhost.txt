@@ -53,6 +53,8 @@
 .a9vg.com
 .absurd.blogo.jp
 .aceonline.arario.jp
+.adimg.net
+.adingo.jp
 .adjust.com
 .adresult.jp
 .advertising.com
@@ -151,6 +153,7 @@
 .bipblog.com
 .bitshare.com
 .bitsummit.org
+.blogsys.jp
 .bluestacks.com
 .bmcaxis.jp
 .bn765.com
@@ -391,6 +394,7 @@
 .grabzer.com
 .granbluefantasy.jp
 .groovecoaster.jp
+.gsspcln.jp
 .gu3.jp
 .gundam-kizuna.jp
 .gundam-vs.jp
@@ -426,6 +430,7 @@
 .honmotakeshi.com
 .honwaka2ch.livedoor.biz
 .honyakusitem.blogspot.jp
+.hork.info
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
 .hotp.jp
@@ -831,6 +836,7 @@
 .pso2.jp
 .pso2es.jp
 .pupu.jp
+.purl.org
 .puyo-q.info
 .puyopuyo-room.com
 .puyoque.com
@@ -850,6 +856,7 @@
 .real.com
 .realonigokko.com
 .recochoku.jp
+.recordchina.co.jp
 .redtube.com
 .rental-rental.net
 .repsoku.net
@@ -865,6 +872,7 @@
 .sagaplanets.product.co.jp
 .saiani.net
 .saisin-news.com
+.sakuratan.com
 .santalab.me
 .sao-game.jp
 .say-move.org
@@ -901,6 +909,7 @@
 .shironekosokuhou.blog.jp
 .shiroutmove.com
 .shishioh.info
+.shobon.jp
 .shogionline.jp
 .shoshinsha.com
 .showbyrock-anime.com
@@ -1116,6 +1125,7 @@
 .za-sh.com
 .zap.jp.net
 .zatunen.com
+.zenshin.org
 .zero-plan.com
 .zerochan.net
 .ziyu.net
