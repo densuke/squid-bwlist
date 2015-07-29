@@ -99,6 +99,7 @@
 .antch.net
 .antena.m-yellow.com
 .antenam.info
+.antenna-ga.com
 .antenna.ebb.jp
 .antennash.com
 .app-adforce.jp
