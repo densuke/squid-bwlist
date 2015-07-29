@@ -873,7 +873,6 @@
 .pagoda56.com
 .pakapon.com
 .pakemania.net
-.pandora.tv
 .pangya.jp
 .paperman.jp
 .parts.blog.livedoor.jp
@@ -978,6 +977,7 @@
 .sao-game.jp
 .say-move.org
 .sbr-vcj.com
+.scupio.com.tw
 .sdgfro.blog.jp
 .sdin.jp
 .sdvx.info
