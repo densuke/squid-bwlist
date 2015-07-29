@@ -1055,6 +1055,7 @@
 .vube.com
 .wallpaperup.com
 .wara2ch.com
+.wargaming.net
 .warmmovie.com
 .watch2chan.com
 .wate.jp
