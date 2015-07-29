@@ -72,6 +72,7 @@
 .alfalfalfa.com
 .alicesoft.com
 .aliyun.com
+.allxin.com
 .amaebi.net
 .amano-jack.jp
 .ameba.jp
@@ -105,6 +106,7 @@
 .applibot.co.jp
 .applion.jp
 .applover.us
+.appoxee.com
 .appteam.biz
 .arcenserv.info
 .archeage.jpn.org
@@ -213,6 +215,7 @@
 .clan-battle.jp
 .clip.vn
 .cn
+.cnzz.net
 .cocone.jp
 .codecflesh.xyz
 .coj-agentlabo.com
@@ -227,10 +230,12 @@
 .coremagazine.co.jp
 .cosmicbreak.jp
 .cosp.jp
+.cpmok.net
 .crank-in.net
 .criteo.com
 .curecos.com
 .cybergadget.co.jp
+.cygames.co.jp
 .cylab.jp
 .cyzo.co.jp
 .cyzowoman.com
@@ -284,6 +289,7 @@
 .emu-russia.net
 .enflatpark.com
 .enq-maker.com
+.epochtimes.com
 .eriones.com
 .ero-an.com
 .ero-anime.jp
@@ -408,6 +414,7 @@
 .grabzer.com
 .granbluefantasy.jp
 .gree-apps.net
+.gree.net
 .groovecoaster.jp
 .gsspcln.jp
 .gu3.jp
@@ -495,6 +502,7 @@
 .jin115.com
 .jinkutsu.net
 .jiqoo.jp
+.jjwxc.net
 .johnnyswest-love.com
 .jojomato.blog.jp
 .jojoss.jp
@@ -637,6 +645,7 @@
 .media-b.jp
 .media-shelf.net
 .mediafire.com
+.mediav.com
 .mega.co.nz
 .megamiengage.com
 .melon.com
@@ -691,6 +700,7 @@
 .moo.jp
 .moog-games.jp
 .moog.me
+.moonwish.com.cn
 .mora.jp
 .morikinoko.com
 .moto-nari.com
@@ -855,6 +865,7 @@
 .premiumcyzo.com
 .pripara.jp
 .prisma-illya.jp
+.pro.cn
 .probuilds.net
 .project-diva-ac.net
 .psnova.net
@@ -985,6 +996,7 @@
 .talewiki.com
 .taleworlds.com
 .tamesure.com
+.tanx.com
 .taobao.com
 .tarikin.net
 .tatsumix.com
@@ -1042,6 +1054,7 @@
 .ubisoft.co.jp
 .uhouho2ch.com
 .umaru-ani.me
+.umeng.com
 .uneedzone.jp
 .unicast.smart.usen.com
 .unlock.fm
