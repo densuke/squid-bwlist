@@ -533,6 +533,7 @@
 .jinkutsu.net
 .jiqoo.jp
 .jjwxc.net
+.jk-play.com
 .johnnyswest-love.com
 .jojomato.blog.jp
 .jojoss.jp
@@ -831,6 +832,7 @@
 .okkisokuho.com
 .okoshi-yasu.com
 .oletower.com
+.ona-kura.com
 .onecall2ch.com
 .onepiece-tc.jp
 .onesoku.com
