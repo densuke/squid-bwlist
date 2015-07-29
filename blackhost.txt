@@ -54,6 +54,7 @@
 .aceonline.arario.jp
 .ad-v.jp
 .ad.linksynergy.com
+.addeluxe.jp
 .adimg.net
 .adingo.jp
 .adjust.com
@@ -77,6 +78,7 @@
 .alicesoft.com
 .aliyun.com
 .allxin.com
+.am-our.com
 .amaebi.net
 .amano-jack.jp
 .ameba.jp
@@ -188,6 +190,7 @@
 .burusoku-vip.com
 .butt3rs.com
 .butterfly-corp.jp
+.buzzhand.com
 .buzznews.asia
 .c-lab.link
 .cafe-capy.net
@@ -292,6 +295,7 @@
 .draque-matome.com
 .dreadnought-tcg.com
 .ds-voice.net
+.duga.jp
 .e-nls.net
 .e-shota.com
 .ea.com
@@ -835,6 +839,7 @@
 .okoshi-yasu.com
 .oletower.com
 .ona-kura.com
+.onanist-japan.info
 .onecall2ch.com
 .onepiece-tc.jp
 .onesoku.com
@@ -867,6 +872,7 @@
 .pagoda56.com
 .pakapon.com
 .pakemania.net
+.pandora.tv
 .pangya.jp
 .paperman.jp
 .parts.blog.livedoor.jp
@@ -900,6 +906,7 @@
 .play-app.net
 .play.google.com
 .plaync.com
+.playsport.cc
 .playstation.com
 .playtika.com
 .playtomic.com
@@ -924,6 +931,7 @@
 .pso-world.com
 .pso2.jp
 .pso2es.jp
+.ptvcdn.net
 .pupu.jp
 .purl.org
 .puyo-q.info
@@ -933,6 +941,7 @@
 .puzdra.jp
 .puzu.biz
 .puzzdrashinbun.com
+.qilook.com
 .qoo-app.com
 .qq.com
 .quiz-wiz.com
@@ -1016,6 +1025,7 @@
 .smilevideo.jp
 .smj.io
 .smq.jp
+.socdm.com
 .sogou.com
 .solty.2-d.jp
 .sonicch.com
