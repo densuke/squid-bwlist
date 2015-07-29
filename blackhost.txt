@@ -52,6 +52,7 @@
 .a9vg.com
 .aceonline.arario.jp
 .ad-v.jp
+.ad.linksynergy.com
 .adimg.net
 .adingo.jp
 .adjust.com
@@ -337,6 +338,7 @@
 .g-heaven.net
 .g-takumi.com
 .ga-t.net
+.gaagle.jp
 .gadgetlife2ch.blomaga.jp
 .gakkougurashi.com
 .gakkushi.com
@@ -513,6 +515,8 @@
 .kakuge-checker.com
 .kanasoku.s130.coreserver.jp
 .kanichat.com
+.kanimg.com
+.kankan.com
 .kanpani.jp
 .kantanstart.jp
 .karapaia.livedoor.biz
@@ -731,6 +735,7 @@
 .netsaru.jp
 .neulion.com
 .neutralx0.net
+.new-akiba.com
 .newblo7.net
 .news-choice.net
 .news-matome.com
@@ -952,6 +957,7 @@
 .square-enix.com
 .srworld.net
 .ssmatomeantenna.info
+.starfakes.biz
 .startappservice.com
 .static.naver.jp
 .steamcommunity.com
@@ -1119,6 +1125,7 @@
 .xn--u9jwfk5a1cc8qdb1qb.com
 .xonline.jp
 .xrea.com
+.xunlei.com
 .xvideo-jp.com
 .xvideo.com
 .xvideos-field.com
