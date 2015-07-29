@@ -59,9 +59,11 @@
 .adjust.com
 .adresult.jp
 .adultmedia.jp
+.adultsuns.net
 .adulttoys.jp
 .advertising.com
 .aemedia.org
+.afo-news.com
 .agag.tw
 .agar.io
 .ageofstrife.com
@@ -130,6 +132,7 @@
 .auctions.search.yahoo.co.jp
 .autoc-one.jp
 .av-365.com
+.av-baron.com
 .averodogazo.com
 .averonew.com
 .avtv-movie.com
@@ -305,12 +308,15 @@
 .ero-video.net
 .eroanimedouga.net
 .eroantenna.com
+.eroero-gazou.net
 .eroeroga.com
 .eroga-station.com
 .erogal.biz
 .erogazo-jp.net
 .erogazou-pinkline.com
 .erogazoufactory.com
+.erogazouman.net
+.erogazounosuke.com
 .erojima2.com
 .eromanga.jp
 .eromate.info
@@ -337,6 +343,7 @@
 .fezero.jp
 .ffrk.blog.jp
 .ffrkmato.blog.jp
+.fightingirl.com
 .figsoku.net
 .finalfantasy.jp
 .finalfantasyxiv.com
@@ -392,6 +399,8 @@
 .gamez.jp
 .gamme.com.tw
 .gaym.jp
+.gazoukan317.jp
+.gazounabi.com
 .gb-wiki.net
 .gbf-wiki.com
 .gczero.com
@@ -417,6 +426,7 @@
 .gmo.jp
 .gmocloud.com
 .gmossp-sp.jp
+.gmpg.org
 .gogoanime.com
 .goldv.ash.jp
 .goo-net.com
@@ -467,6 +477,7 @@
 .hishaku.com
 .hklmm.com
 .hnalady.com
+.hobonichielog.com
 .hokanko-alt.com
 .honey-rope.jugem.jp
 .honeyworks.jp
@@ -676,6 +687,7 @@
 .mementoo.info
 .menscyzo.com
 .mess-y.com
+.mgstage.com
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
@@ -710,6 +722,7 @@
 .mojang.com
 .mokugeki.jp
 .momo-puri.com
+.momon-ga.com
 .momoniji.com
 .momovideo.net
 .monhang.com
@@ -873,6 +886,7 @@
 .pico-n.com
 .pict-navi.net
 .piercs.com
+.pinkelech.com
 .pinkerodougasex.com
 .pinknotora.net
 .pipa.jp
@@ -1017,10 +1031,12 @@
 .stmato.com
 .sugumiru18.com
 .summonboard.net
+.sumomo-ch.com
 .suomi-neito.com
 .superhero-movie.com
 .suresuta.jp
 .suruga-ya.jp
+.swcs.jp
 .swiki.jp
 .syanago.com
 .syosetu.com
@@ -1111,6 +1127,7 @@
 .videos.real.com
 .vimeo.com
 .vimeocdn.com
+.vipcle.net
 .vipelog.com
 .vipick.net
 .vippers.jp
@@ -1184,6 +1201,7 @@
 .xvideo-jp.com
 .xvideo.com
 .xvideos-field.com
+.xvideos-field5.com
 .xvideos-jp.org
 .xvideos.com
 .xvideosantenna.livedoor.biz
@@ -1196,6 +1214,7 @@
 .y-watch.info
 .yac.me
 .yahoo-mbga.jp
+.yajiuma-antena.com
 .yakan.net
 .yakkun.com
 .yamimeta.com
