@@ -727,6 +727,7 @@
 .neutralx0.net
 .newblo7.net
 .news-choice.net
+.news-matome.com
 .news-select.net
 .news-three-stars.net
 .news4vip.livedoor.biz
