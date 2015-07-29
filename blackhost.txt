@@ -221,6 +221,7 @@
 .commseed.jp
 .completedouga.com
 .conangame.jp
+.corebooks.jp
 .coremagazine.co.jp
 .cosmicbreak.jp
 .cosp.jp
@@ -231,6 +232,7 @@
 .cylab.jp
 .cyzo.co.jp
 .cyzowoman.com
+.daddymami.net
 .dailymotion.com
 .damage0.blomaga.jp
 .darksummoner.jp
