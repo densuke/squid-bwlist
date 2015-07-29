@@ -59,6 +59,7 @@
 .adingo.jp
 .adjust.com
 .adresult.jp
+.adsbro.com
 .adultmedia.jp
 .adultsuns.net
 .adulttoys.jp
@@ -191,6 +192,7 @@
 .butt3rs.com
 .butterfly-corp.jp
 .buzzhand.com
+.buzzhand.net
 .buzznews.asia
 .c-lab.link
 .cafe-capy.net
@@ -228,6 +230,7 @@
 .clan-battle.jp
 .clip.vn
 .cn
+.cnzz.com
 .cnzz.net
 .cocone.jp
 .codecflesh.xyz
