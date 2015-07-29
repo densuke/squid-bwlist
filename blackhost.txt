@@ -58,6 +58,8 @@
 .adingo.jp
 .adjust.com
 .adresult.jp
+.adultmedia.jp
+.adulttoys.jp
 .advertising.com
 .aemedia.org
 .agag.tw
@@ -82,6 +84,7 @@
 .amfys.net
 .amiami.jp
 .amoad.com
+.ana-ero.com
 .angel-live.com
 .anicole.net
 .animate-onlineshop.jp
@@ -108,6 +111,7 @@
 .applover.us
 .appoxee.com
 .appteam.biz
+.apserver.net
 .arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
@@ -125,6 +129,7 @@
 .atgames.jp
 .auctions.search.yahoo.co.jp
 .autoc-one.jp
+.av-365.com
 .averodogazo.com
 .averonew.com
 .avtv-movie.com
@@ -139,6 +144,7 @@
 .baito.mynavi.jp
 .bakankoku.com
 .bakattan.com
+.bakufu.jp
 .bakusai.com
 .bandai-hobbuy.net
 .bandainamco-ol.jp
@@ -270,6 +276,7 @@
 .donderhiroba.jp
 .doorblog.jp
 .dorapon.info
+.doumitemo.com
 .dpface.info
 .dqmp.jp
 .dqmsl.co
@@ -281,6 +288,7 @@
 .draque-matome.com
 .dreadnought-tcg.com
 .ds-voice.net
+.e-nls.net
 .e-shota.com
 .ea.com
 .eagate.573.jp
@@ -300,9 +308,15 @@
 .eroeroga.com
 .eroga-station.com
 .erogal.biz
+.erogazo-jp.net
+.erogazou-pinkline.com
 .erogazoufactory.com
+.erojima2.com
 .eromanga.jp
+.eromate.info
+.eromitai.com
 .erop.jp
+.eropad.com
 .eropeg.net
 .erosy.info
 .erotika.jp
@@ -316,6 +330,7 @@
 .famitsu.com
 .fast2ch.dip.jp
 .faststore.org
+.favsite.jp
 .fc2.com
 .fc2web.com
 .fecipher.jp
@@ -428,6 +443,7 @@
 .gust.co.jp
 .h-douga.net
 .h-ken.net
+.h3dcg.com
 .hackadoll.com
 .hamelnovel.com
 .hamusoku.com
@@ -441,13 +457,16 @@
 .hemine.co
 .heroesandgenerals.com
 .heroz.jp
+.hh.iij4u.or.jp
 .highgamers.com
 .hijyoushiki.sakura.ne.jp
 .himado.in
 .himarin.net
 .himasoku.com
+.hiroimono.org
 .hishaku.com
 .hklmm.com
+.hnalady.com
 .hokanko-alt.com
 .honey-rope.jugem.jp
 .honeyworks.jp
@@ -587,10 +606,12 @@
 .littlesolo.com
 .livejupiter.net
 .liveleak.com
+.livelog.biz
 .liverail.com
 .logpo.jp
 .lol-museum.net
 .lol2048.com
+.lolig.blog.jp
 .lolipop.jp
 .loljp-mirror.tk
 .loljp-wiki.tk
@@ -613,7 +634,9 @@
 .maist.jp
 .majikichi.com
 .mangabox.me
+.mangadl.com
 .mangapolo.com
+.maniacerogazo.com
 .manmai.jp
 .manna-jp.com
 .maplestory.jp
@@ -686,6 +709,8 @@
 .moguragames.com
 .mojang.com
 .mokugeki.jp
+.momo-puri.com
+.momoniji.com
 .momovideo.net
 .monhang.com
 .monmato.com
@@ -768,9 +793,11 @@
 .nicotalk.com
 .nicotto.jp
 .nicovideo.jp
+.nikkanerog.com
 .nimg.jp
 .nintendo.co.jp
 .nintendowifi.net
+.nipple-img.com
 .nishifukuma.com
 .niziero.com
 .noahapps.jp
@@ -800,6 +827,8 @@
 .oowata.com
 .op.gg
 .open2ch.net
+.oppaibook.com
+.oppainorakuen.com
 .orewiz.mobi
 .org.hm
 .oroti.net
@@ -836,6 +865,7 @@
 .pazumato.com
 .pazupura.com
 .pcpitshop.com
+.peach-soku4.com
 .peco-japan.com
 .photo-capsule.net
 .photobag.in
@@ -844,6 +874,7 @@
 .pict-navi.net
 .piercs.com
 .pinkerodougasex.com
+.pinknotora.net
 .pipa.jp
 .pixiv.net
 .plastic-memories.jp
@@ -854,6 +885,7 @@
 .playstation.com
 .playtika.com
 .playtomic.com
+.plineworld.com
 .pmang.jp
 .po-kaki-to.com
 .pokecheck.org
@@ -862,6 +894,7 @@
 .pokesen.com
 .pong.com
 .ponos.co.jp
+.porori-ch.com
 .ppy.sh
 .premiumcyzo.com
 .pripara.jp
@@ -926,10 +959,13 @@
 .sega-pc.com
 .sega.jp
 .seikatuch.com
+.seiroganmania.com
 .sekurosu.com
 .sensns.com
 .sensodyne.es
 .sensodyne.jp
+.seo-adult.net
+.sexdougalove.com
 .sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
@@ -947,6 +983,7 @@
 .shironekoproject.jp
 .shironekosokuhou.blog.jp
 .shiroutmove.com
+.shirumonovideo.com
 .shishioh.info
 .shobon.jp
 .shogionline.jp
@@ -978,6 +1015,7 @@
 .steampowered.com
 .steamstatic.com
 .stmato.com
+.sugumiru18.com
 .summonboard.net
 .suomi-neito.com
 .superhero-movie.com
@@ -991,6 +1029,7 @@
 .tabtter.jp
 .taipingu.net
 .taiwannohannou.com
+.tajigen.com
 .takara.ms
 .takenokosokuhou.com
 .tales-ch.jp
@@ -1150,6 +1189,8 @@
 .xvideosantenna.livedoor.biz
 .xvideosfc2.com
 .xvideosinclt.com
+.xvideosmatome.net
+.xvideosmovie.com
 .xvideosnavi.mobi
 .xxxxxxxx.jp
 .y-watch.info
