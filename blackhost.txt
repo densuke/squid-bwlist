@@ -160,6 +160,7 @@
 .bandainamcoent.co.jp
 .bandainamcogames.co.jp
 .barks.jp
+.battle.net
 .battlefield.com
 .bcatwiz.com
 .beelzeboulxxx.com
@@ -949,6 +950,7 @@
 .puzdra.jp
 .puzu.biz
 .puzzdrashinbun.com
+.qiantucdn.com
 .qilook.com
 .qoo-app.com
 .qq.com
@@ -1034,6 +1036,7 @@
 .smilevideo.jp
 .smj.io
 .smq.jp
+.soccer-douga.com
 .socdm.com
 .sogou.com
 .solty.2-d.jp
