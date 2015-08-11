@@ -1226,6 +1226,7 @@
 .turbobit.net
 .turusokuhou.com
 .tv
+.tvsurf.jp
 .twi1.me
 .twimg.com
 .twin-angel.com
