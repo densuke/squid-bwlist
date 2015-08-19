@@ -30,6 +30,7 @@ while [ ! "x$1" = "x" ]; do
  echo "$D" | grep $(cat blackhost.txt | sed -e 's;^;-e ;')
  if [ $? = 0 ]; then
    echo "ドメイン $D はすでにある設定で該当するため無視します" >/dev/stderr
+	 shift
    continue
  fi
  echo "$D" >> blackhost.txt && \
