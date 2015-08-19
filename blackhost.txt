@@ -187,6 +187,8 @@
 .bitshare.com
 .bitsummit.org
 .blazegames.jp
+.blogcms.jp
+.blogimg.jp
 .blogmura.com
 .blogo.jp
 .blogsys.jp
@@ -689,6 +691,9 @@
 .linegames.com
 .linegames.jp
 .littlesolo.com
+.livedoor.com
+.livedoor.jp
+.livedoor.net
 .livejupiter.net
 .livekeys.net
 .liveleak.com
@@ -807,6 +812,7 @@
 .momon-ga.com
 .momoniji.com
 .momovideo.net
+.mona-news.com
 .monhang.com
 .monmato.com
 .monsoku.info
@@ -911,6 +917,7 @@
 .nyan.eggtree.net
 .nyankobiyori.com
 .nyansoku.jp
+.nyanta.jp
 .nyonin.com
 .o0o0.jp
 .oboega-01.blog.jp
