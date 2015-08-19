@@ -434,11 +434,9 @@
 .gameinjp.com
 .gamejolt.com
 .gamemaps.com
-.gamenetall.web.fc2.com
 .gameon.jp
 .gamepedia.com
 .gamerch.com
-.gamerfree.blog.fc2.com
 .gamerp.jp
 .gamescampus.co.jp
 .gamewith.jp
@@ -550,7 +548,6 @@
 .huntersokuho.com
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
-.hxh.gamerch.com
 .i-mobile.co.jp
 .i2i.jp
 .i2iparts.jp
@@ -599,7 +596,6 @@
 .jpcamera.info
 .jpddl.com
 .jscape.jp
-.jumpmatome2ch.blog.fc2.com
 .jumpsokuhou.com
 .jword.jp
 .jwpltx.com
@@ -824,7 +820,6 @@
 .moo.jp
 .moog-games.jp
 .moog.me
-.moonwish.com.cn
 .mora.jp
 .morikinoko.com
 .moto-nari.com
@@ -858,7 +853,6 @@
 .native.hekk.org
 .naver.jp
 .naver.net
-.naverland.naver.jp
 .ncfost.jp
 .ncsoft.jp
 .nefficient.jp
@@ -1019,7 +1013,6 @@
 .premiumcyzo.com
 .pripara.jp
 .prisma-illya.jp
-.pro.cn
 .probuilds.net
 .project-diva-ac.net
 .psnova.net
@@ -1043,7 +1036,6 @@
 .quiz-wiz.com
 .qvod.com
 .r18matome.com
-.r30r30r30.antenam.info
 .radiko.jp
 .railgun-antenna.info
 .rakugan.com
@@ -1063,7 +1055,6 @@
 .rottengirl.net
 .rpgmaker.net
 .rss-rank.com
-.rss.harikonotora.net
 .ruisenhoukai.com
 .ryushare.com
 .saba-navi.com
@@ -1141,7 +1132,6 @@
 .ssmatomeantenna.info
 .starfakes.biz
 .startappservice.com
-.static.naver.jp
 .steamcommunity.com
 .steampowered.com
 .steamstatic.com
@@ -1207,7 +1197,6 @@
 .torepiro.com
 .tori-ch.com
 .torrent-anime.com
-.touaseikei.matomesakura.com
 .touchlab.jp
 .touken-ranbu.jp
 .tpnav.com
@@ -1253,7 +1242,6 @@
 .uuu9.com
 .uyosoku.com
 .vid-dl.net
-.videos.real.com
 .vimeo.com
 .vimeocdn.com
 .vipcle.net
@@ -1293,16 +1281,6 @@
 .wot-news.com
 .wowgame.jp
 .ws-tcg.com
-.www.harikonotora.net
-.www.j-antenna.com
-.www.karzusp.net
-.www.konton.info
-.www.matomech.com
-.www.shakin.in
-.www.shobon.jp
-.www.tarikin.net
-.www.tukuruyoantena.com
-.www6.ocn.ne.jp
 .x-legend.co.jp
 .x0.to
 .x51.org
@@ -1310,23 +1288,6 @@
 .xboxlive.com
 .xhamster.com
 .xiaomi.net
-.xn--28j3f296j4hlf7s.biz
-.xn--2ch-li4b4gya9z.com
-.xn--7-0gu7b.net
-.xn--cck1b8b8bd5hj6ft354dk17a.com
-.xn--dckc6b4c0aj0bt9o5czde7i.com
-.xn--eckgx3bc0odb2ob4r.com
-.xn--eckhut1aa8hcb0g3mh7jvfb.biz
-.xn--gameofwar-8r4so63l.jp
-.xn--h9jnav5fb1b3dtd.com
-.xn--hckg2evdve618uwp1azjthoi.com
-.xn--hckqz0e9cygy540a71vak01acxe0mdd11j.biz
-.xn--lckzah2d6d3dcb9fdc6hh3361lt4sbxb4cj78e.com
-.xn--n8j7dyg5cue613zibj2tn.xn--2ch-li4b4gya9z.com
-.xn--pck6bvfc1708dnjua.net
-.xn--sckyeodz36l941b.jp
-.xn--ss-ci4aa8ub.com
-.xn--u9jwfk5a1cc8qdb1qb.com
 .xonline.jp
 .xrea.com
 .xunlei.com
