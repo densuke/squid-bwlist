@@ -528,7 +528,6 @@
 .hn-antena.com
 .hnalady.com
 .hobonichielog.com
-.hoge.2ch.net
 .hokanko-alt.com
 .honey-rope.jugem.jp
 .honeyworks.jp
