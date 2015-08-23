@@ -82,7 +82,6 @@
 .aitore.com
 .aiyokugekijo.com
 .akb2ch.com
-.akb48mato.com
 .akb48matomemory.com
 .akb48rompen.com
 .akbakb.com
@@ -105,7 +104,6 @@
 .ana-ero.com
 .angel-live.com
 .anicole.net
-.anige-sokuhouvip.com
 .animate-onlineshop.jp
 .anime-sharing.com
 .anime44.com
@@ -136,6 +134,7 @@
 .archeage.jpn.org
 .arithgame.jp
 .aruaru.me
+.arurusoku.blog.jp
 .asahiwa.jp
 .asg.to
 .asianews2ch.jp
@@ -154,10 +153,10 @@
 .averonew.com
 .avinfolie.net
 .avtv-movie.com
-.ayu-nya.com
 .b.hatena.ne.jp
 .b9dm.com
 .babarageo.com
+.bagemato.blog.jp
 .bahamut.com.tw
 .baidu.com
 .baidu.jp
@@ -189,7 +188,6 @@
 .bitshare.com
 .bitsummit.org
 .blazegames.jp
-.blog.jp
 .blogcms.jp
 .blogimg.jp
 .blogmura.com
@@ -217,7 +215,6 @@
 .buzznews.asia
 .c-lab.link
 .cafe-capy.net
-.calciomatome.net
 .capcom-onlinegames.jp
 .capcom.co.jp
 .caribbeancom.com
@@ -874,7 +871,6 @@
 .nekomemo.com
 .nekowithwiz.blog.jp
 .nend.net
-.netaatoz.jp
 .netatama.net
 .netgamewiki.com
 .netgeek.biz
@@ -933,10 +929,8 @@
 .oboom.com
 .obunko.com
 .octoba.jp
-.okanehadaiji.com
 .okkisokuho.com
 .okoshi-yasu.com
-.okusama-kijyo.com
 .oletower.com
 .omoshiroi-hanashi.com
 .ona-kura.com
@@ -973,7 +967,6 @@
 .p-world.co.jp
 .pachiseven.jp
 .pad-plus.com
-.pad-soku.com
 .pad.atenasoku.com
 .pagoda56.com
 .pakapon.com
@@ -983,7 +976,6 @@
 .panpilog.com
 .paperman.jp
 .parts.blog.livedoor.jp
-.parusoku.com
 .pathofexile.com
 .patolesoft.net
 .pazdra.blog.jp
@@ -1023,7 +1015,6 @@
 .po-kaki-to.com
 .pokecheck.org
 .pokemon-br.com
-.pokemon-matome.net
 .pokemon.co.jp
 .pokesen.com
 .pong.com
@@ -1049,7 +1040,6 @@
 .puyoquest.jp
 .puzdra.jp
 .puzu.biz
-.puzzdragon.jp
 .puzzdrashinbun.com
 .qiantucdn.com
 .qilook.com
@@ -1130,14 +1120,12 @@
 .shogionline.jp
 .shoshinsha.com
 .showbyrock-anime.com
-.shuraba-matome.com
 .shuraba.net
 .simg.jp
 .simplemeet.me
 .sinfonia-wld.com
 .sironekokouryaku.com
 .sisainlive.com
-.skr.jp
 .smartphone-electric.net
 .smilevideo.jp
 .smj.io
@@ -1185,7 +1173,6 @@
 .taleworlds.com
 .tamenal.com
 .tamesure.com
-.tanoshikoto.com
 .tanx.com
 .taobao.com
 .tarikin.net
@@ -1238,7 +1225,6 @@
 .trpg.net
 .tsundora.com
 .tube8.com
-.tuccom.com
 .tumblr.com
 .turbobit.net
 .turukusa.com
@@ -1307,7 +1293,6 @@
 .wonderpla.net
 .wondershare.com
 .world-antenna.net
-.worldfn.net
 .wot-news.com
 .wowgame.jp
 .ws-tcg.com
