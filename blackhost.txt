@@ -82,6 +82,7 @@
 .aitore.com
 .aiyokugekijo.com
 .akb2ch.com
+.akb48mato.com
 .akb48matomemory.com
 .akb48rompen.com
 .akbakb.com
@@ -274,9 +275,11 @@
 .cybergadget.co.jp
 .cygames.co.jp
 .cylab.jp
+.cyousokuvip.com
 .cyzo.co.jp
 .cyzowoman.com
 .daddymami.net
+.dailyff14.com
 .dailymotion.com
 .damage0.blomaga.jp
 .darksummoner.jp
@@ -311,6 +314,7 @@
 .dorapon.info
 .douga100ka.jp
 .doumitemo.com
+.dousoku.net
 .dpface.info
 .dqmp.jp
 .dqmsl.co
@@ -320,6 +324,7 @@
 .dqx.jp
 .dragonquest.jp
 .draque-matome.com
+.drdinl.jp
 .dreadnought-tcg.com
 .ds-voice.net
 .duga.jp
@@ -335,6 +340,7 @@
 .enflatpark.com
 .enq-maker.com
 .entapotime.com
+.entertainmentsummary.net
 .epochtimes.com
 .eriones.com
 .ero-an.com
@@ -456,6 +462,7 @@
 .gczero.com
 .ge-tube.com
 .geekles.net
+.geeksokuhou.net
 .gekikarareview.com
 .gekiyaku.com
 .genbujp.com
@@ -585,6 +592,7 @@
 .iwashi.biz
 .j-antenna.com
 .j-cg.com
+.jakou.com
 .japohan.net
 .jeuxvideo24.com
 .jimdo.com
@@ -600,6 +608,7 @@
 .joysound.com
 .jpcamera.info
 .jpddl.com
+.jpsoku.blog.jp
 .jscape.jp
 .jumpsokuhou.com
 .jword.jp
@@ -620,18 +629,22 @@
 .kanichat.com
 .kanimg.com
 .kankan.com
+.kanmaga.com
 .kanpani.jp
+.kantai-collection.com
 .kantanstart.jp
 .kaola.jp
 .karapaia.livedoor.biz
 .katsumoku.net
 .katuru.com
+.kau.li
 .kekkaisensen.com
 .kekkonch.com
 .ken-ch.vqpv.biz
 .kichimama.com
 .kidan-ch.com
 .kijobibouroku.com
+.kijomatomelog.com
 .kijyomatome.com
 .kijyomita.com
 .kikonboti.com
@@ -672,6 +685,7 @@
 .kyousoku.net
 .kyuukyoku-matome.info
 .kyuusai2nd.net
+.lab-genetique-biometrie.com
 .labaq.com
 .lady.com
 .lakatan.net
@@ -721,6 +735,7 @@
 .lovelive-anime.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
+.lovelivepress.com
 .lovetoy.jp
 .luidas.com
 .lukemcg.com
@@ -806,6 +821,7 @@
 .mobafire.com
 .mobiusfinalfantasy.com
 .moeerolibrary.com
+.moeponzu.com
 .moerank.com
 .moeruasia.net
 .mogera.jp
@@ -866,11 +882,13 @@
 .naver.net
 .ncfost.jp
 .ncsoft.jp
+.neesoku.net
 .nefficient.jp
 .negisoku.com
 .nekomemo.com
 .nekowithwiz.blog.jp
 .nend.net
+.netaatoz.jp
 .netatama.net
 .netgamewiki.com
 .netgeek.biz
@@ -929,8 +947,10 @@
 .oboom.com
 .obunko.com
 .octoba.jp
+.okanehadaiji.com
 .okkisokuho.com
 .okoshi-yasu.com
+.okusama-kijyo.com
 .oletower.com
 .omoshiroi-hanashi.com
 .ona-kura.com
@@ -967,6 +987,7 @@
 .p-world.co.jp
 .pachiseven.jp
 .pad-plus.com
+.pad-soku.com
 .pad.atenasoku.com
 .pagoda56.com
 .pakapon.com
@@ -976,6 +997,7 @@
 .panpilog.com
 .paperman.jp
 .parts.blog.livedoor.jp
+.parusoku.com
 .pathofexile.com
 .patolesoft.net
 .pazdra.blog.jp
@@ -1015,6 +1037,7 @@
 .po-kaki-to.com
 .pokecheck.org
 .pokemon-br.com
+.pokemon-matome.net
 .pokemon.co.jp
 .pokesen.com
 .pong.com
@@ -1040,6 +1063,7 @@
 .puyoquest.jp
 .puzdra.jp
 .puzu.biz
+.puzzdragon.jp
 .puzzdrashinbun.com
 .qiantucdn.com
 .qilook.com
@@ -1120,12 +1144,14 @@
 .shogionline.jp
 .shoshinsha.com
 .showbyrock-anime.com
+.shuraba-matome.com
 .shuraba.net
 .simg.jp
 .simplemeet.me
 .sinfonia-wld.com
 .sironekokouryaku.com
 .sisainlive.com
+.skr.jp
 .smartphone-electric.net
 .smilevideo.jp
 .smj.io
@@ -1173,6 +1199,7 @@
 .taleworlds.com
 .tamenal.com
 .tamesure.com
+.tanoshikoto.com
 .tanx.com
 .taobao.com
 .tarikin.net
@@ -1225,6 +1252,7 @@
 .trpg.net
 .tsundora.com
 .tube8.com
+.tuccom.com
 .tumblr.com
 .turbobit.net
 .turukusa.com
@@ -1293,6 +1321,7 @@
 .wonderpla.net
 .wondershare.com
 .world-antenna.net
+.worldfn.net
 .wot-news.com
 .wowgame.jp
 .ws-tcg.com
