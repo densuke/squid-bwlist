@@ -89,6 +89,7 @@
 .alfalfalfa.com
 .alicesoft.com
 .aliyun.com
+.all-nationz.com
 .allxin.com
 .am-our.com
 .amaebi.net
@@ -268,6 +269,7 @@
 .cpmok.net
 .crank-in.net
 .criteo.com
+.crx7601.com
 .curecos.com
 .cybergadget.co.jp
 .cygames.co.jp
@@ -620,6 +622,7 @@
 .kankan.com
 .kanpani.jp
 .kantanstart.jp
+.kaola.jp
 .karapaia.livedoor.biz
 .katsumoku.net
 .katuru.com
@@ -671,6 +674,7 @@
 .kyuusai2nd.net
 .labaq.com
 .lady.com
+.lakatan.net
 .lanceandmasques.jp
 .latale.jp
 .latexcapacity.com
@@ -1167,6 +1171,7 @@
 .tales-ch.jp
 .talewiki.com
 .taleworlds.com
+.tamenal.com
 .tamesure.com
 .tanx.com
 .taobao.com
@@ -1213,6 +1218,7 @@
 .trackword.net
 .trackwords.jp
 .travian.jp
+.treasonnews.com
 .treeofsavior.it
 .trendpride.com
 .tricksterwiki.info
