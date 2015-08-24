@@ -120,6 +120,7 @@
 .antenna-ga.com
 .antenna.ebb.jp
 .antennash.com
+.aos.a4c.jp
 .app-adforce.jp
 .app-heaven.net
 .app-liv.jp
@@ -190,6 +191,7 @@
 .bitshare.com
 .bitsummit.org
 .blazegames.jp
+.blog.jp
 .blogcms.jp
 .blogimg.jp
 .blogmura.com
@@ -559,6 +561,7 @@
 .huntersokuho.com
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
+.hypernews.2chblog.jp
 .i-mobile.co.jp
 .i2i.jp
 .i2iparts.jp
@@ -606,6 +609,7 @@
 .joysound.com
 .jpcamera.info
 .jpddl.com
+.jpsoku.blog.jp
 .jscape.jp
 .jumpsokuhou.com
 .jword.jp
