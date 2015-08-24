@@ -127,6 +127,7 @@
 .app-heaven.net
 .app-liv.jp
 .app-wiki.info
+.appbank.net
 .appget.com
 .appholic.cc
 .applean.info
@@ -134,6 +135,7 @@
 .applion.jp
 .applover.us
 .appoxee.com
+.appsflyer.com
 .appteam.biz
 .apserver.net
 .arcenserv.info
@@ -278,6 +280,7 @@
 .crank-in.net
 .criteo.com
 .crx7601.com
+.cuonet.com
 .curecos.com
 .cybergadget.co.jp
 .cygames.co.jp
@@ -404,6 +407,7 @@
 .figsoku.net
 .finalfantasy.jp
 .finalfantasyxiv.com
+.flower-knight-girls.co.jp
 .flvto.com
 .fo-lens.net
 .focas.jp
@@ -636,6 +640,7 @@
 .kakuge-checker.com
 .kamierodouga.com
 .kanasoku.s130.coreserver.jp
+.kancolle-ss.com
 .kanichat.com
 .kanimg.com
 .kankan.com
@@ -750,6 +755,7 @@
 .lvchat.info
 .mabo02.livedoor.biz
 .madskills.com
+.magicalmirai.com
 .magicianwizsoku.com
 .magsoku.blomaga.jp
 .mahoneko.info
@@ -807,6 +813,7 @@
 .mh4g.org
 .mhf-g.jp
 .microad.jp
+.mikumoba.jp
 .milestone-net.co.jp
 .milihime.jp
 .milihime.jp.edgesuite.net
