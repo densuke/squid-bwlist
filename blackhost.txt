@@ -4,6 +4,7 @@
 .11ch-av.com
 .120.hp2.jp
 .126.net
+.127.net
 .133.242.181.110
 .163.com
 .1geki.jp
@@ -489,6 +490,7 @@
 .gmocloud.com
 .gmossp-sp.jp
 .gmpg.org
+.godessgame.com
 .gogoanime.com
 .goldv.ash.jp
 .goo-net.com
@@ -501,6 +503,7 @@
 .grabzer.com
 .granbluefantasy.jp
 .gree-apps.net
+.gree.jp
 .gree.net
 .groovecoaster.jp
 .gsspcln.jp
@@ -522,6 +525,7 @@
 .hanalog.com
 .hangame.co.jp
 .hangame.com
+.happyelements.co.jp
 .hardluckz.com
 .hareruyamtg.com
 .harikonotora.net
@@ -529,6 +533,7 @@
 .hatenanotebook.com
 .he-games.com
 .heartlife-matome.com
+.hekk.org
 .hemine.co
 .heroesandgenerals.com
 .heroz.jp
@@ -1152,6 +1157,7 @@
 .smilevideo.jp
 .smj.io
 .smq.jp
+.snmemories.net
 .soccer-douga.com
 .socdm.com
 .sogou.com
@@ -1159,6 +1165,7 @@
 .sonicch.com
 .speedtrace.co.jp
 .sportsnavi.dtiblog.com
+.sptadao.co.jp
 .sqex.to
 .square-enix.com
 .srworld.net
