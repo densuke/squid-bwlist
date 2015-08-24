@@ -3,7 +3,9 @@
 .100shiki.com
 .11ch-av.com
 .120.hp2.jp
+.126.net
 .133.242.181.110
+.163.com
 .1geki.jp
 .1kibaku.jp
 .2-carat.net
@@ -109,6 +111,7 @@
 .animate-onlineshop.jp
 .anime-sharing.com
 .anime44.com
+.animeanime.jp
 .animemories.net
 .anipo.jp
 .anitena.tori29.net
@@ -251,6 +254,7 @@
 .chonborista.com
 .civ5nobunaga.com
 .clan-battle.jp
+.clevelandelectronicservices.com
 .clip.vn
 .cn
 .cnzz.com
@@ -389,6 +393,7 @@
 .famitsu.com
 .fast2ch.dip.jp
 .faststore.org
+.fate-go.jp
 .favsite.jp
 .fc2.com
 .fc2web.com
@@ -552,6 +557,7 @@
 .hotp.jp
 .howto-box.jp
 .hrs-game.main.jp
+.http://hekk.org/
 .hujiang.com
 .hulu.com
 .hulu.jp
@@ -785,6 +791,7 @@
 .mega.co.nz
 .megamiengage.com
 .melon.com
+.melonbooks.co.jp
 .melonbooks.com
 .mementoo.info
 .menscyzo.com
@@ -909,6 +916,7 @@
 .nicodic.jp
 .nicoken.com
 .nicomato.com
+.nicomi.com
 .nicoseiga.jp
 .nicosoku.blomaga.jp
 .nicotalk.com
@@ -1349,6 +1357,7 @@
 .yanen.org
 .yaruo-antenna.sakura.ne.jp
 .yaruo.info
+.yeshj.com
 .yjsnpi.nu
 .yomosoku.com
 .yorozu.be
