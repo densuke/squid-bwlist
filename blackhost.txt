@@ -105,6 +105,7 @@
 .ana-ero.com
 .angel-live.com
 .anicole.net
+.anige-sokuhouvip.com
 .animate-onlineshop.jp
 .anime-sharing.com
 .anime44.com
@@ -154,6 +155,7 @@
 .averonew.com
 .avinfolie.net
 .avtv-movie.com
+.ayu-nya.com
 .b.hatena.ne.jp
 .b9dm.com
 .babarageo.com
@@ -189,6 +191,7 @@
 .bitshare.com
 .bitsummit.org
 .blazegames.jp
+.blog.jp
 .blogcms.jp
 .blogimg.jp
 .blogmura.com
@@ -216,6 +219,7 @@
 .buzznews.asia
 .c-lab.link
 .cafe-capy.net
+.calciomatome.net
 .capcom-onlinegames.jp
 .capcom.co.jp
 .caribbeancom.com
@@ -539,7 +543,6 @@
 .hn-antena.com
 .hnalady.com
 .hobonichielog.com
-.hoge.2ch.net
 .hokanko-alt.com
 .honey-rope.jugem.jp
 .honeyworks.jp
@@ -608,7 +611,6 @@
 .joysound.com
 .jpcamera.info
 .jpddl.com
-.jpsoku.blog.jp
 .jscape.jp
 .jumpsokuhou.com
 .jword.jp
