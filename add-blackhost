@@ -34,14 +34,16 @@ while [ ! "x$1" = "x" ]; do
    continue
  fi
  echo "$D" >> blackhost.txt && \
- make sort 
- ./check
- if [ $? = 0 ]; then
+ make sort
+ WORKFILE=/tmp/check.$$
+ ./check 2>&1 | tee ${WORKFILE}
+ if [ $? = 0 -a $(wc -l < ${WORKFILE}) -le 4 ]; then
   git add blackhost.txt
  else
   git checkout blackhost.txt
 	echo "REVERTED DOMAIN $D" > /dev/stderr
  fi
+ rm -f ${WORKFILE}
  shift
 done
 git commit -m "batch commit" && \

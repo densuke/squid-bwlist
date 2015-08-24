@@ -11,7 +11,7 @@ update:
 	git checkout $(NOW)
 
 sort:
-	sort -u  blackhost.txt > blackhost.tmp
+	sort -u  blackhost.txt | grep -v '^$'  > blackhost.tmp
 	- cmp blackhost.txt blackhost.tmp || mv -v blackhost.tmp blackhost.txt
 	rm -f blackhost.tmp
 	./check
