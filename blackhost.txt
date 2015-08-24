@@ -120,6 +120,7 @@
 .antenna-ga.com
 .antenna.ebb.jp
 .antennash.com
+.aos.a4c.jp
 .app-adforce.jp
 .app-heaven.net
 .app-liv.jp
