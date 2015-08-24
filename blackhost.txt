@@ -1,3 +1,4 @@
+
 .0matome.com
 .1000mg.jp
 .100shiki.com
@@ -136,7 +137,6 @@
 .archeage.jpn.org
 .arithgame.jp
 .aruaru.me
-.arurusoku.blog.jp
 .asahiwa.jp
 .asg.to
 .asianews2ch.jp
@@ -159,7 +159,6 @@
 .b.hatena.ne.jp
 .b9dm.com
 .babarageo.com
-.bagemato.blog.jp
 .bahamut.com.tw
 .baidu.com
 .baidu.jp
@@ -191,7 +190,6 @@
 .bitshare.com
 .bitsummit.org
 .blazegames.jp
-.blog.jp
 .blogcms.jp
 .blogimg.jp
 .blogmura.com
@@ -396,8 +394,6 @@
 .fc2web.com
 .fecipher.jp
 .fezero.jp
-.ffrk.blog.jp
-.ffrkmato.blog.jp
 .fightingirl.com
 .figsoku.net
 .finalfantasy.jp
@@ -605,7 +601,6 @@
 .jjwxc.net
 .jk-play.com
 .johnnyswest-love.com
-.jojomato.blog.jp
 .jojoss.jp
 .joymanj.net
 .joysound.com
@@ -670,7 +665,6 @@
 .komica.org
 .konaminet.jp
 .konomoe.at.webry.info
-.koredakedeok.blog.jp
 .kosusoku.net
 .kotaro269.com
 .kroko.jp
@@ -723,7 +717,6 @@
 .logpo.jp
 .lol-museum.net
 .lol2048.com
-.lolig.blog.jp
 .lolimanga.com
 .lolipop.jp
 .loljp-mirror.tk
@@ -819,7 +812,6 @@
 .mmo-logres.com
 .mmoloda.com
 .mnstmato.com
-.mnstmatome.blog.jp
 .mobafire.com
 .mobiusfinalfantasy.com
 .moeerolibrary.com
@@ -845,7 +837,6 @@
 .monster-strike.com
 .monsterstrikekouryaku.com
 .monstop-matome.com
-.monsutojyoma.blog.jp
 .moo.jp
 .moog-games.jp
 .moog.me
@@ -888,7 +879,6 @@
 .nefficient.jp
 .negisoku.com
 .nekomemo.com
-.nekowithwiz.blog.jp
 .nend.net
 .netaatoz.jp
 .netatama.net
@@ -945,7 +935,6 @@
 .nyanta.jp
 .nyonin.com
 .o0o0.jp
-.oboega-01.blog.jp
 .oboom.com
 .obunko.com
 .octoba.jp
@@ -1002,7 +991,6 @@
 .parusoku.com
 .pathofexile.com
 .patolesoft.net
-.pazdra.blog.jp
 .pazdra.rssread.net
 .pazu.biz
 .pazudora-ken.com
@@ -1105,7 +1093,6 @@
 .say-move.org
 .sbr-vcj.com
 .scupio.com.tw
-.sdgfro.blog.jp
 .sdin.jp
 .sdr9t.net
 .sdvx.info
@@ -1132,13 +1119,10 @@
 .shironeko-blog.com
 .shironeko-matomech.com
 .shironeko-project.biz
-.shironeko-project.blog.jp
 .shironekonews.biz
-.shironekopro.blog.jp
 .shironekopro.com
 .shironekoproject-news.com
 .shironekoproject.jp
-.shironekosokuhou.blog.jp
 .shiroutmove.com
 .shirumonovideo.com
 .shishioh.info
@@ -1163,7 +1147,6 @@
 .sogou.com
 .solty.2-d.jp
 .sonicch.com
-.sow.blog.jp
 .speedtrace.co.jp
 .sportsnavi.dtiblog.com
 .sqex.to
@@ -1318,7 +1301,6 @@
 .wizdamashi.com
 .wizmatome.com
 .wizmatomeselection.com
-.wizsoku-plus.blog.jp
 .wk-tk.net
 .wonderpla.net
 .wondershare.com
