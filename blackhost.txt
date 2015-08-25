@@ -74,6 +74,8 @@
 .adjust.com
 .adresult.jp
 .adsbro.com
+.adultdmatome.com
+.adultdmovr.com
 .adultgazoan.net
 .adultmedia.jp
 .adultsuns.net
@@ -403,6 +405,7 @@
 .erosite1012.com
 .erosy.info
 .erotika.jp
+.erovikyowa.com
 .ertk.net
 .escape-game.com
 .esuteru.com
@@ -925,6 +928,7 @@
 .museru.com
 .muwangpark.com
 .mwissoku.com
+.mxserver33.net
 .mylostgames.com
 .myurdayz.com
 .nade-saka.com
@@ -993,6 +997,7 @@
 .nobuwiki.org
 .nomaki.jp
 .nomusoku.blomaga.jp
+.nukerudogaju.com
 .nuketa.com
 .nukinetasu.com
 .nukistream.com
@@ -1213,6 +1218,7 @@
 .simg.jp
 .simplemeet.me
 .sinfonia-wld.com
+.sirohamenet.net
 .sironekokouryaku.com
 .sisainlive.com
 .skr.jp
@@ -1310,6 +1316,7 @@
 .torrent-anime.com
 .touchlab.jp
 .touken-ranbu.jp
+.tousatsusokuhou.com
 .tpnav.com
 .trackfeed.com
 .trackword.biz
