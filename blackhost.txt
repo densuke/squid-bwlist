@@ -1134,6 +1134,7 @@
 .sao-game.jp
 .say-move.org
 .sbr-vcj.com
+.scienceplus2ch.com
 .scupio.com.tw
 .sdin.jp
 .sdr9t.net
