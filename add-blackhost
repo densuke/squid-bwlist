@@ -1,5 +1,7 @@
 #!/bin/sh
 
+EDITOR=true
+
 usage () {
  echo "Usage: $0 domain [...]"
  exit 1
