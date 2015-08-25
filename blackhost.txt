@@ -6,6 +6,7 @@
 .126.net
 .127.net
 .133.242.181.110
+.160.16.63.18
 .163.com
 .1geki.jp
 .1kibaku.jp
@@ -85,6 +86,7 @@
 .ageofstrife.com
 .agkn.com
 .aichuun.co
+.airdroid.com
 .aitore.com
 .aiyokugekijo.com
 .akb2ch.com
@@ -330,6 +332,7 @@
 .donderhiroba.jp
 .doorblog.jp
 .dorapon.info
+.doucolle.net
 .douga100ka.jp
 .doumitemo.com
 .dousoku.net
@@ -346,6 +349,7 @@
 .dreadnought-tcg.com
 .ds-voice.net
 .duga.jp
+.e-nls.com
 .e-nls.net
 .e-shota.com
 .ea.com
@@ -399,6 +403,7 @@
 .esuteru.com
 .evastore.jp
 .exawarosu.net
+.exploader.net
 .eyny.com
 .facebook.com
 .fairydoll.jp
@@ -647,6 +652,7 @@
 .kagekidan.net
 .kai-you.net
 .kaikatsu.jp
+.kairakudoujin.net
 .kairisei-ma.jp
 .kakao.com
 .kakonacl.xsrv.jp
@@ -671,6 +677,7 @@
 .ken-ch.vqpv.biz
 .kichimama.com
 .kidan-ch.com
+.kienizer.com
 .kijobibouroku.com
 .kijomatomelog.com
 .kijyomatome.com
@@ -767,6 +774,7 @@
 .luidas.com
 .lukemcg.com
 .lvchat.info
+.m4ex.com
 .ma-bank.net
 .mabo02.livedoor.biz
 .madskills.com
@@ -774,9 +782,11 @@
 .magicianwizsoku.com
 .magsoku.blomaga.jp
 .mahoneko.info
+.maisinn.net
 .maist.jp
 .majikichi.com
 .mandarake.net
+.manga100ka.jp
 .mangabox.me
 .mangadl.com
 .mangapolo.com
@@ -850,7 +860,9 @@
 .mnstmato.com
 .mobafire.com
 .mobiusfinalfantasy.com
+.moebeika.net
 .moeerolibrary.com
+.moeimg.net
 .moeponzu.com
 .moerank.com
 .moeruasia.net
@@ -929,6 +941,7 @@
 .new-akiba.com
 .newblo7.net
 .news-choice.net
+.news-edge.com
 .news-matome.com
 .news-select.net
 .news-three-stars.net
@@ -1175,6 +1188,7 @@
 .showbyrock-anime.com
 .shuraba-matome.com
 .shuraba.net
+.sijex.net
 .simg.jp
 .simplemeet.me
 .sinfonia-wld.com

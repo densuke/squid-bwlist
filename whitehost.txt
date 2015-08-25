@@ -16,6 +16,7 @@
 .jvn.jp
 .windowsupdate.com
 .microsoft.com
+.windows.net
 .hotmail.com
 .smartnews.be
 .rikunabi.com
@@ -53,3 +54,4 @@ git.amfys.net
 .gstatic.com
 .ch9.ms
 .msdn.com
+.weathernews.jp
