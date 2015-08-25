@@ -24,6 +24,8 @@
 .wikimedia.org
 .wikipedia.org
 .live.jp
+.live.com
+.live.net
 .amazon.co.jp
 .mail.yahoo.co.jp
 .googlesyndication.com
