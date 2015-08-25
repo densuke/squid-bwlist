@@ -229,6 +229,7 @@
 .buzznews.asia
 .c-lab.link
 .cafe-capy.net
+.cafeglobe.com
 .calciomatome.net
 .capcom-onlinegames.jp
 .capcom.co.jp
