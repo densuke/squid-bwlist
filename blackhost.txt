@@ -622,6 +622,7 @@
 .inazumanews2.com
 .indouga.com
 .infopot.jp
+.infotop.jp
 .injulog.com
 .inside-games.jp
 .instagram.com
@@ -736,6 +737,7 @@
 .lanceandmasques.jp
 .latale.jp
 .latexcapacity.com
+.latexeleven.info
 .latexsix.info
 .ldblog.jp
 .leadboltapps.net
@@ -1258,6 +1260,7 @@
 .taipingu.net
 .taiwannohannou.com
 .tajigen.com
+.takanshoukaizen7.info
 .takara.ms
 .takenokosokuhou.com
 .tales-ch.jp
