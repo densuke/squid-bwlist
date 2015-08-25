@@ -10,6 +10,7 @@
 .1geki.jp
 .1kibaku.jp
 .2-carat.net
+.216.58.221.174
 .2blo.net
 .2ch-2.net
 .2ch-a.net
@@ -41,6 +42,7 @@
 .2logch.sakura.ne.jp
 .2mtmex.com
 .2nn.jp
+.2o7.net
 .3gokushi.jp
 .3keta.net
 .4coma.com
@@ -52,6 +54,7 @@
 .724685.com
 .777.nifty.com
 .777town.net
+.7gogo.jp
 .98yrkewj.com
 .9post.jp
 .a-lim.jp
@@ -200,7 +203,9 @@
 .blogimg.jp
 .blogmura.com
 .blogo.jp
+.blogspot.jp
 .blogsys.jp
+.blozoo.net
 .bluestacks.com
 .bmcaxis.jp
 .bn765.com
@@ -299,6 +304,7 @@
 .dd-on.jp
 .dechau.com
 .deko8.jp
+.demae-can.com
 .dendou.jp
 .dengeki.com
 .dengekionline.com
@@ -393,6 +399,7 @@
 .evastore.jp
 .exawarosu.net
 .eyny.com
+.facebook.com
 .fairydoll.jp
 .fam-ad.com
 .famitsu.com
@@ -478,6 +485,7 @@
 .gekiyaku.com
 .genbujp.com
 .gendama.jp
+.genieessp.jp
 .genieesspv.jp
 .gensen2ch.com
 .geo-online.co.jp
@@ -601,6 +609,7 @@
 .infopot.jp
 .injulog.com
 .inside-games.jp
+.instagram.com
 .ipav.xyz
 .ippa.jp
 .iruna.jp
@@ -1110,6 +1119,7 @@
 .rotco.jp
 .rottengirl.net
 .rpgmaker.net
+.rss-loader.com
 .rss-rank.com
 .ruisenhoukai.com
 .ryushare.com
@@ -1194,6 +1204,7 @@
 .stmato.com
 .sugumiru18.com
 .summonboard.net
+.summonnight.net
 .sumomo-ch.com
 .suomi-neito.com
 .superhero-movie.com
@@ -1224,6 +1235,7 @@
 .tatsumix.com
 .tbn17.com
 .team-detonation.net
+.team-lab.com
 .teamys.net
 .techjp.jp
 .terafile.co
@@ -1281,6 +1293,7 @@
 .twimg.com
 .twin-angel.com
 .twirobo.com
+.twitter.com
 .twpf.jp
 .tyabo.com
 .u-note.me
