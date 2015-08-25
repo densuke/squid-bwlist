@@ -54,3 +54,4 @@ git.amfys.net
 .gstatic.com
 .ch9.ms
 .msdn.com
+.weathernews.jp
