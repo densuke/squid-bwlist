@@ -1134,6 +1134,7 @@
 .sao-game.jp
 .say-move.org
 .sbr-vcj.com
+.scienceplus2ch.com
 .scupio.com.tw
 .sdin.jp
 .sdr9t.net
@@ -1194,6 +1195,7 @@
 .sportsnavi.dtiblog.com
 .sptadao.co.jp
 .sqex.to
+.squallchannel.com
 .square-enix.com
 .srworld.net
 .ssmatomeantenna.info
@@ -1203,6 +1205,7 @@
 .steampowered.com
 .steamstatic.com
 .stmato.com
+.sub.moudamepo.com
 .sugumiru18.com
 .summonboard.net
 .summonnight.net
