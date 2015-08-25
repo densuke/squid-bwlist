@@ -207,6 +207,7 @@
 .bngames.net
 .boardgamearena.net
 .bokudora.jp
+.bollystop.com
 .bouyomi.jp
 .bpro-next.jp
 .brafrontier.info
@@ -529,6 +530,7 @@
 .hanalog.com
 .hangame.co.jp
 .hangame.com
+.hanihoh.com
 .happyelements.co.jp
 .hardluckz.com
 .hareruyamtg.com
@@ -602,6 +604,7 @@
 .ipav.xyz
 .ippa.jp
 .iruna.jp
+.itaishinja.com
 .itibusizyuu.jp
 .itunes.apple.com
 .iwashi.biz
@@ -714,6 +717,7 @@
 .letv.com
 .lglime.com
 .lhrpg.org
+.lifecard.co.jp
 .lifeis-ok.com
 .lightrend.com
 .line-apps.com
@@ -753,6 +757,7 @@
 .luidas.com
 .lukemcg.com
 .lvchat.info
+.ma-bank.net
 .mabo02.livedoor.biz
 .madskills.com
 .magicalmirai.com
@@ -863,6 +868,7 @@
 .moog.me
 .mora.jp
 .morikinoko.com
+.morningstar.co.jp
 .moto-nari.com
 .moto-neta.com
 .moudamepo.com
@@ -978,6 +984,7 @@
 .oniyomediary.com
 .onlinegamer.jp
 .onsen.ag
+.oops.jp
 .oowata.com
 .op.gg
 .open2ch.net
@@ -1022,6 +1029,7 @@
 .pazumato.com
 .pazupura.com
 .pcpitshop.com
+.pdmatometa.com
 .peach-soku4.com
 .peco-japan.com
 .photo-capsule.net
@@ -1105,6 +1113,7 @@
 .rss-rank.com
 .ruisenhoukai.com
 .ryushare.com
+.ryusoku.com
 .saba-navi.com
 .sagaplanets.product.co.jp
 .saiani.net
@@ -1371,6 +1380,7 @@
 .yanen.org
 .yaruo-antenna.sakura.ne.jp
 .yaruo.info
+.yes24.com
 .yeshj.com
 .yjsnpi.nu
 .yomosoku.com
