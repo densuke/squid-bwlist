@@ -15,7 +15,7 @@
 .jorudan.co.jp
 .jvn.jp
 .windowsupdate.com
-.ws.microsoft.com
+.microsoft.com
 .hotmail.com
 .smartnews.be
 .rikunabi.com
