@@ -276,6 +276,8 @@
 .clan-battle.jp
 .clevelandelectronicservices.com
 .clip.vn
+.cloverlab.biz
+.cloverlab.co.jp
 .cn
 .cnzz.com
 .cnzz.net
