@@ -50,6 +50,8 @@
 .4coma.com
 .4gamer.net
 .4shared-china.com
+.54.65.125.203
+.5rocks.io
 .60me.com
 .6182.info
 .6minuses.com
@@ -107,6 +109,7 @@
 .am-our.com
 .amaebi.net
 .amano-jack.jp
+.amazoningadvertisment.com
 .ameba.jp
 .amebagames.com
 .amebame.com
@@ -145,6 +148,7 @@
 .applover.us
 .appoxee.com
 .appsflyer.com
+.appspot.com
 .appteam.biz
 .apserver.net
 .arcenserv.info
@@ -582,6 +586,7 @@
 .hn-antena.com
 .hnalady.com
 .hobonichielog.com
+.hohochie.com
 .hokanko-alt.com
 .honey-rope.jugem.jp
 .honeyworks.jp
@@ -618,6 +623,7 @@
 .ikeike2ch.jp
 .ikuji-news.com
 .ikumamasokuhou.com
+.im-apps.net
 .imas-cg.net
 .imas-cinderella.com
 .imikowa.com
@@ -871,6 +877,7 @@
 .minkch.com
 .minkchan.com
 .minna-antenna.com
+.minne.com
 .minpuzz.com
 .mixi.jp
 .mmo-logres.com
@@ -1388,6 +1395,7 @@
 .whocares.jp
 .winneri.info
 .winvz.jp
+.wisecart.ne.jp
 .wish.com
 .with2.net
 .wizards.com
