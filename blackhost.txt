@@ -315,6 +315,7 @@
 .daumcdn.net
 .dayztv.com
 .dd-on.jp
+.dechamore.com
 .dechau.com
 .deko8.jp
 .demae-can.com
@@ -431,6 +432,7 @@
 .fc2.com
 .fc2rs.com
 .fc2web.com
+.fe-soku.com
 .fecipher.jp
 .fezero.jp
 .fightingirl.com
@@ -490,6 +492,7 @@
 .gamerch.com
 .gamerp.jp
 .gamescampus.co.jp
+.gamestalk.net
 .gamewith.jp
 .gamez.jp
 .gamme.com.tw
