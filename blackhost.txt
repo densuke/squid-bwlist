@@ -188,6 +188,7 @@
 .bakufu.jp
 .bakusai.com
 .bandai-hobbuy.net
+.bandai-hobby.net
 .bandainamco-ol.jp
 .bandainamcoent.co.jp
 .bandainamcogames.co.jp
