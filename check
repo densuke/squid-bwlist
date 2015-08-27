@@ -13,5 +13,5 @@ fi
 
 echo "--- check black/white list ---"
 echo '※ "no running copy"の出力は正常です'
-docker run -v `pwd`:/vagrant --rm $IMAGE
+docker run -m 128m  --memory-swap=256m -v `pwd`:/vagrant --rm $IMAGE
 echo "------------------------------"
