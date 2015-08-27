@@ -58,3 +58,5 @@ git.amfys.net
 .msdn.com
 .weathernews.jp
 .g.bing.com
+.www.apple.com
+.images.apple.com
