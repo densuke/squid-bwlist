@@ -156,6 +156,7 @@
 .archeage.jpn.org
 .arithgame.jp
 .aruaru.me
+.asagei.com
 .asahiwa.jp
 .asg.to
 .asianews2ch.jp
@@ -633,6 +634,7 @@
 .im-apps.net
 .imas-cg.net
 .imas-cinderella.com
+.imgs.ws
 .imikowa.com
 .immoral.jp
 .imperialsaga.jp
@@ -1184,6 +1186,7 @@
 .sagaplanets.product.co.jp
 .saiani.net
 .saisin-news.com
+.sakc.jp
 .sakuratan.com
 .santalab.me
 .sao-game.jp
