@@ -66,6 +66,7 @@
 .a-wiki.net
 .a4c.jp
 .a9vg.com
+.aaaf.jp
 .absoku072.com
 .aceonline.arario.jp
 .ad-v.jp
@@ -86,6 +87,7 @@
 .advertising.com
 .advision-adnw.jp
 .aemedia.org
+.affection-web.co.jp
 .afo-news.com
 .agag.tw
 .agar.io
@@ -123,6 +125,7 @@
 .anicole.net
 .anige-sokuhouvip.com
 .animate-onlineshop.jp
+.anime-gazou.blogstation.jp
 .anime-sharing.com
 .anime44.com
 .animeanime.jp
@@ -1010,6 +1013,7 @@
 .nipple-img.com
 .nishifukuma.com
 .niziero.com
+.nizigen-matome.com
 .noahapps.jp
 .nobuwiki.org
 .nomaki.jp
