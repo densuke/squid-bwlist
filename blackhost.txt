@@ -423,7 +423,6 @@
 .faststore.org
 .fate-go.jp
 .favsite.jp
-.fbcdn.net
 .fc2.com
 .fc2rs.com
 .fc2web.com
