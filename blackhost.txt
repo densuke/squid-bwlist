@@ -1,4 +1,5 @@
 .0matome.com
+.0nyan.jp
 .1000giribest.com
 .1000mg.jp
 .100shiki.com
@@ -133,6 +134,7 @@
 .app-liv.jp
 .app-wiki.info
 .appbank.net
+.appdriver.jp
 .appget.com
 .appholic.cc
 .applean.info
@@ -720,6 +722,7 @@
 .kizitora.jp
 .kizyo.net
 .klabgames.net
+.kodukai-king.jp
 .kokotodo.nobody.jp
 .komica.org
 .konaminet.jp
@@ -863,6 +866,7 @@
 .mh4g.org
 .mhf-g.jp
 .microad.jp
+.miki800.com
 .mikumoba.jp
 .milestone-net.co.jp
 .milihime.jp
