@@ -289,6 +289,7 @@
 .commseed.jp
 .completedouga.com
 .conangame.jp
+.concon-collector.com
 .corebooks.jp
 .coremagazine.co.jp
 .cosmicbreak.jp
@@ -416,6 +417,7 @@
 .esuteru.com
 .evastore.jp
 .exawarosu.net
+.exiletribestation.jp
 .exploader.net
 .eyny.com
 .fairydoll.jp
@@ -728,6 +730,7 @@
 .kodukai-king.jp
 .kokotodo.nobody.jp
 .komica.org
+.konami.jp
 .konaminet.jp
 .konomoe.at.webry.info
 .kosusoku.net
@@ -959,6 +962,7 @@
 .ncfost.jp
 .ncsoft.jp
 .neesoku.net
+.neetsha.jp
 .nefficient.jp
 .negisoku.com
 .nekomemo.com
@@ -1074,6 +1078,7 @@
 .pad-plus.com
 .pad-soku.com
 .pad.atenasoku.com
+.padsdel.com
 .pagoda56.com
 .pakapon.com
 .pakemania.net
@@ -1100,6 +1105,7 @@
 .photo-capsule.net
 .photobag.in
 .photoshopvip.net
+.pia.jp
 .pico-n.com
 .pict-navi.net
 .piercs.com
@@ -1174,6 +1180,7 @@
 .ronsoku.com
 .rotco.jp
 .rottengirl.net
+.round1.co.jp
 .rpgmaker.net
 .rss-loader.com
 .rss-rank.com
@@ -1188,6 +1195,7 @@
 .sakuratan.com
 .santalab.me
 .sao-game.jp
+.satsubatsusekai.sakura.ne.jp
 .say-move.org
 .sbr-vcj.com
 .scienceplus2ch.com
@@ -1357,6 +1365,7 @@
 .tvsurf.jp
 .twi1.me
 .twin-angel.com
+.twipple.jp
 .twirobo.com
 .twpf.jp
 .tyabo.com
@@ -1487,6 +1496,7 @@
 .zerochan.net
 .ziyu.net
 .zopim.com
+.zozo.jp
 .zucks.net
 .zumst.com
 157.7.191.103
