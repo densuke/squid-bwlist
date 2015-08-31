@@ -64,6 +64,7 @@
 .98yrkewj.com
 .9post.jp
 .a-lim.jp
+.a-slot.com
 .a-wiki.net
 .a4c.jp
 .a9vg.com
@@ -476,6 +477,7 @@
 .game4broke.blogspot.com
 .game4broke.sakura.ne.jp
 .gamebanana.com
+.gamebit.jp
 .gamebiz.jp
 .gamecity.ne.jp
 .gamecopyworld.com
@@ -541,6 +543,7 @@
 .gree.jp
 .gree.net
 .greenowl5.com
+.grimoire.codes
 .groovecoaster.jp
 .gsspcln.jp
 .gu3.jp
@@ -635,6 +638,7 @@
 .indouga.com
 .infopot.jp
 .infotop.jp
+.inishie-dungeon.com
 .injulog.com
 .inside-games.jp
 .instagram.com
@@ -1314,6 +1318,7 @@
 .togech.jp
 .togetter.com
 .tohofes.com
+.tokaigi.jp
 .tokimeki-s.com
 .tokkaban.com
 .tokua.info
