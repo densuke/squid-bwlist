@@ -5,6 +5,7 @@
 .100shiki.com
 .11ch-av.com
 .120.hp2.jp
+.125.56.200.51
 .126.net
 .127.net
 .133.242.181.110
@@ -297,6 +298,7 @@
 .cpmok.net
 .crank-in.net
 .criteo.com
+.croozsocial.jp
 .crx7601.com
 .cuonet.com
 .curecos.com
@@ -739,6 +741,7 @@
 .ksmobile.com
 .kuaibo.com
 .kuku.lu
+.kuraha.com
 .kuromacyo.livedoor.biz
 .kuroneko-wiz9675.net
 .kurowizmatomete.com
@@ -806,6 +809,7 @@
 .lukemcg.com
 .lvchat.info
 .m-cocolog.jp
+.m-o-w.net
 .m4ex.com
 .ma-bank.net
 .mabo02.livedoor.biz
@@ -978,6 +982,7 @@
 .neutralx0.net
 .new-akiba.com
 .newblo7.net
+.newnext.me
 .news-choice.net
 .news-edge.com
 .news-matome.com
