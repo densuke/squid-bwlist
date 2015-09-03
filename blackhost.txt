@@ -151,6 +151,7 @@
 .applibot.co.jp
 .applion.jp
 .applover.us
+.appmedia.jp
 .appoxee.com
 .appsflyer.com
 .appspot.com
@@ -375,6 +376,7 @@
 .e-shota.com
 .ea.com
 .eagate.573.jp
+.ehoh.net
 .eitarosoft.co.jp
 .elementalstory.com
 .eloganoyakata.com
@@ -504,6 +506,7 @@
 .gamerp.jp
 .gamescampus.co.jp
 .gamesnatch2042.com
+.gamesq.jp
 .gamestalk.net
 .gamewith.jp
 .gamez.jp
@@ -777,6 +780,7 @@
 .latexsix.info
 .ldblog.jp
 .leadboltapps.net
+.leagueoflegends.co.kr
 .leagueoflegends.com
 .lelezhen.com
 .letv.com
@@ -841,6 +845,7 @@
 .manga100ka.jp
 .mangabox.me
 .mangadl.com
+.mangakit.com
 .mangapolo.com
 .maniacerogazo.com
 .manmai.jp
@@ -989,6 +994,7 @@
 .neetsha.jp
 .nefficient.jp
 .negisoku.com
+.nekogames.jp
 .nekomemo.com
 .nend.net
 .netaatoz.jp
