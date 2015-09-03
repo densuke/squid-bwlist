@@ -691,6 +691,7 @@
 .kaikatsu.jp
 .kairakudoujin.net
 .kairisei-ma.jp
+.kakaku.com
 .kakao.com
 .kakonacl.xsrv.jp
 .kakuge-checker.com
