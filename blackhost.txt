@@ -340,6 +340,7 @@
 .criteo.com
 .croozsocial.jp
 .crx7601.com
+.cuns.net
 .cuonet.com
 .curecos.com
 .cybergadget.co.jp
@@ -358,6 +359,7 @@
 .daumcdn.net
 .dayztv.com
 .dd-on.jp
+.deaicity.jp
 .dechamore.com
 .dechau.com
 .deko8.jp
@@ -675,6 +677,7 @@
 .hh.iij4u.or.jp
 .highgamers.com
 .hijyoushiki.sakura.ne.jp
+.hikakucity.com
 .himado.in
 .himarin.net
 .himasoku.com
@@ -760,6 +763,7 @@
 .jjwxc.net
 .jk-play.com
 .johnnyswest-love.com
+.join.ev
 .jojoss.jp
 .joymanj.net
 .joysound.com
