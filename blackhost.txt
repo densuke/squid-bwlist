@@ -1137,6 +1137,7 @@
 .newsch.info
 .newser.cc
 .newspickup.com
+.newstars.com
 .nexon.co.jp
 .ngnews.me
 .nicoblomaga.jp
@@ -1237,6 +1238,7 @@
 .pad.atenasoku.com
 .padsdel.com
 .pagoda56.com
+.paidperview.com
 .paipai-info.com
 .pakapon.com
 .pakemania.net
