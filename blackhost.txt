@@ -757,6 +757,7 @@
 .kroko.jp
 .ksmobile.com
 .kuaibo.com
+.kugou.com
 .kuku.lu
 .kuraha.com
 .kuromacyo.livedoor.biz
