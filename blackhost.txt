@@ -91,6 +91,7 @@
 .adultangel.com
 .adultantenna.com
 .adultcity.jp
+.adultcity.to
 .adultdmatome.com
 .adultdmovr.com
 .adultflash01.com
@@ -1219,6 +1220,7 @@
 .pad.atenasoku.com
 .padsdel.com
 .pagoda56.com
+.paipai-info.com
 .pakapon.com
 .pakemania.net
 .pandachirari.com
@@ -1500,6 +1502,7 @@
 .torrent-anime.com
 .touchlab.jp
 .touken-ranbu.jp
+.toukoucity.to
 .tousatsusokuhou.com
 .tpnav.com
 .trackfeed.com
