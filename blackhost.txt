@@ -47,6 +47,7 @@
 .2chspa.com
 .2d-plus.com
 .2hk.mobi
+.2ji-antenna.net
 .2jiero.info
 .2jigiri.net
 .2logch.sakura.ne.jp
@@ -382,6 +383,7 @@
 .dmmgameswiki.com
 .dng65.com
 .do-mono.jp
+.dodoujin.com
 .dogazofree.com
 .dokidokivisual.com
 .dokoda.jp
@@ -441,9 +443,11 @@
 .ero-manga-impact.com
 .ero-oppai.com
 .ero-porn.net
+.ero-terminal.net
 .ero-video.net
 .ero-zo.com
 .eroani-matome.net
+.eroanime-douga.com
 .eroanimedouga.net
 .eroantenna.com
 .erobook.info
@@ -452,6 +456,7 @@
 .erodoga1012.com
 .erodougakun.com
 .erodouganoousama.com
+.erodougaxxx.com
 .erodoujinworld.com
 .eroero-gazou.net
 .eroeroga.com
@@ -473,6 +478,7 @@
 .eroinroku.com
 .eroita.net
 .erojima2.com
+.erolabo.com
 .eromanga.jp
 .eromangacafe.com
 .eromangalife.com
@@ -552,6 +558,7 @@
 .gakinko.net
 .gakkougurashi.com
 .gakkushi.com
+.gal-peace.com
 .galero072.com
 .galnavi.info
 .gamanjiru.net
@@ -683,6 +690,7 @@
 .himasoku.com
 .hiroimono.org
 .hishaku.com
+.hitozuma-xvideos-ero.com
 .hklmm.com
 .hn-antena.com
 .hnalady.com
@@ -817,6 +825,7 @@
 .kijyomatome.com
 .kijyomita.com
 .kikonboti.com
+.killing-time.biz
 .kimonolog.com
 .kimsoku.com
 .king.com
@@ -1083,6 +1092,7 @@
 .nan.co.jp
 .nan.jp
 .nanj-matome.com
+.nantenna-2ch.com
 .nantoka-antenna.com
 .nantv.com
 .narutoapp.jp
@@ -1484,6 +1494,7 @@
 .thisisgame.com
 .tidaltv.com
 .tkssp.com
+.tobita.clover-rabbit.club
 .tocana.jp
 .togech.jp
 .togetter.com
@@ -1597,6 +1608,7 @@
 .worldfn.net
 .wot-news.com
 .wowgame.jp
+.wp.me
 .ws-tcg.com
 .x-legend.co.jp
 .x-porn.me
@@ -1620,11 +1632,13 @@
 .xvideos-amateur-movie.com
 .xvideos-av-movie.com
 .xvideos-collector.com
+.xvideos-erojapan.com
 .xvideos-field.com
 .xvideos-field5.com
 .xvideos-jp.org
 .xvideos-jpmovie.com
 .xvideos-life.com
+.xvideos-tousatsu.com
 .xvideos.com
 .xvideosantenna.livedoor.biz
 .xvideosdojigen.com
