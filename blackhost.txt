@@ -61,6 +61,10 @@
 .777.nifty.com
 .777town.net
 .7gogo.jp
+.91.228.165.43
+.91.228.167.103
+.91.228.167.46
+.91.228.167.86
 .98yrkewj.com
 .9post.jp
 .a-lim.jp
@@ -97,6 +101,7 @@
 .akbakb.com
 .akibablog.net
 .alfalfalfa.com
+.alibench.com
 .alicesoft.com
 .aliyun.com
 .all-nationz.com
@@ -448,6 +453,7 @@
 .fpsunknown.com
 .freakshare.com
 .free-av-douga.com
+.free-flash-game.net
 .free-video-movie
 .free-xvideos.net
 .freegame.on.arena.ne.jp
@@ -540,6 +546,7 @@
 .googlevideo.com:443
 .gossip1.net
 .gotfes.com
+.gozaru.jp
 .grabzer.com
 .granbluefantasy.jp
 .gree-apps.net
@@ -807,6 +814,7 @@
 .lovetoy.jp
 .luidas.com
 .lukemcg.com
+.lululuxxne.jp
 .lvchat.info
 .m-cocolog.jp
 .m-o-w.net
@@ -842,6 +850,7 @@
 .matome-blog.jp
 .matome-ch.com
 .matome-plus.com
+.matome-plus.net
 .matome-station.com
 .matome-surume.com
 .matome.dsup.net
@@ -857,6 +866,7 @@
 .matomeume.com
 .mbga-platform.jp
 .mbga.jp
+.mbok.jp
 .mdpr.jp
 .media-b.jp
 .media-shelf.net
@@ -870,6 +880,7 @@
 .mementoo.info
 .menscyzo.com
 .mess-y.com
+.mfac.jp
 .mgame.jp
 .mgstage.com
 .mh-m.jp
@@ -898,6 +909,7 @@
 .mmoloda.com
 .mnstmato.com
 .mobafire.com
+.mobilefactory.jp
 .mobiusfinalfantasy.com
 .moebeika.net
 .moeerolibrary.com
@@ -1019,6 +1031,7 @@
 .nizigen-matome.com
 .noahapps.jp
 .nobuwiki.org
+.noiretaya.com
 .nomaki.jp
 .nomusoku.blomaga.jp
 .nukerudogaju.com
@@ -1074,6 +1087,7 @@
 .otapol.jp
 .otatama.net
 .otonarisoku.com
+.otonomai.me
 .owata-net.com
 .p-anime.com
 .p-bandai.jp
@@ -1168,6 +1182,7 @@
 .quiz-wiz.com
 .qvod.com
 .r18matome.com
+.r401.net
 .radiko.jp
 .railgun-antenna.info
 .rakugan.com
@@ -1222,6 +1237,7 @@
 .seo-adult.net
 .seoparts.net
 .sexdougalove.com
+.sgfdgjfdsfjd.biz
 .sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
@@ -1238,6 +1254,7 @@
 .shiroutmove.com
 .shirumonovideo.com
 .shishioh.info
+.shitaraba.net
 .shobon.jp
 .shogionline.jp
 .shoshinsha.com
@@ -1252,6 +1269,7 @@
 .sironekokouryaku.com
 .sisainlive.com
 .skr.jp
+.slo7.net
 .smartphone-electric.net
 .smilevideo.jp
 .smj.io
@@ -1409,6 +1427,7 @@
 .warmmovie.com
 .watch2chan.com
 .wate.jp
+.wayohoo.net
 .wazap.com
 .weban.jp
 .webike.net
@@ -1470,9 +1489,15 @@
 .yakkun.com
 .yamimeta.com
 .yanen.org
+.yaoyorozu-kobo.com
+.yarucopi.com
+.yarugoto.com
 .yarunyo.net
 .yaruo-antenna.sakura.ne.jp
 .yaruo.info
+.yaruo.link
+.yaruo.wikia.com
+.yaruyomi.com
 .yes24.com
 .yeshj.com
 .yjsnpi.nu
