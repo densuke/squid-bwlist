@@ -3,6 +3,7 @@
 .1000giribest.com
 .1000mg.jp
 .100shiki.com
+.114.112.36.195
 .11ch-av.com
 .120.hp2.jp
 .125.56.200.51
@@ -11,6 +12,7 @@
 .133.242.181.110
 .160.16.63.18
 .163.com
+.169.0.0.1
 .1geki.jp
 .1kibaku.jp
 .2-carat.net
@@ -106,6 +108,8 @@
 .aliyun.com
 .all-nationz.com
 .allxin.com
+.alphapolis.co.jp
+.alphapolis.jp
 .am-our.com
 .amaebi.net
 .amano-jack.jp
@@ -499,6 +503,7 @@
 .gamerch.com
 .gamerp.jp
 .gamescampus.co.jp
+.gamesnatch2042.com
 .gamestalk.net
 .gamewith.jp
 .gamez.jp
@@ -565,6 +570,7 @@
 .gurugurulog.com
 .gurumi-ch.com
 .gust.co.jp
+.gwiki.jp
 .h-douga.net
 .h-ken.net
 .h3dcg.com
@@ -786,6 +792,7 @@
 .linegame.jp
 .linegames.com
 .linegames.jp
+.littlemoon.co.jp
 .littlesolo.com
 .livedoor.com
 .livedoor.jp
@@ -1275,6 +1282,7 @@
 .smilevideo.jp
 .smj.io
 .smq.jp
+.snalime.com
 .snmemories.net
 .soccer-douga.com
 .socdm.com
@@ -1460,6 +1468,7 @@
 .xbox.com
 .xboxlive.com
 .xhamster.com
+.xiami.net
 .xiaomi.net
 .xonline.jp
 .xrea.com
