@@ -278,6 +278,7 @@
 .buzzhand.net
 .buzznews.asia
 .c-lab.link
+.c-tipsref.com
 .cafe-capy.net
 .cafeglobe.com
 .calciomatome.net
@@ -393,6 +394,7 @@
 .dokoda.jp
 .dokokarasokuhou.com
 .donderhiroba.jp
+.doope.jp
 .doorblog.jp
 .dorapon.info
 .doucolle.net
@@ -842,6 +844,7 @@
 .kingdomhearts.jp
 .kingtopdeals.com
 .kinyu-z.net
+.kir.jp
 .kisskiss-girl.com
 .kisslog2.com
 .kita-kore.com
@@ -937,6 +940,8 @@
 .luidas.com
 .lukemcg.com
 .lululuxxne.jp
+.lunascape.jp
+.luxad.kr
 .lvchat.info
 .m-cocolog.jp
 .m-o-w.net
@@ -1162,6 +1167,7 @@
 .nijibondo.com
 .nikkanerog.com
 .nimg.jp
+.ninpou.jp
 .nintendo.co.jp
 .nintendowifi.net
 .nipple-img.com
@@ -1195,6 +1201,7 @@
 .ocnk.net
 .octoba.jp
 .octopuspop.com
+.officedaytime.com
 .okanehadaiji.com
 .okkisokuho.com
 .okoshi-yasu.com
@@ -1271,6 +1278,7 @@
 .peach-soku4.com
 .peach2ch.com
 .peco-japan.com
+.peko-step.com
 .phmovielife.com
 .photo-capsule.net
 .photobag.in
@@ -1308,6 +1316,7 @@
 .porn.com
 .porori-ch.com
 .pororich.com
+.potora.jp
 .ppy.sh
 .premiumcyzo.com
 .pripara.jp
@@ -1446,6 +1455,7 @@
 .sonicch.com
 .special-pink-image.com
 .speedtrace.co.jp
+.splax.net
 .sportsnavi.dtiblog.com
 .sptadao.co.jp
 .sqex.to
@@ -1455,6 +1465,7 @@
 .srworld.net
 .ssmatomeantenna.info
 .starfakes.biz
+.starlight-stage.jp
 .startappservice.com
 .steamcommunity.com
 .steampowered.com
@@ -1462,6 +1473,7 @@
 .stmato.com
 .sub.moudamepo.com
 .sugumiru18.com
+.sumahoinfo.com
 .summonboard.net
 .summonnight.net
 .sumomo-ch.com
@@ -1578,6 +1590,7 @@
 .ushi.cc
 .ustre.am
 .uta-net.com
+.utamap.com
 .uuu9.com
 .uwakitobintatofurin.com
 .uyosoku.com
@@ -1639,6 +1652,7 @@
 .xhamster.com
 .xiami.net
 .xiaomi.net
+.xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--xvideo-up4jq68t.net
 .xonline.jp
 .xrea.com
