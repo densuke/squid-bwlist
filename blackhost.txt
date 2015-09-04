@@ -529,7 +529,6 @@
 .finalfantasy.jp
 .finalfantasyxiv.com
 .flash-game-ziina.com
-.floe-net.jp
 .flower-knight-girls.co.jp
 .flvto.com
 .fo-lens.net
@@ -716,8 +715,7 @@
 .hotp.jp
 .howto-box.jp
 .hrs-game.main.jp
-.http://hekk.org/
-.http://mgcvt.com/
+.hekk.org
 .hug2.biz
 .hujiang.com
 .hulu.com
