@@ -85,7 +85,6 @@
 .absoku072.com
 .aceonline.arario.jp
 .adacomi.com
-.adbkm.com
 .addictinggames.com
 .adult-doctor.com
 .adult-slider.com
@@ -161,7 +160,6 @@
 .antenna-ga.com
 .antenna.ebb.jp
 .antennash.com
-.app-adforce.jp
 .app-heaven.net
 .app-liv.jp
 .app-wiki.info
@@ -511,7 +509,6 @@
 .exploader.net
 .eyny.com
 .fairydoll.jp
-.fam-ad.com
 .famitsu.com
 .fast-ranking.com
 .fast2ch.dip.jp
@@ -1017,7 +1014,6 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
-.microad.jp
 .miki800.com
 .mikumoba.jp
 .milestone-net.co.jp
@@ -1265,7 +1261,6 @@
 .parusoku.com
 .pathofexile.com
 .patolesoft.net
-.pazdra.rssread.net
 .pazu.biz
 .pazudora-ken.com
 .pazudoracyanman.net
@@ -1369,6 +1364,7 @@
 .rpgmaker.net
 .rss-loader.com
 .rss-rank.com
+.rssread.net
 .ruisenhoukai.com
 .ryushare.com
 .ryusoku.com
