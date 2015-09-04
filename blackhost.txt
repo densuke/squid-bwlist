@@ -260,6 +260,7 @@
 .bn765.com
 .bngames.net
 .boardgamearena.net
+.bof6.jp
 .bokudora.jp
 .bollystop.com
 .bouyomi.jp
@@ -575,6 +576,7 @@
 .game1wiki.com
 .game4broke.blogspot.com
 .game4broke.sakura.ne.jp
+.gameassetstudio.jp
 .gamebanana.com
 .gamebit.jp
 .gamebiz.jp
@@ -623,6 +625,7 @@
 .getuploader.com
 .ggame.jp
 .gigafile.nu
+.gigafree.net
 .gigazine.net
 .giko-news.com
 .girlsreader.com
@@ -644,6 +647,7 @@
 .gozaru.jp
 .grabzer.com
 .granbluefantasy.jp
+.granks.co.jp
 .gree-apps.net
 .gree.jp
 .gree.net
@@ -715,7 +719,6 @@
 .hotp.jp
 .howto-box.jp
 .hrs-game.main.jp
-.hekk.org
 .hug2.biz
 .hujiang.com
 .hulu.com
@@ -752,6 +755,7 @@
 .infotop.jp
 .inishie-dungeon.com
 .injulog.com
+.inmobi.com
 .inside-games.jp
 .instagram.com
 .ipav.xyz
@@ -799,6 +803,7 @@
 .kairisei-ma.jp
 .kakaku.com
 .kakao.com
+.kakeru.me
 .kakonacl.xsrv.jp
 .kakuge-checker.com
 .kami-douga-adult.com
@@ -1187,6 +1192,7 @@
 .o0o0.jp
 .oboom.com
 .obunko.com
+.ocnk.net
 .octoba.jp
 .octopuspop.com
 .okanehadaiji.com
@@ -1294,6 +1300,7 @@
 .pokecheck.org
 .pokemon-br.com
 .pokemon-matome.net
+.pokemon-movie.jp
 .pokemon.co.jp
 .pokesen.com
 .pong.com
