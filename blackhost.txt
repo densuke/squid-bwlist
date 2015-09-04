@@ -46,6 +46,7 @@
 .2chnavi.net
 .2chspa.com
 .2d-plus.com
+.2djgame.net
 .2hk.mobi
 .2ji-antenna.net
 .2jiero.info
@@ -386,6 +387,7 @@
 .do-mono.jp
 .dodoujin.com
 .dogazofree.com
+.dojin.com
 .dokidokivisual.com
 .dokoda.jp
 .dokokarasokuhou.com
@@ -526,6 +528,7 @@
 .figsoku.net
 .finalfantasy.jp
 .finalfantasyxiv.com
+.flash-game-ziina.com
 .flower-knight-girls.co.jp
 .flvto.com
 .fo-lens.net
@@ -659,6 +662,7 @@
 .gurumi-ch.com
 .gust.co.jp
 .gwiki.jp
+.gyazo.com
 .h-douga.net
 .h-ken.net
 .h-navigation.com
@@ -1425,6 +1429,7 @@
 .smq.jp
 .snalime.com
 .snmemories.net
+.sns-park.com
 .soccer-douga.com
 .socdm.com
 .sogou.com
@@ -1438,6 +1443,7 @@
 .sptadao.co.jp
 .sqex.to
 .squallchannel.com
+.square-enix.co.jp
 .square-enix.com
 .srworld.net
 .ssmatomeantenna.info
@@ -1463,6 +1469,7 @@
 .syurabahazard.com
 .t7s.jp
 .tabtter.jp
+.tackysroom.com
 .taipingu.net
 .taiwannohannou.com
 .tajigen.com
@@ -1589,10 +1596,12 @@
 .weban.jp
 .webike.net
 .webnew.net
+.webron.jp
 .webtruyen.com
 .wemade.jp
 .whocares.jp
 .wife-jp.com
+.wikiwiki.jp
 .winneri.info
 .winvz.jp
 .wisecart.ne.jp
@@ -1606,6 +1615,7 @@
 .wk-tk.net
 .wonderpla.net
 .wondershare.com
+.worklife-create.com
 .world-antenna.net
 .worldfn.net
 .wot-news.com
