@@ -14,6 +14,7 @@
 .160.16.63.18
 .163.com
 .169.0.0.1
+.178.255.156.100
 .1geki.jp
 .1kibaku.jp
 .1stero.com
@@ -145,6 +146,7 @@
 .anicole.net
 .anige-sokuhouvip.com
 .animate-onlineshop.jp
+.animate.co.jp
 .anime-sharing.com
 .anime-teen.com
 .anime44.com
@@ -246,10 +248,12 @@
 .bitsummit.org
 .blazegames.jp
 .blog.jp
+.blog.seesaa.jp
 .blogcms.jp
 .blogimg.jp
 .blogmura.com
 .blogo.jp
+.blogranking.net
 .blogspot.jp
 .blogstation.jp
 .blogsys.jp
@@ -346,6 +350,7 @@
 .crx7601.com
 .cuns.net
 .cuonet.com
+.curazy.com
 .curecos.com
 .cybergadget.co.jp
 .cygames.co.jp
@@ -353,6 +358,7 @@
 .cyousokuvip.com
 .cyzo.co.jp
 .cyzowoman.com
+.da-tools.com
 .daddymami.net
 .dailyff14.com
 .dailymotion.com
@@ -432,6 +438,7 @@
 .emu-russia.net
 .endroll.net
 .enflatpark.com
+.enjoypclife.net
 .enq-maker.com
 .entapotime.com
 .entertainmentsummary.net
@@ -570,6 +577,7 @@
 .galnavi.info
 .gamanjiru.net
 .gamdom.biz
+.game-cmr.com
 .game-kids.net
 .game-news.biz
 .game.ever.jp
@@ -693,6 +701,7 @@
 .herbs-for-horses.com
 .heroesandgenerals.com
 .heroz.jp
+.hexadrive.jp
 .hh.iij4u.or.jp
 .highgamers.com
 .hijyoushiki.sakura.ne.jp
@@ -944,6 +953,7 @@
 .lunascape.jp
 .luxad.kr
 .lvchat.info
+.lvimg.jp
 .m-cocolog.jp
 .m-o-w.net
 .m4ex.com
@@ -1083,6 +1093,7 @@
 .movie-house.jp
 .movie.oshirimania.com
 .movietrailers-db.com
+.movin.co.jp
 .msmtk.com
 .mstmtt.com
 .mt-antenna.info
@@ -1246,6 +1257,7 @@
 .otowota.com
 .owata-net.com
 .p-anime.com
+.p-atlus.jp
 .p-bandai.jp
 .p-ch.jp
 .p-world.co.jp
@@ -1391,7 +1403,9 @@
 .sdr9t.net
 .sdvx.info
 .se-kirara.jp
+.se-support.com
 .seesaawiki.jp
+.sega-mj.com
 .sega-net.com
 .sega-pc.com
 .sega.jp
@@ -1474,6 +1488,7 @@
 .steampowered.com
 .steamstatic.com
 .stmato.com
+.stoicfps.com
 .sub.moudamepo.com
 .sugumiru18.com
 .sumahoinfo.com
@@ -1495,6 +1510,7 @@
 .taipingu.net
 .taiwannohannou.com
 .tajigen.com
+.takabosoft.com
 .takanshoukaizen7.info
 .takara.ms
 .takenokosokuhou.com
@@ -1566,6 +1582,7 @@
 .tuccom.com
 .tumblr.com
 .turbobit.net
+.turezure01.com
 .turukusa.com
 .turusokuhou.com
 .tv
@@ -1599,6 +1616,7 @@
 .uwakitobintatofurin.com
 .uyosoku.com
 .vid-dl.net
+.viki.io
 .vimeo.com
 .vimeocdn.com
 .vipcle.net
