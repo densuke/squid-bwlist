@@ -1395,6 +1395,7 @@
 .ruisenhoukai.com
 .ryushare.com
 .ryusoku.com
+.s-microsoft.com
 .saba-navi.com
 .sagaplanets.product.co.jp
 .saiani.net
