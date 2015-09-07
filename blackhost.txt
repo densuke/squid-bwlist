@@ -1034,6 +1034,7 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
+.microsoftstore.com
 .mihoudai.net
 .miki800.com
 .mikumoba.jp
@@ -1501,6 +1502,7 @@
 .steamstatic.com
 .stmato.com
 .stoicfps.com
+.store.microsoft.com
 .sub.moudamepo.com
 .sugumiru18.com
 .sumahoinfo.com
