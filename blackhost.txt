@@ -21,6 +21,7 @@
 .1kibaku.jp
 .1stero.com
 .2-carat.net
+.200624nm.com
 .216.58.221.174
 .2blo.net
 .2ch-2.net
@@ -123,6 +124,7 @@
 .akb48rompen.com
 .akbakb.com
 .akibablog.net
+.alexgorbatchev.com
 .alfalfalfa.com
 .alibench.com
 .alicesoft.com
@@ -277,6 +279,7 @@
 .broccoli.co.jp
 .bto-pc.jp
 .buhidoh.net
+.bunbun38.com
 .burusoku-vip.com
 .butt3rs.com
 .butterfly-corp.jp
@@ -393,6 +396,7 @@
 .dmm.com
 .dmmgames.com
 .dmmgameswiki.com
+.dnaimg.com
 .dng65.com
 .do-mono.jp
 .dodoujin.com
@@ -811,6 +815,7 @@
 .jyouhouya3.net
 .k-img.com
 .ka-nabell.com
+.kabegami.com
 .kabooo.net
 .kagekidan.net
 .kai-you.net
@@ -1135,6 +1140,7 @@
 .native.hekk.org
 .naver.jp
 .naver.net
+.nbam.jp
 .ncfost.jp
 .ncsoft.jp
 .neesoku.net
@@ -1266,6 +1272,7 @@
 .otonomai.me
 .otowota.com
 .owata-net.com
+.ozpa-h4.com
 .p-anime.com
 .p-atlus.jp
 .p-bandai.jp
@@ -1276,6 +1283,7 @@
 .pad-soku.com
 .pad.atenasoku.com
 .padsdel.com
+.padstm.com
 .pagoda56.com
 .paidperview.com
 .paipai-info.com
@@ -1289,6 +1297,7 @@
 .parusoku.com
 .pathofexile.com
 .patolesoft.net
+.pazdraism.info
 .pazu.biz
 .pazudora-ken.com
 .pazudoracyanman.net
@@ -1384,6 +1393,7 @@
 .renai-matome.com
 .rental-rental.net
 .repsoku.net
+.rmpaz.com
 .rocketnews24.com
 .ronsoku.com
 .rotco.jp
@@ -1400,6 +1410,7 @@
 .saba-navi.com
 .sagaplanets.product.co.jp
 .saiani.net
+.saikyou.biz
 .saisin-news.com
 .sakc.jp
 .sakuratan.com
@@ -1424,6 +1435,8 @@
 .seikatuch.com
 .seiroganmania.com
 .sekurosu.com
+.senddownloadmy.com
+.senmanga.com
 .sensns.com
 .sensodyne.es
 .sensodyne.jp
@@ -1465,6 +1478,7 @@
 .sisainlive.com
 .skr.jp
 .slo7.net
+.slstage.com
 .smagazo.com
 .smart-douga.mobi
 .smartphone-electric.net
@@ -1690,6 +1704,7 @@
 .xiami.net
 .xiaolongchakan.com
 .xiaomi.net
+.xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--xvideo-up4jq68t.net
