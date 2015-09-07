@@ -1403,6 +1403,7 @@
 .scupio.com.tw
 .sdin.jp
 .sdr9t.net
+.sdvx.be
 .sdvx.info
 .se-kirara.jp
 .se-support.com
