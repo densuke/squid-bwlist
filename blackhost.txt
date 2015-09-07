@@ -5,12 +5,14 @@
 .100shiki.com
 .112.25.47.20
 .114.112.36.195
+.119.147.146.110
 .11ch-av.com
 .120.hp2.jp
 .125.56.200.51
 .126.net
 .127.net
 .133.242.181.110
+.15qm.com
 .160.16.63.18
 .163.com
 .169.0.0.1
@@ -782,6 +784,7 @@
 .izunak.com
 .j-antenna.com
 .j-cg.com
+.j-sen.jp
 .jakou.com
 .jap-xvideos.com
 .japohan.net
@@ -837,6 +840,7 @@
 .katuru.com
 .kau.li
 .kazesoku.com
+.kekeke.cc
 .kekkaisensen.com
 .kekkonch.com
 .ken-ch.vqpv.biz
@@ -1051,6 +1055,7 @@
 .minne.com
 .minpuzz.com
 .mitsuki-o.com
+.mkzk.xyz
 .mmo-logres.com
 .mmoloda.com
 .mnstmato.com
@@ -1140,6 +1145,7 @@
 .nend.net
 .netaatoz.jp
 .netatama.net
+.netcrawl.info
 .netgamewiki.com
 .netgeek.biz
 .netkeiba.com
@@ -1211,6 +1217,7 @@
 .nyanta.jp
 .nyonin.com
 .o0o0.jp
+.objectclub.jp
 .oboom.com
 .obunko.com
 .ocnk.net
@@ -1678,8 +1685,10 @@
 .xboxlive.com
 .xhamster.com
 .xiami.net
+.xiaolongchakan.com
 .xiaomi.net
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
+.xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--xvideo-up4jq68t.net
 .xonline.jp
 .xrea.com
