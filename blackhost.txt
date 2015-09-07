@@ -180,6 +180,7 @@
 .appsflyer.com
 .appspot.com
 .appteam.biz
+.appzooxx.com
 .apserver.net
 .arcenserv.info
 .archeage.jpn.org
