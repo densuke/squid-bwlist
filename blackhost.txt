@@ -202,6 +202,7 @@
 .at-douga.com
 .atelier-ps3.jp
 .atgames.jp
+.atwikiimg.com
 .auctions.search.yahoo.co.jp
 .autoc-one.jp
 .av-365.com
@@ -324,6 +325,8 @@
 .cho.jpcommunity.com
 .chomanga.com
 .chonborista.com
+.ciatr.jp
+.cinematoday.jp
 .civ5nobunaga.com
 .clan-battle.jp
 .clevelandelectronicservices.com
@@ -590,6 +593,7 @@
 .gamanjiru.net
 .gamdom.biz
 .game-cmr.com
+.game-hikidashi.com
 .game-kids.net
 .game-news.biz
 .game.ever.jp
@@ -742,6 +746,7 @@
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
 .hotp.jp
+.hotpepper.jp
 .howto-box.jp
 .hrs-game.main.jp
 .hug2.biz
@@ -1490,6 +1495,7 @@
 .sironekokouryaku.com
 .sisainlive.com
 .skr.jp
+.slism.net
 .slo7.net
 .slotkaiseki.jp
 .slstage.com
@@ -1601,6 +1607,7 @@
 .tonarinoyj.jp
 .top55.net
 .toptools100.com
+.tora-news.com
 .toram.jp
 .toranoana.jp
 .torepiro.com
@@ -1681,6 +1688,7 @@
 .wazap.com
 .weban.jp
 .webike.net
+.webkaru.net
 .webnew.net
 .webron.jp
 .webtruyen.com
@@ -1688,6 +1696,7 @@
 .whocares.jp
 .wife-jp.com
 .wikiwiki.jp
+.windowsphone.com
 .winneri.info
 .winvz.jp
 .wisecart.ne.jp
