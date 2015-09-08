@@ -1009,6 +1009,7 @@
 .master-asia.livedoor.biz
 .mato-mato.net
 .matolabel.net
+.matomame.jp
 .matome-blog.jp
 .matome-ch.com
 .matome-plus.com
