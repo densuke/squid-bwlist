@@ -68,6 +68,7 @@
 .5rocks.io
 .60me.com
 .6182.info
+.62.146.210.32
 .664422.com
 .6minuses.com
 .724685.com
@@ -271,6 +272,7 @@
 .bof6.jp
 .bokudora.jp
 .bollystop.com
+.bouken.jp
 .bouyomi.jp
 .bpro-next.jp
 .brafrontier.info
@@ -421,6 +423,7 @@
 .dqmslchannel.com
 .dqmslsuperlight.com
 .dqmslyaruyo.com
+.dqnnews.net
 .dqx.jp
 .dragonquest.jp
 .draque-matome.com
@@ -449,6 +452,7 @@
 .enq-maker.com
 .entapotime.com
 .entertainmentsummary.net
+.eplus.jp
 .epochtimes.com
 .eriones.com
 .ero-an.com
@@ -520,6 +524,7 @@
 .escape-game.com
 .esuteru.com
 .evastore.jp
+.everymanblog.net
 .exawarosu.net
 .exiletribestation.jp
 .exploader.net
@@ -650,6 +655,7 @@
 .gmocloud.com
 .gmossp-sp.jp
 .gmpg.org
+.gnst.jp
 .godessgame.com
 .gogoanime.com
 .goldv.ash.jp
@@ -807,6 +813,7 @@
 .jp-xvideos-av.com
 .jpcamera.info
 .jpddl.com
+.jpn.com
 .jpsoku.blog.jp
 .jscape.jp
 .jumpsokuhou.com
@@ -831,6 +838,7 @@
 .kamierodouga.com
 .kamisamanoerogazoumatome.com
 .kanasoku.s130.coreserver.jp
+.kancolle-news.com
 .kancolle-ss.com
 .kanichat.com
 .kanimg.com
@@ -938,6 +946,7 @@
 .liveleak.com
 .livelog.biz
 .liverail.com
+.lock-up.jp
 .logpo.jp
 .lol-museum.net
 .lol2048.com
@@ -1061,6 +1070,7 @@
 .minne.com
 .minpuzz.com
 .mitsuki-o.com
+.miyadi.net
 .mkzk.xyz
 .mmo-logres.com
 .mmoloda.com
@@ -1137,6 +1147,7 @@
 .nantv.com
 .narutoapp.jp
 .nashimoto.biz
+.natalie.mu
 .native.hekk.org
 .naver.jp
 .naver.net
@@ -1235,6 +1246,7 @@
 .okkisokuho.com
 .okoshi-yasu.com
 .okusama-kijyo.com
+.okwave.jp
 .oletower.com
 .omanko-adaruto.com
 .omoshiroi-hanashi.com
@@ -1478,6 +1490,7 @@
 .sisainlive.com
 .skr.jp
 .slo7.net
+.slotkaiseki.jp
 .slstage.com
 .smagazo.com
 .smart-douga.mobi
@@ -1536,6 +1549,7 @@
 .tabtter.jp
 .tackysroom.com
 .taipingu.net
+.taisy02.com
 .taiwannohannou.com
 .tajigen.com
 .takabosoft.com
@@ -1585,6 +1599,7 @@
 .tonakai.aki.gs
 .tonarinoyj.jp
 .top55.net
+.toptools100.com
 .toram.jp
 .toranoana.jp
 .torepiro.com
@@ -1707,6 +1722,7 @@
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
+.xn--u9j4g9dxd292pfbtfskdg9f.com
 .xn--xvideo-up4jq68t.net
 .xonline.jp
 .xrea.com
@@ -1784,6 +1800,7 @@
 .zenshin.org
 .zero-plan.com
 .zerochan.net
+.zerocustom.jp
 .ziyu.net
 .zopim.com
 .zozo.jp
