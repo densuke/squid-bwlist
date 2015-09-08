@@ -115,6 +115,7 @@
 .agemoe072.com
 .ageofstrife.com
 .agkn.com
+.aichiko.jp
 .aichuun.co
 .airdroid.com
 .aitore.com
@@ -168,6 +169,7 @@
 .antenna-ga.com
 .antenna.ebb.jp
 .antennash.com
+.app-channel.link
 .app-heaven.net
 .app-liv.jp
 .app-wiki.info
@@ -273,6 +275,7 @@
 .bof6.jp
 .bokudora.jp
 .bollystop.com
+.bontoku.com
 .bouken.jp
 .bouyomi.jp
 .bpro-next.jp
@@ -413,6 +416,7 @@
 .donderhiroba.jp
 .doope.jp
 .doorblog.jp
+.dopr.net
 .dorapon.info
 .doucolle.net
 .douga100ka.jp
@@ -538,6 +542,7 @@
 .fast2ch.dip.jp
 .faststore.org
 .fate-go.jp
+.fate-go.net
 .favsite.jp
 .fc2-video.net
 .fc2.com
@@ -545,6 +550,7 @@
 .fc2web.com
 .fe-soku.com
 .fecipher.jp
+.femiluna-room.com
 .feticomx.com
 .fevian.org
 .fezero.jp
@@ -623,6 +629,7 @@
 .gamewith.jp
 .gamez.jp
 .gamme.com.tw
+.gamy.jp
 .garanger.net
 .gaym.jp
 .gazou-upstage.com
@@ -632,6 +639,7 @@
 .gb-wiki.net
 .gbf-wiki.com
 .gczero.com
+.ge-maji.com
 .ge-tube.com
 .geekles.net
 .geeksokuhou.net
@@ -764,6 +772,8 @@
 .i2iparts.jp
 .idol-blog.com
 .idoldvd.co.jp
+.idolmaster-an.net
+.idolmaster-sls.biz
 .idolmaster.jp
 .idolscope.com
 .iii.main.jp
@@ -775,6 +785,7 @@
 .ikumamasokuhou.com
 .imas-cg.net
 .imas-cinderella.com
+.imasnews765.com
 .imgs.ws
 .imikowa.com
 .immoral.jp
@@ -1625,6 +1636,7 @@
 .travian.jp
 .treasonnews.com
 .treeofsavior.it
+.trend-hot-news.com
 .trendpride.com
 .tricksterwiki.info
 .trpg.net
@@ -1729,11 +1741,17 @@
 .xiami.net
 .xiaolongchakan.com
 .xiaomi.net
+.xn--ccke7da9de3noexft929csfpb.com
+.xn--cckea4fdab9bb6euag7ysfya9ycf.com
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
+.xn--eckxbbb2a8bm6x4ff.com
+.xn--eckxbbb2a8bm6x4ff0428l0ssb.com
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
+.xn--o9j0bk5tjce3x.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
 .xn--xvideo-up4jq68t.net
+.xn--zck0ab2m.com
 .xonline.jp
 .xrea.com
 .xunlei.com
