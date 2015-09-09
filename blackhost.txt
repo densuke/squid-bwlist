@@ -313,6 +313,7 @@
 .cashing.money.goo.ne.jp
 .catshare.org
 .ccpgamescdn.com
+.cdnone.net
 .cebq.biz
 .cf-vanguard.com
 .ch
@@ -381,6 +382,7 @@
 .cyousokuvip.com
 .cyzo.co.jp
 .cyzowoman.com
+.d-quest-10.com
 .da-tools.com
 .daddymami.net
 .dailyff14.com
@@ -423,6 +425,7 @@
 .dokidokivisual.com
 .dokoda.jp
 .dokokarasokuhou.com
+.dominationsgame.com
 .donderhiroba.jp
 .doope.jp
 .doorblog.jp
@@ -609,6 +612,7 @@
 .galnavi.info
 .gamanjiru.net
 .gamdom.biz
+.game-api.de
 .game-cmr.com
 .game-hikidashi.com
 .game-kids.net
@@ -622,6 +626,7 @@
 .gamebanana.com
 .gamebit.jp
 .gamebiz.jp
+.gamebudgie.com
 .gamecity.ne.jp
 .gamecopyworld.com
 .gamefeat.net
@@ -668,6 +673,7 @@
 .getgold.jp
 .getuploader.com
 .ggame.jp
+.ggsoku.com
 .gigafile.nu
 .gigafree.net
 .gigazine.net
@@ -789,6 +795,7 @@
 .idolmaster-sls.biz
 .idolmaster.jp
 .idolscope.com
+.iga-log.com
 .iii.main.jp
 .iinaa.net
 .ijbblog.com
@@ -841,6 +848,7 @@
 .joymanj.net
 .joysound.com
 .jp-xvideos-av.com
+.jp.automaton.am
 .jpcamera.info
 .jpddl.com
 .jpn.com
@@ -991,6 +999,7 @@
 .loljp-mirror.tk
 .loljp-wiki.tk
 .lolking.net
+.lolstatic.com
 .lordofv.com
 .lostzeromagichs.jp
 .lova.jp
@@ -1000,6 +1009,7 @@
 .lovelive-matome.com
 .lovelive.blomaga.jp
 .lovelivepress.com
+.lovesoku.com
 .lovetoy.jp
 .luidas.com
 .lukemcg.com
@@ -1013,6 +1023,7 @@
 .m4ex.com
 .ma-bank.net
 .mabo02.livedoor.biz
+.mac-8.net
 .madskills.com
 .magicalmirai.com
 .magicianwizsoku.com
@@ -1171,6 +1182,7 @@
 .mwissoku.com
 .mxserver33.net
 .mylostgames.com
+.mysns.jp
 .myurdayz.com
 .nade-saka.com
 .nagariknews.com
@@ -1199,7 +1211,9 @@
 .nekogames.jp
 .nekomemo.com
 .nekomeshi.com
+.nekotools.club
 .nend.net
+.net-king.com
 .netaatoz.jp
 .netatama.net
 .netcrawl.info
@@ -1416,6 +1430,7 @@
 .pso-world.com
 .pso2.jp
 .pso2es.jp
+.pso2skillsimulator.com
 .ptvcdn.net
 .pupu.jp
 .purl.org
@@ -1463,6 +1478,7 @@
 .rss-rank.com
 .rssread.net
 .ruisenhoukai.com
+.run-tomorrow.com
 .ryushare.com
 .ryusoku.com
 .s-microsoft.com
@@ -1537,6 +1553,7 @@
 .sirohamenet.net
 .sironekokouryaku.com
 .sisainlive.com
+.sk2ch.com
 .skr.jp
 .slism.net
 .slo7.net
@@ -1770,6 +1787,7 @@
 .wp.me
 .ws-tcg.com
 .wwo.asia
+.www.baronsteal.net
 .x-legend.co.jp
 .x-porn.me
 .x-v-m.com
@@ -1787,6 +1805,7 @@
 .xn--eckxbbb2a8bm6x4ff.com
 .xn--eckxbbb2a8bm6x4ff0428l0ssb.com
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
+.xn--fatego-8c4e9f2a1906ksfpb.com
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--o9j0bk5tjce3x.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
@@ -1829,6 +1848,7 @@
 .yajiuma-antena.com
 .yakan.net
 .yakkun.com
+.yamaha-motor.co.jp
 .yamimeta.com
 .yanen.org
 .yaoyorozu-kobo.com
