@@ -449,6 +449,7 @@
 .draque-matome.com
 .drdinl.jp
 .dreadnought-tcg.com
+.ds-seiban.com
 .ds-voice.net
 .dtiblog.com
 .duga.jp
@@ -747,6 +748,7 @@
 .heroz.jp
 .hexadrive.jp
 .hh.iij4u.or.jp
+.hibiki-radio.jp
 .highgamers.com
 .hijyoushiki.sakura.ne.jp
 .hikakucity.com
@@ -803,6 +805,7 @@
 .ikeike2ch.jp
 .ikuji-news.com
 .ikumamasokuhou.com
+.imagebam.com
 .imas-cg.net
 .imas-cinderella.com
 .imasnews765.com
@@ -825,6 +828,7 @@
 .iruna.jp
 .itaishinja.com
 .itibusizyuu.jp
+.ittells.jp
 .itunes.apple.com
 .iwashi.biz
 .izunak.com
@@ -855,6 +859,7 @@
 .jpsoku.blog.jp
 .jscape.jp
 .jumpsokuhou.com
+.juon-movie.jp
 .jword.jp
 .jwpltx.com
 .jyouhouya3.net
@@ -933,6 +938,7 @@
 .korewaeroi.com
 .kosusoku.net
 .kotaro269.com
+.koukasound.com
 .kroko.jp
 .ksmobile.com
 .kuaibo.com
@@ -1138,6 +1144,7 @@
 .mokugeki.jp
 .momo-puri.com
 .momoeroantenna.com
+.momokyun.com
 .momon-ga.com
 .momoniji.com
 .momovideo.net
@@ -1375,6 +1382,7 @@
 .pazudorayarouzu.com
 .pazumato.com
 .pazupura.com
+.pcmanabu.com
 .pcpitshop.com
 .pdmatometa.com
 .peach-soku4.com
@@ -1543,6 +1551,7 @@
 .shogionline.jp
 .shoshinsha.com
 .showbyrock-anime.com
+.shuminoengei.jp
 .shuraba-matome.com
 .shuraba.net
 .shuutak.com
@@ -1577,6 +1586,7 @@
 .sonicch.com
 .sonnabakana.com
 .soregashi.com
+.soundsonline.com
 .special-pink-image.com
 .speedtrace.co.jp
 .splatoon-nawabari.com
@@ -1761,6 +1771,7 @@
 .webron.jp
 .webtruyen.com
 .wemade.jp
+.what-character-are-you.com
 .whocares.jp
 .wife-jp.com
 .wikiwiki.jp
@@ -1802,6 +1813,7 @@
 .xn--ccke7da9de3noexft929csfpb.com
 .xn--cckea4fdab9bb6euag7ysfya9ycf.com
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
+.xn--eckq7fg8cygsa1a1je.xn--wiki-4i9hs14f.com
 .xn--eckxbbb2a8bm6x4ff.com
 .xn--eckxbbb2a8bm6x4ff0428l0ssb.com
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
