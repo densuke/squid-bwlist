@@ -59,6 +59,7 @@
 .2logch.sakura.ne.jp
 .2mtmex.com
 .2nn.jp
+.37.48.93.217
 .3gokushi.jp
 .3keta.net
 .4416.biz
@@ -413,6 +414,7 @@
 .dl-video.net
 .dmm.co.jp
 .dmm.com
+.dmmgames-tgs2015.jp
 .dmmgames.com
 .dmmgameswiki.com
 .dmz-plus.com
@@ -1224,6 +1226,7 @@
 .nekomemo.com
 .nekomeshi.com
 .nekotools.club
+.nelog.jp
 .nend.net
 .net-king.com
 .netaatoz.jp
