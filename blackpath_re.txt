@@ -36,3 +36,4 @@ pudz\.
 nijimoe
 ^/7daystodie
 /api/MemberGetMyState
+^/images/gyao
