@@ -669,6 +669,7 @@
 .genieesspv.jp
 .gensen2ch.com
 .geo-online.co.jp
+.get-club.net
 .get2ch.net
 .getchu.com
 .getgold.jp
@@ -898,6 +899,7 @@
 .katuru.com
 .kau.li
 .kazesoku.com
+.keihin-park.com
 .kekeke.cc
 .kekkaisensen.com
 .kekkonch.com
@@ -916,6 +918,7 @@
 .king.com
 .kingdomhearts.jp
 .kingtopdeals.com
+.kinguin.net
 .kinyu-z.net
 .kir.jp
 .kisskiss-girl.com
@@ -927,6 +930,7 @@
 .kitiotoko.com
 .kizitora.jp
 .kizyo.net
+.klab.com
 .klabgames.net
 .kodukai-king.jp
 .kokotodo.nobody.jp
@@ -994,6 +998,7 @@
 .liveleak.com
 .livelog.biz
 .liverail.com
+.lix.jp
 .lock-up.jp
 .logpo.jp
 .lol-museum.net
@@ -1311,6 +1316,7 @@
 .okwave.jp
 .oletower.com
 .omanko-adaruto.com
+.omocoro.jp
 .omoshiroi-hanashi.com
 .ona-kura.com
 .onaneta-soku.com
@@ -1349,6 +1355,7 @@
 .otowota.com
 .owata-net.com
 .owt.io
+.oxynotes.com
 .ozpa-h4.com
 .p-anime.com
 .p-atlus.jp
@@ -1497,6 +1504,7 @@
 .saisin-news.com
 .sakc.jp
 .sakuratan.com
+.sanspo.com
 .santalab.me
 .sao-game.jp
 .satsubatsusekai.sakura.ne.jp
@@ -1621,6 +1629,7 @@
 .suruga-ya.jp
 .swiki.jp
 .syanago.com
+.syncer.jp
 .syosetu.com
 .syosetu.org
 .syurabahazard.com
@@ -1690,6 +1699,7 @@
 .touken-ranbu.jp
 .toukoucity.to
 .tousatsusokuhou.com
+.townwork.net
 .tpnav.com
 .trackfeed.com
 .trackword.biz
