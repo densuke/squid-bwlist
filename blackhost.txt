@@ -48,6 +48,7 @@
 .2chfinder.com
 .2chmap.com
 .2chmatome.sakura.ne.jp
+.2chmatomeru.info
 .2chmm.com
 .2chnavi.net
 .2chspa.com
@@ -85,6 +86,7 @@
 .98yrkewj.com
 .9post.jp
 .a-lim.jp
+.a-matome.com
 .a-slot.com
 .a-wiki.net
 .a4c.jp
@@ -275,6 +277,7 @@
 .blogspot.jp
 .blogstation.jp
 .blogsys.jp
+.blomaga.jp
 .blozoo.net
 .bluestacks.com
 .bmcaxis.jp
@@ -466,6 +469,7 @@
 .e-shota.com
 .ea.com
 .eagate.573.jp
+.eegg.dip.jp
 .egoisterog.com
 .egone.org
 .ehoh.net
@@ -990,6 +994,7 @@
 .letv.com
 .lglime.com
 .lhrpg.org
+.lifeantenna.com
 .lifecard.co.jp
 .lifeis-ok.com
 .lightrend.com
@@ -1079,6 +1084,7 @@
 .mato-mato.net
 .matolabel.net
 .matomame.jp
+.matome-alpha.com
 .matome-blog.jp
 .matome-ch.com
 .matome-plus.com
@@ -1112,6 +1118,7 @@
 .melonbooks.com
 .mementoo.info
 .menscyzo.com
+.merry-news.com
 .mess-y.com
 .mew5.com
 .mfac.jp
@@ -1240,6 +1247,7 @@
 .nekomemo.com
 .nekomeshi.com
 .nekotools.club
+.nekowan.com
 .nelog.jp
 .nend.net
 .net-king.com
@@ -1302,6 +1310,7 @@
 .nomaki.jp
 .nomusoku.blomaga.jp
 .novect.net
+.nstimes.com
 .nukerudogaju.com
 .nukeruerodouga.com
 .nuketa.com
@@ -1705,6 +1714,7 @@
 .tokuteishimasuta.com
 .tokyo-lc.com
 .tokyoloader.com
+.tome-uto.com
 .tonakai.aki.gs
 .tonarinoyj.jp
 .top55.net
@@ -1775,6 +1785,7 @@
 .uwakitobintatofurin.com
 .uyosoku.com
 .vid-dl.net
+.videousermanuals.com
 .viki.io
 .vimeo.com
 .vimeocdn.com
@@ -1787,6 +1798,7 @@
 .vube.com
 .w3.org
 .wallpaperup.com
+.wanconyan.co
 .wara2ch.com
 .wargaming.net
 .warmmovie.com
