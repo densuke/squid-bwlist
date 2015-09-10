@@ -22,6 +22,7 @@
 .1stero.com
 .2-carat.net
 .200624nm.com
+.203.205.140.60
 .20kaido.com
 .216.58.221.174
 .2blo.net
@@ -195,6 +196,7 @@
 .arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
+.armoredcore.net
 .aruaru.me
 .asagei.com
 .asahiwa.jp
@@ -342,6 +344,7 @@
 .cinematoday.jp
 .civ5nobunaga.com
 .clan-battle.jp
+.classroom-crisis.com
 .clevelandelectronicservices.com
 .clip.vn
 .clover-rabbit.club
@@ -392,6 +395,7 @@
 .daki-makura.info
 .damage0.blomaga.jp
 .darksummoner.jp
+.dashbida.com
 .daumcdn.net
 .dayztv.com
 .dd-on.jp
@@ -421,6 +425,7 @@
 .dnaimg.com
 .dng65.com
 .do-mono.jp
+.dobon.net
 .dodoujin.com
 .dogazofree.com
 .dojin.com
@@ -761,6 +766,7 @@
 .himarin.net
 .himasoku.com
 .hiroimono.org
+.hiros-dot.net
 .hishaku.com
 .hitozuma-xvideos-ero.com
 .hklmm.com
@@ -903,6 +909,7 @@
 .katuru.com
 .kau.li
 .kazesoku.com
+.kazuto-yoshida.com
 .keihin-park.com
 .kekeke.cc
 .kekkaisensen.com
@@ -923,6 +930,7 @@
 .kingdomhearts.jp
 .kingtopdeals.com
 .kinguin.net
+.kinisuru.com
 .kinyu-z.net
 .kir.jp
 .kisskiss-girl.com
@@ -992,6 +1000,7 @@
 .linegame.jp
 .linegames.com
 .linegames.jp
+.little-beans.net
 .littlemoon.co.jp
 .littlesolo.com
 .livedoor.com
@@ -1094,6 +1103,7 @@
 .media-b.jp
 .media-shelf.net
 .mediafire.com
+.mediago.us
 .mediav.com
 .mega.co.nz
 .megamiengage.com
@@ -1151,6 +1161,7 @@
 .moguragames.com
 .mojang.com
 .mokugeki.jp
+.mome7.com
 .momo-puri.com
 .momoeroantenna.com
 .momokyun.com
@@ -1211,6 +1222,7 @@
 .nantenna-2ch.com
 .nantoka-antenna.com
 .nantv.com
+.naps-jp.com
 .narutoapp.jp
 .nashimoto.biz
 .natalie.mu
@@ -1301,6 +1313,7 @@
 .nullpoantenna.com
 .nyaa.se
 .nyaasoku.com
+.nyaasokuvip.net
 .nyan.eggtree.net
 .nyankobiyori.com
 .nyansoku.jp
@@ -1395,6 +1408,7 @@
 .pazumato.com
 .pazupura.com
 .pcmanabu.com
+.pcmax.jp
 .pcpitshop.com
 .pdmatometa.com
 .peach-soku4.com
@@ -1604,6 +1618,7 @@
 .speedtrace.co.jp
 .splatoon-nawabari.com
 .splax.net
+.sponichi.co.jp
 .sportsnavi.dtiblog.com
 .sptadao.co.jp
 .sqex.to
@@ -1788,6 +1803,7 @@
 .wemade.jp
 .what-character-are-you.com
 .whocares.jp
+.wicurio.com
 .wife-jp.com
 .wikiwiki.jp
 .windowsphone.com
