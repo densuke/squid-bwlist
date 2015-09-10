@@ -723,6 +723,7 @@
 .gust.co.jp
 .gwiki.jp
 .gyazo.com
+.h-d.jp
 .h-douga.net
 .h-ken.net
 .h-navigation.com
