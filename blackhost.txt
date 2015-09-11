@@ -1,3 +1,4 @@
+#.s-microsoft.com
 .0matome.com
 .0nyan.jp
 .1000giribest.com
@@ -1524,7 +1525,6 @@
 .run-tomorrow.com
 .ryushare.com
 .ryusoku.com
-.s-microsoft.com
 .saba-navi.com
 .sagaplanets.product.co.jp
 .saiani.net
