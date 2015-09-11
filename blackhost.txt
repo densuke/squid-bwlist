@@ -375,6 +375,7 @@
 .coreserver.jp
 .cosmicbreak.jp
 .cosp.jp
+.cospa.com
 .cpmok.net
 .crank-in.net
 .criteo.com
@@ -648,6 +649,7 @@
 .gamemaps.com
 .gameon.jp
 .gamepedia.com
+.gamer.ne.jp
 .gamerch.com
 .gamerp.jp
 .gamescampus.co.jp
@@ -951,6 +953,7 @@
 .klabgames.net
 .kodukai-king.jp
 .kokotodo.nobody.jp
+.komachi.yomiuri.co.jp
 .komica.org
 .konami.jp
 .konaminet.jp
@@ -1728,6 +1731,7 @@
 .touchlab.jp
 .touken-ranbu.jp
 .toukoucity.to
+.touring-navi.com
 .tousatsusokuhou.com
 .townwork.net
 .tpnav.com
