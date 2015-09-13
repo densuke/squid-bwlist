@@ -171,6 +171,7 @@
 .ankomochi.cc
 .antch.net
 .antena.m-yellow.com
+.antenam.biz
 .antenam.info
 .antenna-ero.com
 .antenna-ga.com
@@ -662,6 +663,7 @@
 .gamme.com.tw
 .gamy.jp
 .garanger.net
+.garss.jp
 .gaym.jp
 .gazou-upstage.com
 .gazoukan317.jp
@@ -694,6 +696,7 @@
 .gigafree.net
 .gigazine.net
 .giko-news.com
+.gikotena.net
 .girlsreader.com
 .girlsvip-matome.com
 .gmo.jp
@@ -710,6 +713,7 @@
 .googlevideo.com
 .googlevideo.com:443
 .gossip1.net
+.gossip2.net
 .gotfes.com
 .gozaru.jp
 .grabzer.com
@@ -1179,6 +1183,7 @@
 .momon-ga.com
 .momoniji.com
 .momovideo.net
+.mona-antenna.com
 .mona-news.com
 .monhang.com
 .monmato.com
