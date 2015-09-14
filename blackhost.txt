@@ -1867,11 +1867,6 @@
 .wp.me
 .ws-tcg.com
 .wwo.asia
-.www')
-.www.baronsteal.net
-.www.blogpeople.net
-.www.facebook.com
-.www.google.co.jp
 .x-legend.co.jp
 .x-porn.me
 .x-v-m.com
