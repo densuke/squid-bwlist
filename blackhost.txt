@@ -1,4 +1,6 @@
 #.s-microsoft.com
+.'.google-analytics.com
+.+
 .0matome.com
 .0nyan.jp
 .1000giribest.com
@@ -86,6 +88,7 @@
 .91.228.167.86
 .98yrkewj.com
 .9post.jp
+.a-k-slot.com
 .a-lim.jp
 .a-matome.com
 .a-slot.com
@@ -153,6 +156,7 @@
 .amiami.jp
 .amung.us
 .ana-ero.com
+.anacel.com
 .angel-live.com
 .angelmov.net
 .anicole.net
@@ -256,6 +260,7 @@
 .bbjapan.jp
 .bcatwiz.com
 .beelzeboulxxx.com
+.beetv.jp
 .behe.com
 .benricho.org
 .bestelevenplus.jp
@@ -301,6 +306,7 @@
 .bto-pc.jp
 .buhidoh.net
 .bunbun38.com
+.burorai.com
 .burusoku-vip.com
 .butt3rs.com
 .butterfly-corp.jp
@@ -367,6 +373,7 @@
 .com2us.com
 .comico.jp
 .comisoku.com
+.comitevoorinitiatief.be
 .commseed.jp
 .completedouga.com
 .conangame.jp
@@ -593,6 +600,7 @@
 .fo-lens.net
 .focas.jp
 .fortalk.net
+.foto-webcam.eu
 .fpsjp.net
 .fpsunknown.com
 .freakshare.com
@@ -605,6 +613,7 @@
 .freeonlinegames.name
 .freexdouga.com
 .friend-birthday.com
+.ftbwiki.org
 .fujimarukun.co.jp
 .fukugan.com
 .fullcomp.jp
@@ -812,6 +821,7 @@
 .i-mobile.co.jp
 .i2i.jp
 .i2iparts.jp
+.ichikatsu.com
 .idol-blog.com
 .idoldvd.co.jp
 .idolmaster-an.net
@@ -842,6 +852,7 @@
 .injulog.com
 .inmobi.com
 .inside-games.jp
+.instacam.com
 .instagram.com
 .ipav.xyz
 .ippa.jp
@@ -1156,6 +1167,7 @@
 .minnano-av.com
 .minne.com
 .minpuzz.com
+.miraimirai01.com
 .mitsuki-o.com
 .miyadi.net
 .mkzk.xyz
@@ -1345,6 +1357,7 @@
 .octoba.jp
 .octopuspop.com
 .officedaytime.com
+.ogp.me
 .okanehadaiji.com
 .okkisokuho.com
 .okoshi-yasu.com
@@ -1546,6 +1559,7 @@
 .satsubatsusekai.sakura.ne.jp
 .say-move.org
 .sbr-vcj.com
+.schema.org
 .scienceplus2ch.com
 .scupio.com.tw
 .sdin.jp
@@ -1610,6 +1624,7 @@
 .skr.jp
 .slism.net
 .slo7.net
+.slotblogpachinkoblog.com
 .slotkaiseki.jp
 .slstage.com
 .smagazo.com
@@ -1790,6 +1805,7 @@
 .ustre.am
 .uta-net.com
 .utamap.com
+.utapri.com
 .uuu9.com
 .uwakitobintatofurin.com
 .uyosoku.com
@@ -1816,6 +1832,7 @@
 .wayohoo.net
 .wazap.com
 .weban.jp
+.webcamsdemexico.net
 .webike.net
 .webkaru.net
 .webnew.net
@@ -1850,7 +1867,11 @@
 .wp.me
 .ws-tcg.com
 .wwo.asia
+.www')
 .www.baronsteal.net
+.www.blogpeople.net
+.www.facebook.com
+.www.google.co.jp
 .x-legend.co.jp
 .x-porn.me
 .x-v-m.com
