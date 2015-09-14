@@ -15,11 +15,16 @@
 .126.net
 .127.net
 .133.242.181.110
+.139.162.26.229
 .15qm.com
 .160.16.63.18
 .163.com
 .169.0.0.1
+.176.223.220.230
+.178.255.155.19
 .178.255.156.100
+.185.3.92.115
+.198.58.121.110
 .1geki.jp
 .1kibaku.jp
 .1stero.com
@@ -77,6 +82,7 @@
 .6182.info
 .62.146.210.32
 .664422.com
+.69.164.223.181
 .6minuses.com
 .724685.com
 .777.nifty.com
@@ -201,6 +207,7 @@
 .appteam.biz
 .appzooxx.com
 .apserver.net
+.aquaplus.jp
 .arcenserv.info
 .archeage.jpn.org
 .arithgame.jp
@@ -664,6 +671,7 @@
 .gamerp.jp
 .gamescampus.co.jp
 .gamesnatch2042.com
+.gamespark.jp
 .gamesq.jp
 .gamestalk.net
 .gametama.jp
@@ -725,6 +733,7 @@
 .gossip2.net
 .gotfes.com
 .gozaru.jp
+.gpara.com
 .grabzer.com
 .granbluefantasy.jp
 .granks.co.jp
@@ -817,6 +826,7 @@
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
 .hypernews.2chblog.jp
+.i-libro.net
 .i-like-movie.net
 .i-mobile.co.jp
 .i2i.jp
@@ -1394,6 +1404,7 @@
 .oshiete-kun.net
 .oshiete.goo.ne.jp
 .otaden.jp
+.otakuma.net
 .otakumode.com
 .otamon.net
 .otanew.jp
@@ -1560,6 +1571,7 @@
 .say-move.org
 .sbr-vcj.com
 .schema.org
+.schizophonic9.com
 .scienceplus2ch.com
 .scupio.com.tw
 .sdin.jp
@@ -1713,6 +1725,7 @@
 .teamys.net
 .techjp.jp
 .tenga.client.jp
+.tenshoku.mynavi.jp
 .terafile.co
 .tgd.jp
 .tgl.jp
@@ -1723,6 +1736,7 @@
 .thegame.jp
 .thisisgame.com
 .tidaltv.com
+.tigresoft.com
 .tkssp.com
 .tobita.clover-rabbit.club
 .tocana.jp
