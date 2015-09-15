@@ -274,6 +274,7 @@
 .benricho.org
 .bestelevenplus.jp
 .besttrendnews.net
+.bethsoft.com
 .bfmatometto.info
 .big-celeb.jp
 .bijin-club.net
@@ -305,6 +306,7 @@
 .bokunenjin.com
 .bollystop.com
 .bontoku.com
+.boo.jp
 .bouken.jp
 .bouyomi.jp
 .bpro-next.jp
@@ -374,6 +376,7 @@
 .cn
 .cnzz.com
 .cnzz.net
+.cocolog-nifty.com
 .cocone.jp
 .codecflesh.xyz
 .coj-agentlabo.com
@@ -486,6 +489,7 @@
 .dtiblog.com
 .duga.jp
 .dxlive.com
+.dysintropi.me
 .e-nls.com
 .e-nls.net
 .e-shota.com
@@ -1195,6 +1199,8 @@
 .mobafire.com
 .mobilefactory.jp
 .mobiusfinalfantasy.com
+.moddb.com
+.modgames.net
 .moebeika.net
 .moeerolibrary.com
 .moeimg.net
@@ -1318,6 +1324,7 @@
 .newspickup.com
 .newstars.com
 .nexon.co.jp
+.nexusmods.com
 .ngnews.me
 .nicoblomaga.jp
 .nicodic.jp
@@ -1737,6 +1744,8 @@
 .tenga.client.jp
 .tenshoku.mynavi.jp
 .terafile.co
+.tesalliance.org
+.tesgeneral.com
 .tgd.jp
 .tgl.jp
 .thailog.net
@@ -1809,6 +1818,7 @@
 .tyabo.com
 .u-note.me
 .ubisoft.co.jp
+.uesp.net
 .ufoooo.com
 .ugnews.net
 .uhouho2ch.com
@@ -1867,6 +1877,7 @@
 .whocares.jp
 .wicurio.com
 .wife-jp.com
+.wikia.com
 .wikiwiki.jp
 .windowsphone.com
 .winneri.info
@@ -1986,6 +1997,8 @@
 .yuna-service.com
 .yunfan.com
 .yuyu-tei.jp
+.yuzuponzu.net
+.z49.org
 .za-sh.com
 .zaifx.ismcdn.jp
 .zap.jp.net
