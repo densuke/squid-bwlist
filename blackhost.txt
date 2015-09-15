@@ -103,6 +103,7 @@
 .a9vg.com
 .aaaf.jp
 .absoku072.com
+.abugames.com
 .aceonline.arario.jp
 .adacomi.com
 .addictinggames.com
@@ -194,6 +195,7 @@
 .appbank.net
 .appcogroups.com
 .appdriver.jp
+.appgaku.com
 .appget.com
 .appholic.cc
 .applean.info
@@ -378,6 +380,7 @@
 .colopl.jp
 .colorawesomeness.com
 .com2us.com
+.com2us.net
 .comico.jp
 .comisoku.com
 .comitevoorinitiatief.be
@@ -436,6 +439,7 @@
 .dka-hero.com
 .dl-file.org
 .dl-video.net
+.dmkt-sp.jp
 .dmm.co.jp
 .dmm.com
 .dmmgames-tgs2015.jp
@@ -727,6 +731,7 @@
 .goo-net.com
 .goobike.com
 .goodgamestudios.com
+.goodsmile.info
 .googlevideo.com
 .googlevideo.com:443
 .gossip1.net
@@ -861,6 +866,7 @@
 .inishie-dungeon.com
 .injulog.com
 .inmobi.com
+.inpane.com
 .inside-games.jp
 .instacam.com
 .instagram.com
@@ -1156,6 +1162,7 @@
 .mh-m.jp
 .mh4g.org
 .mhf-g.jp
+.michikusa.jp
 .microsoftstore.com
 .mihoudai.net
 .miki800.com
@@ -1235,6 +1242,7 @@
 .mt-antenna.info
 .mt2.in
 .mtg-jp.com
+.mtgmintcard.com
 .mtgwiki.com
 .mudainodocument.com
 .mudana.net
@@ -1340,6 +1348,7 @@
 .noiretaya.com
 .nomaki.jp
 .nomusoku.blomaga.jp
+.novaskin.me
 .novect.net
 .nstimes.com
 .nukerudogaju.com
@@ -1691,6 +1700,7 @@
 .superhero-movie.com
 .suresuta.jp
 .suruga-ya.jp
+.sute.jp
 .swiki.jp
 .syanago.com
 .syncer.jp
