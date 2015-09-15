@@ -370,6 +370,7 @@
 .clover-rabbit.club
 .cloverlab.biz
 .cloverlab.co.jp
+.clubdam.com
 .cn
 .cnzz.com
 .cnzz.net
