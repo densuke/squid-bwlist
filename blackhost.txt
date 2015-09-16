@@ -104,6 +104,7 @@
 .a4c.jp
 .a9vg.com
 .aaaf.jp
+.abnormal.sakura.ne.jp
 .absoku072.com
 .abugames.com
 .aceonline.arario.jp
@@ -411,6 +412,7 @@
 .crank-in.net
 .criteo.com
 .croozsocial.jp
+.cross-breed.com
 .crx7601.com
 .cuns.net
 .cuonet.com
@@ -446,6 +448,7 @@
 .derbyimpact.jp
 .devilishdesign.net
 .digital-mixnews.com
+.digitaldj-network.com
 .divdiv.info
 .diveluck.com
 .dixq.net
@@ -631,6 +634,7 @@
 .foto-webcam.eu
 .fpsjp.net
 .fpsunknown.com
+.frablo.jp
 .freakshare.com
 .free-av-douga.com
 .free-flash-game.net
@@ -748,6 +752,7 @@
 .godessgame.com
 .gogoanime.com
 .goldv.ash.jp
+.golgo31.net
 .goo-net.com
 .goobike.com
 .goodgamestudios.com
@@ -778,6 +783,7 @@
 .gunplablog.com
 .gunslinger-stratos.jp
 .gurugurulog.com
+.gurum.biz
 .gurumi-ch.com
 .gust.co.jp
 .gwiki.jp
@@ -963,6 +969,7 @@
 .kantanstart.jp
 .kaola.jp
 .karapaia.livedoor.biz
+.karapaia.sakura.ne.jp
 .karzusp.net
 .katsumoku.net
 .katuru.com
@@ -1014,6 +1021,7 @@
 .korewaeroi.com
 .kosusoku.net
 .kotaro269.com
+.kotoripiyopiyo.com
 .koukasound.com
 .kroko.jp
 .ksmobile.com
@@ -1089,6 +1097,7 @@
 .lostzeromagichs.jp
 .lova.jp
 .love-collection.com
+.love-hitode.com
 .love-love-dogs.com
 .lovelive-anime.jp
 .lovelive-matome.com
@@ -1161,6 +1170,8 @@
 .mbga-platform.jp
 .mbga.jp
 .mbok.jp
+.mc.adkda.net
+.mcnt.jp
 .mdpr.jp
 .media-b.jp
 .media-shelf.net
@@ -1306,6 +1317,7 @@
 .nbam.jp
 .ncfost.jp
 .ncsoft.jp
+.ne-ta.com
 .neesoku.net
 .neetsha.jp
 .nefficient.jp
@@ -1338,6 +1350,7 @@
 .news-three-stars.net
 .news-us.jp
 .news.x0.com
+.news109.com
 .news4vip.livedoor.biz
 .news4wide.livedoor.biz
 .newsantenna.net
@@ -1372,6 +1385,7 @@
 .nishifukuma.com
 .niziero.com
 .nizigen-matome.com
+.no1game.net
 .noahapps.jp
 .nobuwiki.org
 .noiretaya.com
@@ -1453,6 +1467,7 @@
 .otonarisoku.com
 .otonomai.me
 .otowota.com
+.ouchi.to
 .owata-net.com
 .owt.io
 .oxynotes.com
@@ -1599,6 +1614,7 @@
 .ryushare.com
 .ryusoku.com
 .saba-navi.com
+.sabukaruchan.net
 .sagaplanets.product.co.jp
 .saiani.net
 .saikyou.biz
@@ -1676,6 +1692,7 @@
 .sironekokouryaku.com
 .sisainlive.com
 .sk2ch.com
+.skmwin.net
 .skr.jp
 .skypech.com
 .slism.net
@@ -1817,6 +1834,7 @@
 .touring-navi.com
 .tousatsusokuhou.com
 .townwork.net
+.toychan.net
 .tpnav.com
 .trackfeed.com
 .trackword.biz
@@ -1874,6 +1892,7 @@
 .uwakitobintatofurin.com
 .uyosoku.com
 .vid-dl.net
+.videotopics.yahoo.co.jp
 .videousermanuals.com
 .viki.io
 .vimeo.com
@@ -1931,6 +1950,7 @@
 .wowgame.jp
 .wp.me
 .ws-tcg.com
+.wtbw.net
 .wwo.asia
 .x-legend.co.jp
 .x-porn.me
@@ -1993,6 +2013,7 @@
 .yajiuma-antena.com
 .yakan.net
 .yakkun.com
+.yakutena.com
 .yamaha-motor.co.jp
 .yamimeta.com
 .yanen.org
@@ -2008,6 +2029,7 @@
 .yes24.com
 .yeshj.com
 .yjsnpi.nu
+.yoiyami.net
 .yomosoku.com
 .yorozu.be
 .youkaiwatch-nyansoku.com
