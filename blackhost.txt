@@ -18,11 +18,13 @@
 .139.162.26.229
 .15qm.com
 .160.16.63.18
+.1616bbs.com
 .163.com
 .169.0.0.1
 .176.223.220.230
 .178.255.155.19
 .178.255.156.100
+.178.79.186.194
 .185.3.92.115
 .198.58.121.110
 .1geki.jp
@@ -164,6 +166,7 @@
 .amung.us
 .ana-ero.com
 .anacel.com
+.anettai.co.jp
 .angel-live.com
 .angelmov.net
 .anicole.net
@@ -217,6 +220,7 @@
 .aruaru.me
 .asagei.com
 .asahiwa.jp
+.asame.sakura.ne.jp
 .asg.to
 .asianews2ch.jp
 .asianews2ch.livedoor.biz
@@ -233,6 +237,8 @@
 .autoc-one.jp
 .av-365.com
 .av-baron.com
+.av-games.jp
+.av-open.jp
 .av-selection.net
 .av-tube.com
 .averodogazo.com
@@ -269,6 +275,7 @@
 .bb-douga.com
 .bbjapan.jp
 .bcatwiz.com
+.be-max.ac.jp
 .beelzeboulxxx.com
 .beetv.jp
 .behe.com
@@ -341,6 +348,7 @@
 .ccpgamescdn.com
 .cdnone.net
 .cebq.biz
+.cetrk.com
 .cf-vanguard.com
 .ch
 .ch9.ms
@@ -507,6 +515,7 @@
 .elog7.org
 .eloganoyakata.com
 .emu-russia.net
+.enasiyo.com
 .endroll.net
 .enflatpark.com
 .enjoypclife.net
@@ -612,6 +621,7 @@
 .figsoku.net
 .finalfantasy.jp
 .finalfantasyxiv.com
+.first-jp.com
 .flash-game-ziina.com
 .flower-knight-girls.co.jp
 .flvto.com
@@ -646,6 +656,7 @@
 .ga-t.net
 .gaagle.jp
 .gadgetlife2ch.blomaga.jp
+.gaga.ne.jp
 .gakinko.net
 .gakkougurashi.com
 .gakkushi.com
@@ -708,6 +719,7 @@
 .gekikame.com
 .gekikarareview.com
 .gekiyaku.com
+.gematsu.com
 .genbujp.com
 .gendama.jp
 .genieessp.jp
@@ -915,6 +927,7 @@
 .jpn.com
 .jpsoku.blog.jp
 .jscape.jp
+.julia-official.com
 .jumpsokuhou.com
 .juon-movie.jp
 .jword.jp
@@ -1420,6 +1433,7 @@
 .oowata.com
 .op.gg
 .open2ch.net
+.oppai-av.com
 .oppaibook.com
 .oppainorakuen.com
 .oreteki.org
@@ -1448,6 +1462,7 @@
 .p-bandai.jp
 .p-ch.jp
 .p-world.co.jp
+.pachinkovista.com
 .pachiseven.jp
 .pad-plus.com
 .pad-soku.com
@@ -1635,6 +1650,7 @@
 .shironeko-blog.com
 .shironeko-matomech.com
 .shironeko-project.biz
+.shironeko.me
 .shironekonews.biz
 .shironekopro.com
 .shironekoproject-news.com
@@ -1725,6 +1741,7 @@
 .syncer.jp
 .syosetu.com
 .syosetu.org
+.syunakira.com
 .syurabahazard.com
 .t7s.jp
 .tabtter.jp
@@ -2016,6 +2033,7 @@
 .zaifx.ismcdn.jp
 .zap.jp.net
 .zatunen.com
+.zennihonbudougu.com
 .zenshin.org
 .zero-plan.com
 .zerochan.net
