@@ -261,6 +261,7 @@
 .bandainamco-ol.jp
 .bandainamcoent.co.jp
 .bandainamcogames.co.jp
+.bandch.com
 .baraero.com
 .barks.jp
 .battle.net
@@ -487,6 +488,7 @@
 .ds-seiban.com
 .ds-voice.net
 .dtiblog.com
+.duelcommander.com
 .duga.jp
 .dxlive.com
 .dysintropi.me
@@ -675,6 +677,7 @@
 .gamemaps.com
 .gameon.jp
 .gamepedia.com
+.gamer.com
 .gamer.ne.jp
 .gamerch.com
 .gamerp.jp
@@ -884,6 +887,7 @@
 .itunes.apple.com
 .iwashi.biz
 .izunak.com
+.izzetmtgnews.com
 .j-antenna.com
 .j-cg.com
 .j-sen.jp
@@ -1236,6 +1240,7 @@
 .morikinoko.com
 .morningstar.co.jp
 .moroahedoujin.com
+.mosouba.com
 .moto-nari.com
 .moto-neta.com
 .moudamepo.com
@@ -1248,7 +1253,11 @@
 .mt-antenna.info
 .mt2.in
 .mtg-jp.com
+.mtg-news.net
+.mtg.anoad.com
+.mtgcommander.net
 .mtgmintcard.com
+.mtgoversears.com
 .mtgwiki.com
 .mudainodocument.com
 .mudana.net
@@ -1385,6 +1394,7 @@
 .officedaytime.com
 .ogp.me
 .okanehadaiji.com
+.okayamagic.net
 .okkisokuho.com
 .okoshi-yasu.com
 .okusama-kijyo.com
@@ -1643,6 +1653,7 @@
 .shuutak.com
 .sijex.net
 .simg.jp
+.simiteku.com
 .simplemeet.me
 .sinfonia-wld.com
 .sirohamenet.net
@@ -1650,6 +1661,7 @@
 .sisainlive.com
 .sk2ch.com
 .skr.jp
+.skypech.com
 .slism.net
 .slo7.net
 .slotblogpachinkoblog.com
@@ -1741,6 +1753,7 @@
 .team-lab.com
 .teamys.net
 .techjp.jp
+.techxt.com
 .tenga.client.jp
 .tenshoku.mynavi.jp
 .terafile.co
