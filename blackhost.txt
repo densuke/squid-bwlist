@@ -436,6 +436,7 @@
 .dashbida.com
 .daumcdn.net
 .dayztv.com
+.dc7.jp
 .dd-on.jp
 .deaicity.jp
 .dechamore.com
