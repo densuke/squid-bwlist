@@ -1032,6 +1032,7 @@
 .kuaibo.com
 .kugou.com
 .kuku.lu
+.kurage-bunch.com
 .kuraha.com
 .kuromacyo.livedoor.biz
 .kuroneko-wiz9675.net
