@@ -12,6 +12,7 @@
 .163.com
 .1geki.jp
 .1kibaku.jp
+.1mobile.com
 .1stero.com
 .2-carat.net
 .200624nm.com
@@ -83,6 +84,7 @@
 .aceonline.arario.jp
 .adacomi.com
 .addictinggames.com
+.addtomo.com
 .adult-doctor.com
 .adult-slider.com
 .adult-upstage.com
@@ -376,6 +378,7 @@
 .completedouga.com
 .conangame.jp
 .concon-collector.com
+.cookpad.com
 .corebooks.jp
 .coremagazine.co.jp
 .coreserver.jp
@@ -951,6 +954,7 @@
 .katsumoku.net
 .katuru.com
 .kau.li
+.kawasaki-cp.khi.co.jp
 .kazesoku.com
 .kazuto-yoshida.com
 .keihin-park.com
@@ -1099,6 +1103,7 @@
 .mac-8.net
 .madskills.com
 .magicalmirai.com
+.magicalracing.co.jp
 .magicianwizsoku.com
 .magsoku.blomaga.jp
 .mahoneko.info
@@ -1171,6 +1176,7 @@
 .mgame.jp
 .mgstage.com
 .mh-m.jp
+.mh-stories.jp
 .mh4g.org
 .mhf-g.jp
 .michikusa.jp
@@ -1248,6 +1254,7 @@
 .moto-nari.com
 .moto-neta.com
 .moudamepo.com
+.moug.net
 .movie-house.jp
 .movie.oshirimania.com
 .movietrailers-db.com
@@ -1486,6 +1493,7 @@
 .pazudorayarouzu.com
 .pazumato.com
 .pazupura.com
+.pc-karuma.net
 .pcmanabu.com
 .pcmax.jp
 .pcpitshop.com
@@ -1561,6 +1569,7 @@
 .qilook.com
 .qoo-app.com
 .qq.com
+.quiizu.com
 .quiz-wiz.com
 .qvod.com
 .r18matome.com
@@ -1608,6 +1617,7 @@
 .sao-game.jp
 .satsubatsusekai.sakura.ne.jp
 .say-move.org
+.sbapp.net
 .sbr-vcj.com
 .schema.org
 .schizophonic9.com
@@ -2036,6 +2046,7 @@
 .za-sh.com
 .zaifx.ismcdn.jp
 .zap.jp.net
+.zasetukinsi.com
 .zatunen.com
 .zennihonbudougu.com
 .zenshin.org
