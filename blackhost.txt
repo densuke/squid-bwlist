@@ -22,6 +22,7 @@
 .163.com
 .169.0.0.1
 .176.223.220.230
+.178.162.204.223
 .178.255.155.19
 .178.255.156.100
 .178.79.186.194
@@ -503,6 +504,7 @@
 .dtiblog.com
 .duelcommander.com
 .duga.jp
+.dwango.co.jp
 .dxlive.com
 .dysintropi.me
 .e-nls.com
@@ -1256,6 +1258,7 @@
 .monhang.com
 .monmato.com
 .monsoku.info
+.monst-lupin.jp
 .monst-news.net
 .monst-research.com
 .monst.appbank.net
@@ -1455,6 +1458,7 @@
 .oppai-av.com
 .oppaibook.com
 .oppainorakuen.com
+.orebibou.com
 .oreteki.org
 .orewiz.mobi
 .org.hm
