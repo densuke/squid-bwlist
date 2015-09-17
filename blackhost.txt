@@ -732,6 +732,7 @@
 .genieesspv.jp
 .gensen2ch.com
 .geo-online.co.jp
+.geonet.jp
 .get-club.net
 .get2ch.net
 .getchu.com
