@@ -142,6 +142,7 @@
 .amung.us
 .ana-ero.com
 .anacel.com
+.andronavi.com
 .anettai.co.jp
 .angel-live.com
 .angelmov.net
@@ -206,6 +207,7 @@
 .at-douga.com
 .atelier-ps3.jp
 .atgames.jp
+.atpages.jp
 .attomaimai.sakura.ne.jp
 .atwiki.jp
 .atwikiimg.com
@@ -263,6 +265,7 @@
 .bfmatometto.info
 .big-celeb.jp
 .bijin-club.net
+.bijo-linux.com
 .bilibili.com
 .bipblog.com
 .bitshare.com
@@ -351,6 +354,7 @@
 .ciatr.jp
 .cinematoday.jp
 .civ5nobunaga.com
+.civic-apps.com
 .clan-battle.jp
 .classroom-crisis.com
 .clevelandelectronicservices.com
@@ -640,6 +644,7 @@
 .gaagle.jp
 .gadgetlife2ch.blomaga.jp
 .gaga.ne.jp
+.gahako.com
 .gakinko.net
 .gakkougurashi.com
 .gakkushi.com
@@ -739,6 +744,7 @@
 .goodsmile.info
 .googlevideo.com
 .googlevideo.com:443
+.gori.me
 .gossip1.net
 .gossip2.net
 .gotfes.com
@@ -809,6 +815,7 @@
 .hiros-dot.net
 .hishaku.com
 .hitozuma-xvideos-ero.com
+.hivecolor.com
 .hklmm.com
 .hn-antena.com
 .hnalady.com
@@ -828,6 +835,7 @@
 .hotpepper.jp
 .howto-box.jp
 .hrs-game.main.jp
+.htmq.com
 .hug2.biz
 .hujiang.com
 .hulu.com
@@ -854,6 +862,7 @@
 .ijbblog.com
 .ijinshan.com
 .ikeike2ch.jp
+.ikoinoba.net
 .ikuji-news.com
 .ikumamasokuhou.com
 .imagebam.com
@@ -879,6 +888,7 @@
 .ippa.jp
 .ippatusearch.dip.jp
 .iruna.jp
+.isus.jp
 .itaishinja.com
 .itibusizyuu.jp
 .ittells.jp
@@ -893,6 +903,7 @@
 .jap-xvideos.com
 .japanz.jp
 .japohan.net
+.javaroad.jp
 .jeuxvideo24.com
 .jimdo.com
 .jin115.com
@@ -933,6 +944,7 @@
 .kakeru.me
 .kakonacl.xsrv.jp
 .kakuge-checker.com
+.kakuyasu-sim.jp
 .kami-douga-adult.com
 .kamibakusho.com
 .kamierodouga.com
@@ -1001,6 +1013,8 @@
 .konomoe.at.webry.info
 .konton.info
 .korewaeroi.com
+.kororo.jp
+.kosakalab.com
 .kosusoku.net
 .kotaro269.com
 .kotoripiyopiyo.com
@@ -1151,6 +1165,7 @@
 .matometanews.com
 .matometatta-news.net
 .matomeume.com
+.matsumoto-r.jp
 .mbga-platform.jp
 .mbga.jp
 .mbok.jp
@@ -1290,6 +1305,7 @@
 .nan-net.com
 .nan.co.jp
 .nan.jp
+.nana-music.com
 .nanj-matome.com
 .nantenna-2ch.com
 .nantoka-antenna.com
@@ -1547,7 +1563,9 @@
 .pripara.jp
 .prisma-illya.jp
 .probuilds.net
+.program-blog.net
 .project-diva-ac.net
+.promamo.com
 .psnova.net
 .pso-world.com
 .pso2.jp
@@ -1566,6 +1584,7 @@
 .puzzdragon.jp
 .puzzdrashinbun.com
 .qiantucdn.com
+.qiita.com
 .qilook.com
 .qoo-app.com
 .qq.com
@@ -1748,6 +1767,7 @@
 .swiki.jp
 .syanago.com
 .syncer.jp
+.syoboi.jp
 .syosetu.com
 .syosetu.org
 .syunakira.com
@@ -1796,6 +1816,7 @@
 .tidaltv.com
 .tigresoft.com
 .tkssp.com
+.tmbox.net
 .tobita.clover-rabbit.club
 .tocana.jp
 .togech.jp
@@ -1848,6 +1869,7 @@
 .turezure01.com
 .turukusa.com
 .turusokuhou.com
+.tuyano.com
 .tv
 .tvsurf.jp
 .twi1.me
@@ -1875,6 +1897,7 @@
 .uploader.net
 .ura-dipo.com
 .uratan.jp
+.usedoor.jp
 .ushi.cc
 .ustre.am
 .uta-net.com
@@ -1890,6 +1913,7 @@
 .vimeo.com
 .vimeocdn.com
 .vipcle.net
+.vipdoor.info
 .vipelog.com
 .vipick.net
 .vippers.jp
@@ -1897,6 +1921,7 @@
 .virtuagirlhd.com
 .vube.com
 .w3.org
+.wakuwaku365.com
 .wallpaperup.com
 .wanconyan.co
 .wara2ch.com
@@ -1913,6 +1938,7 @@
 .webnew.net
 .webron.jp
 .webtruyen.com
+.weeklymouse.com
 .wemade.jp
 .what-character-are-you.com
 .whocares.jp
