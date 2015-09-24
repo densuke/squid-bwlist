@@ -200,7 +200,6 @@
 .asame.sakura.ne.jp
 .asg.to
 .asianews2ch.jp
-.asianews2ch.livedoor.biz
 .ask.fm
 .aso-bo.com
 .asobism.co.jp
@@ -828,7 +827,6 @@
 .honey-rope.jugem.jp
 .honeyworks.jp
 .honmotakeshi.com
-.honwaka2ch.livedoor.biz
 .honyakusitem.blogspot.jp
 .hork.info
 .horukan.com
@@ -963,7 +961,6 @@
 .kantai-collection.com
 .kantanstart.jp
 .kaola.jp
-.karapaia.livedoor.biz
 .karapaia.sakura.ne.jp
 .karzusp.net
 .katsumoku.net
@@ -1029,7 +1026,6 @@
 .kuku.lu
 .kurage-bunch.com
 .kuraha.com
-.kuromacyo.livedoor.biz
 .kuroneko-wiz9675.net
 .kurowizmatomete.com
 .kurowizu.net
