@@ -1113,7 +1113,6 @@
 .m-o-w.net
 .m4ex.com
 .ma-bank.net
-.mabo02.livedoor.biz
 .mac-8.net
 .madskills.com
 .magicalmirai.com
@@ -1143,7 +1142,6 @@
 .marumie-tv.com
 .marupeke296.com
 .marutube.com
-.master-asia.livedoor.biz
 .mato-mato.net
 .matolabel.net
 .matomame.jp
@@ -1355,8 +1353,6 @@
 .news-us.jp
 .news.x0.com
 .news109.com
-.news4vip.livedoor.biz
-.news4wide.livedoor.biz
 .newsantenna.net
 .newsch.info
 .newser.cc
@@ -1443,7 +1439,6 @@
 .onesoku.com
 .onihimechan.com
 .onitomediary.com
-.oniyomech.livedoor.biz
 .oniyomediary.com
 .onlinegamer.jp
 .onsen.ag
@@ -1498,7 +1493,6 @@
 .pangya.jp
 .panpilog.com
 .paperman.jp
-.parts.blog.livedoor.jp
 .parusoku.com
 .pathofexile.com
 .patolesoft.net
@@ -2016,7 +2010,6 @@
 .xvideos-life.com
 .xvideos-tousatsu.com
 .xvideos.com
-.xvideosantenna.livedoor.biz
 .xvideosdojigen.com
 .xvideosfc2.com
 .xvideosfreemovie.com
