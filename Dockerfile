@@ -1,6 +1,8 @@
 #FROM densuke/ubuntu-jp-remix:trusty
 FROM ubuntu:trusty
 
+ENV http_proxy http://192.168.1.250:3128/
+ENV https_proxy http://192.168.1.250:3128/
 RUN apt-get update && apt-get -y install squid3 && initctl stop squid3
 RUN sed -e 's;^start on runlevel;# start on runlevel;' \
         -e 's;^stop on runlevel;# stop on runlevel;' \
