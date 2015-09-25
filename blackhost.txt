@@ -53,6 +53,9 @@
 .2logch.sakura.ne.jp
 .2mtmex.com
 .2nn.jp
+.37.252.225.2
+.37.252.232.6
+.3751chat.com
 .3gokushi.jp
 .3keta.net
 .4416.biz
@@ -184,6 +187,7 @@
 .applover.us
 .appmedia.jp
 .appoxee.com
+.appps.jp
 .appsflyer.com
 .appspot.com
 .appteam.biz
@@ -251,6 +255,7 @@
 .battle.net
 .battlefield.com
 .bb-douga.com
+.bbb-bike.com
 .bbjapan.jp
 .bcatwiz.com
 .be-max.ac.jp
@@ -352,6 +357,7 @@
 .chonborista.com
 .ciatr.jp
 .cinematoday.jp
+.civ4multi.info
 .civ5nobunaga.com
 .civic-apps.com
 .clan-battle.jp
@@ -393,6 +399,7 @@
 .criteo.com
 .croozsocial.jp
 .cross-breed.com
+.crossange.com
 .crx7601.com
 .cuns.net
 .cuonet.com
@@ -428,6 +435,7 @@
 .dengekionline.com
 .derbyimpact.jp
 .devilishdesign.net
+.digimonostation.jp
 .digital-mixnews.com
 .digitaldj-network.com
 .divdiv.info
@@ -626,11 +634,13 @@
 .freegame.on.arena.ne.jp
 .freemoviedeh.com
 .freeonlinegames.name
+.freesoft-concierge.com
 .freexdouga.com
 .friend-birthday.com
 .ftbwiki.org
 .fujimarukun.co.jp
 .fukugan.com
+.full-count.jp
 .fullcomp.jp
 .fumi23.com
 .funger-antena.info
@@ -735,6 +745,7 @@
 .gmossp-sp.jp
 .gmpg.org
 .gnst.jp
+.godeater.jp
 .godessgame.com
 .gogoanime.com
 .goldv.ash.jp
@@ -1142,6 +1153,7 @@
 .marumie-tv.com
 .marupeke296.com
 .marutube.com
+.marv.jp
 .mato-mato.net
 .matolabel.net
 .matomame.jp
@@ -1190,6 +1202,7 @@
 .mgstage.com
 .mh-m.jp
 .mh-stories.jp
+.mh-xr.jp
 .mh4g.org
 .mhf-g.jp
 .michikusa.jp
@@ -1499,6 +1512,7 @@
 .pazdraism.info
 .pazu.biz
 .pazudora-ken.com
+.pazudora-piece.com
 .pazudoracyanman.net
 .pazudoraj.com
 .pazudorayarouzu.com
@@ -1542,6 +1556,7 @@
 .pmang.jp
 .po-kaki-to.com
 .pokecheck.org
+.pokedit.com
 .pokemon-br.com
 .pokemon-matome.net
 .pokemon-movie.jp
@@ -1651,6 +1666,7 @@
 .sega.jp
 .seikatuch.com
 .seiroganmania.com
+.sekainoura.net
 .sekurosu.com
 .senddownloadmy.com
 .senmanga.com
