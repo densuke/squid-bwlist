@@ -487,7 +487,6 @@
 .drdinl.jp
 .dreadnought-tcg.com
 .ds-seiban.com
-.ds-voice.net
 .dtiblog.com
 .duelcommander.com
 .duga.jp
