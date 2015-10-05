@@ -777,6 +777,7 @@
 .gu3.jp
 .gundam-kizuna.jp
 .gundam-vs.jp
+.gundam.info
 .gungho.jp
 .gunplablog.com
 .gunslinger-stratos.jp
@@ -1103,6 +1104,7 @@
 .lolstatic.com
 .lordofv.com
 .lostzeromagichs.jp
+.loumo.jp
 .lova.jp
 .love-collection.com
 .love-hitode.com
