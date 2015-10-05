@@ -731,6 +731,7 @@
 .getchu.com
 .getgold.jp
 .getuploader.com
+.gg-blog.com
 .ggame.jp
 .ggsoku.com
 .gigafile.nu
@@ -1094,6 +1095,7 @@
 .logpo.jp
 .lol-museum.net
 .lol2048.com
+.lolantena.com
 .loli-movix.com
 .lolimanga.com
 .lolipop.jp
@@ -1101,6 +1103,7 @@
 .loljp-mirror.tk
 .loljp-wiki.tk
 .lolking.net
+.lolnavi.info
 .lolstatic.com
 .lordofv.com
 .lostzeromagichs.jp
@@ -1718,6 +1721,7 @@
 .sk2ch.com
 .skmwin.net
 .skr.jp
+.skter.com
 .skypech.com
 .slism.net
 .slo7.net
