@@ -444,6 +444,7 @@
 .dka-hero.com
 .dl-file.org
 .dl-video.net
+.dlmarket.jp
 .dmkt-sp.jp
 .dmm.co.jp
 .dmm.com
