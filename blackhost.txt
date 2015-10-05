@@ -171,6 +171,7 @@
 .antenna-ga.com
 .antenna.ebb.jp
 .antennash.com
+.aokihagane.com
 .app-channel.link
 .app-heaven.net
 .app-liv.jp
@@ -755,6 +756,7 @@
 .goobike.com
 .goodgamestudios.com
 .goodsmile.info
+.goodsmileshop.com
 .googlevideo.com
 .googlevideo.com:443
 .gori.me
@@ -919,6 +921,7 @@
 .japohan.net
 .javaroad.jp
 .jeuxvideo24.com
+.jiku-chu.com
 .jimdo.com
 .jin115.com
 .jinjitter.jp
@@ -1349,6 +1352,7 @@
 .nekowan.com
 .nelog.jp
 .nend.net
+.nenshuu.net
 .net-king.com
 .netaatoz.jp
 .netatama.net
@@ -1430,6 +1434,7 @@
 .nyanta.jp
 .nyonin.com
 .o0o0.jp
+.oakcorp.net
 .objectclub.jp
 .oboom.com
 .obunko.com
@@ -1475,6 +1480,7 @@
 .orz.hm
 .oshiete-kun.net
 .oshiete.goo.ne.jp
+.oshiete.xgoo.jp
 .otaden.jp
 .otakuma.net
 .otakumode.com
@@ -1537,6 +1543,7 @@
 .photo-capsule.net
 .photobag.in
 .photoshopvip.net
+.pia.co.jp
 .pia.jp
 .pico-n.com
 .pict-navi.net
