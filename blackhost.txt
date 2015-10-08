@@ -618,6 +618,7 @@
 .finalfantasyxiv.com
 .first-jp.com
 .flash-game-ziina.com
+.floe-net.jp
 .flower-knight-girls.co.jp
 .flvto.com
 .fo-lens.net
@@ -671,6 +672,7 @@
 .game-news.biz
 .game.ever.jp
 .game.goo.ne.jp
+.game.watch.impress.co.jp
 .game1wiki.com
 .game4broke.blogspot.com
 .game4broke.sakura.ne.jp
@@ -1722,6 +1724,7 @@
 .simiteku.com
 .simplemeet.me
 .sinfonia-wld.com
+.siritori.net
 .sirohamenet.net
 .sironekokouryaku.com
 .sisainlive.com
@@ -1789,6 +1792,7 @@
 .suruga-ya.jp
 .sute.jp
 .swiki.jp
+.switch-box.net
 .syanago.com
 .syncer.jp
 .syoboi.jp
