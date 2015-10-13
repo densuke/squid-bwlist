@@ -132,6 +132,7 @@
 .allxin.com
 .alphapolis.co.jp
 .alphapolis.jp
+.altema.jp
 .am-our.com
 .amaebi.net
 .amano-jack.jp
@@ -239,6 +240,7 @@
 .baiku-sokuho.info
 .baisoku.2-d.jp
 .baito.mynavi.jp
+.baitoru.com
 .bakankoku.com
 .bakattan.com
 .bakuero.net
@@ -490,6 +492,7 @@
 .dreadnought-tcg.com
 .ds-seiban.com
 .dtiblog.com
+.duba.net
 .duelcommander.com
 .duga.jp
 .dwango.co.jp
@@ -634,6 +637,7 @@
 .free-video-movie
 .free-xvideos.net
 .freegame.on.arena.ne.jp
+.freem.ne.jp
 .freemoviedeh.com
 .freeonlinegames.name
 .freesoft-concierge.com
@@ -645,6 +649,7 @@
 .full-count.jp
 .fullcomp.jp
 .fumi23.com
+.fundo.jp
 .funger-antena.info
 .funkygunstattoo.com
 .futene.net
@@ -685,6 +690,7 @@
 .gamecopyworld.com
 .gamefeat.net
 .gameinjp.com
+.gameiroiro.com
 .gamejolt.com
 .gamemaps.com
 .gameon.jp
@@ -714,6 +720,7 @@
 .gb-wiki.net
 .gbf-wiki.com
 .gczero.com
+.gdunlimited.net
 .ge-maji.com
 .ge-tube.com
 .geekles.net
@@ -744,6 +751,7 @@
 .gikotena.net
 .girlsreader.com
 .girlsvip-matome.com
+.girlzbar.com
 .gmo.jp
 .gmocloud.com
 .gmossp-sp.jp
@@ -1203,6 +1211,7 @@
 .melonbooks.co.jp
 .melonbooks.com
 .mementoo.info
+.men-joy.jp
 .menscyzo.com
 .merry-news.com
 .mess-y.com
@@ -1443,6 +1452,7 @@
 .ocnk.net
 .octoba.jp
 .octopuspop.com
+.odysseytweet.com
 .officedaytime.com
 .ogp.me
 .okanehadaiji.com
@@ -1513,6 +1523,7 @@
 .pagoda56.com
 .paidperview.com
 .paipai-info.com
+.pairs.lv
 .pakapon.com
 .pakemania.net
 .pandachirari.com
