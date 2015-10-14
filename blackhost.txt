@@ -864,7 +864,6 @@
 .hotp.jp
 .hotpepper.jp
 .howto-box.jp
-.hrs-game.main.jp
 .htmq.com
 .hug2.biz
 .hujiang.com
