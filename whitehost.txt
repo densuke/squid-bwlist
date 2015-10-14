@@ -48,7 +48,7 @@ git.amfys.net
 .windows.com
 .googleusercontent.com
 .avast.com
-.teamviewer.com
+#.teamviewer.com
 .cloudfront.net
 .facebook.com
 .amazonaws.com
