@@ -184,6 +184,7 @@
 .appgaku.com
 .appget.com
 .appholic.cc
+.apple-geeks.com
 .applean.info
 .applibot.co.jp
 .applion.jp
@@ -213,6 +214,7 @@
 .at-douga.com
 .atelier-ps3.jp
 .atgames.jp
+.atgj.net
 .atpages.jp
 .attomaimai.sakura.ne.jp
 .atwiki.jp
@@ -248,6 +250,7 @@
 .bakufu.jp
 .bakuretuken.com
 .bakusai.com
+.bamka.info
 .bandai-hobbuy.net
 .bandai-hobby.net
 .bandainamco-ol.jp
@@ -859,6 +862,7 @@
 .honyakusitem.blogspot.jp
 .hork.info
 .horukan.com
+.hoshidora.jp
 .hosyusokuhou.jp
 .hotkoreanews.blogspot.jp
 .hotp.jp
@@ -880,6 +884,7 @@
 .i2i.jp
 .i2iparts.jp
 .ichikatsu.com
+.ideatool.jp
 .idol-blog.com
 .idoldvd.co.jp
 .idolmaster-an.net
@@ -914,6 +919,7 @@
 .instacam.com
 .instagram.com
 .ipav.xyz
+.iphone-mania.jp
 .ippa.jp
 .ippatusearch.dip.jp
 .iruna.jp
@@ -1585,6 +1591,7 @@
 .plineworld.com
 .pmang.jp
 .po-kaki-to.com
+.pockecolo.com
 .pokecheck.org
 .pokedit.com
 .pokemon-br.com
@@ -1605,6 +1612,7 @@
 .probuilds.net
 .program-blog.net
 .project-diva-ac.net
+.projectpokemon.org
 .promamo.com
 .psnova.net
 .pso-world.com
@@ -1663,6 +1671,7 @@
 .run-tomorrow.com
 .ryushare.com
 .ryusoku.com
+.ryuuseinogotoku-trend.com
 .saba-navi.com
 .sabukaruchan.net
 .sagaplanets.product.co.jp
@@ -1729,6 +1738,7 @@
 .shitaraba.net
 .shobon.jp
 .shogionline.jp
+.shonenjump.com
 .shoshinsha.com
 .showbyrock-anime.com
 .shuminoengei.jp
@@ -1749,6 +1759,7 @@
 .skr.jp
 .skter.com
 .skypech.com
+.sleipnirstart.com
 .slism.net
 .slo7.net
 .slotblogpachinkoblog.com
@@ -1809,6 +1820,7 @@
 .sute.jp
 .swiki.jp
 .switch-box.net
+.syaka1.com
 .syanago.com
 .syncer.jp
 .syoboi.jp
@@ -1850,6 +1862,7 @@
 .terafile.co
 .tesalliance.org
 .tesgeneral.com
+.tetra-inc.com
 .tgd.jp
 .tgl.jp
 .thailog.net
@@ -2089,6 +2102,7 @@
 .yaruo.link
 .yaruo.wikia.com
 .yaruyomi.com
+.yen-money-point.com
 .yes24.com
 .yeshj.com
 .yjsnpi.nu
