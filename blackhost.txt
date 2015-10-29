@@ -71,6 +71,7 @@
 .6minuses.com
 .724685.com
 .777.nifty.com
+.777segu.net
 .777town.net
 .7gogo.jp
 .98yrkewj.com
@@ -431,6 +432,7 @@
 .darksummoner.jp
 .dashbida.com
 .daumcdn.net
+.daumkakao.com
 .dayztv.com
 .dc7.jp
 .dd-on.jp
@@ -872,6 +874,7 @@
 .horukan.com
 .hoshidora.jp
 .hosyusokuhou.jp
+.hot-topic-news.com
 .hotkoreanews.blogspot.jp
 .hotp.jp
 .hotpepper.jp
@@ -968,6 +971,7 @@
 .jpn.com
 .jpsoku.blog.jp
 .jscape.jp
+.jsports.co.jp
 .julia-official.com
 .jumpsokuhou.com
 .juon-movie.jp
@@ -978,6 +982,7 @@
 .ka-nabell.com
 .kabegami.com
 .kabooo.net
+.kagajo.com
 .kagekidan.net
 .kai-you.net
 .kaikatsu.jp
@@ -1356,6 +1361,7 @@
 .nan.jp
 .nana-music.com
 .nanj-matome.com
+.nankaibuhin.co.jp
 .nantenna-2ch.com
 .nantoka-antenna.com
 .nantv.com
@@ -1676,6 +1682,7 @@
 .rottengirl.net
 .round1.co.jp
 .rpgmaker.net
+.rs-taichi.co.jp
 .rss-loader.com
 .rss-rank.com
 .rssread.net
@@ -1827,6 +1834,7 @@
 .sukumizu.jp
 .sumahoinfo.com
 .summonboard.net
+.summonerswar.co
 .summonnight.net
 .sumomo-ch.com
 .suomi-neito.com
@@ -2105,6 +2113,7 @@
 .yahoo-mbga.jp
 .yajiuma-antena.com
 .yakan.net
+.yakei-mn.com
 .yakkun.com
 .yakutena.com
 .yamaha-motor.co.jp
