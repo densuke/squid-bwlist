@@ -16,6 +16,7 @@
 .1stero.com
 .2-carat.net
 .200624nm.com
+.203.104.209.39
 .20kaido.com
 .2blo.net
 .2ch-2.net
@@ -329,6 +330,7 @@
 .cafe-capy.net
 .cafeglobe.com
 .calciomatome.net
+.cameranonaniwa.jp
 .capcom-onlinegames.jp
 .capcom.co.jp
 .caribbeancom.com
@@ -466,6 +468,7 @@
 .dodoujin.com
 .dogazofree.com
 .dojin.com
+.dojinongaku.com
 .dokidokivisual.com
 .dokoda.jp
 .dokokarasokuhou.com
@@ -506,6 +509,7 @@
 .e-nls.net
 .e-shota.com
 .e-sports-square.com
+.e-typing.ne.jp
 .ea.com
 .eagate.573.jp
 .eegg.dip.jp
@@ -648,6 +652,7 @@
 .freesoft-concierge.com
 .freexdouga.com
 .friend-birthday.com
+.frlamemonger.com
 .ftbwiki.org
 .fujimarukun.co.jp
 .fukugan.com
@@ -694,6 +699,7 @@
 .gamecity.ne.jp
 .gamecopyworld.com
 .gamefeat.net
+.gamefreak.co.jp
 .gameinjp.com
 .gameiroiro.com
 .gamejolt.com
@@ -758,6 +764,7 @@
 .girlsreader.com
 .girlsvip-matome.com
 .girlzbar.com
+.gizmodo.jp
 .gmo.jp
 .gmocloud.com
 .gmossp-sp.jp
@@ -794,6 +801,7 @@
 .gsspcln.jp
 .gu-kawagazo-ch.com
 .gu3.jp
+.guitarlist.net
 .gundam-kizuna.jp
 .gundam-vs.jp
 .gundam.info
@@ -1430,6 +1438,7 @@
 .nizigen-matome.com
 .no1game.net
 .noahapps.jp
+.nobuta123.co.jp
 .nobuwiki.org
 .noiretaya.com
 .nomaki.jp
@@ -1525,6 +1534,7 @@
 .p-world.co.jp
 .pachinkovista.com
 .pachiseven.jp
+.pack-depot.com
 .pad-plus.com
 .pad-soku.com
 .pad.atenasoku.com
@@ -1553,6 +1563,7 @@
 .pazumato.com
 .pazupura.com
 .pc-karuma.net
+.pc-koubou.jp
 .pcmanabu.com
 .pcmax.jp
 .pcpitshop.com
@@ -1599,6 +1610,7 @@
 .pokemon-movie.jp
 .pokemon.co.jp
 .pokesen.com
+.pokkentournament.jp
 .pong.com
 .ponos.co.jp
 .porn.com
@@ -1677,7 +1689,9 @@
 .sagaplanets.product.co.jp
 .saiani.net
 .saikyou.biz
+.sailormoon-official.com
 .saisin-news.com
+.saisokuspi.com
 .sakc.jp
 .sakuratan.com
 .sanspo.com
@@ -1720,6 +1734,7 @@
 .sgviewer.com
 .shikihime-garden.com
 .shikihime-zoushi.com
+.shimamura.co.jp
 .shindanmaker.com
 .shinobi.jp
 .shinra-game.jp
@@ -1776,6 +1791,7 @@
 .sns-park.com
 .soccer-douga.com
 .socdm.com
+.sofmap.com
 .sogou.com
 .soku.com
 .sokuhabo.net
@@ -1937,6 +1953,7 @@
 .twitter.com
 .twpf.jp
 .tyabo.com
+.type.jp
 .u-note.me
 .ubisoft.co.jp
 .uesp.net
@@ -2091,6 +2108,7 @@
 .yakkun.com
 .yakutena.com
 .yamaha-motor.co.jp
+.yamaha-motor.com
 .yamimeta.com
 .yanen.org
 .yaoyorozu-kobo.com
@@ -2117,6 +2135,7 @@
 .youtube.com
 .yu-gi-oh.xyz
 .yucasee.jp
+.yucomia.com
 .yugioh-card.com
 .yugioh-list.com
 .yugioh-wiki.net
