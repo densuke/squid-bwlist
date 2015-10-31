@@ -17,6 +17,7 @@
 .2-carat.net
 .200624nm.com
 .203.104.209.39
+.203.104.209.71
 .20kaido.com
 .2blo.net
 .2ch-2.net
@@ -1107,6 +1108,7 @@
 .lifeis-ok.com
 .lightrend.com
 .line-apps.com
+.line-cdn.net
 .line-tatsujin.com
 .line.me
 .linegame.com
@@ -1306,6 +1308,7 @@
 .monmato.com
 .monsoku.info
 .monst-lupin.jp
+.monst-multi.net
 .monst-news.net
 .monst-research.com
 .monst.appbank.net
