@@ -16,8 +16,6 @@
 .1stero.com
 .2-carat.net
 .200624nm.com
-203.104.209.39
-203.104.209.71
 .20kaido.com
 .2blo.net
 .2ch-2.net
@@ -55,8 +53,6 @@
 .2logch.sakura.ne.jp
 .2mtmex.com
 .2nn.jp
-37.252.225.2
-37.252.232.6
 .3751chat.com
 .3gokushi.jp
 .3keta.net
@@ -406,6 +402,7 @@
 .cosmicbreak.jp
 .cosp.jp
 .cospa.com
+.couples.jp
 .cpmok.net
 .crank-in.net
 .criteo.com
@@ -1186,6 +1183,7 @@
 .mangadl.com
 .mangakit.com
 .mangapolo.com
+.mangazenkan.com
 .maniacerogazo.com
 .manmai.jp
 .manna-jp.com
@@ -1486,6 +1484,7 @@
 .odysseytweet.com
 .officedaytime.com
 .ogp.me
+.oj-group.net
 .okanehadaiji.com
 .okayamagic.net
 .okkisokuho.com
@@ -1547,6 +1546,7 @@
 .pachinkovista.com
 .pachiseven.jp
 .pack-depot.com
+.pacman.com
 .pad-plus.com
 .pad-soku.com
 .pad.atenasoku.com
@@ -1724,6 +1724,7 @@
 .sdvx.info
 .se-kirara.jp
 .se-support.com
+.securitysoft.asia
 .seesaa.net
 .seesaawiki.jp
 .sega-mj.com
@@ -1948,6 +1949,7 @@
 .trendpride.com
 .tricksterwiki.info
 .trpg.net
+.tsite.jp
 .tsundora.com
 .tube8.com
 .tuccom.com
@@ -2049,6 +2051,7 @@
 .wizmatome.com
 .wizmatomeselection.com
 .wk-tk.net
+.wonderhowto.com
 .wonderpla.net
 .wondershare.com
 .worklife-create.com
@@ -2194,8 +2197,12 @@
 178.79.186.194
 185.3.92.115
 198.58.121.110
+203.104.209.39
+203.104.209.71
 203.205.140.60
 216.58.221.174
+37.252.225.2
+37.252.232.6
 37.48.93.217
 54.200.156.56
 54.65.125.203
