@@ -3,6 +3,7 @@
 .1000giribest.com
 .1000mg.jp
 .100shiki.com
+.10minutemail.com
 .11ch-av.com
 .120.hp2.jp
 .126.net
@@ -188,6 +189,7 @@
 .applean.info
 .applibot.co.jp
 .applion.jp
+.applision.com
 .applover.us
 .appmedia.jp
 .appoxee.com
@@ -386,6 +388,7 @@
 .college2ch.blomaga.jp
 .colopl.jp
 .colorawesomeness.com
+.colta.jp
 .com2us.com
 .com2us.net
 .comico.jp
@@ -410,6 +413,7 @@
 .cross-breed.com
 .crossange.com
 .crx7601.com
+.csgowild.com
 .cuns.net
 .cuonet.com
 .curazy.com
@@ -506,6 +510,7 @@
 .dwango.co.jp
 .dxlive.com
 .dysintropi.me
+.e-earphone.jp
 .e-nls.com
 .e-nls.net
 .e-shota.com
@@ -650,6 +655,7 @@
 .freem.ne.jp
 .freemoviedeh.com
 .freeonlinegames.name
+.freesoft-100.com
 .freesoft-concierge.com
 .freexdouga.com
 .friend-birthday.com
@@ -1177,6 +1183,7 @@
 .maist.jp
 .majide.org
 .majikichi.com
+.makeshop.jp
 .mandarake.net
 .manga100ka.jp
 .mangabox.me
@@ -1453,6 +1460,7 @@
 .noiretaya.com
 .nomaki.jp
 .nomusoku.blomaga.jp
+.nou-college.com
 .novaskin.me
 .novect.net
 .nstimes.com
@@ -1518,6 +1526,7 @@
 .oreteki.org
 .orewiz.mobi
 .org.hm
+.oricon.co.jp
 .oroti.net
 .orz.hm
 .oshiete-kun.net
@@ -1585,6 +1594,7 @@
 .peco-japan.com
 .peko-step.com
 .petippai.com
+.petitlyrics.com
 .phmovielife.com
 .phobos.apple.com
 .photo-capsule.net
@@ -1681,6 +1691,7 @@
 .renai-matome.com
 .rental-rental.net
 .repsoku.net
+.rfs.jp
 .rmpaz.com
 .rocketnews24.com
 .ronsoku.com
@@ -2011,6 +2022,7 @@
 .vippers.jp
 .vipsister23.com
 .virtuagirlhd.com
+.vpngate.net
 .vube.com
 .w3.org
 .wakuwaku365.com
