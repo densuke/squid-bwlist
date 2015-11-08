@@ -279,6 +279,7 @@
 .big-celeb.jp
 .bijin-club.net
 .bijo-linux.com
+.bikechannel.info
 .bilibili.com
 .bipblog.com
 .bitshare.com
@@ -334,6 +335,7 @@
 .cameranonaniwa.jp
 .capcom-onlinegames.jp
 .capcom.co.jp
+.carholder.net
 .caribbeancom.com
 .carsensor.net
 .carview.co.jp
@@ -372,6 +374,7 @@
 .civic-apps.com
 .clan-battle.jp
 .classroom-crisis.com
+.clcount.com
 .clevelandelectronicservices.com
 .clip.vn
 .clover-rabbit.club
@@ -422,6 +425,7 @@
 .cygames.co.jp
 .cylab.jp
 .cyousokuvip.com
+.cysoku.com
 .cyzo.co.jp
 .cyzowoman.com
 .d-quest-10.com
@@ -798,6 +802,7 @@
 .grabzer.com
 .granbluefantasy.jp
 .granks.co.jp
+.grassw.com
 .gree-apps.net
 .gree.jp
 .gree.net
@@ -913,6 +918,7 @@
 .ijinshan.com
 .ikeike2ch.jp
 .ikoinoba.net
+.iku-sokuho.info
 .ikuji-news.com
 .ikumamasokuhou.com
 .imagebam.com
@@ -1082,6 +1088,7 @@
 .kuroneko-wiz9675.net
 .kurowizmatomete.com
 .kurowizu.net
+.kurumachannel.com
 .kurushiunai.jp
 .kyokugen.info
 .kyonyudouga.com
@@ -1966,6 +1973,7 @@
 .tuccom.com
 .tukisiroyogisya.com
 .tumblr.com
+.turbo-bee.com
 .turbobit.net
 .turezure01.com
 .turukusa.com
@@ -2009,6 +2017,7 @@
 .uuu9.com
 .uwakitobintatofurin.com
 .uyosoku.com
+.vehicle123.com
 .vid-dl.net
 .videotopics.yahoo.co.jp
 .videousermanuals.com
