@@ -1,5 +1,5 @@
 #FROM densuke/ubuntu-jp-remix:trusty
-FROM ubuntu:trusty
+FROM densuke/ubuntu-jp-remix:trusty
 
 ENV http_proxy http://192.168.1.250:3128/
 ENV https_proxy http://192.168.1.250:3128/
