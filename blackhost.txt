@@ -35,7 +35,6 @@
 .2ch-net.jp
 .2ch-rank.net
 .2ch.anything-navi.net
-.2ch.kijishima.com
 .2ch.net
 .2ch.sc
 .2chan.net
