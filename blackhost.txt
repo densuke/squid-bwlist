@@ -22,15 +22,18 @@
 .2ch-2.net
 .2ch-a.net
 .2ch-antenna.com
+.2ch-antenna.net
 .2ch-antero.com
 .2ch-c.net
 .2ch-k.net
 .2ch-m.info
+.2ch-m.net
 .2ch-matome.com
 .2ch-matome.net
 .2ch-matometter.com
 .2ch-neonews.com
 .2ch-net.jp
+.2ch-rank.net
 .2ch.anything-navi.net
 .2ch.kijishima.com
 .2ch.net
@@ -162,6 +165,7 @@
 .animeanime.jp
 .animemories.net
 .animesin.net
+.animetheworld.com
 .anipo.jp
 .anitena.tori29.net
 .anitube.se
@@ -231,6 +235,7 @@
 .av-tube.com
 .averodogazo.com
 .averonew.com
+.aviationwire.jp
 .avinfolie.net
 .avtv-movie.com
 .ayacnews2nd.com
@@ -297,6 +302,7 @@
 .blogstation.jp
 .blogsys.jp
 .blomaga.jp
+.blorinq.com
 .blozoo.net
 .bluestacks.com
 .bmcaxis.jp
@@ -319,6 +325,7 @@
 .bto-pc.jp
 .buhidoh.net
 .bunbun38.com
+.buromato.com
 .burorai.com
 .burusoku-vip.com
 .butt3rs.com
@@ -384,6 +391,7 @@
 .cn
 .cnzz.com
 .cnzz.net
+.co.kr
 .cocolog-nifty.com
 .cocone.jp
 .codecflesh.xyz
@@ -609,6 +617,7 @@
 .erovikyowa.com
 .ertk.net
 .escape-game.com
+.esite100.com
 .esuteru.com
 .evastore.jp
 .everymanblog.net
@@ -618,6 +627,7 @@
 .eyny.com
 .fairydoll.jp
 .famitsu.com
+.fantena.net
 .fast-ranking.com
 .fast2ch.dip.jp
 .faststore.org
@@ -643,6 +653,7 @@
 .floe-net.jp
 .flower-knight-girls.co.jp
 .flvto.com
+.flyteam.jp
 .fo-lens.net
 .focas.jp
 .fortalk.net
@@ -766,6 +777,7 @@
 .getuploader.com
 .gg-blog.com
 .ggame.jp
+.gger.jp
 .ggsoku.com
 .gigafile.nu
 .gigafree.net
@@ -789,6 +801,8 @@
 .goo-net.com
 .goobike.com
 .goodgamestudios.com
+.goodpic.com
+.goodsearch.jp
 .goodsmile.info
 .goodsmileshop.com
 .googlevideo.com
@@ -916,6 +930,7 @@
 .iinaa.net
 .ijbblog.com
 .ijinshan.com
+.ikaros.jp
 .ikeike2ch.jp
 .ikoinoba.net
 .iku-sokuho.info
@@ -1037,6 +1052,7 @@
 .kichimama.com
 .kidan-ch.com
 .kienizer.com
+.kijishima.com
 .kijobibouroku.com
 .kijomatomelog.com
 .kijyomatome.com
@@ -1045,6 +1061,7 @@
 .killing-time.biz
 .kimonolog.com
 .kimsoku.com
+.kinaishoku.com
 .king.com
 .kingdomhearts.jp
 .kingtopdeals.com
@@ -1188,6 +1205,7 @@
 .main.jp
 .maisinn.net
 .maist.jp
+.maitown.com
 .majide.org
 .majikichi.com
 .makeshop.jp
@@ -1211,6 +1229,7 @@
 .marutube.com
 .marv.jp
 .mato-mato.net
+.mato-me.com
 .matolabel.net
 .matomame.jp
 .matome-alpha.com
@@ -1224,7 +1243,9 @@
 .matomeantena.com
 .matomeantena.net
 .matomech.com
+.matomedb.com
 .matomeja.jp
+.matomena.jp
 .matomenomori.net
 .matomeru2ch.com
 .matomesakura.com
@@ -1830,6 +1851,7 @@
 .solty.2-d.jp
 .sonicch.com
 .sonnabakana.com
+.sorae.jp
 .soregashi.com
 .soundsonline.com
 .special-pink-image.com
@@ -1960,6 +1982,7 @@
 .trackword.biz
 .trackword.net
 .trackwords.jp
+.train2ch.com
 .travian.jp
 .treasonnews.com
 .treeofsavior.it
