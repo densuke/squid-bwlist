@@ -288,6 +288,7 @@
 .bipblog.com
 .bitshare.com
 .bitsummit.org
+.bittorrent.com
 .blazegames.jp
 .blog-rpg.com
 .blog.jp
@@ -347,6 +348,7 @@
 .carview.co.jp
 .cashing.money.goo.ne.jp
 .catshare.org
+.cc-sakura.net
 .ccpgamescdn.com
 .cdnone.net
 .cebq.biz
@@ -378,6 +380,7 @@
 .civ4multi.info
 .civ5nobunaga.com
 .civic-apps.com
+.ckworks.jp
 .clan-battle.jp
 .classroom-crisis.com
 .clcount.com
@@ -435,6 +438,7 @@
 .cysoku.com
 .cyzo.co.jp
 .cyzowoman.com
+.d-deltanet.com
 .d-quest-10.com
 .da-tools.com
 .daddymami.net
@@ -539,6 +543,7 @@
 .elog7.org
 .eloganoyakata.com
 .emu-russia.net
+.en-zine.jp
 .enasiyo.com
 .endroll.net
 .enflatpark.com
@@ -954,6 +959,7 @@
 .inside-games.jp
 .instacam.com
 .instagram.com
+.iogous.com
 .ipav.xyz
 .iphone-mania.jp
 .ippa.jp
@@ -996,6 +1002,7 @@
 .jpn.com
 .jpsoku.blog.jp
 .jscape.jp
+.jsports-ondemand.com
 .jsports.co.jp
 .julia-official.com
 .jumpsokuhou.com
@@ -1408,6 +1415,7 @@
 .nashimoto.biz
 .natalie.mu
 .native.hekk.org
+.naver.com
 .naver.jp
 .naver.net
 .nbam.jp
@@ -1662,6 +1670,7 @@
 .pokkentournament.jp
 .pong.com
 .ponos.co.jp
+.ponparemall.net
 .porn.com
 .porori-ch.com
 .pororich.com
@@ -1680,6 +1689,7 @@
 .pso2.jp
 .pso2es.jp
 .pso2skillsimulator.com
+.ptengine.jp
 .ptvcdn.net
 .pupu.jp
 .purl.org
@@ -1859,6 +1869,7 @@
 .splax.net
 .sponichi.co.jp
 .sportsnavi.dtiblog.com
+.spriters-resource.com
 .sptadao.co.jp
 .sqex.to
 .squallchannel.com
@@ -1956,6 +1967,7 @@
 .tokkaban.com
 .tokua.info
 .tokuteishimasuta.com
+.tokyo-cdn.com
 .tokyo-lc.com
 .tokyoloader.com
 .tome-uto.com
@@ -2031,6 +2043,7 @@
 .ura-dipo.com
 .uratan.jp
 .usedoor.jp
+.userdive.com
 .ushi.cc
 .ustre.am
 .uta-net.com
@@ -2080,6 +2093,7 @@
 .wicurio.com
 .wife-jp.com
 .wikia.com
+.wikidot.com
 .wikiwiki.jp
 .windowsphone.com
 .winneri.info
