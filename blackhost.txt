@@ -31,6 +31,7 @@
 .2ch-matome.com
 .2ch-matome.net
 .2ch-matometter.com
+.2ch-mma.com
 .2ch-neonews.com
 .2ch-net.jp
 .2ch-rank.net
@@ -54,6 +55,7 @@
 .2jiero.info
 .2jigiri.net
 .2logch.sakura.ne.jp
+.2monkeys.jp
 .2mtmex.com
 .2nn.jp
 .3751chat.com
@@ -127,6 +129,7 @@
 .akb48rompen.com
 .akbakb.com
 .akibablog.net
+.akibamoero.com
 .alexgorbatchev.com
 .alfalfalfa.com
 .alibench.com
@@ -177,6 +180,7 @@
 .antenna-ero.com
 .antenna-ga.com
 .antenna.ebb.jp
+.antennabank.com
 .antennash.com
 .aokihagane.com
 .app-channel.link
@@ -432,6 +436,7 @@
 .cuonet.com
 .curazy.com
 .curecos.com
+.cyber-life.info
 .cybergadget.co.jp
 .cygames.co.jp
 .cylab.jp
@@ -493,6 +498,7 @@
 .dokidokivisual.com
 .dokoda.jp
 .dokokarasokuhou.com
+.dokujyoch.net
 .dominationsgame.com
 .donderhiroba.jp
 .doope.jp
@@ -502,8 +508,10 @@
 .doucolle.net
 .douga100ka.jp
 .dougamax.com
+.doujincafe.com
 .doumitemo.com
 .dousoku.net
+.dousyoko.net
 .doutr.biz
 .doyaero.com
 .dpface.info
@@ -573,6 +581,7 @@
 .eroanime-douga.com
 .eroanimedouga.net
 .eroantenna.com
+.erobanach.com
 .erobook.info
 .erochuudoku.com
 .erocloud-no1.com
@@ -602,6 +611,7 @@
 .eroita.net
 .erojima2.com
 .erolabo.com
+.eromanga-sokuhou.com
 .eromanga.jp
 .eromangacafe.com
 .eromangalife.com
@@ -836,6 +846,7 @@
 .gundam-kizuna.jp
 .gundam-vs.jp
 .gundam.info
+.gundamseries.net
 .gungho.jp
 .gunplablog.com
 .gunslinger-stratos.jp
@@ -879,6 +890,7 @@
 .highgamers.com
 .hijyoushiki.sakura.ne.jp
 .hikakucity.com
+.hima-log.com
 .himado.in
 .himajinlp.net
 .himarin.net
@@ -895,12 +907,14 @@
 .hobonichielog.com
 .hohochie.com
 .hokanko-alt.com
+.hokkoridays.com
 .honey-rope.jugem.jp
 .honeyworks.jp
 .honmotakeshi.com
 .honyakusitem.blogspot.jp
 .hork.info
 .horukan.com
+.horukanlite.com
 .hoshidora.jp
 .hosyusokuhou.jp
 .hot-topic-news.com
@@ -914,6 +928,7 @@
 .hulu.com
 .hulu.jp
 .huluim.com
+.human-is-good.com
 .huntersokuho.com
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
@@ -1037,6 +1052,7 @@
 .kanichat.com
 .kanimg.com
 .kankan.com
+.kankokunohannou.org
 .kanmaga.com
 .kanpani.jp
 .kantai-collection.com
@@ -1061,6 +1077,7 @@
 .kijishima.com
 .kijobibouroku.com
 .kijomatomelog.com
+.kijyo-kijyo.com
 .kijyomatome.com
 .kijyomita.com
 .kikonboti.com
@@ -1140,6 +1157,7 @@
 .lifeantenna.com
 .lifecard.co.jp
 .lifeis-ok.com
+.lifewars.net
 .lightrend.com
 .line-apps.com
 .line-cdn.net
@@ -1249,6 +1267,7 @@
 .matomeantena.com
 .matomeantena.net
 .matomech.com
+.matomecup.com
 .matomedb.com
 .matomeja.jp
 .matomena.jp
@@ -1295,6 +1314,7 @@
 .mihoudai.net
 .miki800.com
 .mikumoba.jp
+.mildch.com
 .milestone-net.co.jp
 .milihime.jp
 .milihime.jp.edgesuite.net
@@ -1316,6 +1336,7 @@
 .mitsuki-o.com
 .mixi.jp
 .miyadi.net
+.mizuhonokuni2ch.com
 .mkzk.xyz
 .mmate.jp
 .mmo-logres.com
@@ -1459,6 +1480,7 @@
 .newsantenna.net
 .newsch.info
 .newser.cc
+.newsnow-2ch.com
 .newspickup.com
 .newstars.com
 .nexon.co.jp
@@ -1568,6 +1590,7 @@
 .oshiete.goo.ne.jp
 .oshiete.xgoo.jp
 .otaden.jp
+.otakomu.jp
 .otakuma.net
 .otakumode.com
 .otamon.net
@@ -1647,6 +1670,7 @@
 .pipa.jp
 .pixiv.me
 .pixiv.net
+.piyosoku.net
 .plastic-memories.jp
 .platinumgames.co.jp
 .play-app.net
@@ -1764,6 +1788,7 @@
 .sbr-vcj.com
 .schema.org
 .schizophonic9.com
+.science-2ch.net
 .scienceplus2ch.com
 .scupio.com.tw
 .sdin.jp
@@ -2069,6 +2094,7 @@
 .vpngate.net
 .vqpv.biz
 .vube.com
+.w-t-f.jp
 .w3.org
 .wakuwaku365.com
 .wallpaperup.com
@@ -2076,6 +2102,7 @@
 .wara2ch.com
 .wargaming.net
 .warmmovie.com
+.warotanews.com
 .watch2chan.com
 .wate.jp
 .wayohoo.net
@@ -2221,6 +2248,7 @@
 .yume-100.com
 .yuna-service.com
 .yunfan.com
+.yuriplus.com
 .yuyu-tei.jp
 .yuzuponzu.net
 .z49.org
