@@ -1850,6 +1850,7 @@
 .shobon.jp
 .shogionline.jp
 .shonenjump.com
+.shop-pro.jp
 .shoshinsha.com
 .showbyrock-anime.com
 .shuminoengei.jp
