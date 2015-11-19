@@ -146,6 +146,8 @@
 .am-our.com
 .amaebi.net
 .amano-jack.jp
+.amazon.co.jp
+.amazon.com
 .amazoningadvertisment.com
 .ameba.jp
 .amebagames.com
