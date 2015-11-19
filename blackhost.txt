@@ -119,6 +119,7 @@
 .agemoe072.com
 .ageofstrife.com
 .agkn.com
+.agrapp.jp
 .aichiko.jp
 .aichuun.co
 .airdroid.com
@@ -223,6 +224,7 @@
 .aso-bo.com
 .asobism.co.jp
 .at-douga.com
+.atari7.com
 .atelier-ps3.jp
 .atgames.jp
 .atgj.net
@@ -727,6 +729,7 @@
 .game-api.de
 .game-cmr.com
 .game-hikidashi.com
+.game-island.info
 .game-kids.net
 .game-news.biz
 .game.ever.jp
@@ -785,6 +788,7 @@
 .gekikarareview.com
 .gekiyaku.com
 .gematsu.com
+.gen6get7.sakura.ne.jp
 .genbujp.com
 .gendama.jp
 .genieessp.jp
@@ -906,6 +910,7 @@
 .hiroiro.com
 .hiros-dot.net
 .hishaku.com
+.hitmee.info
 .hitozuma-xvideos-ero.com
 .hivecolor.com
 .hklmm.com
@@ -1015,6 +1020,7 @@
 .jk-play.com
 .johnnyswest-love.com
 .join.ev
+.jojo-animation.com
 .jojoss.jp
 .joymanj.net
 .joysound.com
@@ -1329,6 +1335,7 @@
 .military38.com
 .millennium-war.net
 .million-arthurs.com
+.millionarthur.net
 .min-fx.jp
 .minatosoft.com
 .minecraft.com
@@ -1750,6 +1757,7 @@
 .railgun-antenna.info
 .rakugakidou.net
 .rakugan.com
+.rakuten.co.jp
 .random-call.net
 .rapidgator.net
 .real.com
@@ -1927,6 +1935,7 @@
 .sukumizu.jp
 .sumahoinfo.com
 .summonboard.net
+.summoners-war.net
 .summonerswar.co
 .summonnight.net
 .sumomo-ch.com
@@ -1946,6 +1955,7 @@
 .syunakira.com
 .syurabahazard.com
 .t7s.jp
+.tabkul.com
 .tabtter.jp
 .tackysroom.com
 .taipingu.net
@@ -1975,6 +1985,7 @@
 .techjp.jp
 .techxt.com
 .tenga.client.jp
+.tennis365.net
 .tenshoku.mynavi.jp
 .terafile.co
 .tesalliance.org
@@ -1997,6 +2008,7 @@
 .togech.jp
 .togetter.com
 .tohofes.com
+.tohoho-web.com
 .tokaigi.jp
 .tokimeki-s.com
 .tokiwaelog.com
@@ -2125,6 +2137,7 @@
 .webmatome.info
 .webnew.net
 .webron.jp
+.websae.net
 .webtruyen.com
 .weeklymouse.com
 .wemade.jp
