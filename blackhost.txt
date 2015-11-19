@@ -307,11 +307,13 @@
 .blog-rpg.com
 .blog.jp
 .blog.seesaa.jp
+.blogblog.com
 .blogcms.jp
 .blogimg.jp
 .blogmura.com
 .blogo.jp
 .blogranking.net
+.blogspot.com
 .blogspot.jp
 .blogstation.jp
 .blogsys.jp
@@ -362,6 +364,7 @@
 .caribbeancom.com
 .carsensor.net
 .carview.co.jp
+.cashabout.info
 .cashing.money.goo.ne.jp
 .catshare.org
 .cc-sakura.net
@@ -503,6 +506,7 @@
 .dng65.com
 .do-mono.jp
 .dobon.net
+.doda.jp
 .dodoujin.com
 .dogazofree.com
 .dojin.com
@@ -798,6 +802,7 @@
 .genieesspv.jp
 .gensen2ch.com
 .geo-online.co.jp
+.geocities.jp
 .geonet.jp
 .get-club.net
 .get2ch.net
@@ -879,6 +884,7 @@
 .hamelnovel.com
 .hamusoku.com
 .hanalog.com
+.hanasakuiroha.jp
 .hangame.co.jp
 .hangame.com
 .hanihoh.com
@@ -2284,6 +2290,7 @@
 .zaifx.ismcdn.jp
 .zap.jp.net
 .zasetukinsi.com
+.zasshi-online.com
 .zatunen.com
 .zennihonbudougu.com
 .zenshin.org
