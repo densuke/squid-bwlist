@@ -4,6 +4,7 @@
 .1000mg.jp
 .100shiki.com
 .10minutemail.com
+.1101.com
 .11ch-av.com
 .120.hp2.jp
 .126.net
@@ -65,6 +66,7 @@
 .4coma.com
 .4gamer.net
 .4shared-china.com
+.550909.com
 .5pb.jp
 .5rocks.io
 .60me.com
@@ -559,6 +561,7 @@
 .duga.jp
 .dwango.co.jp
 .dxlive.com
+.dyndns.org
 .dysintropi.me
 .e-earphone.jp
 .e-nls.com
@@ -1194,6 +1197,7 @@
 .leagueoflegends.co.kr
 .leagueoflegends.com
 .lelezhen.com
+.letskendo.com
 .letv.com
 .lglime.com
 .lhrpg.org
