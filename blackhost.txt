@@ -232,6 +232,7 @@
 .atgj.net
 .atpages.jp
 .attomaimai.sakura.ne.jp
+.attosoft.info
 .atwiki.jp
 .atwikiimg.com
 .auctions.search.yahoo.co.jp
@@ -290,6 +291,7 @@
 .behe.com
 .belajar.biz
 .benricho.org
+.beretta.com
 .bestelevenplus.jp
 .besttrendnews.net
 .bethsoft.com
@@ -484,6 +486,7 @@
 .dengeki.com
 .dengekionline.com
 .derbyimpact.jp
+.deviceplus.jp
 .devilishdesign.net
 .digimonostation.jp
 .digital-mixnews.com
@@ -649,6 +652,7 @@
 .ertk.net
 .escape-game.com
 .esite100.com
+.estar.jp
 .esuteru.com
 .evastore.jp
 .everymanblog.net
@@ -977,6 +981,7 @@
 .iku-sokuho.info
 .ikuji-news.com
 .ikumamasokuhou.com
+.im-apps.net
 .imagebam.com
 .imas-cg.net
 .imas-cinderella.com
@@ -1017,6 +1022,7 @@
 .jap-xvideos.com
 .japanz.jp
 .japohan.net
+.javadrive.jp
 .javaroad.jp
 .jeuxvideo24.com
 .jiku-chu.com
@@ -1063,6 +1069,7 @@
 .kakeru.me
 .kakonacl.xsrv.jp
 .kakuge-checker.com
+.kakuriyo-no-mon.com
 .kakuyasu-sim.jp
 .kami-douga-adult.com
 .kamibakusho.com
@@ -1445,6 +1452,7 @@
 .nade-saka.com
 .nagariknews.com
 .nagisa-inc.jp
+.nakanohito.jp
 .namekuji.jp
 .nan-net.com
 .nan.co.jp
@@ -1486,6 +1494,7 @@
 .netgamewiki.com
 .netgeek.biz
 .netkeiba.com
+.netmarble.com
 .netouyonews.net
 .netsaru.jp
 .neulion.com
@@ -1532,6 +1541,7 @@
 .nintendowifi.net
 .nipple-img.com
 .nishifukuma.com
+.niur.net
 .niziero.com
 .nizigen-matome.com
 .no1game.net
@@ -1687,6 +1697,7 @@
 .pia.jp
 .pico-n.com
 .pict-navi.net
+.pictsense.com
 .piercs.com
 .pinkape.net
 .pinkelech.com
@@ -1776,6 +1787,7 @@
 .redtube-jp.com
 .redtube.com
 .renai-matome.com
+.rengoku-teien.com
 .rental-rental.net
 .repsoku.net
 .rfs.jp
@@ -1803,6 +1815,7 @@
 .sailormoon-official.com
 .saisin-news.com
 .saisokuspi.com
+.saitama-bg.com
 .sakc.jp
 .sakuratan.com
 .sanspo.com
@@ -1898,6 +1911,7 @@
 .smart-douga.mobi
 .smartphone-electric.net
 .smilevideo.jp
+.smith-wesson.com
 .smj.io
 .smq.jp
 .snalime.com
@@ -2029,6 +2043,7 @@
 .tokyoloader.com
 .tome-uto.com
 .tonakai.aki.gs
+.tonari-it.com
 .tonarinoyj.jp
 .top55.net
 .toptools100.com
@@ -2184,6 +2199,7 @@
 .wwo.asia
 .x-legend.co.jp
 .x-porn.me
+.x-stage2.jp
 .x-v-m.com
 .x0.to
 .x51.org
@@ -2288,6 +2304,7 @@
 .z49.org
 .za-sh.com
 .zaifx.ismcdn.jp
+.zaka-think.com
 .zap.jp.net
 .zasetukinsi.com
 .zasshi-online.com
