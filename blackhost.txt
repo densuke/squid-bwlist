@@ -91,6 +91,7 @@
 .abugames.com
 .aceonline.arario.jp
 .acronia.net
+.ad-manga.com
 .adacomi.com
 .addictinggames.com
 .addtomo.com
@@ -309,6 +310,7 @@
 .blog-rpg.com
 .blog.jp
 .blog.seesaa.jp
+.blog.so-net.ne.jp
 .blogblog.com
 .blogcms.jp
 .blogimg.jp
@@ -432,6 +434,7 @@
 .completedouga.com
 .conangame.jp
 .concon-collector.com
+.contextweb.com
 .cookpad.com
 .corebooks.jp
 .coremagazine.co.jp
@@ -443,6 +446,7 @@
 .cpmok.net
 .crank-in.net
 .criteo.com
+.crocro.com
 .croozsocial.jp
 .cross-breed.com
 .crossange.com
@@ -498,6 +502,7 @@
 .dl-file.org
 .dl-video.net
 .dlmarket.jp
+.dlsite.com
 .dmkt-sp.jp
 .dmm.co.jp
 .dmm.com
@@ -515,6 +520,7 @@
 .dojin.com
 .dojinongaku.com
 .dokidokivisual.com
+.doko.jp
 .dokoda.jp
 .dokokarasokuhou.com
 .dokujyoch.net
@@ -527,6 +533,7 @@
 .doucolle.net
 .douga100ka.jp
 .dougamax.com
+.doujin-eromanga.com
 .doujincafe.com
 .doumitemo.com
 .dousoku.net
@@ -630,6 +637,7 @@
 .eroita.net
 .erojima2.com
 .erolabo.com
+.eromanga-simple.com
 .eromanga-sokuhou.com
 .eromanga.jp
 .eromangacafe.com
@@ -679,6 +687,7 @@
 .feticomx.com
 .fevian.org
 .fezero.jp
+.fidelity-media.com
 .fightingirl.com
 .figsoku.net
 .finalfantasy.jp
@@ -686,6 +695,7 @@
 .first-jp.com
 .flash-game-ziina.com
 .floe-net.jp
+.flop.jp
 .flower-knight-girls.co.jp
 .flvto.com
 .flyteam.jp
@@ -779,6 +789,7 @@
 .gamez.jp
 .gamme.com.tw
 .gamy.jp
+.ganma.jp
 .garanger.net
 .garden-tokyo.net
 .garss.jp
@@ -825,6 +836,7 @@
 .girlsreader.com
 .girlsvip-matome.com
 .girlzbar.com
+.giza10.com
 .gizmodo.jp
 .gmo.jp
 .gmocloud.com
@@ -1055,6 +1067,7 @@
 .jwpltx.com
 .jyouhouya3.net
 .k-img.com
+.k-manga.jp
 .ka-nabell.com
 .kabegami.com
 .kabooo.net
@@ -1231,6 +1244,7 @@
 .love-collection.com
 .love-hitode.com
 .love-love-dogs.com
+.lovecosmetic.jp
 .lovelive-anime.jp
 .lovelive-matome.com
 .lovelive.blomaga.jp
@@ -1264,11 +1278,19 @@
 .majikichi.com
 .makeshop.jp
 .mandarake.net
+.manetatsu.com
+.manga-mokuroku.net
 .manga-netabare.net
+.manga-one.com
 .manga100ka.jp
+.manga777.com
 .mangabox.me
+.mangadget.net
 .mangadl.com
+.mangag.com
 .mangakit.com
+.mangalog.com
+.mangania.jp
 .mangapolo.com
 .mangazenkan.com
 .maniacerogazo.com
@@ -1422,6 +1444,7 @@
 .moto-neta.com
 .moudamepo.com
 .moug.net
+.movicomi.com
 .movie-house.jp
 .movie.oshirimania.com
 .movietrailers-db.com
@@ -1705,6 +1728,7 @@
 .pinkerodougasex.com
 .pinknotora.net
 .pipa.jp
+.pixfuture.net
 .pixiv.me
 .pixiv.net
 .piyosoku.net
@@ -1781,6 +1805,7 @@
 .rakuten.co.jp
 .random-call.net
 .rapidgator.net
+.raw-zip.com
 .real.com
 .realonigokko.com
 .recochoku.jp
@@ -1921,6 +1946,7 @@
 .soccer-douga.com
 .socdm.com
 .sofmap.com
+.softhouse-seal.com
 .sogou.com
 .soku.com
 .sokuhabo.net
@@ -1990,6 +2016,7 @@
 .takanshoukaizen7.info
 .takara.ms
 .takenokosokuhou.com
+.takeshobo.co.jp
 .tales-ch.jp
 .talewiki.com
 .taleworlds.com
@@ -2042,6 +2069,7 @@
 .tokyo-cdn.com
 .tokyo-lc.com
 .tokyoloader.com
+.tomangan.org
 .tome-uto.com
 .tonakai.aki.gs
 .tonari-it.com
@@ -2097,6 +2125,7 @@
 .tyabo.com
 .type.jp
 .u-note.me
+.uauniverse.com
 .ubisoft.co.jp
 .uesp.net
 .ufoooo.com
@@ -2105,6 +2134,7 @@
 .ujiarmy.net
 .umaru-ani.me
 .umeng.com
+.umengcloud.com
 .uneedzone.jp
 .unicast.smart.usen.com
 .unlock.fm
@@ -2157,8 +2187,10 @@
 .wazap.com
 .weban.jp
 .webcamsdemexico.net
+.webcomics.jp
 .webike.net
 .webkaru.net
+.webmanga.info
 .webmatome.info
 .webnew.net
 .webron.jp
@@ -2206,6 +2238,7 @@
 .x51.org
 .xbox.com
 .xboxlive.com
+.xdomain.jp
 .xhamster.com
 .xiami.net
 .xiaolongchakan.com
