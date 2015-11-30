@@ -2311,6 +2311,7 @@
 .xvideosnavi.mobi
 .xxeronetxx.info
 .xxxxxxxx.jp
+.xyz
 .y-watch.info
 .yac.me
 .yahoo-mbga.jp
