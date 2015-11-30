@@ -94,6 +94,7 @@
 .aceonline.arario.jp
 .acronia.net
 .ad-manga.com
+.ad-techno.com
 .adacomi.com
 .addictinggames.com
 .addtomo.com
@@ -301,6 +302,7 @@
 .bfmatometto.info
 .big-celeb.jp
 .bijin-club.net
+.bijinbu.me
 .bijo-linux.com
 .bikechannel.info
 .bilibili.com
@@ -334,6 +336,7 @@
 .bof6.jp
 .bokudora.jp
 .bokunenjin.com
+.bold-gym.com
 .bollystop.com
 .bontoku.com
 .boo.jp
@@ -366,6 +369,7 @@
 .capcom-onlinegames.jp
 .capcom.co.jp
 .caramelbox.com
+.carddass.com
 .carholder.net
 .caribbeancom.com
 .carsensor.net
@@ -555,6 +559,7 @@
 .drdinl.jp
 .dreadnought-tcg.com
 .ds-seiban.com
+.dsalon.net
 .dtiblog.com
 .duba.net
 .duelcommander.com
@@ -827,6 +832,7 @@
 .get2ch.net
 .getchu.com
 .getgold.jp
+.getnews.jp
 .getuploader.com
 .gg-blog.com
 .ggame.jp
@@ -1478,6 +1484,7 @@
 .mylostgames.com
 .mysns.jp
 .myurdayz.com
+.n131adserv.com
 .nade-saka.com
 .nagariknews.com
 .nagisa-inc.jp
@@ -1616,6 +1623,7 @@
 .okanehadaiji.com
 .okayamagic.net
 .okkisokuho.com
+.okmusic.jp
 .okoshi-yasu.com
 .okusama-kijyo.com
 .okwave.jp
@@ -1698,6 +1706,7 @@
 .patolesoft.net
 .pazdraism.info
 .pazu.biz
+.pazudora-friend.com
 .pazudora-ken.com
 .pazudora-piece.com
 .pazudoracyanman.net
@@ -1725,6 +1734,7 @@
 .pia.co.jp
 .pia.jp
 .pico-n.com
+.pics
 .pict-navi.net
 .pictsense.com
 .piercs.com
@@ -1760,6 +1770,7 @@
 .pokkentournament.jp
 .pong.com
 .ponos.co.jp
+.ponpare.jp
 .ponparemall.net
 .porn.com
 .porori-ch.com
@@ -1835,6 +1846,7 @@
 .rssread.net
 .ruisenhoukai.com
 .run-tomorrow.com
+.ruten.com.tw
 .ryushare.com
 .ryusoku.com
 .ryuuseinogotoku-trend.com
@@ -2041,6 +2053,7 @@
 .teamys.net
 .techjp.jp
 .techxt.com
+.telaffy.jp
 .tenga.client.jp
 .tennis365.net
 .tenshoku.mynavi.jp
@@ -2088,6 +2101,7 @@
 .torepiro.com
 .tori-ch.com
 .torrent-anime.com
+.touch-slide.jp
 .touchlab.jp
 .touken-ranbu.jp
 .toukoucity.to
@@ -2101,6 +2115,7 @@
 .trackword.net
 .trackwords.jp
 .train2ch.com
+.travel
 .travian.jp
 .treasonnews.com
 .treeofsavior.it
@@ -2138,11 +2153,13 @@
 .ugnews.net
 .uhouho2ch.com
 .ujiarmy.net
+.uliza.jp
 .umaru-ani.me
 .umeng.com
 .umengcloud.com
 .uneedzone.jp
 .unicast.smart.usen.com
+.unity3d.com
 .unlock.fm
 .up-stage.info
 .updatepm.com
