@@ -670,6 +670,7 @@
 .esite100.com
 .estar.jp
 .esuteru.com
+.euro-sports.jp
 .evastore.jp
 .everymanblog.net
 .exawarosu.net
@@ -1952,6 +1953,7 @@
 .slstage.com
 .smagazo.com
 .smart-douga.mobi
+.smartnews.be
 .smartphone-electric.net
 .smilevideo.jp
 .smith-wesson.com
