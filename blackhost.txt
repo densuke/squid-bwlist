@@ -2058,6 +2058,7 @@
 .tbn17.com
 .team-detonation.net
 .team-lab.com
+.team-rec.jp
 .teamviewer.com
 .teamys.net
 .techjp.jp
