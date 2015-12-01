@@ -9,6 +9,7 @@
 .120.hp2.jp
 .126.net
 .127.net
+.133.242.206.30
 .15qm.com
 .1616bbs.com
 .163.com
@@ -18,7 +19,9 @@
 .1stero.com
 .2-carat.net
 .200624nm.com
+.204.79.197.200
 .20kaido.com
+.216.239.38.120
 .2blo.net
 .2ch-2.net
 .2ch-a.net
@@ -433,6 +436,7 @@
 .com2us.com
 .com2us.net
 .comico.jp
+.comics.shogakukan.co.jp
 .comisoku.com
 .comitevoorinitiatief.be
 .commseed.jp
@@ -500,6 +504,7 @@
 .digimonostation.jp
 .digital-mixnews.com
 .digitaldj-network.com
+.dip.jp
 .divdiv.info
 .diveluck.com
 .dixq.net
@@ -784,6 +789,7 @@
 .gamemaps.com
 .gameon.jp
 .gamepedia.com
+.gamepot.co.jp
 .gamer.com
 .gamer.ne.jp
 .gamerch.com
@@ -1040,6 +1046,7 @@
 .j-cg.com
 .j-sen.jp
 .jakou.com
+.jalan.jp
 .jap-xvideos.com
 .japanz.jp
 .japohan.net
@@ -1346,6 +1353,7 @@
 .mbok.jp
 .mc.adkda.net
 .mcnt.jp
+.mctjp.com
 .mdpr.jp
 .media-b.jp
 .media-shelf.net
@@ -1848,6 +1856,7 @@
 .ryushare.com
 .ryusoku.com
 .ryuuseinogotoku-trend.com
+.s-manga.net
 .saba-navi.com
 .sabukaruchan.net
 .sagaplanets.product.co.jp
@@ -2224,6 +2233,7 @@
 .whocares.jp
 .wicurio.com
 .wife-jp.com
+.wiki-hp.com
 .wikia.com
 .wikidot.com
 .wikiwiki.jp
@@ -2329,6 +2339,7 @@
 .yaruo.link
 .yaruo.wikia.com
 .yaruyomi.com
+.ybbo.net
 .yen-money-point.com
 .yes24.com
 .yeshj.com
@@ -2406,3 +2417,4 @@
 91.228.167.103
 91.228.167.46
 91.228.167.86
+>>>>>>> develop
