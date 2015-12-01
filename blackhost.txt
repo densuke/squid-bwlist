@@ -764,6 +764,7 @@
 .game-api.de
 .game-cmr.com
 .game-hikidashi.com
+.game-hiroba.com
 .game-island.info
 .game-kids.net
 .game-news.biz
