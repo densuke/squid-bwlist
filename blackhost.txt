@@ -581,7 +581,6 @@
 .e-typing.ne.jp
 .ea.com
 .eagate.573.jp
-.eegg.dip.jp
 .egoisterog.com
 .egone.org
 .ehoh.net
@@ -686,7 +685,6 @@
 .famitsu.com
 .fantena.net
 .fast-ranking.com
-.fast2ch.dip.jp
 .faststore.org
 .fate-go.jp
 .fate-go.net
@@ -1034,7 +1032,6 @@
 .iogous.com
 .iphone-mania.jp
 .ippa.jp
-.ippatusearch.dip.jp
 .iruna.jp
 .isus.jp
 .itaishinja.com
