@@ -17,6 +17,7 @@
 .1kibaku.jp
 .1mobile.com
 .1stero.com
+.1uphp.com
 .2-carat.net
 .200624nm.com
 .204.79.197.200
@@ -210,6 +211,7 @@
 .applibot.co.jp
 .applion.jp
 .applision.com
+.appllio.com
 .applover.us
 .appmedia.jp
 .appoxee.com
@@ -508,6 +510,7 @@
 .dip.jp
 .divdiv.info
 .diveluck.com
+.divide-et-impera.org
 .dixq.net
 .dka-hero.com
 .dl-file.org
@@ -889,6 +892,7 @@
 .greenowl5.com
 .grimoire.codes
 .groovecoaster.jp
+.growthhackjapan.com
 .gsreloaded.jp
 .gsspcln.jp
 .gu-kawagazo-ch.com
@@ -1738,6 +1742,7 @@
 .photo-capsule.net
 .photobag.in
 .photoshopvip.net
+.phpbook.jp
 .pia.co.jp
 .pia.jp
 .pico-n.com
@@ -1792,6 +1797,7 @@
 .project-diva-ac.net
 .projectpokemon.org
 .promamo.com
+.pronews.jp
 .psnova.net
 .pso-world.com
 .pso2.jp
@@ -1840,6 +1846,7 @@
 .rental-rental.net
 .repsoku.net
 .rfs.jp
+.ri-mode.com
 .rmpaz.com
 .rocketnews24.com
 .ronsoku.com
@@ -1996,6 +2003,7 @@
 .square-enix.com
 .srworld.net
 .ssmatomeantenna.info
+.standpower.com
 .starfakes.biz
 .starlight-stage.jp
 .startappservice.com
@@ -2368,6 +2376,7 @@
 .yuna-service.com
 .yunfan.com
 .yuriplus.com
+.yuuenchi.com
 .yuyu-tei.jp
 .yuzuponzu.net
 .z49.org
