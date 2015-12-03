@@ -10,6 +10,7 @@
 .126.net
 .127.net
 .133.242.206.30
+.153.126.190.70
 .15qm.com
 .1616bbs.com
 .163.com
@@ -367,6 +368,7 @@
 .buzznews.asia
 .byonavi.com
 .c-lab.link
+.c-sqr.net
 .c-tipsref.com
 .cafe-capy.net
 .cafeglobe.com
@@ -443,6 +445,7 @@
 .comisoku.com
 .comitevoorinitiatief.be
 .commseed.jp
+.commte.net
 .completedouga.com
 .conangame.jp
 .concon-collector.com
@@ -808,6 +811,7 @@
 .gamme.com.tw
 .gamy.jp
 .ganma.jp
+.gaprot.jp
 .garanger.net
 .garden-tokyo.net
 .garss.jp
@@ -924,6 +928,7 @@
 .hangame.co.jp
 .hangame.com
 .hanihoh.com
+.hapisupu.com
 .happyelements.co.jp
 .hardluckz.com
 .hareruyamtg.com
@@ -1258,6 +1263,7 @@
 .lolnavi.info
 .lolstatic.com
 .lordofv.com
+.lose.jp
 .lostzeromagichs.jp
 .loumo.jp
 .lova.jp
@@ -1939,6 +1945,7 @@
 .shogionline.jp
 .shonenjump.com
 .shop-pro.jp
+.shopserve.jp
 .shoshinsha.com
 .showbyrock-anime.com
 .shuminoengei.jp
@@ -1989,6 +1996,7 @@
 .sorae.jp
 .soregashi.com
 .soundsonline.com
+.sousakuba.com
 .special-pink-image.com
 .speedtrace.co.jp
 .splatoon-nawabari.com
@@ -2069,6 +2077,7 @@
 .team-rec.jp
 .teamviewer.com
 .teamys.net
+.techbrowsing.com
 .techjp.jp
 .techxt.com
 .telaffy.jp
@@ -2215,6 +2224,7 @@
 .vube.com
 .w-t-f.jp
 .w3.org
+.wadaiyo.com
 .wakuwaku365.com
 .wallpaperup.com
 .wanconyan.co
