@@ -3,6 +3,7 @@
 .1000giribest.com
 .1000mg.jp
 .100shiki.com
+.106.120.160.106
 .10minutemail.com
 .1101.com
 .11ch-av.com
@@ -25,6 +26,7 @@
 .20kaido.com
 .216.239.38.120
 .23.246.46.136
+.23.246.46.141
 .23.246.47.136
 .2blo.net
 .2ch-2.net
@@ -227,6 +229,7 @@
 .aquaplus.jp
 .arcenserv.info
 .archeage.jpn.org
+.arit-clt.com
 .arithgame.jp
 .armoredcore.net
 .aruaru.me
@@ -437,6 +440,7 @@
 .cocone.jp
 .coj-agentlabo.com
 .college2ch.blomaga.jp
+.colocal.jp
 .colopl.jp
 .colorawesomeness.com
 .colta.jp
@@ -496,6 +500,7 @@
 .daumcdn.net
 .daumkakao.com
 .dayztv.com
+.dbonline.jp
 .dc7.jp
 .dd-on.jp
 .deaicity.jp
@@ -743,6 +748,7 @@
 .frlamemonger.com
 .ftbwiki.org
 .fujimarukun.co.jp
+.fujitaiju.com
 .fukugan.com
 .full-count.jp
 .fullcomp.jp
@@ -814,6 +820,7 @@
 .gamy.jp
 .ganma.jp
 .gaprot.jp
+.garakuta.org
 .garanger.net
 .garden-tokyo.net
 .garss.jp
@@ -885,6 +892,7 @@
 .gori.me
 .gossip1.net
 .gossip2.net
+.gotcha-note.com
 .gotfes.com
 .gozaru.jp
 .gpara.com
@@ -1328,6 +1336,8 @@
 .mantan-web.jp
 .manycam.com
 .maplestory.jp
+.maria-marie.info
+.marinediving.com
 .marugoto-antenna.com
 .marumie-tv.com
 .marupeke296.com
@@ -1572,6 +1582,8 @@
 .newstars.com
 .nexon.co.jp
 .nexusmods.com
+.nflximg.com
+.nflximg.net
 .ngnews.me
 .nicoblomaga.jp
 .nicodic.jp
@@ -1595,6 +1607,7 @@
 .nintendo.co.jp
 .nintendowifi.net
 .nipple-img.com
+.nishi2002.com
 .nishifukuma.com
 .niur.net
 .niziero.com
@@ -2100,6 +2113,7 @@
 .thisisgame.com
 .tidaltv.com
 .tigresoft.com
+.tkool.jp
 .tkssp.com
 .tmbox.net
 .tobita.clover-rabbit.club
@@ -2241,6 +2255,7 @@
 .weban.jp
 .webcamsdemexico.net
 .webcomics.jp
+.webgift.jp
 .webike.net
 .webkaru.net
 .webmanga.info
@@ -2249,6 +2264,7 @@
 .webron.jp
 .websae.net
 .webtruyen.com
+.webworkersclip.com
 .weeklymouse.com
 .wemade.jp
 .what-character-are-you.com
