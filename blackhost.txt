@@ -206,6 +206,7 @@
 .apple-geeks.com
 .applean.info
 .applibot.co.jp
+.applikobo.info
 .applion.jp
 .applision.com
 .appllio.com
@@ -291,6 +292,7 @@
 .bbb-bike.com
 .bbjapan.jp
 .bcatwiz.com
+.bcde.jp
 .be-max.ac.jp
 .beatmania-clearlamp.com
 .becoolusers.com
@@ -1097,6 +1099,7 @@
 .ka-nabell.com
 .kabegami.com
 .kabooo.net
+.kachibito.net
 .kagajo.com
 .kagekidan.net
 .kai-you.net
@@ -1229,6 +1232,7 @@
 .lifeis-ok.com
 .lifewars.net
 .lightrend.com
+.lijiang-pub.com
 .line-apps.com
 .line-cdn.net
 .line-tatsujin.com
@@ -1606,6 +1610,7 @@
 .nizigen-matome.com
 .no1game.net
 .noahapps.jp
+.nobuo-create.net
 .nobuta123.co.jp
 .nobuwiki.org
 .noiretaya.com
@@ -1634,6 +1639,7 @@
 .nyonin.com
 .o0o0.jp
 .oakcorp.net
+.obenri.com
 .objectclub.jp
 .oboom.com
 .obunko.com
@@ -1904,6 +1910,7 @@
 .sdin.jp
 .sdr9t.net
 .sdvx.be
+.sdvx.in
 .sdvx.info
 .se-kirara.jp
 .se-support.com
@@ -1912,6 +1919,7 @@
 .seesaawiki.jp
 .sega-mj.com
 .sega-net.com
+.sega-net.jp
 .sega-pc.com
 .sega.jp
 .seikatuch.com
@@ -2214,6 +2222,7 @@
 .uwakitobintatofurin.com
 .uyosoku.com
 .vehicle123.com
+.veryposi.info
 .vid-dl.net
 .videotopics.yahoo.co.jp
 .videousermanuals.com
