@@ -12,6 +12,7 @@
 .15qm.com
 .1616bbs.com
 .163.com
+.178.162.204.226
 .1geki.jp
 .1kibaku.jp
 .1mobile.com
@@ -100,6 +101,7 @@
 .addictinggames.com
 .addtomo.com
 .adingo.jp
+.adtdp.com
 .adult-doctor.com
 .adult-slider.com
 .adult-upstage.com
@@ -588,6 +590,7 @@
 .e-typing.ne.jp
 .ea.com
 .eagate.573.jp
+.edgesuite.net
 .egoisterog.com
 .egone.org
 .ehoh.net
@@ -706,6 +709,7 @@
 .feticomx.com
 .fevian.org
 .fezero.jp
+.ffrk.tokyo
 .fidelity-media.com
 .fightingirl.com
 .figsoku.net
@@ -1131,6 +1135,7 @@
 .kaola.jp
 .karapaia.sakura.ne.jp
 .karzusp.net
+.kasaneteto.jp
 .katsumoku.net
 .katuru.com
 .kau.li
