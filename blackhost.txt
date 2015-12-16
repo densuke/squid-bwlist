@@ -2208,7 +2208,6 @@
 .umeng.com
 .umengcloud.com
 .uneedzone.jp
-.unicast.smart.usen.com
 .unity3d.com
 .unlock.fm
 .up-stage.info
