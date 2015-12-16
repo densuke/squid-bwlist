@@ -2119,6 +2119,7 @@
 .thisisgame.com
 .tidaltv.com
 .tigresoft.com
+.tk.ismcdn.jp
 .tkool.jp
 .tkssp.com
 .tmbox.net
