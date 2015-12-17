@@ -179,6 +179,7 @@
 .anime-teen.com
 .anime44.com
 .animeanime.jp
+.animegoods.info
 .animemories.net
 .animesin.net
 .animetheworld.com
@@ -1168,6 +1169,7 @@
 .kinguin.net
 .kinisuru.com
 .kinyu-z.net
+.kinza.jp
 .kir.jp
 .kisskiss-girl.com
 .kisslog2.com
@@ -1437,6 +1439,7 @@
 .mnstmato.com
 .moba8.net
 .mobafire.com
+.mobboss-online.com
 .mobilefactory.jp
 .mobiusfinalfantasy.com
 .moddb.com
@@ -1802,6 +1805,7 @@
 .pokemon-matome.net
 .pokemon-movie.jp
 .pokemon.co.jp
+.pokemonshowdown.com
 .pokesen.com
 .pokkentournament.jp
 .pong.com
@@ -1868,6 +1872,7 @@
 .renai-matome.com
 .rengoku-teien.com
 .rental-rental.net
+.rentalkareshi.com
 .repsoku.net
 .rfs.jp
 .ri-mode.com
@@ -2122,6 +2127,7 @@
 .tkool.jp
 .tkssp.com
 .tmbox.net
+.toacco.com
 .tobita.clover-rabbit.club
 .tocana.jp
 .togech.jp
@@ -2281,6 +2287,7 @@
 .wiki-hp.com
 .wikia.com
 .wikidot.com
+.wikinavi.net
 .wikiwiki.jp
 .windowsphone.com
 .winneri.info
@@ -2433,6 +2440,7 @@
 .zozo.jp
 .zucks.net
 .zumst.com
+.zwei.com
 106.120.160.106
 112.25.47.20
 114.112.36.195
