@@ -464,6 +464,7 @@
 .couples.jp
 .cpmok.net
 .crank-in.net
+.crashfever.com
 .criteo.com
 .crocro.com
 .croozsocial.jp
@@ -608,6 +609,7 @@
 .enjoypclife.net
 .enq-maker.com
 .entapotime.com
+.entermeus.com
 .entertainmentsummary.net
 .eplus.jp
 .epochtimes.com
@@ -692,6 +694,7 @@
 .exiletribestation.jp
 .exploader.net
 .eyny.com
+.f-game.jp
 .fairydoll.jp
 .famitsu.com
 .fantena.net
@@ -1328,6 +1331,7 @@
 .mangadget.net
 .mangadl.com
 .mangag.com
+.mangahack.com
 .mangakit.com
 .mangalog.com
 .mangania.jp
@@ -1347,6 +1351,7 @@
 .marupeke296.com
 .marutube.com
 .marv.jp
+.masato.ciao.jp
 .mato-mato.net
 .mato-me.com
 .matolabel.net
@@ -1707,6 +1712,7 @@
 .otanew.jp
 .otapol.jp
 .otatama.net
+.othello.org
 .otonarisoku.com
 .otonomai.me
 .otowota.com
@@ -1930,6 +1936,7 @@
 .sega-mj.com
 .sega-net.com
 .sega-net.jp
+.sega-online.jp
 .sega-pc.com
 .sega.jp
 .seikatuch.com
