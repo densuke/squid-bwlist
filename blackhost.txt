@@ -839,6 +839,7 @@
 .ge-tube.com
 .geekles.net
 .geeksokuhou.net
+.geinou-viral-news.com
 .gekikame.com
 .gekikarareview.com
 .gekiyaku.com
