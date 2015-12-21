@@ -789,6 +789,7 @@
 .game1wiki.com
 .game4broke.blogspot.com
 .game4broke.sakura.ne.jp
+.gameanalytics.com
 .gameassetstudio.jp
 .gamebanana.com
 .gamebit.jp
@@ -1400,6 +1401,7 @@
 .mementoo.info
 .men-joy.jp
 .menscyzo.com
+.mera.red
 .merry-news.com
 .mess-y.com
 .mew5.com
@@ -1807,6 +1809,7 @@
 .pmang.jp
 .po-kaki-to.com
 .pockecolo.com
+.pointi.jp
 .pokecheck.org
 .pokedit.com
 .pokemon-br.com
