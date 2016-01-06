@@ -93,6 +93,7 @@
 .abnormal.sakura.ne.jp
 .absoku072.com
 .abugames.com
+.accesstrade.net
 .aceonline.arario.jp
 .acronia.net
 .ad-manga.com
@@ -695,6 +696,7 @@
 .exploader.net
 .eyny.com
 .f-game.jp
+.facebook.com
 .fairydoll.jp
 .famitsu.com
 .fantena.net
@@ -1415,6 +1417,7 @@
 .mh4g.org
 .mhf-g.jp
 .michikusa.jp
+.microad.jp
 .microsoftstore.com
 .mihoudai.net
 .miki800.com
