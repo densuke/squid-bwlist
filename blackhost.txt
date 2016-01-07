@@ -459,6 +459,7 @@
 .corebooks.jp
 .coremagazine.co.jp
 .coreserver.jp
+.corobuzz.com
 .cosmicbreak.jp
 .cosp.jp
 .cospa.com
