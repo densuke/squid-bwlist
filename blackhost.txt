@@ -331,6 +331,7 @@
 .blogimg.jp
 .blogmura.com
 .blogo.jp
+.blogos.com
 .blogranking.net
 .blogspot.com
 .blogspot.jp
