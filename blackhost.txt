@@ -780,6 +780,7 @@
 .galnavi.info
 .gamanjiru.net
 .gamdom.biz
+.game-ac.com
 .game-api.de
 .game-cmr.com
 .game-hikidashi.com
@@ -1455,6 +1456,7 @@
 .mobafire.com
 .mobboss-online.com
 .mobilefactory.jp
+.mobilelaby.com
 .mobiusfinalfantasy.com
 .moddb.com
 .modgames.net
