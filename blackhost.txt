@@ -352,6 +352,7 @@
 .bollystop.com
 .bontoku.com
 .boo.jp
+.boom-app.com
 .bouken.jp
 .bouyomi.jp
 .bpnavi.jp
@@ -520,6 +521,7 @@
 .digital-mixnews.com
 .digitaldj-network.com
 .dip.jp
+.diskunion.net
 .divdiv.info
 .diveluck.com
 .divide-et-impera.org
@@ -780,6 +782,7 @@
 .galnavi.info
 .gamanjiru.net
 .gamdom.biz
+.game-0.net
 .game-ac.com
 .game-api.de
 .game-cmr.com
@@ -788,9 +791,11 @@
 .game-island.info
 .game-kids.net
 .game-news.biz
+.game-tansaku.net
 .game.ever.jp
 .game.goo.ne.jp
 .game.watch.impress.co.jp
+.game16.net
 .game1wiki.com
 .game4broke.blogspot.com
 .game4broke.sakura.ne.jp
@@ -802,6 +807,8 @@
 .gamebudgie.com
 .gamecity.ne.jp
 .gamecopyworld.com
+.gamedesign.jp
+.gamefavo.com
 .gamefeat.net
 .gamefreak.co.jp
 .gameinjp.com
@@ -1524,6 +1531,7 @@
 .muryoadult.net
 .muryou-erogazou.net
 .muryouav.net
+.muryougamesmph.com
 .museru.com
 .muwangpark.com
 .mwissoku.com
@@ -1870,6 +1878,7 @@
 .qq.com
 .quiizu.com
 .quiz-wiz.com
+.quizgenerator.net
 .qvod.com
 .r18matome.com
 .r401.net
