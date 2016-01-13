@@ -59,3 +59,4 @@ git.amfys.net
 .g.bing.com
 .www.apple.com
 .images.apple.com
+kir986723.kir.jp
