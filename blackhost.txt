@@ -68,6 +68,7 @@
 .4coma.com
 .4gamer.net
 .4shared-china.com
+.4shared.com
 .550909.com
 .5pb.jp
 .5rocks.io
@@ -142,6 +143,7 @@
 .akibablog.net
 .akibamoero.com
 .akindo-sushiro.co.jp
+.akrw.net
 .alexgorbatchev.com
 .alfalfalfa.com
 .alibench.com
@@ -823,6 +825,7 @@
 .gameon.jp
 .gamepedia.com
 .gamepot.co.jp
+.gamer-log.com
 .gamer.com
 .gamer.ne.jp
 .gamerch.com
@@ -1241,6 +1244,7 @@
 .lab-genetique-biometrie.com
 .labaq.com
 .lady.com
+.laile.co.jp
 .lakatan.net
 .lanceandmasques.jp
 .latale.jp
@@ -1492,6 +1496,7 @@
 .momovideo.net
 .mona-antenna.com
 .mona-news.com
+.moneykit.net
 .monhang.com
 .monmato.com
 .monsoku.info
@@ -1594,6 +1599,7 @@
 .netgiik.biz
 .netkeiba.com
 .netmarble.com
+.netoff.co.jp
 .netouyonews.net
 .netsaru.jp
 .neulion.com
@@ -1897,6 +1903,7 @@
 .rakuten.co.jp
 .random-call.net
 .rapidgator.net
+.rash.jp
 .raw-zip.com
 .real.com
 .realonigokko.com
@@ -2014,6 +2021,7 @@
 .shuraba.net
 .shuutak.com
 .sijex.net
+.sim-free-fun.com
 .simg.jp
 .simiteku.com
 .simplemeet.me
@@ -2042,6 +2050,7 @@
 .smith-wesson.com
 .smj.io
 .smq.jp
+.smt-cinema.com
 .snalime.com
 .snmemories.net
 .sns-park.com
@@ -2065,6 +2074,7 @@
 .splax.net
 .sponichi.co.jp
 .sportsnavi.dtiblog.com
+.sprite.org
 .spriters-resource.com
 .sptadao.co.jp
 .sqex.to
@@ -2142,6 +2152,7 @@
 .techbrowsing.com
 .techjp.jp
 .techxt.com
+.tel03.com
 .telaffy.jp
 .tenga.client.jp
 .tennis365.net
