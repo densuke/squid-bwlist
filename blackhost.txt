@@ -198,6 +198,7 @@
 .antennabank.com
 .antennash.com
 .aokihagane.com
+.ap-land.com
 .app-channel.link
 .app-heaven.net
 .app-liv.jp
@@ -241,6 +242,7 @@
 .asobism.co.jp
 .at-douga.com
 .atari7.com
+.ateitexe.com
 .atelier-ps3.jp
 .atgames.jp
 .atgj.net
@@ -305,6 +307,7 @@
 .beetv.jp
 .behe.com
 .belajar.biz
+.benefitgreen.net
 .benricho.org
 .beretta.com
 .bestelevenplus.jp
@@ -1083,6 +1086,7 @@
 .jakou.com
 .jalan.jp
 .jap-xvideos.com
+.japan-mmm.net
 .japanz.jp
 .japohan.net
 .javadrive.jp
@@ -1219,6 +1223,7 @@
 .kuaibo.com
 .kugou.com
 .kuku.lu
+.kumacchi.com
 .kurage-bunch.com
 .kuraha.com
 .kuroneko-wiz9675.net
@@ -1591,6 +1596,7 @@
 .netouyonews.net
 .netsaru.jp
 .neulion.com
+.neuron-age.co.jp
 .neutralx0.net
 .new-akiba.com
 .newblo7.net
@@ -2024,6 +2030,7 @@
 .slism.net
 .slo7.net
 .slotblogpachinkoblog.com
+.slotdoki.com
 .slotkaiseki.jp
 .slstage.com
 .smagazo.com
@@ -2286,6 +2293,7 @@
 .wakuwaku365.com
 .wallpaperup.com
 .wanconyan.co
+.wannabe-note.com
 .wara2ch.com
 .wargaming.net
 .warmmovie.com
