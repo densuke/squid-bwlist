@@ -551,6 +551,7 @@
 .dmmgames-tgs2015.jp
 .dmmgames.com
 .dmmgameswiki.com
+.dmvault.ath.cx
 .dmz-plus.com
 .dnaimg.com
 .dng65.com
@@ -741,6 +742,7 @@
 .figsoku.net
 .finalfantasy.jp
 .finalfantasyxiv.com
+.firestorage.jp
 .first-jp.com
 .flash-game-ziina.com
 .floe-net.jp
@@ -810,6 +812,7 @@
 .game-kids.net
 .game-news.biz
 .game-ou.com
+.game-ss.com
 .game-tansaku.net
 .game.ever.jp
 .game.goo.ne.jp
@@ -1491,6 +1494,7 @@
 .minpuzz.com
 .miraimirai01.com
 .mitsuki-o.com
+.mixi.co.jp
 .mixi.jp
 .mixi.servedbyopenx.com
 .miyadi.net
@@ -1877,6 +1881,7 @@
 .pokecheck.org
 .pokedit.com
 .pokemon-br.com
+.pokemon-gl.com
 .pokemon-matome.net
 .pokemon-movie.jp
 .pokemon.co.jp
@@ -1946,6 +1951,7 @@
 .realonigokko.com
 .recochoku.jp
 .recordchina.co.jp
+.redbike.upper.jp
 .redtube-jp.com
 .redtube.com
 .renai-matome.com
@@ -2061,6 +2067,7 @@
 .shuraba.net
 .shuutak.com
 .sijex.net
+.sikyou.com
 .silversecond.com
 .sim-free-fun.com
 .simg.jp
