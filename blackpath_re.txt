@@ -37,3 +37,4 @@ nijimoe
 ^/7daystodie
 /api/MemberGetMyState
 ^/images/gyao
+/images/games/
