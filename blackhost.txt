@@ -743,7 +743,6 @@
 .figsoku.net
 .finalfantasy.jp
 .finalfantasyxiv.com
-.firestorage.jp
 .first-jp.com
 .flash-game-ziina.com
 .floe-net.jp
