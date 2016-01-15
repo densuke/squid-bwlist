@@ -321,6 +321,7 @@
 .bf1.jp
 .bfmatometto.info
 .big-celeb.jp
+.big-echo.jp
 .bijin-club.net
 .bijinbu.me
 .bijo-linux.com
@@ -478,6 +479,7 @@
 .cosmicbreak.jp
 .cosp.jp
 .cospa.com
+.cotedazur.jp
 .couples.jp
 .cpmok.net
 .crank-in.net
@@ -771,6 +773,7 @@
 .freesoft-concierge.com
 .freexdouga.com
 .friend-birthday.com
+.fril.jp
 .frlamemonger.com
 .frogstone.jp
 .ftbwiki.org
@@ -1118,6 +1121,7 @@
 .j-sen.jp
 .jakou.com
 .jalan.jp
+.jankara.ne.jp
 .jap-xvideos.com
 .japan-mmm.net
 .japanz.jp
@@ -1798,6 +1802,7 @@
 .p-atlus.jp
 .p-bandai.jp
 .p-ch.jp
+.p-tora.com
 .p-world.co.jp
 .pachinkovista.com
 .pachiseven.jp
@@ -1856,6 +1861,7 @@
 .pict-navi.net
 .pictsense.com
 .piercs.com
+.pikicast.com
 .pinkape.net
 .pinkelech.com
 .pinkerodougasex.com
@@ -1987,11 +1993,13 @@
 .saiani.net
 .saikyou.biz
 .sailormoon-official.com
+.saionji.net
 .saisin-news.com
 .saisokuspi.com
 .saitama-bg.com
 .sakc.jp
 .sakuratan.com
+.sansei-rd.com
 .sanspo.com
 .santalab.me
 .sao-game.jp
