@@ -201,6 +201,7 @@
 .antennash.com
 .aokihagane.com
 .ap-land.com
+.api.unthem.com
 .app-channel.link
 .app-heaven.net
 .app-liv.jp
@@ -792,6 +793,7 @@
 .fx2ch.net
 .g-heaven.net
 .g-takumi.com
+.g.bing.com
 .ga-t.net
 .gaagle.jp
 .gadgetlife2ch.blomaga.jp
@@ -839,6 +841,7 @@
 .gamefavo.com
 .gamefeat.net
 .gamefreak.co.jp
+.gamegift.jp
 .gameinjp.com
 .gameiroiro.com
 .gamejolt.com
@@ -1258,6 +1261,7 @@
 .kotaku.jp
 .kotaro269.com
 .kotoripiyopiyo.com
+.koty.wiki
 .koukasound.com
 .kroko.jp
 .ksmobile.com
@@ -1458,6 +1462,7 @@
 .mediago.us
 .mediav.com
 .mega.co.nz
+.megalodon.jp
 .megamiengage.com
 .melon.com
 .melonbooks.co.jp
@@ -1898,6 +1903,7 @@
 .pokemon-matome.net
 .pokemon-movie.jp
 .pokemon.co.jp
+.pokemon.jp
 .pokemonshowdown.com
 .pokesen.com
 .pokkentournament.jp
@@ -1942,6 +1948,7 @@
 .qiantucdn.com
 .qiita.com
 .qilook.com
+.ql.bz
 .qoo-app.com
 .qq.com
 .quiizu.com
