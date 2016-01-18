@@ -594,6 +594,7 @@
 .dqmslyaruyo.com
 .dqnnews.net
 .dqx.jp
+.dragonbrave.com
 .dragonquest.jp
 .draque-matome.com
 .drdinl.jp
@@ -959,6 +960,7 @@
 .gsreloaded.jp
 .gsspcln.jp
 .gu-kawagazo-ch.com
+.gu3.co.jp
 .gu3.jp
 .guitarlist.net
 .gundam-kizuna.jp
@@ -1181,6 +1183,7 @@
 .kamibakusho.com
 .kamierodouga.com
 .kamisamanoerogazoumatome.com
+.kamislot.info
 .kanasoku.s130.coreserver.jp
 .kancolle-news.com
 .kancolle-ss.com
@@ -1366,12 +1369,14 @@
 .m4ex.com
 .ma-bank.net
 .mac-8.net
+.macoopc.com
 .madskills.com
 .magicalmirai.com
 .magicalracing.co.jp
 .magicianwizsoku.com
 .magsoku.blomaga.jp
 .mahoneko.info
+.mahoutsukaino.com
 .maimai48.net
 .main.jp
 .maisinn.net
@@ -1737,6 +1742,7 @@
 .octopuspop.com
 .odysseytweet.com
 .officedaytime.com
+.officiallyjd.com
 .ogp.me
 .oj-group.net
 .okanehadaiji.com
@@ -2124,6 +2130,7 @@
 .sonnabakana.com
 .sorae.jp
 .soregashi.com
+.sosuke7.com
 .sougetsu-on.net
 .soundsonline.com
 .sousakuba.com
@@ -2236,6 +2243,7 @@
 .thisisgame.com
 .tidaltv.com
 .tigresoft.com
+.tinami.com
 .tk.ismcdn.jp
 .tkool.jp
 .tkssp.com
@@ -2364,6 +2372,7 @@
 .vipick.net
 .vippers.jp
 .vipsister23.com
+.viral-community.com
 .virtuagirlhd.com
 .vpngate.net
 .vqpv.biz
