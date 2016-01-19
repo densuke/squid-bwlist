@@ -270,6 +270,7 @@
 .aviationwire.jp
 .avinfolie.net
 .avtv-movie.com
+.axelgames.net
 .ayacnews2nd.com
 .ayu-nya.com
 .azukichi.net
@@ -304,6 +305,7 @@
 .bb-douga.com
 .bbb-bike.com
 .bbjapan.jp
+.bbspink.com
 .bcatwiz.com
 .bcde.jp
 .be-max.ac.jp
@@ -2113,6 +2115,7 @@
 .slotdoki.com
 .slotkaiseki.jp
 .slstage.com
+.smagame.info
 .smagazo.com
 .smart-douga.mobi
 .smartnews.be
@@ -2122,6 +2125,7 @@
 .smj.io
 .smq.jp
 .smt-cinema.com
+.smt.docomo.ne.jp
 .snalime.com
 .snmemories.net
 .sns-park.com
@@ -2455,6 +2459,7 @@
 .wtbw.net
 .wtfast.com
 .wwo.asia
+.wwwanime.jp
 .x-legend.co.jp
 .x-porn.me
 .x-stage2.jp
