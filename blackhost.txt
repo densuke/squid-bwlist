@@ -124,6 +124,7 @@
 .aemedia.org
 .affection-web.co.jp
 .afo-news.com
+.afsgames.com
 .agag.tw
 .agar.io
 .age-corp.jp
@@ -837,6 +838,7 @@
 .gameanalytics.com
 .gameassetstudio.jp
 .gamebanana.com
+.gamebase.com.tw
 .gamebit.jp
 .gamebiz.jp
 .gamebudgie.com
@@ -854,6 +856,7 @@
 .gamekouryaku.com
 .gameloft.com
 .gamemaps.com
+.gamenoarukurashi.com
 .gameon.jp
 .gamepedia.com
 .gamepot.co.jp
@@ -2056,6 +2059,7 @@
 .sekurosu.com
 .senddownloadmy.com
 .senmanga.com
+.senpaigamer.com
 .sensns.com
 .sensodyne.es
 .sensodyne.jp
