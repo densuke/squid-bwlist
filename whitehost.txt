@@ -56,7 +56,6 @@ git.amfys.net
 .ch9.ms
 .msdn.com
 .weathernews.jp
-.g.bing.com
 .www.apple.com
 .images.apple.com
 kir986723.kir.jp
