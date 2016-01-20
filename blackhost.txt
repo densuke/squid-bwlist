@@ -103,6 +103,7 @@
 .addictinggames.com
 .addtomo.com
 .adingo.jp
+.admobile.me
 .adtdp.com
 .adult-doctor.com
 .adult-slider.com
@@ -187,6 +188,7 @@
 .animemories.net
 .animesin.net
 .animetheworld.com
+.aniplex.co.jp
 .anipo.jp
 .anitena.tori29.net
 .anitube.se
