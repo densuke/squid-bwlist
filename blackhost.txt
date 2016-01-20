@@ -401,6 +401,7 @@
 .capcom.co.jp
 .caramelbox.com
 .carddass.com
+.cardkingdom.jp
 .carholder.net
 .caribbeancom.com
 .carsensor.net
@@ -2227,6 +2228,7 @@
 .tarikin.net
 .tatsumi-sys.jp
 .tatsumix.com
+.tayutau.co.jp
 .tbn17.com
 .team-detonation.net
 .team-lab.com
