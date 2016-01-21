@@ -380,6 +380,7 @@
 .bravelyarchive.jp
 .brightcove.co.jp
 .broccoli.co.jp
+.bsveri.com
 .bto-pc.jp
 .buhidoh.net
 .bunbun38.com
@@ -399,6 +400,7 @@
 .cafeglobe.com
 .calciomatome.net
 .cameranonaniwa.jp
+.canpan.info
 .capcom-onlinegames.jp
 .capcom.co.jp
 .caramelbox.com
@@ -406,6 +408,7 @@
 .cardkingdom.jp
 .carholder.net
 .caribbeancom.com
+.carrot2.com
 .carsensor.net
 .carview.co.jp
 .cashabout.info
@@ -446,6 +449,7 @@
 .civic-apps.com
 .ckworks.jp
 .clan-battle.jp
+.clarksvillegamedesign.net
 .classroom-crisis.com
 .clcount.com
 .clevelandelectronicservices.com
@@ -535,6 +539,7 @@
 .deaicity.jp
 .dechamore.com
 .dechau.com
+.defensegames.jp
 .deko8.jp
 .demae-can.com
 .dendou.jp
@@ -609,6 +614,7 @@
 .draque-matome.com
 .drdinl.jp
 .dreadnought-tcg.com
+.drew5.net
 .ds-seiban.com
 .dsalon.net
 .dtiblog.com
@@ -779,6 +785,7 @@
 .freegame.on.arena.ne.jp
 .freem.ne.jp
 .freemoviedeh.com
+.freeonlinegames.com
 .freeonlinegames.name
 .freesoft-100.com
 .freesoft-concierge.com
@@ -848,6 +855,7 @@
 .gamecity.ne.jp
 .gamecopyworld.com
 .gamedesign.jp
+.gamedev.net
 .gamefactory.jp
 .gamefavo.com
 .gamefeat.net
@@ -857,6 +865,8 @@
 .gameiroiro.com
 .gamejolt.com
 .gamekouryaku.com
+.gamelearning.jp
+.gamelive.jp
 .gameloft.com
 .gamemaps.com
 .gamenoarukurashi.com
@@ -1043,6 +1053,7 @@
 .hiros-dot.net
 .hishaku.com
 .hitmee.info
+.hitoikigame.com
 .hitozuma-xvideos-ero.com
 .hivecolor.com
 .hklmm.com
@@ -1719,6 +1730,7 @@
 .nintendo.co.jp
 .nintendowifi.net
 .nipple-img.com
+.nippon1.jp
 .nishi2002.com
 .nishifukuma.com
 .niur.net
@@ -1732,6 +1744,7 @@
 .noiretaya.com
 .nomaki.jp
 .nomusoku.blomaga.jp
+.nordenfelt-thegame.com
 .nou-college.com
 .novaskin.me
 .novect.net
@@ -1789,6 +1802,7 @@
 .onihimechan.com
 .onitomediary.com
 .oniyomediary.com
+.onlinegame-syndrome.com
 .onlinegamech.com
 .onlinegamer.jp
 .onsen.ag
@@ -1830,6 +1844,7 @@
 .p-atlus.jp
 .p-bandai.jp
 .p-ch.jp
+.p-game.jp
 .p-tora.com
 .p-world.co.jp
 .pachinkovista.com
@@ -2131,6 +2146,7 @@
 .slotdoki.com
 .slotkaiseki.jp
 .slstage.com
+.smaato.net
 .smagame.info
 .smagazo.com
 .smart-douga.mobi
