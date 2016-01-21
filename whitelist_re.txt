@@ -3,3 +3,4 @@
 //.*.googleads.g.doubleclick.net
 www.ds-voice.net/wp/
 //blockly-games.appspot.com/.*
+//g.bing.com/GWX
