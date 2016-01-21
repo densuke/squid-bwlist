@@ -1,3 +1,4 @@
+./add-blackhost
 .0matome.com
 .0nyan.jp
 .1000giribest.com
@@ -476,6 +477,7 @@
 .completedouga.com
 .conangame.jp
 .concon-collector.com
+.consolegameswiki.com
 .contextweb.com
 .coocan.jp
 .cookpad.com
@@ -793,6 +795,7 @@
 .fullcomp.jp
 .fumi23.com
 .fundo.jp
+.fungames-forfree.com
 .funger-antena.info
 .funkygunstattoo.com
 .futene.net
@@ -867,6 +870,7 @@
 .gamerp.jp
 .games.yahoo.co.jp
 .gamescampus.co.jp
+.gameslando.com
 .gamesnatch2042.com
 .gamespark.jp
 .gamesq.jp
@@ -917,6 +921,7 @@
 .getgold.jp
 .getnews.jp
 .getuploader.com
+.gff.jp
 .gg-blog.com
 .ggame.jp
 .gger.jp
@@ -929,6 +934,7 @@
 .girlsreader.com
 .girlsvip-matome.com
 .girlzbar.com
+.giwiz-quriosity.c.yimg.jp
 .giza10.com
 .gizmodo.jp
 .gmo.jp
@@ -2112,6 +2118,7 @@
 .sirohamenet.net
 .sironekokouryaku.com
 .sisainlive.com
+.sixu-f.com
 .sk2ch.com
 .skmwin.net
 .skr.jp
@@ -2441,6 +2448,7 @@
 .wikidot.com
 .wikinavi.net
 .wikiwiki.jp
+.will-game.com
 .windowsphone.com
 .winneri.info
 .winvz.jp
