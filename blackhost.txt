@@ -458,6 +458,7 @@
 .cloverlab.biz
 .cloverlab.co.jp
 .clubdam.com
+.cmcm.com
 .cn
 .cnzz.com
 .cnzz.net
@@ -1176,6 +1177,7 @@
 .join.ev
 .jojo-animation.com
 .jojoss.jp
+.joshi-spa.jp
 .joymanj.net
 .joysound.com
 .jp-xvideos-av.com
@@ -1813,6 +1815,7 @@
 .oowata.com
 .op.gg
 .open2ch.net
+.opengameseeker.com
 .oppai-av.com
 .oppaibook.com
 .oppainorakuen.com
@@ -1865,6 +1868,7 @@
 .pairs.lv
 .pakapon.com
 .pakemania.net
+.pakupaku.com
 .pandachirari.com
 .pangya.jp
 .panpilog.com
@@ -2208,6 +2212,7 @@
 .store.microsoft.com
 .storestrategy.jp
 .stream.co.jp
+.studiok-i.net
 .sub.moudamepo.com
 .success-corp.co.jp
 .sugumiru18.com
@@ -2258,6 +2263,7 @@
 .tanx.com
 .taobao.com
 .tarikin.net
+.tasplus.net
 .tatsumi-sys.jp
 .tatsumix.com
 .tayutau.co.jp
