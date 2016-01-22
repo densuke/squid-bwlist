@@ -1493,7 +1493,6 @@
 .mediafire.com
 .mediago.us
 .mediav.com
-.mega.co.nz
 .megalodon.jp
 .megamiengage.com
 .melon.com
