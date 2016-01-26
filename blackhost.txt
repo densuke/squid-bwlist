@@ -241,6 +241,7 @@
 .arit-clt.com
 .arithgame.jp
 .armoredcore.net
+.arrive.co.jp
 .aruaru.me
 .asagei.com
 .asahiwa.jp
@@ -1412,6 +1413,7 @@
 .luxad.kr
 .lvchat.info
 .lvimg.jp
+.lxdns.com
 .m-cocolog.jp
 .m-o-w.net
 .m4ex.com
@@ -1722,6 +1724,7 @@
 .nexon.co.jp
 .nexusmods.com
 .nfljapan.com
+.nfljapanshop.com
 .nflximg.com
 .nflximg.net
 .ngnews.me
