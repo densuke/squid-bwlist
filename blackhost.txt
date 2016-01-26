@@ -138,6 +138,7 @@
 .airdroid.com
 .aitore.com
 .aiyokugekijo.com
+.ajifun.com
 .akb2ch.com
 .akb48mato.com
 .akb48matomemory.com
@@ -772,6 +773,7 @@
 .flyteam.jp
 .fo-lens.net
 .focas.jp
+.fooline.net
 .football-lab.jp
 .fortalk.net
 .foto-webcam.eu
@@ -1063,6 +1065,7 @@
 .hn-antena.com
 .hnalady.com
 .hobonichielog.com
+.hochi.co.jp
 .hohochie.com
 .hokanko-alt.com
 .hokkoridays.com
@@ -1606,6 +1609,7 @@
 .movie.oshirimania.com
 .movietrailers-db.com
 .movin.co.jp
+.mp3cut.net
 .msgamestudios.com
 .msmtk.com
 .mstmtt.com
@@ -1707,6 +1711,7 @@
 .newstars.com
 .nexon.co.jp
 .nexusmods.com
+.nfljapan.com
 .nflximg.com
 .nflximg.net
 .ngnews.me
@@ -2012,6 +2017,7 @@
 .redbike.upper.jp
 .redtube-jp.com
 .redtube.com
+.ren-ai.jp
 .renai-matome.com
 .rengoku-teien.com
 .rental-rental.net
@@ -2240,6 +2246,7 @@
 .syunakira.com
 .syurabahazard.com
 .t7s.jp
+.tabibitojin.com
 .tabkul.com
 .tabtter.jp
 .tackysroom.com
@@ -2434,6 +2441,7 @@
 .w-t-f.jp
 .w3.org
 .wadaiyo.com
+.wakarukoto.com
 .wakuwaku365.com
 .wallpaperup.com
 .wanconyan.co
@@ -2446,6 +2454,7 @@
 .wate.jp
 .wayohoo.net
 .wazap.com
+.web-jozu.com
 .web-manga.info
 .weban.jp
 .webcamsdemexico.net
