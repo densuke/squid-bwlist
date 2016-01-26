@@ -849,6 +849,7 @@
 .game4broke.sakura.ne.jp
 .game8.jp
 .gameanalytics.com
+.gameapps.jp
 .gameassetstudio.jp
 .gamebanana.com
 .gamebase.com.tw
@@ -2152,6 +2153,7 @@
 .sisainlive.com
 .sixu-f.com
 .sk2ch.com
+.skipmore.com
 .skmwin.net
 .skr.jp
 .skter.com
