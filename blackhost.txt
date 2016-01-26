@@ -14,6 +14,7 @@
 .1616bbs.com
 .163.com
 .178.162.204.226
+.1999.co.jp
 .1geki.jp
 .1kibaku.jp
 .1mobile.com
@@ -812,6 +813,7 @@
 .funger-antena.info
 .funkygunstattoo.com
 .futaba-info.sakura.ne.jp
+.futababooks.com
 .futabalog.com
 .futabalog.comfutalog.com
 .futene.net
@@ -1535,6 +1537,7 @@
 .miki800.com
 .mikumoba.jp
 .mildch.com
+.mile-stone.jp
 .milestone-net.co.jp
 .milihime.jp
 .military38.com
@@ -2351,7 +2354,10 @@
 .tora-news.com
 .toram.jp
 .toranoana.jp
+.torecapark.com
+.torecolo.jp
 .torepiro.com
+.toretsubo.com
 .tori-ch.com
 .torrent-anime.com
 .touch-slide.jp
