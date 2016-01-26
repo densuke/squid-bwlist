@@ -419,6 +419,7 @@
 .ccpgamescdn.com
 .cdnone.net
 .cebq.biz
+.ceek.jp
 .ceipmsn.com
 .cetrk.com
 .cf-vanguard.com
@@ -797,6 +798,7 @@
 .fril.jp
 .frlamemonger.com
 .frogstone.jp
+.ftbucket.info
 .ftbwiki.org
 .fujimarukun.co.jp
 .fujitaiju.com
@@ -808,6 +810,9 @@
 .fungames-forfree.com
 .funger-antena.info
 .funkygunstattoo.com
+.futaba-info.sakura.ne.jp
+.futabalog.com
+.futabalog.comfutalog.com
 .futene.net
 .fx-startup.com
 .fx2ch.net
@@ -1284,6 +1289,7 @@
 .kizyo.net
 .klab.com
 .klabgames.net
+.kmlg.jp
 .kodukai-king.jp
 .kokotodo.nobody.jp
 .komachi.yomiuri.co.jp
@@ -1881,6 +1887,7 @@
 .pangya.jp
 .panpilog.com
 .paperman.jp
+.parupunte.net
 .parusoku.com
 .pathofexile.com
 .patolesoft.net
@@ -2449,6 +2456,7 @@
 .wadaiyo.com
 .wakarukoto.com
 .wakuwaku365.com
+.walkerplus.com
 .wallpaperup.com
 .wanconyan.co
 .wannabe-note.com
@@ -2647,6 +2655,7 @@
 .zucks.net
 .zumst.com
 .zwei.com
+.zzzsearch.com
 106.120.160.106
 112.25.47.20
 114.112.36.195
