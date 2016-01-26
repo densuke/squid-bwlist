@@ -1237,6 +1237,7 @@
 .karapaia.sakura.ne.jp
 .karzusp.net
 .kasaneteto.jp
+.kateich.net
 .katsumoku.net
 .katuru.com
 .kau.li
@@ -1254,6 +1255,7 @@
 .kijishima.com
 .kijobibouroku.com
 .kijomatomelog.com
+.kijosoku.com
 .kijyo-kijyo.com
 .kijyomatome.com
 .kijyomita.com
@@ -1709,6 +1711,7 @@
 .newsnow-2ch.com
 .newspickup.com
 .newstars.com
+.newtou.info
 .nexon.co.jp
 .nexusmods.com
 .nfljapan.com
@@ -2029,6 +2032,7 @@
 .rmpaz.com
 .rocketnews24.com
 .ronsoku.com
+.room2ch.com
 .rotco.jp
 .rottengirl.net
 .round1.co.jp
