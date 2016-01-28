@@ -43,6 +43,7 @@
 .2ch.anything-navi.net
 .2ch.net
 .2ch.sc
+.2ch2.net
 .2chan.net
 .2channeler.com
 .2chblog.jp
@@ -136,6 +137,7 @@
 .agrapp.jp
 .aichiko.jp
 .aichuun.co
+.aikatsu.com
 .airdroid.com
 .aitore.com
 .aiyokugekijo.com
@@ -190,6 +192,7 @@
 .animeanime.jp
 .animegoods.info
 .animemories.net
+.animenova.org
 .animesin.net
 .animetheworld.com
 .aniplex.co.jp
@@ -343,6 +346,7 @@
 .bitsummit.org
 .bittorrent.com
 .bituse.info
+.blacksmith-gilgamesh.jp
 .blazegames.jp
 .blog-rpg.com
 .blog.jp
@@ -778,6 +782,7 @@
 .fo-lens.net
 .focas.jp
 .fooline.net
+.fooooo.com
 .football-lab.jp
 .fortalk.net
 .foto-webcam.eu
@@ -938,6 +943,7 @@
 .geo-online.co.jp
 .geocities.jp
 .geonet.jp
+.gera-comic.net
 .get-club.net
 .get2ch.net
 .getchu.com
@@ -2024,6 +2030,7 @@
 .rakugakidou.net
 .rakugan.com
 .rakuten.co.jp
+.rampokitan.com
 .random-call.net
 .rapidgator.net
 .rash.jp
@@ -2214,6 +2221,7 @@
 .sousakuba.com
 .special-pink-image.com
 .speedtrace.co.jp
+.spike-chunsoft.co.jp
 .splatoon-nawabari.com
 .splax.net
 .sponichi.co.jp
@@ -2352,6 +2360,7 @@
 .tonakai.aki.gs
 .tonari-it.com
 .tonarinoyj.jp
+.toonova.com
 .top55.net
 .toptools100.com
 .tora-news.com
@@ -2530,6 +2539,7 @@
 .worktoolsmith.com
 .world-antenna.net
 .worldfn.net
+.worldof-tanks.com
 .worldoftanks.asia
 .wot-news.com
 .wowgame.jp
@@ -2630,6 +2640,7 @@
 .youkaiwatch-nyansoku.com
 .youku.com
 .youngjump.jp
+.yourupload.com
 .youskbe.com
 .youtu.be
 .youtube.com
