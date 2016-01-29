@@ -180,6 +180,7 @@
 .anacel.com
 .andronavi.com
 .anettai.co.jp
+.ange-app.com
 .angel-live.com
 .angelmov.net
 .anicole.net
@@ -511,6 +512,7 @@
 .crashfever.com
 .criteo.com
 .crocro.com
+.croozsocial.com
 .croozsocial.jp
 .cross-breed.com
 .crossange.com
@@ -1580,6 +1582,7 @@
 .mobilefactory.jp
 .mobilelaby.com
 .mobiusfinalfantasy.com
+.mobu.jp
 .moddb.com
 .modgames.net
 .moebeika.net
@@ -2194,6 +2197,7 @@
 .smart-douga.mobi
 .smartnews.be
 .smartphone-electric.net
+.smartstream.ne.jp
 .smilevideo.jp
 .smith-wesson.com
 .smj.io
