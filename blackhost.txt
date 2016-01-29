@@ -185,6 +185,7 @@
 .angelmov.net
 .anicole.net
 .anige-sokuhouvip.com
+.animalch.net
 .animate-onlineshop.jp
 .animate.co.jp
 .anime-pictures.net
@@ -548,6 +549,7 @@
 .dayztv.com
 .dbonline.jp
 .dc7.jp
+.dclog.jp
 .dd-on.jp
 .deaicity.jp
 .dechamore.com
@@ -646,6 +648,7 @@
 .e-typing.ne.jp
 .ea.com
 .eagate.573.jp
+.efg-drive.net
 .egoisterog.com
 .egone.org
 .ehgt.org
@@ -1176,6 +1179,7 @@
 .j-antenna.com
 .j-cg.com
 .j-haikyu.com
+.j-lyric.net
 .j-sen.jp
 .jakou.com
 .jalan.jp
@@ -1187,6 +1191,7 @@
 .javadrive.jp
 .javaroad.jp
 .jeuxvideo24.com
+.jiggys-shop.jp
 .jiku-chu.com
 .jimdo.com
 .jin115.com
@@ -1675,6 +1680,7 @@
 .nana-music.com
 .nanj-matome.com
 .nankaibuhin.co.jp
+.nanouniverse.jp
 .nantenna-2ch.com
 .nantoka-antenna.com
 .nantv.com
