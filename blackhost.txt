@@ -608,6 +608,7 @@
 .dopr.net
 .dorapon.info
 .doucolle.net
+.douga-tec.com
 .douga100ka.jp
 .dougamax.com
 .doujin-eromanga.com
@@ -1974,6 +1975,7 @@
 .pmang.jp
 .po-kaki-to.com
 .pockecolo.com
+.point-i.jp
 .pointi.jp
 .pokecheck.org
 .pokedit.com
