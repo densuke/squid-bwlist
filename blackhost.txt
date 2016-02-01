@@ -193,6 +193,7 @@
 .anime-teen.com
 .anime44.com
 .animeanime.jp
+.animegif.net
 .animegoods.info
 .animemories.net
 .animenova.org
@@ -746,6 +747,7 @@
 .ertk.net
 .escape-game.com
 .esite100.com
+.esports-runner.com
 .estar.jp
 .esuteru.com
 .euro-sports.jp
@@ -827,6 +829,7 @@
 .fungames-forfree.com
 .funger-antena.info
 .funkygunstattoo.com
+.funshion.net
 .futaba-info.sakura.ne.jp
 .futababooks.com
 .futabalog.com
@@ -1589,6 +1592,7 @@
 .moba8.net
 .mobafire.com
 .mobboss-online.com
+.mobilecore.com
 .mobilefactory.jp
 .mobilelaby.com
 .mobiusfinalfantasy.com
@@ -2359,6 +2363,7 @@
 .tkool.jp
 .tkssp.com
 .tmbox.net
+.tmntmutantsinmanhattan.com
 .toacco.com
 .tobita.clover-rabbit.club
 .tocana.jp
