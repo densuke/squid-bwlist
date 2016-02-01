@@ -304,6 +304,7 @@
 .bakufu.jp
 .bakuretuken.com
 .bakusai.com
+.bally.co.jp
 .bamka.info
 .bandai-hobbuy.net
 .bandai-hobby.net
@@ -880,6 +881,7 @@
 .gamebudgie.com
 .gamecity.ne.jp
 .gamecopyworld.com
+.gamedeets.com
 .gamedesign.jp
 .gamedev.net
 .gamefactory.jp
@@ -888,6 +890,7 @@
 .gamefreak.co.jp
 .gamegift.jp
 .gameinjp.com
+.gameinn.jp
 .gameiroiro.com
 .gamejolt.com
 .gamekouryaku.com
@@ -1601,6 +1604,7 @@
 .mogera.jp
 .moguragames.com
 .mojang.com
+.mojimaru.com
 .mokugeki.jp
 .mome7.com
 .momo-puri.com
@@ -2183,6 +2187,7 @@
 .simiteku.com
 .simplemeet.me
 .sinfonia-wld.com
+.siois.in
 .siritori.net
 .sirohamenet.net
 .sironekokouryaku.com
@@ -2377,6 +2382,7 @@
 .tonarinoyj.jp
 .toonova.com
 .top55.net
+.tops-game.jp
 .toptools100.com
 .tora-news.com
 .toram.jp
