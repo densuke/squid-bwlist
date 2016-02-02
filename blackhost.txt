@@ -875,6 +875,7 @@
 .game4broke.sakura.ne.jp
 .game8.jp
 .gameanalytics.com
+.gameappch.com
 .gameapps.jp
 .gameassetstudio.jp
 .gamebanana.com
@@ -2229,6 +2230,7 @@
 .soccer-douga.com
 .socdm.com
 .socialgamebrowser.com
+.socom.yokohama
 .sofmap.com
 .softhouse-seal.com
 .sogou.com
@@ -2329,6 +2331,7 @@
 .tatsumix.com
 .tayutau.co.jp
 .tbn17.com
+.team-cygames.com
 .team-detonation.net
 .team-lab.com
 .team-rec.jp
