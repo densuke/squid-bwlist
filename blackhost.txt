@@ -49,6 +49,7 @@
 .2chblog.jp
 .2chfinder.com
 .2chmap.com
+.2chmatome-news.com
 .2chmatome.sakura.ne.jp
 .2chmatomeru.info
 .2chmm.com
