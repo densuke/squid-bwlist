@@ -93,6 +93,7 @@
 .a-slot.com
 .a-wiki.net
 .a4c.jp
+.a4g.com
 .a9vg.com
 .aaaf.jp
 .abnormal.sakura.ne.jp
@@ -103,6 +104,7 @@
 .acronia.net
 .ad-manga.com
 .ad-techno.com
+.ad4game.com
 .adacomi.com
 .addictinggames.com
 .addtomo.com
@@ -227,6 +229,7 @@
 .appgaku.com
 .appget.com
 .appholic.cc
+.appland.co.jp
 .apple-geeks.com
 .applean.info
 .applibot.co.jp
@@ -513,6 +516,7 @@
 .cotedazur.jp
 .couples.jp
 .cpmok.net
+.cpmstar.com
 .crank-in.net
 .crashfever.com
 .criteo.com
@@ -1599,6 +1603,7 @@
 .mobilelaby.com
 .mobiusfinalfantasy.com
 .mobu.jp
+.mochiads.com
 .moddb.com
 .modgames.net
 .moebeika.net
@@ -1664,6 +1669,7 @@
 .mtgmintcard.com
 .mtgoversears.com
 .mtgwiki.com
+.muchgames.com
 .mudainodocument.com
 .mudana.net
 .muketsu.info
@@ -1792,6 +1798,7 @@
 .nizigen-matome.com
 .no1game.net
 .noahapps.jp
+.noahparty.com
 .nobuo-create.net
 .nobuta123.co.jp
 .nobuwiki.org
