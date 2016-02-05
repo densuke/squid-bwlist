@@ -1045,6 +1045,8 @@
 .gundam.info
 .gundamseries.net
 .gungho.jp
+.gunosy.co.jp
+.gunosy.com
 .gunplablog.com
 .gunslinger-stratos.jp
 .gurugurulog.com
