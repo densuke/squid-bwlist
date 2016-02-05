@@ -233,6 +233,7 @@
 .apple-geeks.com
 .applean.info
 .applibot.co.jp
+.applift.com
 .applikobo.info
 .applion.jp
 .applision.com
@@ -254,6 +255,7 @@
 .arithgame.jp
 .armoredcore.net
 .arrive.co.jp
+.arsareth.net
 .aruaru.me
 .asagei.com
 .asahiwa.jp
@@ -765,6 +767,7 @@
 .f-game.jp
 .facebook.com
 .fairydoll.jp
+.fam-ad.com
 .famitsu.com
 .fantena.net
 .fast-ranking.com
@@ -790,6 +793,7 @@
 .finalfantasyxiv.com
 .first-jp.com
 .flash-game-ziina.com
+.flasharcadegamessite.com
 .floe-net.jp
 .flop.jp
 .flower-knight-girls.co.jp
@@ -916,6 +920,7 @@
 .gamer.ne.jp
 .gamerch.com
 .gamerp.jp
+.games.kids.yahoo.co.jp
 .games.yahoo.co.jp
 .gamescampus.co.jp
 .gameslando.com
@@ -1885,6 +1890,7 @@
 .oshiete-kun.net
 .oshiete.goo.ne.jp
 .oshiete.xgoo.jp
+.osomatsusan.com
 .otaden.jp
 .otakomu.jp
 .otakuma.net
@@ -2366,6 +2372,7 @@
 .theatn.net
 .thebrighttag.com
 .thegame.jp
+.theworldendeclipse.jp
 .thisisgame.com
 .tidaltv.com
 .tigresoft.com
