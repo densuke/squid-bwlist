@@ -3,6 +3,7 @@
 .0nyan.jp
 .1000giribest.com
 .1000mg.jp
+.1000quu.com
 .100shiki.com
 .10minutemail.com
 .1101.com
@@ -96,6 +97,7 @@
 .a4g.com
 .a9vg.com
 .aaaf.jp
+.abikosan.com
 .abnormal.sakura.ne.jp
 .absoku072.com
 .abugames.com
@@ -583,6 +585,7 @@
 .diveluck.com
 .divide-et-impera.org
 .dixq.net
+.diy-sound.net
 .dka-hero.com
 .dl-file.org
 .dl-video.net
@@ -2269,6 +2272,7 @@
 .sprite.org
 .spriters-resource.com
 .sptadao.co.jp
+.spuspu.jp
 .sqex.to
 .squallchannel.com
 .square-enix.co.jp
