@@ -2233,6 +2233,7 @@
 .smagazo.com
 .smart-douga.mobi
 .smartnews.be
+.smartnews.jp
 .smartphone-electric.net
 .smartstream.ne.jp
 .smilevideo.jp
