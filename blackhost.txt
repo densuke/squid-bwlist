@@ -266,6 +266,7 @@
 .asagei.com
 .asahiwa.jp
 .asame.sakura.ne.jp
+.ascii.jp
 .asg.to
 .asianews2ch.jp
 .ask.fm
@@ -2462,6 +2463,7 @@
 .tsundora.com
 .tsutaya.co.jp
 .tube8.com
+.tubemogul.com
 .tuccom.com
 .tukisiroyogisya.com
 .tumblr.com
