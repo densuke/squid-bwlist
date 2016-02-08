@@ -1,6 +1,7 @@
 ./add-blackhost
 .0matome.com
 .0nyan.jp
+.0zero.jp
 .1000giribest.com
 .1000mg.jp
 .1000quu.com
@@ -328,6 +329,7 @@
 .bandainamcogames.co.jp
 .bandch.com
 .baraero.com
+.barcode-net.com
 .barks.jp
 .battle.net
 .battlefield.com
@@ -884,6 +886,7 @@
 .game-ou.com
 .game-ss.com
 .game-tansaku.net
+.game-tm.com
 .game.ever.jp
 .game.goo.ne.jp
 .game.watch.impress.co.jp
@@ -932,6 +935,7 @@
 .games.kids.yahoo.co.jp
 .games.yahoo.co.jp
 .gamescampus.co.jp
+.gamesforwork.com
 .gameslando.com
 .gamesnatch2042.com
 .gamespark.jp
@@ -1196,6 +1200,7 @@
 .instagram.com
 .iogous.com
 .iphone-mania.jp
+.iplayer.org
 .ippa.jp
 .iruna.jp
 .iso-labo.com
@@ -1997,6 +2002,7 @@
 .pinkerodougasex.com
 .pinknotora.net
 .pipa.jp
+.pix-cdn.org
 .pixfuture.net
 .pixiv.me
 .pixiv.net
@@ -2005,6 +2011,7 @@
 .platinumgames.co.jp
 .play-app.net
 .play.google.com
+.playgame24.com
 .plaync.com
 .playsport.cc
 .playstation.com
@@ -2482,6 +2489,7 @@
 .twitter.com
 .twpf.jp
 .tyabo.com
+.type-music.com
 .type.jp
 .u-note.me
 .uauniverse.com
