@@ -989,6 +989,7 @@
 .ggsoku.com
 .gigafile.nu
 .gigafree.net
+.gigazine.asia
 .gigazine.net
 .giko-news.com
 .gikotena.net
@@ -1002,6 +1003,7 @@
 .gmocloud.com
 .gmossp-sp.jp
 .gmpg.org
+.gnavi.co.jp
 .gnst.jp
 .godeater.jp
 .godessgame.com
