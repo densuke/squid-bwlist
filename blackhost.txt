@@ -87,6 +87,7 @@
 .777segu.net
 .777town.net
 .7gogo.jp
+.8bit.co.jp
 .98yrkewj.com
 .9post.jp
 .a-k-slot.com
@@ -1202,6 +1203,7 @@
 .itaishinja.com
 .itibusizyuu.jp
 .itlab51.com
+.itnavi.jp
 .ittells.jp
 .itunes.apple.com
 .iwashi.biz
