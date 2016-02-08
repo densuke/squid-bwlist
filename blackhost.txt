@@ -67,6 +67,7 @@
 .2mtmex.com
 .2nn.jp
 .3751chat.com
+.3dlinks.com
 .3gokushi.jp
 .3keta.net
 .4416.biz
@@ -222,6 +223,7 @@
 .aokihagane.com
 .ap-land.com
 .api.unthem.com
+.app-adforce.jp
 .app-channel.link
 .app-heaven.net
 .app-liv.jp
@@ -2236,6 +2238,7 @@
 .smagame.info
 .smagazo.com
 .smart-douga.mobi
+.smartgame.jp
 .smartnews.be
 .smartnews.jp
 .smartphone-electric.net
