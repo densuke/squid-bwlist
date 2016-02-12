@@ -409,6 +409,7 @@
 .bravelyarchive.jp
 .brightcove.co.jp
 .broccoli.co.jp
+.bst-akiba.net
 .bsveri.com
 .bto-pc.jp
 .buhidoh.net
@@ -1761,6 +1762,7 @@
 .netgiik.biz
 .netkeiba.com
 .netmarble.com
+.netmarble.net
 .netoff.co.jp
 .netouyonews.net
 .netsaru.jp
@@ -2467,6 +2469,7 @@
 .tricksterwiki.info
 .trpg.net
 .tsite.jp
+.tsukumo.co.jp
 .tsundora.com
 .tsutaya.co.jp
 .tube8.com
@@ -2705,6 +2708,7 @@
 .yes24.com
 .yeshj.com
 .yjsnpi.nu
+.yodobashi.com
 .yoiyami.net
 .yomosoku.com
 .yooiistudios.com
