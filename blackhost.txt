@@ -1749,6 +1749,7 @@
 .nekogames.jp
 .nekomemo.com
 .nekomeshi.com
+.nekotekinews.com
 .nekotools.club
 .nekowan.com
 .nelog.jp
