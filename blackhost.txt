@@ -72,6 +72,7 @@
 .3gokushi.jp
 .3keta.net
 .4416.biz
+.4at5.net
 .4coma.com
 .4gamer.net
 .4shared-china.com
@@ -691,6 +692,7 @@
 .entapotime.com
 .entermeus.com
 .entertainmentsummary.net
+.epicgames.com
 .eplus.jp
 .epoch.jp
 .epochtimes.com
@@ -766,6 +768,7 @@
 .ertk.net
 .escape-game.com
 .esite100.com
+.eslgaming.com
 .esports-runner.com
 .estar.jp
 .esuteru.com
@@ -1054,6 +1057,7 @@
 .gu3.co.jp
 .gu3.jp
 .guitarlist.net
+.gundam-cardbuilder.com
 .gundam-kizuna.jp
 .gundam-vs.jp
 .gundam.info
@@ -1350,6 +1354,7 @@
 .klabgames.net
 .kmlg.jp
 .kodukai-king.jp
+.koga.me
 .kokotodo.nobody.jp
 .komachi.yomiuri.co.jp
 .komica.org
@@ -2116,6 +2121,7 @@
 .ri-mode.com
 .riotgames.com
 .rmpaz.com
+.roccat.org
 .rocketnews24.com
 .ronsoku.com
 .room2ch.com
