@@ -135,6 +135,7 @@
 .adulttoys.jp
 .adulttrain.com
 .aemedia.org
+.aeoncinema.com
 .affection-web.co.jp
 .afo-news.com
 .afsgames.com
@@ -1638,6 +1639,7 @@
 .mobilecore.com
 .mobilefactory.jp
 .mobilelaby.com
+.mobimagic.com
 .mobiusfinalfantasy.com
 .mobu.jp
 .mochiads.com
@@ -1801,6 +1803,7 @@
 .newstars.com
 .newtou.info
 .nexon.co.jp
+.nexonm.com
 .nexusmods.com
 .nfljapan.com
 .nfljapanshop.com
@@ -1881,6 +1884,7 @@
 .officedaytime.com
 .officiallyjd.com
 .ogp.me
+.oishi-hitozuma.com
 .oj-group.net
 .okanehadaiji.com
 .okayamagic.net
@@ -2060,6 +2064,7 @@
 .potora.jp
 .ppls.jp
 .ppy.sh
+.prcm.jp
 .premiumcyzo.com
 .pripara.jp
 .prisma-illya.jp
@@ -2739,6 +2744,7 @@
 .yu-gi-oh.xyz
 .yucasee.jp
 .yucomia.com
+.yugioh-antenna.sakura.ne.jp
 .yugioh-card.com
 .yugioh-list.com
 .yugioh-wiki.net
