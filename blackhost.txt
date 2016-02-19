@@ -137,6 +137,7 @@
 .aemedia.org
 .aeoncinema.com
 .affection-web.co.jp
+.affiliate-b.com
 .afo-news.com
 .afsgames.com
 .agag.tw
@@ -332,6 +333,7 @@
 .bandainamcoent.co.jp
 .bandainamcogames.co.jp
 .bandch.com
+.bannerbridge.net
 .baraero.com
 .barcode-net.com
 .barks.jp
@@ -569,6 +571,7 @@
 .danshihack.com
 .darksummoner.jp
 .dashbida.com
+.data-vocabulary.org
 .daumcdn.net
 .daumkakao.com
 .dayztv.com
@@ -667,6 +670,7 @@
 .dxlive.com
 .dyndns.org
 .dysintropi.me
+.e-click.jp
 .e-earphone.jp
 .e-nls.com
 .e-nls.net
@@ -1236,6 +1240,7 @@
 .japan-mmm.net
 .japanz.jp
 .japohan.net
+.jarodtaylor.com
 .javadrive.jp
 .javaroad.jp
 .jeuxvideo24.com
@@ -1265,6 +1270,7 @@
 .jsports-ondemand.com
 .jsports.co.jp
 .julia-official.com
+.july.red
 .jumpsokuhou.com
 .juon-movie.jp
 .jword.jp
@@ -1282,6 +1288,7 @@
 .kaikatsu.jp
 .kairakudoujin.net
 .kairisei-ma.jp
+.kaiseki-website.com
 .kakaku.com
 .kakao.com
 .kakeru.me
@@ -1897,6 +1904,7 @@
 .omanko-adaruto.com
 .omocoro.jp
 .omoshiroi-hanashi.com
+.oms-hk.com
 .omtrdc.net
 .ona-kura.com
 .onaneta-soku.com
