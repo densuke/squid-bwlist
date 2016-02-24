@@ -115,6 +115,7 @@
 .addictinggames.com
 .addtomo.com
 .adingo.jp
+.admarvel.com
 .admobile.me
 .adresult.jp
 .adtdp.com
@@ -446,6 +447,7 @@
 .caribbeancom.com
 .carrot2.com
 .carsensor.net
+.carsof2017.com
 .carview.co.jp
 .cashabout.info
 .cashing.money.goo.ne.jp
@@ -506,6 +508,7 @@
 .coj-agentlabo.com
 .college2ch.blomaga.jp
 .colocal.jp
+.colopl.co.jp
 .colopl.jp
 .colorawesomeness.com
 .colta.jp
@@ -1149,6 +1152,7 @@
 .horukan.com
 .horukanlite.com
 .hoshidora.jp
+.hoshiribeapp.jp
 .hosyusokuhou.jp
 .hot-topic-news.com
 .hotkoreanews.blogspot.jp
@@ -1253,6 +1257,7 @@
 .jiqoo.jp
 .jjwxc.net
 .jk-play.com
+.jocee.jp
 .johnnyswest-love.com
 .join.ev
 .jojo-animation.com
@@ -1966,6 +1971,7 @@
 .p-world.co.jp
 .pachinkovista.com
 .pachiseven.jp
+.pachisuro-house.com
 .pack-depot.com
 .pacman.com
 .pad-plus.com
@@ -2429,6 +2435,8 @@
 .theatn.net
 .thebrighttag.com
 .thegame.jp
+.theinfoapps.com
+.thenbapps.com
 .theworldendeclipse.jp
 .thisisgame.com
 .tidaltv.com
@@ -2450,6 +2458,7 @@
 .tokimeki-s.com
 .tokiwaelog.com
 .tokkaban.com
+.tokrin.com
 .tokua.info
 .tokuteishimasuta.com
 .tokyo-cdn.com
