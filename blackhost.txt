@@ -1384,6 +1384,7 @@
 .kosusoku.net
 .kotaku.jp
 .kotaro269.com
+.kotobukiya.co.jp
 .kotoripiyopiyo.com
 .koty.wiki
 .koukasound.com
@@ -2566,6 +2567,7 @@
 .uuu9.com
 .uwakitobintatofurin.com
 .uyosoku.com
+.valuecommerce.com
 .vehicle123.com
 .veryposi.info
 .vid-dl.net
