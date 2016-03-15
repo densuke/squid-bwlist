@@ -505,6 +505,7 @@
 .cnzz.net
 .co.kr
 .cocolog-nifty.com
+.cocomachi.tokyo
 .cocone.jp
 .coj-agentlabo.com
 .college2ch.blomaga.jp
