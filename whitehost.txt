@@ -1,3 +1,6 @@
+.adobe.com
+.adobe.co.jp
+.autodesk.com
 .eset.com
 .urls.api.twitter.com
 .b.hatena.ne.jp
