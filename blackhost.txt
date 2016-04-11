@@ -1183,6 +1183,7 @@
 .hxh-channel-or-jp.s3.amazonaws.com
 .hypernews.2chblog.jp
 .i-funbox.com
+.i-hayabusa.com
 .i-libro.net
 .i-like-movie.net
 .i-mobile.co.jp
