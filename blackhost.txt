@@ -92,6 +92,7 @@
 .8bit.co.jp
 .98yrkewj.com
 .9post.jp
+.9ualia-room.com
 .a-k-slot.com
 .a-lim.jp
 .a-matome.com
@@ -553,6 +554,7 @@
 .csgowild.com
 .cuns.net
 .cuonet.com
+.cupo.cc
 .curazy.com
 .curecos.com
 .cxense.com
@@ -828,6 +830,7 @@
 .flop.jp
 .flower-knight-girls.co.jp
 .flvto.com
+.flyingwitch.jp
 .flyteam.jp
 .fo-lens.net
 .focas.jp
@@ -973,6 +976,7 @@
 .garanger.net
 .garden-tokyo.net
 .garss.jp
+.gaworare-anime.com
 .gaym.jp
 .gazou-upstage.com
 .gazoukan317.jp
@@ -1095,6 +1099,7 @@
 .h-navigation.com
 .h3dcg.com
 .hackadoll.com
+.hai-furi.com
 .hamelnovel.com
 .hamusoku.com
 .hanalog.com
@@ -2179,6 +2184,7 @@
 .ryusoku.com
 .ryuuseinogotoku-trend.com
 .s-manga.net
+.s81c.com
 .saba-navi.com
 .sabukaruchan.net
 .sagaplanets.product.co.jp
@@ -2317,6 +2323,7 @@
 .soccer-douga.com
 .socdm.com
 .socialgamebrowser.com
+.socius101.com
 .socom.yokohama
 .sofmap.com
 .softhouse-seal.com
@@ -2463,6 +2470,7 @@
 .toacco.com
 .tobita.clover-rabbit.club
 .tocana.jp
+.toei.co.jp
 .togech.jp
 .togetter.com
 .tohofes.com
