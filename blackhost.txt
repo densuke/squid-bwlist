@@ -103,6 +103,7 @@
 .a9vg.com
 .aaaf.jp
 .abema.io
+.abematv.akamaized.net
 .abikosan.com
 .abnormal.sakura.ne.jp
 .absoku072.com
