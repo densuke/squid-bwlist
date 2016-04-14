@@ -122,6 +122,7 @@
 .admarvel.com
 .admobile.me
 .adresult.jp
+.adroll.com
 .adsmatic.com
 .adtdp.com
 .adult-doctor.com
@@ -257,6 +258,7 @@
 .applision.com
 .appllio.com
 .applover.us
+.applovin.com
 .appmarketinglabo.net
 .appmedia.jp
 .appoxee.com
@@ -376,6 +378,7 @@
 .bikechannel.info
 .bilibili.com
 .bipblog.com
+.bitmango.com
 .bitshare.com
 .bitsummit.org
 .bittorrent.com
@@ -1068,6 +1071,7 @@
 .graphic-loops.com
 .grassw.com
 .gree-apps.net
+.gree-pf.net
 .gree.jp
 .gree.net
 .greenowl5.com
@@ -1221,6 +1225,7 @@
 .immoral.jp
 .imperialsaga.jp
 .inazumanews2.com
+.indie-dev.at
 .indouga.com
 .infopot.jp
 .infoq.jp
@@ -1550,6 +1555,7 @@
 .mangag.com
 .mangahack.com
 .mangahit.com
+.mangakansou.com
 .mangakit.com
 .mangalog.com
 .mangania.jp
@@ -1980,6 +1986,7 @@
 .otonomai.me
 .otowota.com
 .ouchi.to
+.overlord-anime.com
 .owata-net.com
 .owt.io
 .oxynotes.com
@@ -2134,6 +2141,7 @@
 .qiantucdn.com
 .qiita.com
 .qilook.com
+.qiyi.com
 .ql.bz
 .qoo-app.com
 .qq.com
@@ -2193,6 +2201,7 @@
 .ryusoku.com
 .ryuuseinogotoku-trend.com
 .s-manga.net
+.s5-style.com
 .s81c.com
 .saba-navi.com
 .sabukaruchan.net
@@ -2257,6 +2266,7 @@
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shimamura.co.jp
+.shin-godzilla.jp
 .shindanmaker.com
 .shingekinobahamut-genesis.jp
 .shinobi.jp
@@ -2689,6 +2699,7 @@
 .wot-news.com
 .wowgame.jp
 .wp.me
+.wpongirls.com
 .ws-tcg.com
 .wtbw.net
 .wtfast.com
