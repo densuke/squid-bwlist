@@ -220,6 +220,7 @@
 .animenova.org
 .animesin.net
 .animetheworld.com
+.animewallpaperstock.com
 .aniplex.co.jp
 .anipo.jp
 .anitena.tori29.net
@@ -347,6 +348,7 @@
 .barks.jp
 .battle.net
 .battlefield.com
+.bay12games.com
 .bb-douga.com
 .bbb-bike.com
 .bbjapan.jp
@@ -435,6 +437,7 @@
 .burusoku-vip.com
 .butt3rs.com
 .butterfly-corp.jp
+.buzz-plus.com
 .buzzhand.com
 .buzzhand.net
 .buzznews.asia
@@ -525,6 +528,8 @@
 .colta.jp
 .com2us.com
 .com2us.net
+.comdotgame.com
+.comic-earthstar.jp
 .comico.jp
 .comics.shogakukan.co.jp
 .comisoku.com
@@ -656,6 +661,7 @@
 .douga-tec.com
 .douga100ka.jp
 .dougamax.com
+.dougasouko.com
 .doujin-eromanga.com
 .doujincafe.com
 .doumitemo.com
@@ -798,6 +804,7 @@
 .esuteru.com
 .ettoday.net
 .euro-sports.jp
+.eurogamer.net
 .evastore.jp
 .everymanblog.net
 .exawarosu.net
@@ -934,6 +941,7 @@
 .gamebit.jp
 .gamebiz.jp
 .gamebudgie.com
+.gamecast-blog.com
 .gamecity.ne.jp
 .gamecopyworld.com
 .gamedeets.com
@@ -1270,6 +1278,7 @@
 .japan-mmm.net
 .japanz.jp
 .japohan.net
+.jappleng.com
 .jarodtaylor.com
 .javadrive.jp
 .javaroad.jp
@@ -1888,6 +1897,7 @@
 .no1game.net
 .noahapps.jp
 .noahparty.com
+.noblewalls.site
 .nobuo-create.net
 .nobuta123.co.jp
 .nobuwiki.org
@@ -2133,6 +2143,8 @@
 .pso2skillsimulator.com
 .ptengine.jp
 .ptvcdn.net
+.pudding.cc
+.pupa-anime.com
 .pupu.jp
 .purl.org
 .purotora.com
@@ -2517,6 +2529,7 @@
 .tonakai.aki.gs
 .tonari-it.com
 .tonarinoyj.jp
+.tonyu-arpg.com
 .toonova.com
 .top55.net
 .tops-game.jp
@@ -2642,7 +2655,9 @@
 .wakarukoto.com
 .wakuwaku365.com
 .walkerplus.com
+.wallpaperland.me
 .wallpaperup.com
+.walls4joy.com
 .wanconyan.co
 .wannabe-note.com
 .wara2ch.com
@@ -2657,6 +2672,7 @@
 .web-manga.info
 .weban.jp
 .webcamsdemexico.net
+.webcomic-eb.com
 .webcomics.jp
 .webcrow.jp
 .webgift.jp
