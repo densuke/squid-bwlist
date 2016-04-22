@@ -876,6 +876,7 @@
 .frogstone.jp
 .ftbucket.info
 .ftbwiki.org
+.fujibaba.com
 .fujimarukun.co.jp
 .fujitaiju.com
 .fukugan.com
@@ -891,6 +892,7 @@
 .futababooks.com
 .futabalog.com
 .futabalog.comfutalog.com
+.futago-life.com
 .futene.net
 .fx-startup.com
 .fx2ch.net
@@ -1174,6 +1176,7 @@
 .hokanko-alt.com
 .hokkoridays.com
 .honey-rope.jugem.jp
+.honeyworks-movie.jp
 .honeyworks.jp
 .honmotakeshi.com
 .honyakusitem.blogspot.jp
@@ -1390,6 +1393,7 @@
 .kingdomhearts.jp
 .kingtopdeals.com
 .kinguin.net
+.kininaru-syumi.com
 .kinisuru.com
 .kinyu-z.net
 .kinza.jp
@@ -1499,6 +1503,7 @@
 .lol-museum.net
 .lol2048.com
 .lolantena.com
+.lolbuild.jp
 .loli-movix.com
 .lolimanga.com
 .lolipop.jp
@@ -2444,6 +2449,7 @@
 .taiwannohannou.com
 .tajigen.com
 .takabosoft.com
+.takamin.com
 .takanshoukaizen7.info
 .takara.ms
 .takenokosokuhou.com
