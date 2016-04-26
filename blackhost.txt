@@ -248,6 +248,7 @@
 .appdriver.jp
 .appgaku.com
 .appget.com
+.appgiga.jp
 .appholic.cc
 .appland.co.jp
 .apple-geeks.com
@@ -1225,6 +1226,7 @@
 .ijinshan.com
 .ikaros.jp
 .ikeike2ch.jp
+.ikki-para.com
 .ikoinoba.net
 .iku-sokuho.info
 .ikuji-news.com
