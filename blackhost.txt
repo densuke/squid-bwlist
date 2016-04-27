@@ -453,6 +453,7 @@
 .canpan.info
 .capcom-onlinegames.jp
 .capcom.co.jp
+.car-sokuhou.com
 .caramelbox.com
 .carddass.com
 .cardkingdom.jp
@@ -1535,6 +1536,7 @@
 .luidas.com
 .lukemcg.com
 .lululuxxne.jp
+.lum1.com
 .lunascape.jp
 .luxad.kr
 .lvchat.info
@@ -1736,6 +1738,7 @@
 .monst-news.net
 .monst-research.com
 .monst.appbank.net
+.monst24.jp
 .monster-strike.com
 .monsterstrikekouryaku.com
 .monstop-matome.com
@@ -2026,6 +2029,7 @@
 .pachisuro-house.com
 .pack-depot.com
 .pacman.com
+.pacopacomama.com
 .pad-plus.com
 .pad-soku.com
 .pad.atenasoku.com
@@ -2066,6 +2070,7 @@
 .peach-soku4.com
 .peach2ch.com
 .peco-japan.com
+.peeprec.com
 .peko-step.com
 .petippai.com
 .petitlyrics.com
