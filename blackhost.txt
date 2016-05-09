@@ -1,4 +1,3 @@
-./add-blackhost
 .0matome.com
 .0nyan.jp
 .0zero.jp
@@ -522,7 +521,6 @@
 .cocomachi.tokyo
 .cocone.jp
 .coj-agentlabo.com
-.college2ch.blomaga.jp
 .colocal.jp
 .colopl.co.jp
 .colopl.jp
@@ -590,7 +588,6 @@
 .dailymotion.com
 .daimajin.net
 .daki-makura.info
-.damage0.blomaga.jp
 .damonge.com
 .danshihack.com
 .darksummoner.jp
@@ -903,7 +900,6 @@
 .g.bing.com
 .ga-t.net
 .gaagle.jp
-.gadgetlife2ch.blomaga.jp
 .gaga.ne.jp
 .gahako.com
 .gakinko.net
@@ -933,7 +929,6 @@
 .game.watch.impress.co.jp
 .game16.net
 .game1wiki.com
-.game4broke.blogspot.com
 .game4broke.sakura.ne.jp
 .game8.jp
 .gameanalytics.com
@@ -1181,7 +1176,6 @@
 .honeyworks-movie.jp
 .honeyworks.jp
 .honmotakeshi.com
-.honyakusitem.blogspot.jp
 .hork.info
 .horukan.com
 .horukanlite.com
@@ -1189,7 +1183,6 @@
 .hoshiribeapp.jp
 .hosyusokuhou.jp
 .hot-topic-news.com
-.hotkoreanews.blogspot.jp
 .hotp.jp
 .hotpepper.jp
 .howto-box.jp
@@ -1204,7 +1197,6 @@
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
 .hyakuretsu.com
-.hypernews.2chblog.jp
 .i-funbox.com
 .i-hayabusa.com
 .i-libro.net
@@ -1311,7 +1303,6 @@
 .jpcamera.info
 .jpddl.com
 .jpn.com
-.jpsoku.blog.jp
 .jscape.jp
 .jsports-ondemand.com
 .jsports.co.jp
@@ -1350,7 +1341,6 @@
 .kaminti.com
 .kamisamanoerogazoumatome.com
 .kamislot.info
-.kanasoku.s130.coreserver.jp
 .kancolle-news.com
 .kancolle-ss.com
 .kanichat.com
@@ -1466,7 +1456,6 @@
 .lcarsmania.com
 .ldblog.jp
 .leadboltapps.net
-.leagueoflegends.co.kr
 .leagueoflegends.com
 .lelezhen.com
 .letskendo.com
@@ -1528,7 +1517,6 @@
 .lovecosmetic.jp
 .lovelive-anime.jp
 .lovelive-matome.com
-.lovelive.blomaga.jp
 .lovelivepress.com
 .loveota.com
 .lovesoku.com
@@ -1552,7 +1540,6 @@
 .magicalmirai.com
 .magicalracing.co.jp
 .magicianwizsoku.com
-.magsoku.blomaga.jp
 .mahoneko.info
 .mahoutsukaino.com
 .maimai48.net
@@ -1737,7 +1724,6 @@
 .monst-multi.net
 .monst-news.net
 .monst-research.com
-.monst.appbank.net
 .monst24.jp
 .monster-strike.com
 .monsterstrikekouryaku.com
@@ -1811,7 +1797,6 @@
 .narutoapp.jp
 .nashimoto.biz
 .natalie.mu
-.native.hekk.org
 .naver.com
 .naver.jp
 .naver.net
@@ -1882,7 +1867,6 @@
 .nicomi.com
 .niconicogakkai.jp
 .nicoseiga.jp
-.nicosoku.blomaga.jp
 .nicotalk.com
 .nicotto.jp
 .nicovideo.jp
@@ -1913,7 +1897,6 @@
 .nobuwiki.org
 .noiretaya.com
 .nomaki.jp
-.nomusoku.blomaga.jp
 .nordenfelt-thegame.com
 .nou-college.com
 .novaskin.me
@@ -2396,7 +2379,6 @@
 .splatoon-nawabari.com
 .splax.net
 .sponichi.co.jp
-.sportsnavi.dtiblog.com
 .sprite.org
 .spriters-resource.com
 .sptadao.co.jp
@@ -2420,7 +2402,6 @@
 .storestrategy.jp
 .stream.co.jp
 .studiok-i.net
-.sub.moudamepo.com
 .success-corp.co.jp
 .sugumiru18.com
 .sukumizu.jp
@@ -2520,7 +2501,6 @@
 .tmbox.net
 .tmntmutantsinmanhattan.com
 .toacco.com
-.tobita.clover-rabbit.club
 .tocana.jp
 .toei.co.jp
 .togech.jp
@@ -2820,7 +2800,6 @@
 .yaruo-antenna.sakura.ne.jp
 .yaruo.info
 .yaruo.link
-.yaruo.wikia.com
 .yaruyomi.com
 .ybbo.net
 .yen-money-point.com
