@@ -2819,7 +2819,6 @@
 .youskbe.com
 .youtu.be
 .youtube.com
-.yu-gi-oh.xyz
 .yucasee.jp
 .yucomia.com
 .yugioh-antenna.sakura.ne.jp
