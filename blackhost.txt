@@ -1,3 +1,4 @@
+.0en-game.com
 .0matome.com
 .0nyan.jp
 .0zero.jp
@@ -20,6 +21,7 @@
 .1kibaku.jp
 .1mobile.com
 .1stero.com
+.1up-game.net
 .1uphp.com
 .2-carat.net
 .200624nm.com
@@ -210,6 +212,8 @@
 .anime-pictures.net
 .anime-sharing.com
 .anime-teen.com
+.anime-torrent-start.com
+.anime-tourism.com
 .anime44.com
 .animeanime.jp
 .animegif.net
@@ -217,11 +221,13 @@
 .animemay.com
 .animemories.net
 .animenova.org
+.animesachi.com
 .animesin.net
 .animetheworld.com
 .animewallpaperstock.com
 .aniplex.co.jp
 .anipo.jp
+.anitabi.net
 .anitena.tori29.net
 .anitube.se
 .ankomochi.cc
@@ -272,6 +278,7 @@
 .aquaplus.jp
 .arcenserv.info
 .archeage.jpn.org
+.arika.co.jp
 .arit-clt.com
 .arithgame.jp
 .armoredcore.net
@@ -437,9 +444,11 @@
 .burusoku-vip.com
 .butt3rs.com
 .butterfly-corp.jp
+.buzz-netnews.com
 .buzz-plus.com
 .buzzhand.com
 .buzzhand.net
+.buzzmag.jp
 .buzznews.asia
 .byonavi.com
 .c-lab.link
@@ -473,6 +482,7 @@
 .ceipmsn.com
 .cetrk.com
 .cf-vanguard.com
+.cgi-games.com
 .ch
 .ch9.ms
 .chain-chronicle.net
@@ -530,6 +540,7 @@
 .com2us.net
 .comdotgame.com
 .comic-earthstar.jp
+.comic-polaris.jp
 .comico.jp
 .comics.shogakukan.co.jp
 .comisoku.com
@@ -540,6 +551,7 @@
 .conangame.jp
 .concon-collector.com
 .consolegameswiki.com
+.conte-anime.jp
 .contextweb.com
 .coocan.jp
 .cookpad.com
@@ -589,6 +601,7 @@
 .daimajin.net
 .daki-makura.info
 .damonge.com
+.dan-ball.jp
 .danshihack.com
 .darksummoner.jp
 .dashbida.com
@@ -607,6 +620,7 @@
 .deko8.jp
 .demae-can.com
 .dendou.jp
+.denfaminicogamer.jp
 .dengeki.com
 .dengekionline.com
 .deqwas.net
@@ -689,6 +703,7 @@
 .duelcommander.com
 .duga.jp
 .dwango.co.jp
+.dwd-anime.com
 .dxlive.com
 .dyndns.org
 .dysintropi.me
@@ -861,6 +876,7 @@
 .free-flash-game.net
 .free-video-movie
 .free-xvideos.net
+.freegame-mugen.jp
 .freegame.on.arena.ne.jp
 .freem.ne.jp
 .freemoviedeh.com
@@ -897,6 +913,7 @@
 .fx2ch.net
 .g-heaven.net
 .g-takumi.com
+.g-tune.jp
 .g.bing.com
 .ga-t.net
 .gaagle.jp
@@ -914,11 +931,13 @@
 .game-ac.com
 .game-api.de
 .game-cmr.com
+.game-core-ent.com
 .game-de.com
 .game-hikidashi.com
 .game-hiroba.com
 .game-island.info
 .game-kids.net
+.game-matome.net
 .game-news.biz
 .game-ou.com
 .game-ss.com
@@ -927,8 +946,10 @@
 .game.ever.jp
 .game.goo.ne.jp
 .game.watch.impress.co.jp
+.game084.com
 .game16.net
 .game1wiki.com
+.game2ji.com
 .game4broke.sakura.ne.jp
 .game8.jp
 .gameanalytics.com
@@ -973,6 +994,7 @@
 .games.kids.yahoo.co.jp
 .games.yahoo.co.jp
 .gamescampus.co.jp
+.gameserver.hyperphoton.com
 .gamesforwork.com
 .gameslando.com
 .gamesnatch2042.com
@@ -981,11 +1003,14 @@
 .gamestalk.net
 .gametama.jp
 .gametsu.net
+.gameusers.org
+.gamewalker.link
 .gamewith.jp
 .gamez.com.tw
 .gamez.jp
 .gamme.com.tw
 .gamy.jp
+.ganganonline.com
 .ganma.jp
 .gaprot.jp
 .garakuta.org
@@ -1016,6 +1041,7 @@
 .gendama.jp
 .genieessp.jp
 .genieesspv.jp
+.genki.co.jp
 .gensen2ch.com
 .geo-online.co.jp
 .geocities.jp
@@ -1038,6 +1064,7 @@
 .gigazine.net
 .giko-news.com
 .gikotena.net
+.girldoll.org
 .girlsreader.com
 .girlsvip-matome.com
 .girlzbar.com
@@ -1068,6 +1095,7 @@
 .gori.me
 .gossip1.net
 .gossip2.net
+.gosugamers.net
 .gotcha-note.com
 .gotfes.com
 .gozaru.jp
@@ -1136,6 +1164,7 @@
 .hatenanotebook.com
 .hayamentz.com
 .he-games.com
+.hearthgamers.com
 .heartlife-matome.com
 .hekk.org
 .hemine.co
@@ -1186,6 +1215,7 @@
 .hotp.jp
 .hotpepper.jp
 .howto-box.jp
+.hp3200.com
 .htmq.com
 .hug2.biz
 .hujiang.com
@@ -1282,6 +1312,7 @@
 .javaroad.jp
 .jeuxvideo24.com
 .jiggys-shop.jp
+.jikitourai.net
 .jiku-chu.com
 .jimdo.com
 .jin115.com
@@ -1341,6 +1372,7 @@
 .kaminti.com
 .kamisamanoerogazoumatome.com
 .kamislot.info
+.kancolle-anime.jp
 .kancolle-news.com
 .kancolle-ss.com
 .kanichat.com
@@ -1412,6 +1444,7 @@
 .konaminet.jp
 .konomoe.at.webry.info
 .konosuba.com
+.kontagent.net
 .konton.info
 .korewaeroi.com
 .kororo.jp
@@ -1584,6 +1617,7 @@
 .marumie-tv.com
 .marupeke296.com
 .marutube.com
+.marv-games.jp
 .marv.jp
 .masato.ciao.jp
 .mato-mato.net
@@ -1770,6 +1804,7 @@
 .muwangpark.com
 .mwissoku.com
 .mxserver33.net
+.myanimelist.net
 .mydns.jp
 .mylostgames.com
 .myoji-kakeizu-jp.org
@@ -1911,6 +1946,7 @@
 .nukipon.jp
 .nukistream.com
 .nullpoantenna.com
+.nxgamers.jp
 .nyaa.se
 .nyaasoku.com
 .nyaasokuvip.net
@@ -1981,6 +2017,7 @@
 .oshiete.goo.ne.jp
 .oshiete.xgoo.jp
 .osomatsusan.com
+.ossan-gamer.net
 .otaden.jp
 .otakomu.jp
 .otakuma.net
@@ -1999,6 +2036,7 @@
 .owata-net.com
 .owt.io
 .oxynotes.com
+.ozmafia.com
 .ozpa-h4.com
 .p-anime.com
 .p-atlus.jp
@@ -2086,7 +2124,9 @@
 .platinumgames.co.jp
 .play-app.net
 .play.google.com
+.playbuzz.com
 .playgame24.com
+.playism.jp
 .plaync.com
 .playsport.cc
 .playstation.com
@@ -2115,9 +2155,11 @@
 .ponos.net
 .ponpare.jp
 .ponparemall.net
+.popupstory.jp
 .porn.com
 .porori-ch.com
 .pororich.com
+.posite-c.com
 .potora.jp
 .ppls.jp
 .ppy.sh
@@ -2254,6 +2296,7 @@
 .seesaa.net
 .seesaawiki.jp
 .sega-entertainment.jp
+.sega-games.co.jp
 .sega-mj.com
 .sega-net.com
 .sega-net.jp
@@ -2301,6 +2344,7 @@
 .shobon.jp
 .shogionline.jp
 .shonenjump.com
+.shonenmagazine.com
 .shop-pro.jp
 .shopserve.jp
 .shoshinsha.com
@@ -2352,6 +2396,7 @@
 .smt-cinema.com
 .smt.docomo.ne.jp
 .snalime.com
+.snkplaymore.co.jp
 .snmemories.net
 .sns-park.com
 .soccer-douga.com
@@ -2391,6 +2436,7 @@
 .ssmatomeantenna.info
 .standpower.com
 .starfakes.biz
+.stargamesbox.com
 .starlight-stage.jp
 .startappservice.com
 .steamcommunity.com
@@ -2440,6 +2486,7 @@
 .takamin.com
 .takanshoukaizen7.info
 .takara.ms
+.takashi1016.com
 .takenokosokuhou.com
 .takeshobo.co.jp
 .tales-ch.jp
@@ -2479,6 +2526,8 @@
 .tesalliance.org
 .tesgeneral.com
 .tetra-inc.com
+.tetrisfriends.com
+.tf3dm.com
 .tgd.jp
 .tgl.jp
 .thailog.net
@@ -2516,6 +2565,7 @@
 .tokuteishimasuta.com
 .tokyo-cdn.com
 .tokyo-lc.com
+.tokyogamestation.com
 .tokyoloader.com
 .tomangan.org
 .tome-uto.com
@@ -2599,6 +2649,7 @@
 .umeng.com
 .umengcloud.com
 .uneedzone.jp
+.unity-games.jp
 .unity3d.com
 .unlock.fm
 .up-stage.info
@@ -2680,6 +2731,7 @@
 .webworkersclip.com
 .weeklymouse.com
 .wemade.jp
+.whanime.com
 .what-character-are-you.com
 .whocares.jp
 .wicurio.com
