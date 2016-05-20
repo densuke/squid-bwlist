@@ -976,6 +976,7 @@
 .gameinn.jp
 .gameiroiro.com
 .gamejolt.com
+.gamekana.com
 .gamekouryaku.com
 .gamelearning.jp
 .gamelive.jp
@@ -1008,6 +1009,7 @@
 .gamewith.jp
 .gamez.com.tw
 .gamez.jp
+.gamingcx.com
 .gamme.com.tw
 .gamy.jp
 .ganganonline.com
@@ -1153,6 +1155,7 @@
 .hangame.co.jp
 .hangame.com
 .hanihoh.com
+.hanimez.com
 .hapisupu.com
 .happyelements.co.jp
 .hardluckz.com
@@ -2309,6 +2312,7 @@
 .sekainoura.net
 .sekurosu.com
 .senddownloadmy.com
+.sengokuixa.jp
 .senmanga.com
 .senpaigamer.com
 .sensns.com
