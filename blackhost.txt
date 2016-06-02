@@ -2142,6 +2142,7 @@
 .pockecolo.com
 .point-i.jp
 .pointi.jp
+.pointtown.com
 .pokecheck.org
 .pokedit.com
 .pokemon-br.com
