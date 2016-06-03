@@ -449,6 +449,7 @@
 .buzzhand.com
 .buzzhand.net
 .buzzmag.jp
+.buzznews-net.com
 .buzznews.asia
 .byonavi.com
 .c-lab.link
@@ -668,6 +669,7 @@
 .donderhiroba.jp
 .doope.jp
 .doorblog.jp
+.doperoms.com
 .dopr.net
 .dorapon.info
 .doucolle.net
@@ -850,6 +852,7 @@
 .fidelity-media.com
 .fightingirl.com
 .figsoku.net
+.figureheads.jp
 .finalfantasy.jp
 .finalfantasyxiv.com
 .first-jp.com
@@ -1044,6 +1047,7 @@
 .genieessp.jp
 .genieesspv.jp
 .genki.co.jp
+.genkiszk.com
 .gensen2ch.com
 .geo-online.co.jp
 .geocities.jp
@@ -1104,6 +1108,7 @@
 .gpara.com
 .gpf.mymd.jp
 .grabzer.com
+.gran-turismo.com
 .granbluefantasy.jp
 .granks.co.jp
 .graphic-loops.com
@@ -1190,12 +1195,14 @@
 .hiroiro.com
 .hiromart.com
 .hiros-dot.net
+.his-vacation.com
 .hishaku.com
 .hitmee.info
 .hitoikigame.com
 .hitozuma-xvideos-ero.com
 .hivecolor.com
 .hklmm.com
+.hkt48.jp
 .hmix.net
 .hn-antena.com
 .hnalady.com
@@ -1459,6 +1466,7 @@
 .kotoripiyopiyo.com
 .koty.wiki
 .koukasound.com
+.kowabana.jp
 .kroko.jp
 .ksmobile.com
 .kuaibo.com
@@ -1700,6 +1708,7 @@
 .minatosoft.com
 .minecraft.com
 .minecraft.net
+.minhyo.jp
 .minibird.jp
 .minkch.com
 .minkchan.com
@@ -2123,6 +2132,7 @@
 .pixiv.net
 .piyosoku.net
 .pk-mn.com
+.planetminecraft.com
 .plastic-memories.jp
 .platinumgames.co.jp
 .play-app.net
@@ -2143,6 +2153,7 @@
 .point-i.jp
 .pointi.jp
 .pointtown.com
+.poke-neta.com
 .pokecheck.org
 .pokedit.com
 .pokemon-br.com
@@ -2307,13 +2318,16 @@
 .sega-net.jp
 .sega-online.jp
 .sega-pc.com
+.sega.co.jp
 .sega.jp
 .seidentest.com
 .seikatuch.com
 .seiroganmania.com
 .sekainoura.net
+.sekindo.com
 .sekurosu.com
 .senddownloadmy.com
+.sengokuenbu.jp
 .sengokuixa.jp
 .senmanga.com
 .senpaigamer.com
@@ -2331,6 +2345,7 @@
 .shimamura.co.jp
 .shin-godzilla.jp
 .shindanmaker.com
+.shingekikyojin.net
 .shingekinobahamut-genesis.jp
 .shinobi.jp
 .shinra-game.jp
@@ -2359,6 +2374,7 @@
 .shuraba-matome.com
 .shuraba.net
 .shuutak.com
+.signal-blue.com
 .sijex.net
 .sikyou.com
 .silversecond.com
@@ -2682,6 +2698,7 @@
 .veryposi.info
 .viber.com
 .vid-dl.net
+.video.twimg.com
 .videopass-theater.s3.amazonaws.com
 .videotopics.yahoo.co.jp
 .videousermanuals.com
