@@ -117,11 +117,13 @@
 .ad-techno.com
 .ad4game.com
 .adacomi.com
+.addeluxe.jp
 .addictinggames.com
 .addtomo.com
 .adingo.jp
 .admarvel.com
 .admobile.me
+.adnico.jp
 .adresult.jp
 .adroll.com
 .adsmatic.com
@@ -160,6 +162,7 @@
 .aikatsu.com
 .aiming-inc.com
 .airdroid.com
+.airw.net
 .aitore.com
 .aiyokugekijo.com
 .ajifun.com
@@ -320,6 +323,7 @@
 .aviationwire.jp
 .avinfolie.net
 .avtv-movie.com
+.avximg.com
 .axelgames.net
 .ayacnews2nd.com
 .ayu-nya.com
@@ -426,6 +430,7 @@
 .boo.jp
 .boom-app.com
 .bouken.jp
+.boukun.com
 .bouyomi.jp
 .bpnavi.jp
 .bpro-next.jp
@@ -677,6 +682,7 @@
 .douga100ka.jp
 .dougamax.com
 .dougasouko.com
+.dougaz.com
 .doujin-eromanga.com
 .doujincafe.com
 .doumitemo.com
@@ -766,6 +772,7 @@
 .erochuudoku.com
 .erocloud-no1.com
 .erodoga1012.com
+.erodougaboy.com
 .erodougakun.com
 .erodouganoousama.com
 .erodougaxxx.com
@@ -808,6 +815,7 @@
 .erosite1012.com
 .erosoku99.com
 .erosy.info
+.eroterest.net
 .erotika.jp
 .erotube.org
 .erovikyowa.com
@@ -838,6 +846,7 @@
 .fate-go.jp
 .fate-go.net
 .favsite.jp
+.fc2-erodouga.com
 .fc2-video.net
 .fc2.com
 .fc2rs.com
@@ -1181,6 +1190,8 @@
 .heroesandgenerals.com
 .heroz.jp
 .hexadrive.jp
+.heydouga.com
+.heyzo.com
 .hh.iij4u.or.jp
 .hibiki-radio.jp
 .highgamers.com
@@ -1821,6 +1832,7 @@
 .myanimelist.net
 .mydns.jp
 .mylostgames.com
+.mynv.jp
 .myoji-kakeizu-jp.org
 .mysns.jp
 .myurdayz.com
@@ -2105,6 +2117,7 @@
 .peach-soku4.com
 .peach2ch.com
 .peco-japan.com
+.pee-puu-see.com
 .peeprec.com
 .peko-step.com
 .petippai.com
@@ -2176,9 +2189,11 @@
 .porn.com
 .porori-ch.com
 .pororich.com
+.portnet.ne.jp
 .posite-c.com
 .potora.jp
 .ppls.jp
+.pps.pink
 .ppy.sh
 .prcm.jp
 .premiumcyzo.com
@@ -2450,6 +2465,7 @@
 .sponichi.co.jp
 .sprite.org
 .spriters-resource.com
+.sprout-ad.com
 .sptadao.co.jp
 .spuspu.jp
 .sqex.to
@@ -2675,6 +2691,7 @@
 .uneedzone.jp
 .unity-games.jp
 .unity3d.com
+.universal-music.co.jp
 .unlock.fm
 .up-stage.info
 .updatepm.com
@@ -2840,6 +2857,8 @@
 .xvideos-av-movie.com
 .xvideos-collector.com
 .xvideos-erojapan.com
+.xvideos-field-one.link
+.xvideos-field-two.link
 .xvideos-field.com
 .xvideos-field5.com
 .xvideos-jp.org
