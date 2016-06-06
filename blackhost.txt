@@ -1650,6 +1650,7 @@
 .matome-alpha.com
 .matome-blog.jp
 .matome-ch.com
+.matome-complate.com
 .matome-plus.com
 .matome-plus.net
 .matome-station.com
