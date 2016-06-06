@@ -2670,6 +2670,7 @@
 .tv
 .tvsurf.jp
 .twi1.me
+.twimg.com
 .twin-angel.com
 .twipple.jp
 .twirobo.com
@@ -2727,6 +2728,7 @@
 .viki.io
 .vimeo.com
 .vimeocdn.com
+.vine.co
 .vipcle.net
 .vipdoor.info
 .vipelog.com
