@@ -2033,6 +2033,7 @@
 .oppai-av.com
 .oppaibook.com
 .oppainorakuen.com
+.oratta.net
 .orebibou.com
 .oreteki.org
 .orewiz.mobi
