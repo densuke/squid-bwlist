@@ -1484,7 +1484,6 @@
 .ksmobile.com
 .kuaibo.com
 .kugou.com
-.kuku.lu
 .kumacchi.com
 .kurage-bunch.com
 .kuraha.com
