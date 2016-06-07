@@ -273,6 +273,7 @@
 .appmedia.jp
 .appoxee.com
 .appps.jp
+.apprevolve.com
 .appsflyer.com
 .appspot.com
 .appteam.biz
@@ -662,6 +663,7 @@
 .dng65.com
 .do-mono.jp
 .dobon.net
+.docodoco.jp
 .doda.jp
 .dodoujin.com
 .dogazofree.com
@@ -1793,6 +1795,7 @@
 .moo.jp
 .moog-games.jp
 .moog.me
+.mopita.com
 .moppy.jp
 .mora.jp
 .morikinoko.com
@@ -1923,6 +1926,7 @@
 .nfljapanshop.com
 .nflximg.com
 .nflximg.net
+.nflxvideo.net
 .ngnews.me
 .nhncorp.jp
 .nicoblomaga.jp
@@ -2028,6 +2032,7 @@
 .onlinegame-syndrome.com
 .onlinegamech.com
 .onlinegamer.jp
+.onlinevideoconverter.com
 .onsen.ag
 .oops.jp
 .oowata.com
@@ -2167,6 +2172,7 @@
 .playstation.net
 .playtika.com
 .playtomic.com
+.playwire.com
 .plineworld.com
 .pmang.jp
 .po-kaki-to.com
@@ -2365,6 +2371,7 @@
 .sexdougalove.com
 .sgfdgjfdsfjd.biz
 .sgviewer.com
+.share-videos.se
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shimamura.co.jp
@@ -2480,8 +2487,10 @@
 .squallchannel.com
 .square-enix.co.jp
 .square-enix.com
+.squareup.com
 .srworld.net
 .ssmatomeantenna.info
+.ssmatomesokuho.com
 .standpower.com
 .starfakes.biz
 .stargamesbox.com
@@ -2637,6 +2646,7 @@
 .toretsubo.com
 .tori-ch.com
 .torrent-anime.com
+.torrentstream.org
 .touch-slide.jp
 .touchlab.jp
 .touken-ranbu.jp
@@ -2730,6 +2740,7 @@
 .viber.com
 .vid-dl.net
 .video.twimg.com
+.videoclip.club
 .videopass-theater.s3.amazonaws.com
 .videotopics.yahoo.co.jp
 .videousermanuals.com
