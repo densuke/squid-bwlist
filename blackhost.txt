@@ -449,6 +449,7 @@
 .burusoku-vip.com
 .butt3rs.com
 .butterfly-corp.jp
+.buyma.com
 .buzz-netnews.com
 .buzz-plus.com
 .buzzhand.com
@@ -1561,6 +1562,7 @@
 .loljp-wiki.tk
 .lolking.net
 .lolnavi.info
+.lolsokuhou.com
 .lolstatic.com
 .lordofv.com
 .lose.jp
@@ -1936,6 +1938,7 @@
 .nihonjinnanmin.com
 .nijibondo.com
 .nijikata.com
+.nijinchu.com
 .nijiyome.jp
 .nikkanerog.com
 .nikkansports.com
@@ -2306,6 +2309,7 @@
 .saisokuspi.com
 .saitama-bg.com
 .sakc.jp
+.sakebigoe.com
 .sakuratan.com
 .san-x.co.jp
 .sansei-rd.com
@@ -2518,6 +2522,7 @@
 .syosetu.org
 .syunakira.com
 .syurabahazard.com
+.t.co
 .t7s.jp
 .tabibitojin.com
 .tabkul.com
@@ -2531,6 +2536,7 @@
 .takamin.com
 .takanshoukaizen7.info
 .takara.ms
+.takaratomy.co.jp
 .takashi1016.com
 .takenokosokuhou.com
 .takeshobo.co.jp
