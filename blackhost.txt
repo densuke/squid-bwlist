@@ -789,6 +789,7 @@
 .erogal.biz
 .erogaroe.com
 .erogazo-jp.net
+.erogazo-ngo.com
 .erogazou-pinkline.com
 .erogazoufactory.com
 .erogazouman.net
@@ -1148,6 +1149,7 @@
 .gundam-kizuna.jp
 .gundam-vs.jp
 .gundam.info
+.gundamlog.com
 .gundamseries.net
 .gungho.jp
 .gunosy.co.jp
