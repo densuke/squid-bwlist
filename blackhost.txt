@@ -1645,6 +1645,7 @@
 .mannko.net
 .mantan-web.jp
 .manycam.com
+.manycams.com
 .maplestory.jp
 .maria-marie.info
 .marinediving.com
