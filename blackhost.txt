@@ -203,6 +203,7 @@
 .amung.us
 .ana-ero.com
 .anacel.com
+.android.com
 .andronavi.com
 .anettai.co.jp
 .ange-app.com
@@ -393,6 +394,7 @@
 .bikechannel.info
 .bilibili.com
 .bipblog.com
+.biranger.jp
 .bitmango.com
 .bitshare.com
 .bitsummit.org
@@ -569,6 +571,7 @@
 .coremagazine.co.jp
 .coreserver.jp
 .corobuzz.com
+.cosme.net
 .cosmicbreak.jp
 .cosp.jp
 .cospa.com
@@ -911,12 +914,14 @@
 .fril.jp
 .frlamemonger.com
 .frogstone.jp
+.fromsoftware.jp
 .ftbucket.info
 .ftbwiki.org
 .fujibaba.com
 .fujimarukun.co.jp
 .fujitaiju.com
 .fukugan.com
+.fukuharaso-pu.com
 .full-count.jp
 .fullcomp.jp
 .fumi23.com
@@ -1163,6 +1168,7 @@
 .gurum.biz
 .gurumi-ch.com
 .gust.co.jp
+.gvt1.com
 .gwiki.jp
 .gyazo.com
 .h-d.jp
@@ -1260,6 +1266,7 @@
 .huyosoku.com
 .hxh-channel-or-jp.s3.amazonaws.com
 .hyakuretsu.com
+.i-chu.jp
 .i-funbox.com
 .i-hayabusa.com
 .i-libro.net
@@ -1978,6 +1985,7 @@
 .noiretaya.com
 .nomaki.jp
 .nordenfelt-thegame.com
+.nothing.sh
 .nou-college.com
 .novaskin.me
 .novect.net
@@ -2488,6 +2496,7 @@
 .splatoon-nawabari.com
 .splax.net
 .sponichi.co.jp
+.springserve.com
 .sprite.org
 .spriters-resource.com
 .sprout-ad.com
@@ -2861,6 +2870,7 @@
 .xbox.com
 .xboxlive.com
 .xdomain.jp
+.xeengames.com
 .xhamster.com
 .xiami.net
 .xiaobingdou.com
@@ -2949,6 +2959,7 @@
 .youskbe.com
 .youtu.be
 .youtube.com
+.ytimg.com
 .yucasee.jp
 .yucomia.com
 .yugioh-antenna.sakura.ne.jp
