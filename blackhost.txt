@@ -747,6 +747,7 @@
 .enasiyo.com
 .endroll.net
 .enflatpark.com
+.enjoy-clash-royale.com
 .enjoypclife.net
 .enq-maker.com
 .entapotime.com
@@ -1171,6 +1172,7 @@
 .gvt1.com
 .gwiki.jp
 .gyazo.com
+.gzn.jp
 .h-d.jp
 .h-douga.net
 .h-ken.net
@@ -1206,6 +1208,8 @@
 .herbs-for-horses.com
 .hero-news.com
 .heroesandgenerals.com
+.heroesbattle.jp
+.heros-ultraman.com
 .heroz.jp
 .hexadrive.jp
 .heydouga.com
@@ -1260,6 +1264,7 @@
 .hujiang.com
 .hulu.com
 .hulu.jp
+.huluedgecast.com
 .huluim.com
 .human-is-good.com
 .huntersokuho.com
@@ -1284,6 +1289,7 @@
 .idolscope.com
 .iga-log.com
 .igame.com
+.ignimgs.com
 .iinaa.net
 .ijbblog.com
 .ijinshan.com
@@ -1757,6 +1763,7 @@
 .mixi.servedbyopenx.com
 .miyadi.net
 .mizuhonokuni2ch.com
+.mlb.com
 .mmate.jp
 .mmo-logres.com
 .mmoloda.com
@@ -1849,6 +1856,7 @@
 .muryou-erogazou.net
 .muryouav.net
 .muryougamesmph.com
+.musasi.jp
 .museru.com
 .muwangpark.com
 .mwissoku.com
@@ -1999,6 +2007,7 @@
 .nukipon.jp
 .nukistream.com
 .nullpoantenna.com
+.nvtrlab.jp
 .nxgamers.jp
 .nyaa.se
 .nyaasoku.com
@@ -2212,6 +2221,7 @@
 .pokesen.com
 .pokkentournament.jp
 .pong.com
+.ponk.jp
 .ponos.co.jp
 .ponos.net
 .ponpare.jp
@@ -2313,6 +2323,7 @@
 .rss-loader.com
 .rss-rank.com
 .rssread.net
+.rubiconproject.com
 .ruisenhoukai.com
 .run-tomorrow.com
 .ruten.com.tw
@@ -2620,6 +2631,7 @@
 .thenbapps.com
 .theworldendeclipse.jp
 .thisisgame.com
+.thunder-reggae.com
 .tidaltv.com
 .tigresoft.com
 .tinami.com
