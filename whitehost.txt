@@ -52,6 +52,7 @@
 .msn.com
 .mynavi.jp
 .rikunabi.com
+.s-microsoft.com
 .smartnews.be
 .trendmicro.com
 .upp.itunes.apple.com
