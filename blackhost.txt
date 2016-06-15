@@ -2223,6 +2223,7 @@
 .pokemon.co.jp
 .pokemon.jp
 .pokemonshowdown.com
+.pokerdou.com
 .pokesen.com
 .pokkentournament.jp
 .pong.com
