@@ -210,6 +210,7 @@
 .ange-app.com
 .angel-live.com
 .angelmov.net
+.angry-mhm.com
 .anicole.net
 .anige-sokuhouvip.com
 .animalch.net
@@ -284,6 +285,7 @@
 .appteam.biz
 .appzooxx.com
 .apserver.net
+.apvdr.com
 .aquaplus.jp
 .arcenserv.info
 .archeage.jpn.org
@@ -542,6 +544,7 @@
 .cnzz.com
 .cnzz.net
 .co.kr
+.cocacola.co.jp
 .cocolog-nifty.com
 .cocomachi.tokyo
 .cocone.jp
@@ -725,6 +728,7 @@
 .dwango.co.jp
 .dwd-anime.com
 .dxlive.com
+.dydo.co.jp
 .dyndns.org
 .dysintropi.me
 .e-click.jp
@@ -873,6 +877,7 @@
 .feticomx.com
 .fevian.org
 .fezero.jp
+.ffgogogo.com
 .ffrk.tokyo
 .ffxiv.com
 .fidelity-media.com
@@ -1081,6 +1086,7 @@
 .geo-online.co.jp
 .geocities.jp
 .geonet.jp
+.georgia.jp
 .gera-comic.net
 .get-club.net
 .get2ch.net
@@ -1540,6 +1546,7 @@
 .latexsix.info
 .laughsketch.com
 .lcarsmania.com
+.lcv.ne.jp
 .ldblog.jp
 .leadboltapps.net
 .leagueoflegends.com
@@ -1623,6 +1630,7 @@
 .ma-bank.net
 .mac-8.net
 .macoopc.com
+.macromedia.com
 .madskills.com
 .magicalmirai.com
 .magicalracing.co.jp
@@ -1776,6 +1784,7 @@
 .moba8.net
 .mobafire.com
 .mobax-kanayama.com
+.mobb-inc.jp
 .mobboss-online.com
 .mobilecore.com
 .mobilefactory.jp
@@ -2223,6 +2232,7 @@
 .pokemon-movie.jp
 .pokemon.co.jp
 .pokemon.jp
+.pokemonbbs.com
 .pokemonshowdown.com
 .pokerdou.com
 .pokesen.com
@@ -2233,6 +2243,7 @@
 .ponos.net
 .ponpare.jp
 .ponparemall.net
+.popinfo.jp
 .popupstory.jp
 .porn.com
 .porori-ch.com
@@ -2337,6 +2348,7 @@
 .ryushare.com
 .ryusoku.com
 .ryuuseinogotoku-trend.com
+.s-bookstore.jp
 .s-manga.net
 .s5-style.com
 .s81c.com
@@ -2727,6 +2739,7 @@
 .tuyano.com
 .tv
 .tvsurf.jp
+.tweetswind.com
 .twi1.me
 .twimg.com
 .twin-angel.com
@@ -2767,6 +2780,7 @@
 .usen.com
 .userdive.com
 .ushi.cc
+.uso8oo.com
 .ustre.am
 .uta-net.com
 .utamap.com
@@ -2805,6 +2819,7 @@
 .wakarukoto.com
 .wakuwaku365.com
 .walkerplus.com
+.wallpaperboys.com
 .wallpaperland.me
 .wallpaperup.com
 .walls4joy.com
@@ -2912,6 +2927,7 @@
 .xn--zck0ab2m.com
 .xonline.jp
 .xrea.com
+.xsrv.jp
 .xunlei.com
 .xvideo-japon.com
 .xvideo-jp.com
@@ -2943,6 +2959,7 @@
 .xxxxxxxx.jp
 .xyz
 .y-watch.info
+.y5en.com
 .yac.me
 .yahoo-mbga.jp
 .yajiuma-antena.com
