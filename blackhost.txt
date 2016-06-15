@@ -247,6 +247,7 @@
 .antennabank.com
 .antennash.com
 .aokihagane.com
+.aosbox.com
 .ap-land.com
 .api.unthem.com
 .app-adforce.jp
