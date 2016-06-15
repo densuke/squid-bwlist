@@ -50,7 +50,6 @@
 .live.com
 .live.jp
 .live.net
-.liveupdate.symantecliveupdate.com
 .mail.yahoo.co.jp
 .mcafee.com
 .microsoft.com
