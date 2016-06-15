@@ -1421,7 +1421,6 @@
 .kakao.com
 .kakeru-news.com
 .kakeru.me
-.kakonacl.xsrv.jp
 .kakuge-checker.com
 .kakuriyo-no-mon.com
 .kakuyasu-sim.jp
