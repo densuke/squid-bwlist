@@ -442,6 +442,7 @@
 .brafrontier.info
 .bravelyarchive.jp
 .brightcove.co.jp
+.brightcove.com
 .broccoli.co.jp
 .bst-akiba.net
 .bsveri.com
