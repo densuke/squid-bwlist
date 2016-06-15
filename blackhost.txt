@@ -2795,7 +2795,6 @@
 .veryposi.info
 .viber.com
 .vid-dl.net
-.video.twimg.com
 .videoclip.club
 .videopass-theater.s3.amazonaws.com
 .videotopics.yahoo.co.jp
