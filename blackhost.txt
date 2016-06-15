@@ -1074,6 +1074,7 @@
 .geinou-viral-news.com
 .gekikame.com
 .gekikarareview.com
+.gekirock.com
 .gekiyaku.com
 .gematsu.com
 .gen6get7.sakura.ne.jp
@@ -1114,6 +1115,7 @@
 .giwiz-quriosity.c.yimg.jp
 .giza10.com
 .gizmodo.jp
+.glam.com
 .gmo.jp
 .gmocloud.com
 .gmossp-sp.jp
@@ -1135,6 +1137,7 @@
 .goodsmileshop.com
 .googlevideo.com
 .googlevideo.com:443
+.gooside.com
 .gori.me
 .gossip1.net
 .gossip2.net
@@ -1358,6 +1361,7 @@
 .j-haikyu.com
 .j-lyric.net
 .j-sen.jp
+.jabezadvisory.com
 .jakou.com
 .jalan.jp
 .jankara.ne.jp
@@ -1570,6 +1574,7 @@
 .linegame.jp
 .linegames.com
 .linegames.jp
+.lisa18.com
 .little-beans.net
 .littlemoon.co.jp
 .littlesolo.com
@@ -1676,6 +1681,7 @@
 .maria-marie.info
 .marinediving.com
 .mars-tohken.co.jp
+.marugame-seimen.com
 .marugoto-antenna.com
 .marumie-tv.com
 .marupeke296.com
@@ -1776,6 +1782,7 @@
 .mixi.servedbyopenx.com
 .miyadi.net
 .mizuhonokuni2ch.com
+.mizukinana.jp
 .mlb.com
 .mmate.jp
 .mmo-logres.com
@@ -1881,6 +1888,7 @@
 .mynv.jp
 .myoji-kakeizu-jp.org
 .mysns.jp
+.mytimeline-news.com
 .myurdayz.com
 .n131adserv.com
 .nade-saka.com
@@ -1907,6 +1915,7 @@
 .naver.com
 .naver.jp
 .naver.net
+.nba.co.jp
 .nbam.jp
 .ncfost.jp
 .ncsoft.jp
@@ -1958,6 +1967,7 @@
 .newspickup.com
 .newstars.com
 .newtou.info
+.nexac.com
 .nexon.co.jp
 .nexonm.com
 .nexusmods.com
@@ -2197,6 +2207,7 @@
 .pipa.jp
 .pix-cdn.org
 .pixfuture.net
+.pixiv-app.net
 .pixiv.me
 .pixiv.net
 .piyosoku.net
@@ -2799,6 +2810,7 @@
 .videopass-theater.s3.amazonaws.com
 .videotopics.yahoo.co.jp
 .videousermanuals.com
+.vijuttoke.com
 .viki.io
 .vimeo.com
 .vimeocdn.com
@@ -2996,6 +3008,7 @@
 .youngjump.jp
 .yourupload.com
 .youskbe.com
+.yousuke3.com
 .youtu.be
 .youtube.com
 .ytimg.com
