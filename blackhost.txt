@@ -277,6 +277,7 @@
 .appoxee.com
 .appps.jp
 .apprevolve.com
+.apps.skype.com
 .appsflyer.com
 .appspot.com
 .appteam.biz
