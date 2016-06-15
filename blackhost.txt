@@ -400,6 +400,7 @@
 .bilibili.com
 .bipblog.com
 .biranger.jp
+.bita.jp
 .bitmango.com
 .bitshare.com
 .bitsummit.org
