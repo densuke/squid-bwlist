@@ -1,3 +1,4 @@
+
 #.googleads.g.doubleclick.net
 #.teamviewer.com
 .ac.jp
@@ -5,6 +6,7 @@
 .adnxs.com
 .adobe.co.jp
 .adobe.com
+.adobelogin.com
 .akamaihd.net
 .akamaized.net
 .amasvc.com
@@ -45,11 +47,13 @@
 .jiji.com
 .jorudan.co.jp
 .jvn.jp
+.kaspersky-labs.com
 .kaspersky.com
 .kir986723.kir.jp
 .live.com
 .live.jp
 .live.net
+.lpi.or.jp
 .mail.yahoo.co.jp
 .mcafee.com
 .microsoft.com
@@ -64,15 +68,18 @@
 .ssp.advg.jp
 .symantecliveupdate.com
 .thumbnail.image.rakuten.co.jp
+.trendmicro.co.jp
 .trendmicro.com
 .upp.itunes.apple.com
 .urls.api.twitter.com
+.vupdate2.com
 .weathernews.jp
 .wikimedia.org
 .wikipedia.org
 .windows.com
 .windows.net
 .windowsupdate.com
+.wunderlist.com
 .www.apple.com
 .xn--1kr69rl7h0yh.com
 10.16.0.2
