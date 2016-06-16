@@ -249,6 +249,7 @@
 .antennash.com
 .aokihagane.com
 .aosbox.com
+.aozora-pw.com
 .ap-land.com
 .api.unthem.com
 .app-adforce.jp
@@ -546,6 +547,7 @@
 .cnzz.net
 .co.kr
 .cocacola.co.jp
+.cocktail-recipe.net
 .cocolog-nifty.com
 .cocomachi.tokyo
 .cocone.jp
@@ -606,6 +608,7 @@
 .cyanmag.jp
 .cyber-life.info
 .cybergadget.co.jp
+.cyberlink.com
 .cygames.co.jp
 .cylab.jp
 .cyousokuvip.com
@@ -714,8 +717,10 @@
 .dqmslyaruyo.com
 .dqnnews.net
 .dqx.jp
+.dragon-projectch.com
 .dragonbrave.com
 .dragonquest.jp
+.drapro-antenna.net
 .draque-matome.com
 .drdinl.jp
 .dreadnought-tcg.com
@@ -748,6 +753,7 @@
 .ehoh.net
 .eitarosoft.co.jp
 .elementalstory.com
+.elne.jp
 .elog-ch.com
 .elog7.org
 .eloganoyakata.com
@@ -865,6 +871,7 @@
 .faststore.org
 .fate-go.jp
 .fate-go.net
+.fatemaster.net
 .favsite.jp
 .fc2-erodouga.com
 .fc2-video.net
@@ -1186,6 +1193,7 @@
 .gust.co.jp
 .gvt1.com
 .gvt2.com
+.gvt3.com
 .gwiki.jp
 .gyazo.com
 .gzn.jp
@@ -1195,6 +1203,7 @@
 .h-navigation.com
 .h3dcg.com
 .hackadoll.com
+.hackerwatch.org
 .hai-furi.com
 .hamatorapj.com
 .hamelnovel.com
@@ -1341,6 +1350,7 @@
 .instagram.com
 .iogous.com
 .iphone-mania.jp
+.ipinfo.io
 .iplayer.org
 .ippa.jp
 .ironna.jp
@@ -1488,6 +1498,7 @@
 .kinyu-z.net
 .kinza.jp
 .kir.jp
+.kiritsume.com
 .kisskiss-girl.com
 .kisslog2.com
 .kita-kore.com
@@ -1499,7 +1510,10 @@
 .kizyo.net
 .klab.com
 .klabgames.net
+.klein-group.co.jp
 .kmlg.jp
+.kobo.com
+.kobobooks.com
 .kodukai-king.jp
 .koga.me
 .kokotodo.nobody.jp
@@ -2532,6 +2546,7 @@
 .soregashi.com
 .sosuke7.com
 .sougetsu-on.net
+.sounansa.net
 .soundsonline.com
 .sousakuba.com
 .special-pink-image.com
@@ -2554,6 +2569,7 @@
 .srworld.net
 .ssmatomeantenna.info
 .ssmatomesokuho.com
+.sstokosokuho.com
 .standpower.com
 .starfakes.biz
 .stargamesbox.com
@@ -2581,6 +2597,7 @@
 .suparobo.jp
 .super-miracle.com
 .superhero-movie.com
+.supersoftware365.info
 .suresuta.jp
 .suruga-ya.jp
 .sute.jp
