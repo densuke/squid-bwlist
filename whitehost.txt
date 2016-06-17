@@ -56,7 +56,6 @@
 .lpi.or.jp
 .mail.yahoo.co.jp
 .mcafee.com
-.microsoft.com
 .msdn.com
 .msftncsi.com
 .msn.com
