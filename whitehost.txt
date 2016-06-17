@@ -77,7 +77,6 @@
 .wikipedia.org
 .windows.com
 .windows.net
-.windowsupdate.com
 .wunderlist.com
 .www.apple.com
 .xn--1kr69rl7h0yh.com
