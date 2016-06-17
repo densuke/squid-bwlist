@@ -12,8 +12,10 @@
 .120.hp2.jp
 .126.net
 .127.net
+.12seiza.coresv.com
 .15qm.com
 .1616bbs.com
+.1616web-note.com
 .163.com
 .178.162.204.226
 .1999.co.jp
@@ -69,6 +71,7 @@
 .2monkeys.jp
 .2mtmex.com
 .2nn.jp
+.365uranai.net
 .3751chat.com
 .3dlinks.com
 .3gokushi.jp
@@ -384,6 +387,7 @@
 .behe.com
 .belajar.biz
 .benefitgreen.net
+.benri.com
 .benricho.org
 .beretta.com
 .bestelevenplus.jp
@@ -433,6 +437,7 @@
 .bngames.net
 .boardgamearena.net
 .bof6.jp
+.boku-pro.com
 .bokudora.jp
 .bokunenjin.com
 .bold-gym.com
@@ -591,6 +596,7 @@
 .cpmstar.com
 .crank-in.net
 .crashfever.com
+.crashlytics.com
 .criteo.com
 .crocro.com
 .croozsocial.com
@@ -958,6 +964,7 @@
 .fx-startup.com
 .fx2ch.net
 .g-heaven.net
+.g-sozai.com
 .g-takumi.com
 .g-tune.jp
 .g.bing.com
@@ -1435,6 +1442,7 @@
 .kairisei-ma.jp
 .kaiseki-website.com
 .kaitoridaijin.com
+.kajinet.info
 .kakaku.com
 .kakao.com
 .kakeru-news.com
@@ -1539,6 +1547,7 @@
 .kowabana.jp
 .kroko.jp
 .ksmobile.com
+.ksmobile.net
 .kuaibo.com
 .kugou.com
 .kumacchi.com
@@ -1669,6 +1678,7 @@
 .makebot.sh
 .makeshop.jp
 .mandarake.net
+.manegemusette.com
 .manetatsu.com
 .manga-mokuroku.net
 .manga-netabare.net
@@ -1755,6 +1765,7 @@
 .menscyzo.com
 .mera.red
 .merry-news.com
+.mery.jp
 .mess-y.com
 .mew5.com
 .mfac.jp
@@ -2245,6 +2256,7 @@
 .playtomic.com
 .playwire.com
 .plineworld.com
+.plumoi.jp
 .pmang.jp
 .po-kaki-to.com
 .pockecolo.com
@@ -2449,6 +2461,7 @@
 .sgfdgjfdsfjd.biz
 .sgviewer.com
 .share-videos.se
+.shiawasenamae.com
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shimamura.co.jp
@@ -2683,6 +2696,7 @@
 .thenbapps.com
 .theworldendeclipse.jp
 .thisisgame.com
+.thumbs.canstockphoto.com
 .thunder-reggae.com
 .tidaltv.com
 .tigresoft.com
@@ -2753,6 +2767,7 @@
 .trend-hot-news.com
 .trendpride.com
 .tricksterwiki.info
+.trilltrill.jp
 .trpg.net
 .tsite.jp
 .tsukumo.co.jp
@@ -2927,6 +2942,7 @@
 .ws-tcg.com
 .wtbw.net
 .wtfast.com
+.wwe.com
 .wwo.asia
 .www.imishin.jp
 .wwwanime.jp
@@ -2959,6 +2975,7 @@
 .xn--xvideo-up4jq68t.net
 .xn--zck0ab2m.com
 .xonline.jp
+.xperia-freaks.org
 .xrea.com
 .xsrv.jp
 .xunlei.com
