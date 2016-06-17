@@ -2912,6 +2912,7 @@
 .wikinavi.net
 .wikiwiki.jp
 .will-game.com
+.download.windowsupdate.com
 .windowsphone.com
 .winneri.info
 .winvz.jp
