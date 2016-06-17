@@ -72,6 +72,7 @@
 .2mtmex.com
 .2nn.jp
 .365uranai.net
+.365x7.net
 .3751chat.com
 .3dlinks.com
 .3gokushi.jp
@@ -155,6 +156,7 @@
 .affiliate-b.com
 .afo-news.com
 .afsgames.com
+.afun7.com
 .agag.tw
 .agar.io
 .age-corp.jp
@@ -201,6 +203,7 @@
 .ameba.jp
 .amebagames.com
 .amebame.com
+.amebaspgame.com
 .ameblo.jp
 .amfys.net
 .amiami.jp
@@ -334,6 +337,7 @@
 .averonew.com
 .aviationwire.jp
 .avinfolie.net
+.aviutl.info
 .avtv-movie.com
 .avximg.com
 .axelgames.net
@@ -398,6 +402,7 @@
 .biccamera.com
 .big-celeb.jp
 .big-echo.jp
+.bigmining.com
 .bijin-club.net
 .bijinbu.me
 .bijo-linux.com
@@ -405,6 +410,7 @@
 .bilibili.com
 .bipblog.com
 .biranger.jp
+.birthdayflower366.com
 .bita.jp
 .bitmango.com
 .bitshare.com
@@ -703,6 +709,7 @@
 .doperoms.com
 .dopr.net
 .dorapon.info
+.dot-st.com
 .doucolle.net
 .douga-tec.com
 .douga100ka.jp
@@ -715,6 +722,7 @@
 .dousoku.net
 .dousyoko.net
 .doutr.biz
+.download.windowsupdate.com
 .doyaero.com
 .dpface.info
 .dqmp.jp
@@ -1165,6 +1173,7 @@
 .grabzer.com
 .gran-turismo.com
 .granbluefantasy.jp
+.graniph.com
 .granks.co.jp
 .graphic-loops.com
 .grassw.com
@@ -1437,6 +1446,7 @@
 .kagajo.com
 .kagekidan.net
 .kai-you.net
+.kaigojob.com
 .kaikatsu.jp
 .kairakudoujin.net
 .kairisei-ma.jp
@@ -1553,6 +1563,7 @@
 .kumacchi.com
 .kurage-bunch.com
 .kuraha.com
+.kuroneko-wiz.com
 .kuroneko-wiz9675.net
 .kurowizmatomete.com
 .kurowizu.net
@@ -1944,6 +1955,7 @@
 .naver.jp
 .naver.net
 .nba.co.jp
+.nba.com
 .nbam.jp
 .ncfost.jp
 .ncsoft.jp
@@ -2198,6 +2210,7 @@
 .pazudorayarouzu.com
 .pazumato.com
 .pazupura.com
+.pc-gamerpg.com
 .pc-karuma.net
 .pc-koubou.jp
 .pcmanabu.com
@@ -2912,7 +2925,6 @@
 .wikinavi.net
 .wikiwiki.jp
 .will-game.com
-.download.windowsupdate.com
 .windowsphone.com
 .winneri.info
 .winvz.jp
@@ -2924,6 +2936,7 @@
 .wizards.com
 .wizblack.com
 .wizdamashi.com
+.wizlife.jp
 .wizmatome.com
 .wizmatomeselection.com
 .wk-tk.net
