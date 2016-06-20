@@ -353,6 +353,7 @@
 .baidu-cdn-hk.com
 .baidu.com
 .baidu.jp
+.baidustatic.com
 .baiku-sokuho.info
 .baisoku.2-d.jp
 .baito.mynavi.jp
@@ -2680,6 +2681,7 @@
 .team-detonation.net
 .team-lab.com
 .team-rec.jp
+.teamliquid.net
 .teamviewer.com
 .teamys.net
 .techbrowsing.com
