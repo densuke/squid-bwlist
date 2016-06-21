@@ -14,6 +14,7 @@
 .126.net
 .127.net
 .12seiza.coresv.com
+.15-daifuku.com
 .15qm.com
 .1616bbs.com
 .1616web-note.com
@@ -447,6 +448,7 @@
 .bn765.com
 .bngames.net
 .boardgamearena.net
+.bochist.com
 .bof6.jp
 .boku-pro.com
 .bokudora.jp
@@ -495,8 +497,10 @@
 .calciomatome.net
 .cameranonaniwa.jp
 .canpan.info
+.capcom-networks.jp
 .capcom-onlinegames.jp
 .capcom.co.jp
+.car-accessory-news.com
 .car-sokuhou.com
 .caramelbox.com
 .carddass.com
@@ -512,6 +516,7 @@
 .catshare.org
 .cc-sakura.net
 .ccpgamescdn.com
+.cdn-rare-gacha.com
 .cdnone.net
 .cebq.biz
 .ceek.jp
@@ -595,6 +600,7 @@
 .cookpad.com
 .cooltext.com
 .corebooks.jp
+.coreda.jp
 .coremagazine.co.jp
 .coreserver.jp
 .corobuzz.com
@@ -630,6 +636,7 @@
 .cygames.co.jp
 .cygames.jp
 .cylab.jp
+.cynogage.com
 .cyousokuvip.com
 .cysoku.com
 .cyzo.co.jp
@@ -882,6 +889,7 @@
 .exawarosu.net
 .exiletribestation.jp
 .exploader.net
+.eyeviewads.com
 .eyny.com
 .f-game.jp
 .facebook.com
@@ -985,11 +993,13 @@
 .g.bing.com
 .ga-t.net
 .gaagle.jp
+.gachinco.com
 .gaga.ne.jp
 .gahako.com
 .gakinko.net
 .gakkougurashi.com
 .gakkushi.com
+.gakusei2slot.com
 .gal-peace.com
 .galero072.com
 .galnavi.info
@@ -1447,6 +1457,7 @@
 .k-img.com
 .k-manga.jp
 .ka-nabell.com
+.kabaneri.com
 .kabegami.com
 .kabooo.net
 .kachibito.net
@@ -1790,6 +1801,7 @@
 .mfroapps.net
 .mgame.jp
 .mgstage.com
+.mh-frontier.jp
 .mh-m.jp
 .mh-stories.jp
 .mh-xr.jp
@@ -1849,6 +1861,7 @@
 .moco-coin.com
 .moddb.com
 .modgames.net
+.moe-gameaward.com
 .moebeika.net
 .moeerolibrary.com
 .moeimg.net
@@ -2386,6 +2399,7 @@
 .rentalkareshi.com
 .repsoku.net
 .rfs.jp
+.rhythmxchange.com
 .ri-mode.com
 .riotgames.com
 .rmpaz.com
@@ -2742,6 +2756,7 @@
 .tokua.info
 .tokuteishimasuta.com
 .tokyo-cdn.com
+.tokyo-hot.com
 .tokyo-lc.com
 .tokyogamestation.com
 .tokyokawaiilife.jp
@@ -2897,6 +2912,7 @@
 .wara2ch.com
 .wargaming.net
 .warmmovie.com
+.warotamaker.com
 .warotanews.com
 .watch2chan.com
 .wate.jp
