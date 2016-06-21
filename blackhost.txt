@@ -2815,6 +2815,7 @@
 .tokyoloader.com
 .tomangan.org
 .tome-uto.com
+.tomodachi.game
 .tonakai.aki.gs
 .tonari-it.com
 .tonarinoyj.jp
