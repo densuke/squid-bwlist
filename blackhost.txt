@@ -2,6 +2,7 @@
 .0matome.com
 .0nyan.jp
 .0zero.jp
+.1000giri.net
 .1000giribest.com
 .1000mg.jp
 .1000quu.com
@@ -70,6 +71,7 @@
 .2jiero.info
 .2jigiri.net
 .2logch.sakura.ne.jp
+.2mdn.net
 .2monkeys.jp
 .2mtmex.com
 .2nn.jp
@@ -80,6 +82,7 @@
 .3dmgame.com
 .3gokushi.jp
 .3keta.net
+.3kiss.net
 .4416.biz
 .4at5.net
 .4coma.com
@@ -104,6 +107,7 @@
 .98yrkewj.com
 .9post.jp
 .9ualia-room.com
+.a-c-engine.com
 .a-k-slot.com
 .a-lim.jp
 .a-matome.com
@@ -178,6 +182,7 @@
 .aiyokugekijo.com
 .ajifun.com
 .akb2ch.com
+.akb48.tokyo
 .akb48mato.com
 .akb48matomemory.com
 .akb48rompen.com
@@ -314,6 +319,7 @@
 .ascii.jp
 .asg.to
 .asianews2ch.jp
+.asiatengoku.com
 .ask.fm
 .aso-bo.com
 .asobimo.com
@@ -337,6 +343,7 @@
 .av-games.jp
 .av-open.jp
 .av-selection.net
+.av-sikou.com
 .av-tube.com
 .averodogazo.com
 .averonew.com
@@ -442,7 +449,10 @@
 .blogsys.jp
 .blomaga.jp
 .blorinq.com
+.blozoo.com
+.blozoo.info
 .blozoo.net
+.bluekai.com
 .bluestacks.com
 .bmcaxis.jp
 .bn765.com
@@ -472,6 +482,7 @@
 .bst-akiba.net
 .bsveri.com
 .bto-pc.jp
+.btrll.com
 .buhidoh.net
 .bunbun38.com
 .bungo-stray-dogs.jp
@@ -492,6 +503,7 @@
 .c-lab.link
 .c-sqr.net
 .c-tipsref.com
+.c0930.com
 .cafe-capy.net
 .cafeglobe.com
 .calciomatome.net
@@ -643,6 +655,7 @@
 .cyzowoman.com
 .d-deltanet.com
 .d-quest-10.com
+.d2pass.com
 .d4e.co.jp
 .da-tools.com
 .daddymami.net
@@ -678,6 +691,7 @@
 .derbyimpact.jp
 .deviceplus.jp
 .devilishdesign.net
+.dga.jp
 .digimonostation.jp
 .digital-mixnews.com
 .digitaldj-network.com
@@ -793,6 +807,7 @@
 .enflatpark.com
 .enjoy-clash-royale.com
 .enjoypclife.net
+.enkou55.com
 .enq-maker.com
 .entapotime.com
 .entermeus.com
@@ -1156,6 +1171,7 @@
 .giza10.com
 .gizmodo.jp
 .glam.com
+.gmo-media.jp
 .gmo.jp
 .gmocloud.com
 .gmossp-sp.jp
@@ -1206,6 +1222,7 @@
 .growthhackjapan.com
 .gsreloaded.jp
 .gsspcln.jp
+.gstatic.com
 .gu-kawagazo-ch.com
 .gu3.co.jp
 .gu3.jp
@@ -1436,6 +1453,7 @@
 .join.ev
 .jojo-animation.com
 .jojoss.jp
+.jordanmania.com
 .joshi-spa.jp
 .joymanj.net
 .joysound.com
@@ -1487,6 +1505,7 @@
 .kancolle-anime.jp
 .kancolle-news.com
 .kancolle-ss.com
+.kancolle.jp.net
 .kanichat.com
 .kanimg.com
 .kankan.com
@@ -1525,7 +1544,9 @@
 .killing-time.biz
 .kimonolog.com
 .kimsoku.com
+.kin8tengoku.com
 .kinaishoku.com
+.kinen-promoter.com
 .king.com
 .kingdomhearts.jp
 .kingtopdeals.com
@@ -1535,6 +1556,7 @@
 .kinyu-z.net
 .kinza.jp
 .kir.jp
+.kirekire-diet.com
 .kiritsume.com
 .kisskiss-girl.com
 .kisslog2.com
@@ -1625,6 +1647,7 @@
 .line-cdn.net
 .line-tatsujin.com
 .line.me
+.lineblog.me
 .linegame.com
 .linegame.jp
 .linegames.com
@@ -1671,6 +1694,7 @@
 .lovecosmetic.jp
 .lovelive-anime.jp
 .lovelive-matome.com
+.lovelive-ss.com
 .lovelivepress.com
 .loveota.com
 .lovesoku.com
@@ -1706,9 +1730,11 @@
 .majikichi.com
 .makebot.sh
 .makeshop.jp
+.makonako.com
 .mandarake.net
 .manegemusette.com
 .manetatsu.com
+.manga-ch.net
 .manga-mokuroku.net
 .manga-netabare.net
 .manga-one.com
@@ -1726,6 +1752,7 @@
 .mangania.jp
 .mangapolo.com
 .mangazenkan.com
+.mangazochannel.net
 .maniacerogazo.com
 .manmai.jp
 .manna-jp.com
@@ -1782,6 +1809,7 @@
 .media-b.jp
 .media-shelf.net
 .mediafire.com
+.mediaforge.com
 .mediago.us
 .mediav.com
 .megalodon.jp
@@ -1831,6 +1859,7 @@
 .minkchan.com
 .minna-antenna.com
 .minnano-av.com
+.minnanoero.com
 .minne.com
 .minpuzz.com
 .miraimirai01.com
@@ -2027,6 +2056,7 @@
 .newspickup.com
 .newstars.com
 .newtou.info
+.nex8.net
 .nexac.com
 .nexon.co.jp
 .nexonm.com
@@ -2049,9 +2079,11 @@
 .nicotto.jp
 .nicovideo.jp
 .nihonjinnanmin.com
+.nihonshu-banduke.net
 .nijibondo.com
 .nijikata.com
 .nijinchu.com
+.nijitoraware.com
 .nijiyome.jp
 .nikkanerog.com
 .nikkansports.com
@@ -2067,6 +2099,7 @@
 .niur.net
 .niziero.com
 .nizigen-matome.com
+.nizigenimage.com
 .no1game.net
 .noahapps.jp
 .noahparty.com
@@ -2101,6 +2134,7 @@
 .nyansoku.jp
 .nyanta.jp
 .nyonin.com
+.nyoshin.com
 .o0o0.jp
 .oakcorp.net
 .obenri.com
@@ -2126,6 +2160,7 @@
 .okwave.jp
 .oletower.com
 .omanko-adaruto.com
+.omochabaco-cha-cha.com
 .omocoro.jp
 .omoshiroi-hanashi.com
 .oms-hk.com
@@ -2167,6 +2202,7 @@
 .osomatsusan.com
 .ossan-gamer.net
 .otaden.jp
+.otakaragazou.com
 .otakomu.jp
 .otakuma.net
 .otakumode.com
@@ -2220,6 +2256,7 @@
 .parusoku.com
 .pathofexile.com
 .patolesoft.net
+.pazdra-blogparts.net
 .pazdraism.info
 .pazu.biz
 .pazudora-friend.com
@@ -2240,9 +2277,11 @@
 .peacepopo.net
 .peach-soku4.com
 .peach2ch.com
+.peachy.jp
 .peco-japan.com
 .pee-puu-see.com
 .peeprec.com
+.peepsamurai.com
 .peko-step.com
 .pentan.info
 .petippai.com
@@ -2261,10 +2300,12 @@
 .pictsense.com
 .piercs.com
 .pikicast.com
+.pikomori.com
 .pinkape.net
 .pinkelech.com
 .pinkerodougasex.com
 .pinknotora.net
+.pinknoyakata.com
 .pipa.jp
 .pix-cdn.org
 .pixfuture.net
@@ -2307,9 +2348,12 @@
 .pokemon.co.jp
 .pokemon.jp
 .pokemonbbs.com
+.pokemongo-an.com
+.pokemonlab.jp
 .pokemonshowdown.com
 .pokerdou.com
 .pokesen.com
+.pokesoku.jp
 .pokkentournament.jp
 .pong.com
 .ponk.jp
@@ -2350,6 +2394,7 @@
 .pupu.jp
 .purl.org
 .purotora.com
+.pussy-doranka.com
 .puyo-q.info
 .puyopuyo-room.com
 .puyoque.com
@@ -2384,6 +2429,7 @@
 .raw-zip.com
 .razerzone.com
 .rbbtoday.com
+.real-diva.com
 .real.com
 .realonigokko.com
 .recochoku.jp
@@ -2492,6 +2538,7 @@
 .seo-adult.net
 .seoparts.net
 .sexdougalove.com
+.sexual-healing.biz
 .sgfdgjfdsfjd.biz
 .sgviewer.com
 .share-videos.se
@@ -2517,6 +2564,7 @@
 .shiroutmove.com
 .shirumonovideo.com
 .shishioh.info
+.shisuh.com
 .shitaraba.net
 .shobon.jp
 .shogionline.jp
@@ -2634,6 +2682,7 @@
 .studiok-i.net
 .success-corp.co.jp
 .sugumiru18.com
+.suites-spot.com
 .sukumizu.jp
 .sumahoinfo.com
 .summonboard.net
@@ -2677,6 +2726,7 @@
 .takashi1016.com
 .takenokosokuhou.com
 .takeshobo.co.jp
+.talent-zukan.com
 .tales-ch.jp
 .talewiki.com
 .taleworlds.com
@@ -2685,6 +2735,7 @@
 .tamenal.com
 .tameshiyo.me
 .tamesure.com
+.tanganrss.com
 .tanoshikoto.com
 .tanx.com
 .taobao.com
@@ -2735,6 +2786,7 @@
 .thunder-reggae.com
 .tidaltv.com
 .tigresoft.com
+.timesale-sokuhou.com
 .tinami.com
 .tk.ismcdn.jp
 .tkool.jp
@@ -2787,6 +2839,7 @@
 .toukoucity.to
 .touring-navi.com
 .tousatsusokuhou.com
+.tousatux.com
 .tower-of-goetia.com
 .townwork.net
 .toychan.net
@@ -2859,6 +2912,7 @@
 .uploader.net
 .ura-dipo.com
 .uratan.jp
+.urekko.com
 .usamimi.info
 .usedoor.jp
 .usen.com
@@ -2912,6 +2966,7 @@
 .wara2ch.com
 .wargaming.net
 .warmmovie.com
+.warotagamer.com
 .warotamaker.com
 .warotanews.com
 .watch2chan.com
@@ -2980,6 +3035,7 @@
 .ws-tcg.com
 .wtbw.net
 .wtfast.com
+.wtp101.com
 .wwe.com
 .wwo.asia
 .www.imishin.jp
@@ -2989,6 +3045,7 @@
 .x-stage2.jp
 .x-v-m.com
 .x0.to
+.x1x.com
 .x51.org
 .xbox.com
 .xboxlive.com
@@ -3053,6 +3110,7 @@
 .yajiuma-antena.com
 .yakan.net
 .yakei-mn.com
+.yakiniku-zanmai.net
 .yakkun.com
 .yakutena.com
 .yamaha-motor.co.jp
@@ -3085,6 +3143,7 @@
 .youskbe.com
 .yousuke3.com
 .youtu.be
+.youtube-nocookie.com
 .youtube.com
 .ytimg.com
 .yucasee.jp
@@ -3110,6 +3169,7 @@
 .zasetukinsi.com
 .zasshi-online.com
 .zatunen.com
+.zedo.com
 .zennihonbudougu.com
 .zenshin.org
 .zero-plan.com
