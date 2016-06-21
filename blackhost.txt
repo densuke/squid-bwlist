@@ -8,6 +8,7 @@
 .1000quu.com
 .100shiki.com
 .10minutemail.com
+.10musume-chat.com
 .10musume.com
 .1101.com
 .11ch-av.com
@@ -156,6 +157,7 @@
 .adultgeek.net
 .adultmango.com
 .adultmedia.jp
+.adultpeach.com
 .adultsuns.net
 .adulttoys.jp
 .adulttrain.com
@@ -521,6 +523,7 @@
 .cardkingdom.jp
 .carholder.net
 .caribbeancom.com
+.caribbeancompr.com
 .carrot2.com
 .carsensor.net
 .carsof2017.com
@@ -1333,6 +1336,7 @@
 .hoshidora.jp
 .hoshiribeapp.jp
 .hosyusokuhou.jp
+.hot-oku.com
 .hot-topic-news.com
 .hotp.jp
 .hotpepper.jp
