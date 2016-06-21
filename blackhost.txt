@@ -627,6 +627,7 @@
 .cybergadget.co.jp
 .cyberlink.com
 .cygames.co.jp
+.cygames.jp
 .cylab.jp
 .cyousokuvip.com
 .cysoku.com
