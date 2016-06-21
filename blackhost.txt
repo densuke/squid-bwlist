@@ -154,6 +154,7 @@
 .adultflash01.com
 .adultgazoan.net
 .adultgeek.net
+.adultmango.com
 .adultmedia.jp
 .adultsuns.net
 .adulttoys.jp
@@ -162,6 +163,7 @@
 .aeoncinema.com
 .affection-web.co.jp
 .affiliate-b.com
+.affiliate-dti.com
 .afo-news.com
 .afsgames.com
 .afun7.com
@@ -767,6 +769,7 @@
 .draque-matome.com
 .drdinl.jp
 .dreadnought-tcg.com
+.dream-room.net
 .drew5.net
 .ds-seiban.com
 .dsalon.net
@@ -2236,6 +2239,7 @@
 .pack-depot.com
 .pacman.com
 .pacopacomama.com
+.pacopacomamachat.com
 .pad-plus.com
 .pad-soku.com
 .pad.atenasoku.com
