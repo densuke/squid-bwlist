@@ -252,6 +252,7 @@
 .animeanime.jp
 .animegif.net
 .animegoods.info
+.animehack.jp
 .animemay.com
 .animemories.net
 .animenova.org
@@ -442,6 +443,7 @@
 .bitmango.com
 .bitshare.com
 .bitsummit.org
+.bittorrent.am
 .bittorrent.com
 .bituse.info
 .blacksmith-gilgamesh.jp
@@ -474,6 +476,7 @@
 .boardgamearena.net
 .bochist.com
 .bof6.jp
+.bogobogo.net
 .boku-pro.com
 .bokudora.jp
 .bokumachi-anime.com
@@ -497,6 +500,7 @@
 .bsveri.com
 .bto-pc.jp
 .btrll.com
+.buffaloes.co.jp
 .buhidoh.net
 .bunbun38.com
 .bungo-stray-dogs.jp
@@ -1276,6 +1280,7 @@
 .hackadoll.com
 .hackerwatch.org
 .hai-furi.com
+.halcana.jp
 .hamatorapj.com
 .hamelnovel.com
 .hamusoku.com
@@ -1291,6 +1296,7 @@
 .hardluckz.com
 .hareruyamtg.com
 .harikonotora.net
+.haru.gs
 .harusuki.net
 .hatalike.jp
 .hatebu-1000users-over.com
@@ -1422,6 +1428,7 @@
 .instacam.com
 .instagram.com
 .instanthq.com
+.intoday.in
 .iogous.com
 .iphone-mania.jp
 .ipinfo.io
@@ -2247,6 +2254,7 @@
 .otonomai.me
 .otowota.com
 .ouchi.to
+.oukasoft.com
 .overlord-anime.com
 .owata-net.com
 .owt.io
@@ -2378,6 +2386,7 @@
 .pokemon-matome.net
 .pokemon-movie.jp
 .pokemon.co.jp
+.pokemon.com
 .pokemon.jp
 .pokemonbbs.com
 .pokemongo-an.com
@@ -2498,6 +2507,7 @@
 .ruisenhoukai.com
 .run-tomorrow.com
 .ruten.com.tw
+.ryu-ga-gotoku.com
 .ryushare.com
 .ryusoku.com
 .ryuuseinogotoku-trend.com
@@ -2573,6 +2583,7 @@
 .sexual-healing.biz
 .sgfdgjfdsfjd.biz
 .sgviewer.com
+.shadowverse.biz
 .share-videos.se
 .shiawasenamae.com
 .shikihime-garden.com
@@ -3211,6 +3222,7 @@
 .zero-plan.com
 .zerochan.net
 .zerocustom.jp
+.zipbogo.net
 .ziyu.net
 .zopim.com
 .zozo.jp
