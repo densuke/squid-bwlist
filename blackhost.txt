@@ -84,6 +84,7 @@
 .3gokushi.jp
 .3keta.net
 .3kiss.net
+.3s3s.org
 .4416.biz
 .4at5.net
 .4coma.com
@@ -127,15 +128,19 @@
 .accesstrade.net
 .aceonline.arario.jp
 .acronia.net
+.ad
 .ad-manga.com
 .ad-stir.com
 .ad-techno.com
 .ad4game.com
 .adacomi.com
+.adamantt.net
 .addeluxe.jp
 .addictinggames.com
 .addtomo.com
+.adimp.excite.co.jp
 .adingo.jp
+.adjust.com
 .admarvel.com
 .admobile.me
 .adnico.jp
@@ -144,6 +149,7 @@
 .adsmatic.com
 .adtdp.com
 .adult-doctor.com
+.adult-hunter.com
 .adult-slider.com
 .adult-upstage.com
 .adultangel.com
@@ -221,6 +227,7 @@
 .ameblo.jp
 .amfys.net
 .amiami.jp
+.amoad.com
 .amung.us
 .ana-ero.com
 .anacel.com
@@ -258,6 +265,7 @@
 .anitena.tori29.net
 .anitube.se
 .ankomochi.cc
+.anoero.com
 .antch.net
 .antena.m-yellow.com
 .antenam.biz
@@ -351,6 +359,7 @@
 .av-tube.com
 .averodogazo.com
 .averonew.com
+.avgazounavi.com
 .aviationwire.jp
 .avinfolie.net
 .aviutl.info
@@ -835,6 +844,7 @@
 .ero-manga-impact.com
 .ero-oppai.com
 .ero-porn.net
+.ero-talk.info
 .ero-terminal.net
 .ero-video.net
 .ero-zo.com
@@ -874,6 +884,7 @@
 .eroinroku.com
 .eroita.net
 .erojima2.com
+.erokko-antenna.com
 .erolabo.com
 .eromanga-simple.com
 .eromanga-sokuhou.com
@@ -961,6 +972,7 @@
 .fooline.net
 .fooooo.com
 .football-lab.jp
+.footprintdns.com
 .fortalk.net
 .foto-webcam.eu
 .fpsjp.net
@@ -1202,6 +1214,7 @@
 .googlevideo.com:443
 .gooside.com
 .gori.me
+.gossip-paper.com
 .gossip1.net
 .gossip2.net
 .gosugamers.net
@@ -1272,6 +1285,7 @@
 .hangame.com
 .hanihoh.com
 .hanimez.com
+.hao123.com
 .hapisupu.com
 .happyelements.co.jp
 .hardluckz.com
@@ -1407,6 +1421,7 @@
 .inside-games.jp
 .instacam.com
 .instagram.com
+.instanthq.com
 .iogous.com
 .iphone-mania.jp
 .ipinfo.io
@@ -1472,6 +1487,7 @@
 .jpcamera.info
 .jpddl.com
 .jpn.com
+.jra.jp
 .jscape.jp
 .jsports-ondemand.com
 .jsports.co.jp
@@ -1834,6 +1850,7 @@
 .merry-news.com
 .mery.jp
 .mess-y.com
+.mesubenkei.net
 .mew5.com
 .mfac.jp
 .mfroapps.net
@@ -1890,11 +1907,13 @@
 .mobax-kanayama.com
 .mobb-inc.jp
 .mobboss-online.com
+.mobileads.msn.com
 .mobilecore.com
 .mobilefactory.jp
 .mobilelaby.com
 .mobimagic.com
 .mobiusfinalfantasy.com
+.mobogenie.com
 .mobu.jp
 .mochiads.com
 .moco-coin.com
@@ -1921,6 +1940,7 @@
 .momovideo.net
 .mona-antenna.com
 .mona-news.com
+.mondo64.com
 .monegle.com
 .moneykit.net
 .monhang.com
@@ -2622,6 +2642,7 @@
 .smagazo.com
 .smart-douga.mobi
 .smartgame.jp
+.smartnews-ads.com
 .smartnews.be
 .smartnews.jp
 .smartphone-electric.net
@@ -2882,6 +2903,7 @@
 .turbo-bee.com
 .turbobit.net
 .turezure01.com
+.turn.com
 .turukusa.com
 .turusokuhou.com
 .tuyano.com
@@ -3000,6 +3022,7 @@
 .webnew.net
 .webron.jp
 .websae.net
+.webtracker.jp
 .webtruyen.com
 .webworkersclip.com
 .weeklymouse.com
