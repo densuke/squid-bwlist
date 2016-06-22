@@ -1927,6 +1927,7 @@
 .moerank.com
 .moeruasia.net
 .mogera.jp
+.mognavi.jp
 .moguragames.com
 .mojang.com
 .mojimaru.com
