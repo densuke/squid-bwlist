@@ -1505,7 +1505,6 @@
 .jsports-ondemand.com
 .jsports.co.jp
 .julia-official.com
-.july.red
 .jumpsokuhou.com
 .juon-movie.jp
 .jword.jp
@@ -1860,7 +1859,6 @@
 .mementoo.info
 .men-joy.jp
 .menscyzo.com
-.mera.red
 .merry-news.com
 .mery.jp
 .mess-y.com
