@@ -200,6 +200,7 @@
 .akibablog.net
 .akibamoero.com
 .akindo-sushiro.co.jp
+.akira-watson.com
 .akrw.net
 .alexgorbatchev.com
 .alfalfalfa.com
@@ -231,6 +232,7 @@
 .amung.us
 .ana-ero.com
 .anacel.com
+.andante.in
 .android.com
 .andronavi.com
 .anettai.co.jp
@@ -276,6 +278,7 @@
 .antenna.ebb.jp
 .antennabank.com
 .antennash.com
+.aoharu-b.com
 .aokihagane.com
 .aosbox.com
 .aozora-pw.com
@@ -446,6 +449,7 @@
 .bittorrent.am
 .bittorrent.com
 .bituse.info
+.black-flag.net
 .blacksmith-gilgamesh.jp
 .blazegames.jp
 .blog-rpg.com
@@ -940,6 +944,7 @@
 .fate-go.net
 .fatemaster.net
 .favsite.jp
+.fb.com
 .fc2-erodouga.com
 .fc2-video.net
 .fc2.com
@@ -1244,6 +1249,7 @@
 .grimoire.codes
 .groovecoaster.jp
 .growthhackjapan.com
+.growthseed.jp
 .gsreloaded.jp
 .gsspcln.jp
 .gstatic.com
@@ -1564,6 +1570,7 @@
 .kekkonch.com
 .kemco.jp
 .kichimama.com
+.kicker.town
 .kidan-ch.com
 .kienizer.com
 .kijishima.com
@@ -1894,6 +1901,7 @@
 .minna-antenna.com
 .minnano-av.com
 .minnanoero.com
+.minnanokyoukasho.com
 .minne.com
 .minpuzz.com
 .miraimirai01.com
@@ -2390,6 +2398,7 @@
 .pokemon.jp
 .pokemonbbs.com
 .pokemongo-an.com
+.pokemongo-news.com
 .pokemonlab.jp
 .pokemonshowdown.com
 .pokerdou.com
@@ -2444,6 +2453,7 @@
 .puzu.biz
 .puzzdragon.jp
 .puzzdrashinbun.com
+.pxy.jp
 .qiantucdn.com
 .qiita.com
 .qilook.com
@@ -2475,6 +2485,7 @@
 .realonigokko.com
 .recochoku.jp
 .recordchina.co.jp
+.red
 .redbike.upper.jp
 .redbullstudios.com
 .redtube-jp.com
@@ -2710,6 +2721,7 @@
 .ssmatomeantenna.info
 .ssmatomesokuho.com
 .sstokosokuho.com
+.sta-navi.net
 .standpower.com
 .starfakes.biz
 .stargamesbox.com
@@ -2808,6 +2820,7 @@
 .tennis365.net
 .tenshoku.mynavi.jp
 .terafile.co
+.teratail.com
 .tesalliance.org
 .tesgeneral.com
 .tetra-inc.com
@@ -3015,10 +3028,12 @@
 .warotagamer.com
 .warotamaker.com
 .warotanews.com
+.warotanikki.com
 .watch2chan.com
 .wate.jp
 .wayohoo.net
 .wazap.com
+.web-jong.com
 .web-jozu.com
 .web-manga.info
 .weban.jp
