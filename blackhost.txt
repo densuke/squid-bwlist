@@ -127,6 +127,7 @@
 .abugames.com
 .accesstrade.net
 .aceonline.arario.jp
+.acquire.co.jp
 .acronia.net
 .ad
 .ad-manga.com
@@ -506,6 +507,7 @@
 .btrll.com
 .buffaloes.co.jp
 .buhidoh.net
+.bulesky58.com
 .bunbun38.com
 .bungo-stray-dogs.jp
 .buromato.com
@@ -1085,6 +1087,7 @@
 .gamecast-blog.com
 .gamecity.ne.jp
 .gamecopyworld.com
+.gamecradle.net
 .gamedeets.com
 .gamedesign.jp
 .gamedev.net
@@ -1692,6 +1695,7 @@
 .linegames.com
 .linegames.jp
 .lisa18.com
+.liskul.com
 .little-beans.net
 .littlemoon.co.jp
 .littlesolo.com
@@ -2004,6 +2008,7 @@
 .muchgames.com
 .mudainodocument.com
 .mudana.net
+.mugendai-web.jp
 .muketsu.info
 .muryoadult.net
 .muryou-erogazou.net
@@ -2300,6 +2305,7 @@
 .parasute.com
 .parupunte.net
 .parusoku.com
+.pascal.jp
 .pathofexile.com
 .patolesoft.net
 .pazdra-blogparts.net
@@ -2424,6 +2430,7 @@
 .premiumcyzo.com
 .pripara.jp
 .prisma-illya.jp
+.prizebp.jp
 .probuilds.net
 .program-blog.net
 .project-diva-ac.net
@@ -2918,6 +2925,7 @@
 .tsukumo.co.jp
 .tsundora.com
 .tsutaya.co.jp
+.ttvnw.net
 .tube8.com
 .tubemogul.com
 .tuccom.com
@@ -3019,6 +3027,7 @@
 .wallpaperup.com
 .walls4joy.com
 .wanconyan.co
+.wangan-maxi.net
 .wannabe-note.com
 .wara2ch.com
 .wargaming.net
@@ -3211,6 +3220,7 @@
 .yugioh-antenna.sakura.ne.jp
 .yugioh-card.com
 .yugioh-list.com
+.yugioh-todays.com
 .yugioh-wiki.net
 .yukawanet.com
 .yukinyan.jp
