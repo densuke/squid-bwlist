@@ -64,6 +64,7 @@
 .2chmm.com
 .2chnavi.net
 .2chspa.com
+.2chx.com
 .2d-plus.com
 .2dera.net
 .2djgame.net
@@ -246,6 +247,7 @@
 .animalch.net
 .animate-onlineshop.jp
 .animate.co.jp
+.animatetimes.com
 .anime-pictures.net
 .anime-sharing.com
 .anime-teen.com
@@ -399,6 +401,7 @@
 .bandainamco-ol.jp
 .bandainamcoent.co.jp
 .bandainamcogames.co.jp
+.bandainamcoid.com
 .bandch.com
 .bannerbridge.net
 .baraero.com
@@ -444,6 +447,7 @@
 .birthdayflower366.com
 .bishatti.com
 .bita.jp
+.bitcoinstat.org
 .bitmango.com
 .bitshare.com
 .bitsummit.org
@@ -605,6 +609,7 @@
 .cnzz.com
 .cnzz.net
 .co.kr
+.co291424.com
 .cocacola.co.jp
 .cocktail-recipe.net
 .cocolog-nifty.com
@@ -621,6 +626,7 @@
 .comdotgame.com
 .comic-earthstar.jp
 .comic-polaris.jp
+.comic-walker.com
 .comico.jp
 .comics.shogakukan.co.jp
 .comisoku.com
@@ -1390,6 +1396,7 @@
 .i-libro.net
 .i-like-movie.net
 .i-mobile.co.jp
+.i2ad.jp
 .i2i.jp
 .i2iparts.jp
 .ichikatsu.com
@@ -1456,6 +1463,7 @@
 .ittells.jp
 .itunes.apple.com
 .iwashi.biz
+.iwww.jp
 .iyashieromanga.com
 .izunak.com
 .izzetmtgnews.com
@@ -1507,6 +1515,7 @@
 .jscape.jp
 .jsports-ondemand.com
 .jsports.co.jp
+.jswfplayer.jp
 .julia-official.com
 .jumpsokuhou.com
 .juon-movie.jp
@@ -2470,6 +2479,7 @@
 .quiz-wiz.com
 .quizgenerator.net
 .qvod.com
+.r-maker-app2.sakura.ne.jp
 .r18matome.com
 .r401.net
 .radiko.jp
@@ -2717,6 +2727,7 @@
 .sprout-ad.com
 .sptadao.co.jp
 .spuspu.jp
+.sqex-bridge.jp
 .sqex.to
 .squallchannel.com
 .square-enix.co.jp
@@ -2918,6 +2929,7 @@
 .treeofsavior.it
 .trend-hot-news.com
 .trendpride.com
+.tribalfusion.com
 .tricksterwiki.info
 .trilltrill.jp
 .trpg.net
@@ -2992,6 +3004,7 @@
 .uwakitobintatofurin.com
 .uyosoku.com
 .valuecommerce.com
+.vampire-blood.net
 .vehicle123.com
 .veryposi.info
 .viber.com
