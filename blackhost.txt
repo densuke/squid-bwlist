@@ -2569,6 +2569,7 @@
 .satsubatsusekai.sakura.ne.jp
 .say-move.org
 .sbapp.net
+.sblo.jp
 .sbr-vcj.com
 .schema.org
 .schizophonic9.com
