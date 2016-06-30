@@ -116,6 +116,7 @@
 .a-lim.jp
 .a-matome.com
 .a-slot.com
+.a-spo.com
 .a-wiki.net
 .a4c.jp
 .a4g.com
@@ -384,6 +385,7 @@
 .baidu-cdn-hk.com
 .baidu.com
 .baidu.jp
+.baidupcs.com
 .baidustatic.com
 .baiku-sokuho.info
 .baisoku.2-d.jp
@@ -521,6 +523,7 @@
 .butt3rs.com
 .butterfly-corp.jp
 .buyma.com
+.buzfeed.com
 .buzz-netnews.com
 .buzz-plus.com
 .buzzhand.com
@@ -1351,6 +1354,7 @@
 .hishaku.com
 .hitmee.info
 .hitoikigame.com
+.hitoriblog.com
 .hitozuma-xvideos-ero.com
 .hivecolor.com
 .hklmm.com
@@ -2309,6 +2313,7 @@
 .pakapon.com
 .pakemania.net
 .pakupaku.com
+.panaapp.net
 .pandachirari.com
 .pangya.jp
 .panpilog.com
@@ -2640,6 +2645,7 @@
 .shitaraba.net
 .shobon.jp
 .shogionline.jp
+.shokyakuro.jp
 .shonenjump.com
 .shonenmagazine.com
 .shop-pro.jp
