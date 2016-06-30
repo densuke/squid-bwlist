@@ -544,6 +544,7 @@
 .capcom-networks.jp
 .capcom-onlinegames.jp
 .capcom.co.jp
+.capcom.com
 .car-accessory-news.com
 .car-sokuhou.com
 .caramelbox.com
