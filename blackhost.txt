@@ -108,6 +108,7 @@
 .7gogo.jp
 .800vod.com
 .8bit.co.jp
+.8ing.co.jp
 .98yrkewj.com
 .9post.jp
 .9ualia-room.com
@@ -238,6 +239,7 @@
 .anacel.com
 .andante.in
 .android.com
+.androidlover.net
 .andronavi.com
 .anettai.co.jp
 .ange-app.com
@@ -952,6 +954,7 @@
 .fam-ad.com
 .famitsu.com
 .fantena.net
+.fashion.cc
 .fast-ranking.com
 .faststore.org
 .fate-go.jp
@@ -1128,6 +1131,7 @@
 .gamer.ne.jp
 .gamerch.com
 .gamerp.jp
+.gamersnexus.net
 .games.kids.yahoo.co.jp
 .games.yahoo.co.jp
 .gamescampus.co.jp
@@ -1553,6 +1557,7 @@
 .kakuge-checker.com
 .kakuriyo-no-mon.com
 .kakuyasu-sim.jp
+.kamesokuhou.com
 .kami-douga-adult.com
 .kamibakusho.com
 .kamierodouga.com
@@ -1680,6 +1685,7 @@
 .laile.co.jp
 .lakatan.net
 .lanceandmasques.jp
+.larc-en-ciel.com
 .latale.jp
 .latexcapacity.com
 .latexeleven.info
@@ -1794,6 +1800,7 @@
 .mandarake.net
 .manegemusette.com
 .manetatsu.com
+.mang.jp
 .manga-ch.net
 .manga-mokuroku.net
 .manga-netabare.net
@@ -1879,6 +1886,7 @@
 .melonbooks.com
 .mementoo.info
 .men-joy.jp
+.mens-time01.com
 .menscyzo.com
 .merry-news.com
 .mery.jp
@@ -2089,6 +2097,7 @@
 .nelog.jp
 .nend.net
 .nenshuu.net
+.nest-online.jp
 .net-king.com
 .netaatoz.jp
 .netatama.net
@@ -2297,6 +2306,7 @@
 .p-game.jp
 .p-tora.com
 .p-world.co.jp
+.pachinkokouryaku.com
 .pachinkovista.com
 .pachiseven.jp
 .pachisuro-house.com
@@ -2502,6 +2512,7 @@
 .random-call.net
 .rapidgator.net
 .rash.jp
+.rastaneko-blog.com
 .raw-zip.com
 .razerzone.com
 .rbbtoday.com
@@ -2569,6 +2580,7 @@
 .sanspo.com
 .santalab.me
 .sao-game.jp
+.sao-movie.net
 .satsubatsusekai.sakura.ne.jp
 .say-move.org
 .sbapp.net
@@ -2610,6 +2622,7 @@
 .sengokuixa.jp
 .senmanga.com
 .senpaigamer.com
+.senryaku.sengoku-jidai.commens
 .sensns.com
 .sensodyne.es
 .sensodyne.jp
@@ -2660,6 +2673,7 @@
 .shuraba-matome.com
 .shuraba.net
 .shuutak.com
+.sifblog.net
 .signal-blue.com
 .sijex.net
 .sikyou.com
@@ -2866,6 +2880,7 @@
 .theatn.net
 .thebrighttag.com
 .thegame.jp
+.thehikaku.net
 .theinfoapps.com
 .thenbapps.com
 .theworldendeclipse.jp
@@ -3010,6 +3025,7 @@
 .usen.com
 .userdive.com
 .ushi.cc
+.usi32.com
 .uso8oo.com
 .ustre.am
 .uta-net.com
@@ -3256,6 +3272,7 @@
 .yuna-service.com
 .yunfan.com
 .yuriplus.com
+.yurukuyaru.com
 .yuuenchi.com
 .yuyu-tei.jp
 .yuzuponzu.net
