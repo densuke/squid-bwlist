@@ -460,6 +460,7 @@
 .black-flag.net
 .blacksmith-gilgamesh.jp
 .blazegames.jp
+.blbldoujin.com
 .blog-rpg.com
 .blog.jp
 .blog.seesaa.jp
@@ -1953,6 +1954,7 @@
 .moddb.com
 .modgames.net
 .moe-gameaward.com
+.moeahe.com
 .moebeika.net
 .moeerolibrary.com
 .moeimg.net
@@ -2792,6 +2794,7 @@
 .syosetu.org
 .syunakira.com
 .syurabahazard.com
+.syuuchisoku.com
 .t.co
 .t7s.jp
 .tabibitojin.com
