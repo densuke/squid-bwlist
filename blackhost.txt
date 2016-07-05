@@ -196,6 +196,7 @@
 .aitore.com
 .aiyokugekijo.com
 .ajifun.com
+.akaguro.jp
 .akb2ch.com
 .akb48.tokyo
 .akb48mato.com
@@ -265,6 +266,7 @@
 .animemay.com
 .animemories.net
 .animenova.org
+.animeranking.com
 .animesachi.com
 .animesin.net
 .animetheworld.com
@@ -1388,6 +1390,7 @@
 .hotp.jp
 .hotpepper.jp
 .howto-box.jp
+.howto-tokusuru.com
 .hp3200.com
 .htmq.com
 .hug2.biz
@@ -1942,6 +1945,7 @@
 .mizukinana.jp
 .mlb.com
 .mmate.jp
+.mmmzy.jp
 .mmo-logres.com
 .mmoloda.com
 .mnstmato.com
@@ -2157,6 +2161,7 @@
 .nicovideo.jp
 .nihonjinnanmin.com
 .nihonshu-banduke.net
+.niji-gazo.com
 .nijibondo.com
 .nijikata.com
 .nijinchu.com
@@ -2537,6 +2542,7 @@
 .rhythmxchange.com
 .ri-mode.com
 .riotgames.com
+.rmake.jp
 .rmpaz.com
 .roccat.org
 .rocketnews24.com
@@ -2981,6 +2987,7 @@
 .turukusa.com
 .turusokuhou.com
 .tuyano.com
+.tuzikaze.com
 .tv
 .tvsurf.jp
 .tweetswind.com
