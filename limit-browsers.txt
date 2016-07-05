@@ -1,3 +1,4 @@
+AP$
 CFNetwork
 hBAAQA
 ^8CHK.A
@@ -9,7 +10,9 @@ hBAAQA
 ^AppleCoreMedia/.*iPad
 ^Bokete
 BITS
+BitComet
 CLIPSTUDIO
+^Chrome ANDROID
 ^Chrome IOS-PHONE
 ^ComicViewer
 ^Comico
@@ -114,3 +117,22 @@ KuGou2012
 ^io.fabric.sdk.ios
 ^sogou
 ^yuplay2
+iPod touch
+MicroMessenger
+^Skype
+SogouMobile
+Yahoo AppID
+^YTO3Client
+^YTransit
+^android-async
+^android-qzone
+^api.news
+Simeji.SimejiKB
+-android/
+^game=
+com.google.android
+libtorrent
+^ms/.*AOS
+BaiduYunGuanJia
+^nicometro
+^weather_ios
