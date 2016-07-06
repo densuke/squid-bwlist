@@ -23,6 +23,7 @@
 .bing.com
 .bing.net
 .bitdefender.net
+.change-vision.com
 .ch9.ms
 .cloudfront.net
 .dropbox.com
