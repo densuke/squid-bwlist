@@ -136,3 +136,25 @@ libtorrent
 BaiduYunGuanJia
 ^nicometro
 ^weather_ios
+TX1113
+^1.7.3-B
+^1.8.0
+ios_facebook
+nikeplus-gps
+AmazonCloudPlayer
+Battle.net
+Beacon
+^Beluga
+Downloader
+^CharacterAnimator
+^Chilkat/
+Streaming Player
+^LINE
+iPad3
+^LinePlayer
+^MPlayer
+^MEGA
+^NicoNico
+^NobuAgent
+^Podcasts
+^samurai
