@@ -133,6 +133,7 @@
 .abnormal.sakura.ne.jp
 .absoku072.com
 .abugames.com
+.accessgames.co.jp
 .accesstrade.net
 .aceonline.arario.jp
 .acquire.co.jp
@@ -245,6 +246,7 @@
 .ana-ero.com
 .anacel.com
 .andante.in
+.android-smart.com
 .android.com
 .androidlover.net
 .andronavi.com
@@ -859,6 +861,7 @@
 .elog-ch.com
 .elog7.org
 .eloganoyakata.com
+.eminews.jp
 .emu-russia.net
 .en-zine.jp
 .enasiyo.com
@@ -1180,6 +1183,7 @@
 .garanger.net
 .garden-tokyo.net
 .garss.jp
+.gashapon.jp
 .gaworare-anime.com
 .gaym.jp
 .gazou-upstage.com
@@ -1811,6 +1815,7 @@
 .mac-8.net
 .macoopc.com
 .macromedia.com
+.madoka-magica.com
 .madskills.com
 .magazinepocket.com
 .magicalmirai.com
@@ -2028,6 +2033,7 @@
 .monmato.com
 .monmusugame.com
 .monsoku.info
+.monst-japan.com
 .monst-lupin.jp
 .monst-multi.net
 .monst-news.net
@@ -2558,6 +2564,7 @@
 .rampokitan.com
 .random-call.net
 .rapidgator.net
+.rare-gacha.com
 .rash.jp
 .rastaneko-blog.com
 .raw-zip.com
@@ -2665,6 +2672,7 @@
 .sekainoura.net
 .sekindo.com
 .sekurosu.com
+.semakimomo.net
 .senddownloadmy.com
 .sengokuenbu.jp
 .sengokuixa.jp
@@ -3315,6 +3323,7 @@
 .youtube-nocookie.com
 .youtube.com
 .ytimg.com
+.yu-gi-ohmatome.com
 .yucasee.jp
 .yucomia.com
 .yugioh-antenna.sakura.ne.jp
