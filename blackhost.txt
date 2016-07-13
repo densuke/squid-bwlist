@@ -288,6 +288,7 @@
 .anitube.se
 .ankomochi.cc
 .anoero.com
+.anonymous-post.com
 .antch.net
 .antena.m-yellow.com
 .antenam.biz
@@ -982,6 +983,7 @@
 .fashion.cc
 .fast-ranking.com
 .faststore.org
+.fate-extella.jp
 .fate-go.jp
 .fate-go.net
 .fatemaster.net
@@ -1025,6 +1027,7 @@
 .fooooo.com
 .football-lab.jp
 .footprintdns.com
+.forexpros.jp
 .fortalk.net
 .foryourbaby.jp
 .foto-webcam.eu
@@ -1070,6 +1073,7 @@
 .futabalog.com
 .futabalog.comfutalog.com
 .futago-life.com
+.futakuro.com
 .futene.net
 .fx-startup.com
 .fx2ch.net
@@ -1938,6 +1942,7 @@
 .mess-y.com
 .mesubenkei.net
 .mew5.com
+.mezasou.com
 .mfac.jp
 .mfroapps.net
 .mgame.jp
@@ -2578,6 +2583,7 @@
 .raw-zip.com
 .razerzone.com
 .rbbtoday.com
+.re-zero-anime.jp
 .real-diva.com
 .real.com
 .realonigokko.com
@@ -2592,6 +2598,7 @@
 .renai-matome.com
 .rengoku-teien.com
 .rental-rental.net
+.rentalhomepage.com
 .rentalkareshi.com
 .repsoku.net
 .rfs.jp
@@ -2697,6 +2704,7 @@
 .sexual-healing.biz
 .sgfdgjfdsfjd.biz
 .sgviewer.com
+.shadowverse-antenna.com
 .shadowverse-portal.com
 .shadowverse.biz
 .share-videos.se
