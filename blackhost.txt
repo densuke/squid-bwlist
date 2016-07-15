@@ -2154,6 +2154,7 @@
 .nelog.jp
 .nend.net
 .nenshuu.net
+.nero.com
 .nest-online.jp
 .net-king.com
 .netaatoz.jp
@@ -2870,6 +2871,7 @@
 .suparobo.jp
 .super-miracle.com
 .superhero-movie.com
+.superoptiresume.net
 .supersoftware365.info
 .supersoftware365.net
 .suresuta.jp
