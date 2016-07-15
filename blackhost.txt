@@ -73,6 +73,7 @@
 .2dera.net
 .2dgames.jp
 .2djgame.net
+.2game.info
 .2hk.mobi
 .2ji-antenna.net
 .2jiero.info
@@ -669,6 +670,7 @@
 .contextweb.com
 .coocan.jp
 .cookpad.com
+.coolcoolapps.com
 .cooltext.com
 .corebooks.jp
 .coreda.jp
@@ -1232,6 +1234,7 @@
 .gera-comic.net
 .get-club.net
 .get2ch.net
+.getamped2.jp
 .getchu.com
 .getgold.jp
 .getnews.jp
@@ -1390,6 +1393,8 @@
 .himajinlp.net
 .himarin.net
 .himasoku.com
+.hime-book.net
+.himebook.net
 .hiroimono.org
 .hiroiro.com
 .hiromart.com
@@ -2475,6 +2480,7 @@
 .platinumgames.co.jp
 .play-app.net
 .play.google.com
+.play44.net
 .playbuzz.com
 .playgame24.com
 .playism.jp
@@ -2636,6 +2642,7 @@
 .ruisenhoukai.com
 .run-tomorrow.com
 .ruten.com.tw
+.rutube.ru
 .ryu-ga-gotoku.com
 .ryushare.com
 .ryusoku.com
@@ -3137,6 +3144,7 @@
 .viber.com
 .vid-dl.net
 .videoclip.club
+.videofun.me
 .videopass-theater.s3.amazonaws.com
 .videotopics.yahoo.co.jp
 .videousermanuals.com
@@ -3388,6 +3396,7 @@
 .zasshi-online.com
 .zatunen.com
 .zedo.com
+.zemanta.com
 .zennihonbudougu.com
 .zenshin.org
 .zero-plan.com
