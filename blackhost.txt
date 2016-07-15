@@ -136,6 +136,7 @@
 .abugames.com
 .accessgames.co.jp
 .accesstrade.net
+.accuweather.com
 .aceonline.arario.jp
 .acquire.co.jp
 .acronia.net
@@ -478,6 +479,7 @@
 .blacksmith-gilgamesh.jp
 .blazegames.jp
 .blbldoujin.com
+.blizzard.com
 .blog-rpg.com
 .blog.jp
 .blog.seesaa.jp
@@ -693,6 +695,7 @@
 .crossange.com
 .crx7601.com
 .csgowild.com
+.cube-soft.jp
 .cuns.net
 .cuonet.com
 .cupo.cc
@@ -1068,6 +1071,7 @@
 .funger-antena.info
 .funkygunstattoo.com
 .funshion.net
+.furansu-go.com
 .futaba-info.sakura.ne.jp
 .futababooks.com
 .futabalog.com
@@ -1628,6 +1632,7 @@
 .kawasaki-cp.khi.co.jp
 .kazesoku.com
 .kazuto-yoshida.com
+.kazutxt.com
 .keihin-park.com
 .kekeke.cc
 .kekkaisensen.com
@@ -1922,6 +1927,7 @@
 .mctjp.com
 .mdpr.jp
 .media-b.jp
+.media-minecraftforum.cursecdn.com
 .media-shelf.net
 .mediafire.com
 .mediaforge.com
@@ -1972,6 +1978,7 @@
 .minatosoft.com
 .minecraft.com
 .minecraft.net
+.minecraftuser.jp
 .minhyo.jp
 .minibird.jp
 .minkch.com
@@ -2202,6 +2209,7 @@
 .nflxvideo.net
 .ngnews.me
 .nhncorp.jp
+.nianticlabs.com
 .nico2ch.com
 .nicoblomaga.jp
 .nicodic.jp
@@ -2398,6 +2406,7 @@
 .parupunte.net
 .parusoku.com
 .pascal.jp
+.pasofaq.jp
 .pathofexile.com
 .patolesoft.net
 .pazdra-blogparts.net
@@ -2469,6 +2478,7 @@
 .playbuzz.com
 .playgame24.com
 .playism.jp
+.playmycode.com
 .plaync.com
 .playsport.cc
 .playstation.com
@@ -2497,6 +2507,7 @@
 .pokemon.jp
 .pokemonbbs.com
 .pokemongo-an.com
+.pokemongo-center.com
 .pokemongo-news.com
 .pokemonlab.jp
 .pokemonshowdown.com
@@ -3358,6 +3369,7 @@
 .yugioh-wiki.net
 .yukawanet.com
 .yukinyan.jp
+.yukoyuko.net
 .yume-100.com
 .yuna-service.com
 .yunfan.com
