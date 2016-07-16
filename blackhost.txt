@@ -3330,6 +3330,7 @@
 .y5en.com
 .yac.me
 .yahoo-mbga.jp
+.yahooapis.jp
 .yajiuma-antena.com
 .yakan.net
 .yakei-mn.com
