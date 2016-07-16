@@ -158,3 +158,8 @@ iPad3
 ^NobuAgent
 ^Podcasts
 ^samurai
+^nativesdk-ios
+^Alamofire
+^NewsWeather
+com.sonyericsson
+^nucleus
