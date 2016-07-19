@@ -1998,6 +1998,7 @@
 .minne.com
 .minpuzz.com
 .miraimirai01.com
+.mitemin.net
 .mitsuki-o.com
 .mixi.co.jp
 .mixi.jp
@@ -2071,6 +2072,7 @@
 .moo.jp
 .moog-games.jp
 .moog.me
+.moonmile.net
 .mopita.com
 .moppy.jp
 .mora.jp
@@ -2608,6 +2610,7 @@
 .real-diva.com
 .real.com
 .realonigokko.com
+.realplay.com
 .recochoku.jp
 .recordchina.co.jp
 .red
@@ -2764,6 +2767,7 @@
 .shopserve.jp
 .shoshinsha.com
 .showbyrock-anime.com
+.shueisha.co.jp
 .shuminoengei.jp
 .shuraba-matome.com
 .shuraba.net
