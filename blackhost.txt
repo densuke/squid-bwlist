@@ -90,6 +90,7 @@
 .3dlinks.com
 .3dmgame.com
 .3gokushi.jp
+.3hub.co
 .3keta.net
 .3kiss.net
 .3s3s.org
@@ -312,6 +313,7 @@
 .app-heaven.net
 .app-liv.jp
 .app-wiki.info
+.appbako.com
 .appbank.net
 .appcogroups.com
 .appdriver.jp
@@ -1646,6 +1648,7 @@
 .kekkaisensen.com
 .kekkonch.com
 .kemco.jp
+.ketchapp.jp
 .kichimama.com
 .kicker.town
 .kidan-ch.com
@@ -3032,6 +3035,7 @@
 .toonova.com
 .top55.net
 .tops-game.jp
+.topsrvimp.com
 .toptools100.com
 .tora-news.com
 .toram.jp
@@ -3135,6 +3139,7 @@
 .userdive.com
 .ushi.cc
 .usi32.com
+.usj.co.jp
 .uso8oo.com
 .ustre.am
 .uta-net.com
