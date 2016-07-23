@@ -1688,6 +1688,7 @@
 .kitiotoko.com
 .kizitora.jp
 .kizyo.net
+.kk
 .klab.com
 .klabgames.net
 .klein-group.co.jp
@@ -1756,6 +1757,7 @@
 .ldblog.jp
 .leadboltapps.net
 .leagueoflegends.com
+.ledyba.org
 .lelezhen.com
 .letskendo.com
 .letv.com
@@ -2549,6 +2551,7 @@
 .ppy.sh
 .prcm.jp
 .premiumcyzo.com
+.primasm.com
 .pripara.jp
 .prisma-illya.jp
 .prizebp.jp
@@ -2847,6 +2850,7 @@
 .sounansa.net
 .soundsonline.com
 .sousakuba.com
+.spccint.com
 .special-pink-image.com
 .speedtrace.co.jp
 .spike-chunsoft.co.jp
@@ -3145,6 +3149,7 @@
 .uta-net.com
 .utamap.com
 .utapri.com
+.utorrent.com
 .uuu9.com
 .uwakitobintatofurin.com
 .uyosoku.com
