@@ -78,6 +78,7 @@
 .2ji-antenna.net
 .2jiero.info
 .2jigiri.net
+.2logch.com
 .2logch.sakura.ne.jp
 .2mdn.net
 .2monkeys.jp
@@ -346,6 +347,7 @@
 .apserver.net
 .apvdr.com
 .aquaplus.jp
+.aramame.net
 .arcenserv.info
 .archeage.jpn.org
 .arika.co.jp
@@ -750,6 +752,7 @@
 .deko8.jp
 .delivery.mp.microsoft.com
 .demae-can.com
+.demonition.com
 .dendou.jp
 .denfaminicogamer.jp
 .dengeki.com
@@ -837,6 +840,7 @@
 .dragonquest.jp
 .drapro-antenna.net
 .draque-matome.com
+.drdinl.com
 .drdinl.jp
 .dreadnought-tcg.com
 .dream-room.net
@@ -1007,6 +1011,7 @@
 .fecipher.jp
 .fello.net
 .femiluna-room.com
+.fesoku.net
 .feticomx.com
 .fevian.org
 .fezero.jp
@@ -1218,6 +1223,7 @@
 .geeksokuhou.net
 .gehasoku.com
 .geinou-viral-news.com
+.geitsubo.com
 .gekikame.com
 .gekikarareview.com
 .gekirock.com
@@ -1361,6 +1367,7 @@
 .hangame.com
 .hanihoh.com
 .hanimez.com
+.hannichigukoku.info
 .hao123.com
 .hapisupu.com
 .happyelements.co.jp
@@ -1518,6 +1525,7 @@
 .iso-labo.com
 .isopro91.com
 .isus.jp
+.itadaki48.com
 .itaishinja.com
 .itibusizyuu.jp
 .itlab51.com
@@ -1646,12 +1654,14 @@
 .keihin-park.com
 .kekeke.cc
 .kekkaisensen.com
+.kekkon-sokuho.com
 .kekkonch.com
 .kemco.jp
 .ketchapp.jp
 .kichimama.com
 .kicker.town
 .kidan-ch.com
+.kidan-m.com
 .kienizer.com
 .kijishima.com
 .kijobibouroku.com
@@ -1988,6 +1998,7 @@
 .millionarthur.net
 .min-fx.jp
 .minatosoft.com
+.mindhack2ch.com
 .minecraft.com
 .minecraft.net
 .minecraftuser.jp
@@ -2111,6 +2122,7 @@
 .muchgames.com
 .mudainodocument.com
 .mudana.net
+.mudasure.com
 .mugendai-web.jp
 .muketsu.info
 .muryoadult.net
@@ -2204,6 +2216,7 @@
 .news-us.jp
 .news.x0.com
 .news109.com
+.news30over.com
 .newsantenna.net
 .newsch.info
 .newser.cc
@@ -2346,6 +2359,7 @@
 .op.gg
 .open2ch.net
 .opengameseeker.com
+.openworldnews.net
 .oppai-av.com
 .oppaibook.com
 .oppainorakuen.com
@@ -2475,6 +2489,7 @@
 .pinkerodougasex.com
 .pinknotora.net
 .pinknoyakata.com
+.pioncoo.net
 .pipa.jp
 .pirori2ch.com
 .pix-cdn.org
@@ -2630,6 +2645,7 @@
 .rentalhomepage.com
 .rentalkareshi.com
 .repsoku.net
+.res2ch.net
 .rfs.jp
 .rhythmxchange.com
 .ri-mode.com
@@ -2918,6 +2934,7 @@
 .syosetu.org
 .syunakira.com
 .syurabahazard.com
+.syuramama.com
 .syuuchisoku.com
 .t.co
 .t7s.jp
@@ -3179,6 +3196,7 @@
 .virtuagirlhd.com
 .vpngate.net
 .vqpv.biz
+.vsnp.net
 .vube.com
 .w-t-f.jp
 .w3.org
@@ -3408,10 +3426,12 @@
 .zaeega.com
 .zaifx.ismcdn.jp
 .zaka-think.com
+.zakuzaku911.com
 .zap.jp.net
 .zasetukinsi.com
 .zasshi-online.com
 .zatunen.com
+.zch-vip.com
 .zedo.com
 .zemanta.com
 .zennihonbudougu.com
