@@ -433,6 +433,7 @@
 .baraero.com
 .barcode-net.com
 .barks.jp
+.bash-tv.com
 .battle.net
 .battlefield.com
 .bay12games.com
