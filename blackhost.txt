@@ -367,6 +367,7 @@
 .ascii.jp
 .asg.to
 .asianews2ch.jp
+.asiareaction.com
 .asiatengoku.com
 .ask.fm
 .aso-bo.com
@@ -737,6 +738,7 @@
 .dailymotion.com
 .daimajin.net
 .daki-makura.info
+.damage0.com
 .damonge.com
 .dan-ball.jp
 .danshihack.com
@@ -842,6 +844,7 @@
 .dqnnews.net
 .dqx.jp
 .dragon-projectch.com
+.dragonballsokuhou.net
 .dragonbrave.com
 .dragonquest.jp
 .drapro-antenna.net
@@ -1584,6 +1587,8 @@
 .jinjitter.jp
 .jinkutsu.net
 .jiqoo.jp
+.jisakunin.com
+.jisakutech.com
 .jjwxc.net
 .jk-play.com
 .jocee.jp
@@ -1952,6 +1957,7 @@
 .matomedb.com
 .matomeindex.com
 .matomeja.jp
+.matomelotte.com
 .matomena.jp
 .matomenomori.net
 .matomeru2ch.com
@@ -2297,6 +2303,7 @@
 .niziero.com
 .nizigen-matome.com
 .nizigenimage.com
+.nnews1.com
 .no1game.net
 .noahapps.jp
 .noahparty.com
@@ -2304,6 +2311,7 @@
 .nobuo-create.net
 .nobuta123.co.jp
 .nobuwiki.org
+.nogitweet.com
 .noiretaya.com
 .nomaki.jp
 .nordenfelt-thegame.com
@@ -2410,6 +2418,7 @@
 .otapol.jp
 .otatama.net
 .othello.org
+.otoko-honne.com
 .otokuhikkoshi.net
 .otonarisoku.com
 .otonomai.me
@@ -2564,6 +2573,7 @@
 .pokemonbbs.com
 .pokemongo-an.com
 .pokemongo-center.com
+.pokemongo-master.com
 .pokemongo-news.com
 .pokemonlab.jp
 .pokemonshowdown.com
@@ -3202,6 +3212,7 @@
 .utapri.com
 .utorrent.com
 .uuu9.com
+.uwakitaiken.com
 .uwakitobintatofurin.com
 .uyosoku.com
 .uzauza01.com
