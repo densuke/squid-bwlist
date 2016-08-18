@@ -53,6 +53,7 @@
 .2ch-net.jp
 .2ch-news-vip.info
 .2ch-rank.net
+.2ch-tachiyomi.com
 .2ch.anything-navi.net
 .2ch.net
 .2ch.sc
@@ -1102,6 +1103,7 @@
 .futago-life.com
 .futakuro.com
 .futene.net
+.fuyu.gs
 .fx-startup.com
 .fx2ch.net
 .g-heaven.net
@@ -1424,6 +1426,7 @@
 .himasoku.com
 .hime-book.net
 .himebook.net
+.hiroburo.com
 .hiroimono.org
 .hiroiro.com
 .hiromart.com
@@ -1499,6 +1502,7 @@
 .igame.com
 .ignimgs.com
 .iinaa.net
+.iinews.net
 .ijbblog.com
 .ijinshan.com
 .ikaros.jp
@@ -1676,6 +1680,7 @@
 .kazuto-yoshida.com
 .kazutxt.com
 .keihin-park.com
+.keizoku.com
 .kekeke.cc
 .kekkaisensen.com
 .kekkon-sokuho.com
