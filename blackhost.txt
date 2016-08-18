@@ -636,6 +636,7 @@
 .clevelandelectronicservices.com
 .clicccar.com
 .clip.vn
+.cloud.feedly.com
 .clover-rabbit.club
 .cloverlab.biz
 .cloverlab.co.jp
@@ -1013,6 +1014,7 @@
 .fc2web.com
 .fe-soku.com
 .fecipher.jp
+.feedly.com
 .fello.net
 .femiluna-room.com
 .fesoku.net
@@ -1046,6 +1048,7 @@
 .football-lab.jp
 .footprintdns.com
 .forexpros.jp
+.formzu.net
 .fortalk.net
 .foryourbaby.jp
 .foto-webcam.eu
