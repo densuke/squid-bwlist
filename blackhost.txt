@@ -1639,6 +1639,8 @@
 .kaigai-antena.com
 .kaigai-antenna.com
 .kaigai-matome.net
+.kaigaihannou.info
+.kaigaimatome.com
 .kaigaimm.com
 .kaigojob.com
 .kaikatsu.jp
@@ -2413,6 +2415,7 @@
 .oppainorakuen.com
 .oratta.net
 .orebibou.com
+.oremo-gold.com
 .oreteki.org
 .orewiz.mobi
 .org.hm
@@ -2921,6 +2924,7 @@
 .sougetsu-on.net
 .sounansa.net
 .soundsonline.com
+.soupresed.com
 .sousakuba.com
 .spccint.com
 .special-pink-image.com
@@ -3388,6 +3392,7 @@
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--o9j0bk5tjce3x.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
+.xn--u9jw87h6tdi4hqls.com
 .xn--xvideo-up4jq68t.net
 .xn--zck0ab2m.com
 .xonline.jp
