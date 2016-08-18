@@ -484,6 +484,7 @@
 .bitmango.com
 .bitshare.com
 .bitsummit.org
+.bitter.jp
 .bittorrent.am
 .bittorrent.com
 .bituse.info
