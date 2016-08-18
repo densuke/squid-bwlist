@@ -405,8 +405,6 @@
 .ayacnews2nd.com
 .ayu-nya.com
 .azukichi.net
-.b.hatena.ne.jp
-.b.st-hatena.com
 .b9dm.com
 .babarageo.com
 .bahamut.com.tw
@@ -640,7 +638,6 @@
 .clevelandelectronicservices.com
 .clicccar.com
 .clip.vn
-.cloud.feedly.com
 .clover-rabbit.club
 .cloverlab.biz
 .cloverlab.co.jp
