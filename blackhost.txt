@@ -46,6 +46,7 @@
 .2ch-matomato.com
 .2ch-matome.com
 .2ch-matome.net
+.2ch-matomenews.com
 .2ch-matometter.com
 .2ch-mma.com
 .2ch-neonews.com
@@ -759,6 +760,7 @@
 .denfaminicogamer.jp
 .dengeki.com
 .dengekionline.com
+.denshoko.com
 .deqwas.net
 .derbyimpact.jp
 .deviceplus.jp
@@ -1338,6 +1340,7 @@
 .gundamlog.com
 .gundamseries.net
 .gungho.jp
+.gunji-douga.fem.jp
 .gunocy.com
 .gunosy.co.jp
 .gunosy.com
@@ -2049,6 +2052,7 @@
 .mobiusfinalfantasy.com
 .mobogenie.com
 .mobu.jp
+.moccosnoon.com
 .mochiads.com
 .moco-coin.com
 .moddb.com
@@ -2805,6 +2809,7 @@
 .shuraba-matome.com
 .shuraba.net
 .shuutak.com
+.sierblog.com
 .sifblog.net
 .signal-blue.com
 .sijex.net
