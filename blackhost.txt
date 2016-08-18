@@ -51,6 +51,7 @@
 .2ch-mma.com
 .2ch-neonews.com
 .2ch-net.jp
+.2ch-news-vip.info
 .2ch-rank.net
 .2ch.anything-navi.net
 .2ch.net
@@ -59,6 +60,7 @@
 .2chan.net
 .2channeler.com
 .2chblog.jp
+.2chcenter.com
 .2chcopipe.com
 .2chfinder.com
 .2chmap.com
@@ -404,6 +406,7 @@
 .ayu-nya.com
 .azukichi.net
 .b.hatena.ne.jp
+.b.st-hatena.com
 .b9dm.com
 .babarageo.com
 .bahamut.com.tw
@@ -564,6 +567,7 @@
 .buzznews.asia
 .byonavi.com
 .c-lab.link
+.c-most.net
 .c-sqr.net
 .c-tipsref.com
 .c0930.com
@@ -1269,6 +1273,7 @@
 .gigazine.net
 .giko-news.com
 .gikotena.net
+.girinio.jp
 .girldoll.org
 .girlschannel.net
 .girlsreader.com
@@ -1389,6 +1394,7 @@
 .hatalike.jp
 .hatebu-1000users-over.com
 .hatenanotebook.com
+.hayabusa-at.com
 .hayamentz.com
 .he-games.com
 .hearthgamers.com
@@ -1563,6 +1569,7 @@
 .jankara.net
 .jap-xvideos.com
 .japan-mmm.net
+.japanese.joins.com
 .japanz.jp
 .japohan.net
 .jappleng.com
@@ -1942,9 +1949,11 @@
 .matome.dsup.net
 .matomeantena.com
 .matomeantena.net
+.matomeathena.com
 .matomech.com
 .matomecup.com
 .matomedb.com
+.matomeindex.com
 .matomeja.jp
 .matomena.jp
 .matomenomori.net
@@ -2265,6 +2274,7 @@
 .nicotalk.com
 .nicotto.jp
 .nicovideo.jp
+.nidanida.com
 .nihonjinnanmin.com
 .nihonshu-banduke.net
 .niji-gazo.com
@@ -2507,6 +2517,7 @@
 .pinkerodougasex.com
 .pinknotora.net
 .pinknoyakata.com
+.pinvoke.com
 .pioncoo.net
 .pipa.jp
 .pirori2ch.com
@@ -2629,6 +2640,7 @@
 .r-maker-app2.sakura.ne.jp
 .r18matome.com
 .r401.net
+.rabit-money.net
 .radiko.jp
 .rafuten.com
 .railgun-antenna.info
@@ -3142,6 +3154,7 @@
 .twi1.me
 .twimg.com
 .twin-angel.com
+.twinew.com
 .twipple.jp
 .twirobo.com
 .twitter.com
@@ -3210,6 +3223,7 @@
 .vimeo.com
 .vimeocdn.com
 .vine.co
+.vip-antena.net
 .vipcle.net
 .vipdoor.info
 .vipelog.com
