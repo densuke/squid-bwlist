@@ -1452,6 +1452,7 @@
 .honey-rope.jugem.jp
 .honeyworks-movie.jp
 .honeyworks.jp
+.honkan.jp
 .honmotakeshi.com
 .hork.info
 .horukan.com
@@ -1634,6 +1635,9 @@
 .kagajo.com
 .kagekidan.net
 .kai-you.net
+.kaigai-antena.com
+.kaigai-antenna.com
+.kaigaimm.com
 .kaigojob.com
 .kaikatsu.jp
 .kairakudoujin.net
@@ -1731,6 +1735,7 @@
 .klab.com
 .klabgames.net
 .klein-group.co.jp
+.kmatome.com
 .kmlg.jp
 .kobo.com
 .kobobooks.com
@@ -2844,6 +2849,7 @@
 .signal-blue.com
 .sijex.net
 .sikyou.com
+.silsila.net
 .silversecond.com
 .sim-free-fun.com
 .simg.jp
@@ -3475,6 +3481,7 @@
 .yuriplus.com
 .yurukuyaru.com
 .yuuenchi.com
+.yuukoku.net
 .yuyu-tei.jp
 .yuzuponzu.net
 .z49.org
