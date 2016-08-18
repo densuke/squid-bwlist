@@ -2,6 +2,7 @@
 .0matome.com
 .0nyan.jp
 .0zero.jp
+.10000km.com
 .1000giri.net
 .1000giribest.com
 .1000mg.jp
@@ -1637,6 +1638,7 @@
 .kai-you.net
 .kaigai-antena.com
 .kaigai-antenna.com
+.kaigai-matome.net
 .kaigaimm.com
 .kaigojob.com
 .kaikatsu.jp
@@ -2132,6 +2134,7 @@
 .mopita.com
 .moppy.jp
 .mora.jp
+.moriforest.com
 .morikinoko.com
 .morningstar.co.jp
 .moroahedoujin.com
@@ -3340,6 +3343,7 @@
 .work-city.com
 .worklife-create.com
 .worktoolsmith.com
+.world-action.net
 .world-antenna.net
 .worldfn.net
 .worldof-tanks.com
