@@ -901,6 +901,7 @@
 .entermeus.com
 .entertainmentsummary.net
 .epicgames.com
+.epicmoviesonline.com
 .eplus.jp
 .epoch.jp
 .epochtimes.com
@@ -1461,6 +1462,7 @@
 .howto-box.jp
 .howto-tokusuru.com
 .hp3200.com
+.href.asia
 .htmq.com
 .hug2.biz
 .hujiang.com
@@ -3166,6 +3168,7 @@
 .twipple.jp
 .twirobo.com
 .twitter.com
+.twittericon.com
 .twpf.jp
 .tyabo.com
 .type-music.com
