@@ -3102,6 +3102,7 @@
 .travel
 .travian.jp
 .treasonnews.com
+.treasonnews.net
 .treeofsavior.it
 .trend-hot-news.com
 .trendpride.com
