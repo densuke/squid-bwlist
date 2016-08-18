@@ -340,6 +340,7 @@
 .appps.jp
 .apprevolve.com
 .apps.skype.com
+.appsary.com
 .appsflyer.com
 .appspot.com
 .appteam.biz
@@ -1216,6 +1217,7 @@
 .gazousukie.net
 .gb-wiki.net
 .gbf-wiki.com
+.gc-img.net
 .gczero.com
 .gdunlimited.net
 .ge-maji.com
@@ -1263,6 +1265,7 @@
 .giko-news.com
 .gikotena.net
 .girldoll.org
+.girlschannel.net
 .girlsreader.com
 .girlsvip-matome.com
 .girlzbar.com
@@ -1497,6 +1500,7 @@
 .imas-cinderella.com
 .imasnews765.com
 .imgs.ws
+.imgvc.com
 .imikowa.com
 .immoral.jp
 .imperialsaga.jp
@@ -1509,6 +1513,7 @@
 .inishie-dungeon.com
 .injulog.com
 .inmobi.com
+.inner-active.mobi
 .inpane.com
 .inside-games.jp
 .instacam.com
@@ -2030,10 +2035,12 @@
 .mmoloda.com
 .mnstmato.com
 .moba8.net
+.mobadme.jp
 .mobafire.com
 .mobax-kanayama.com
 .mobb-inc.jp
 .mobboss-online.com
+.mobile-apps-download.com
 .mobileads.msn.com
 .mobilecore.com
 .mobilefactory.jp
@@ -2162,6 +2169,7 @@
 .nantenna-2ch.com
 .nantoka-antenna.com
 .nantv.com
+.napontheapp.com
 .naps-jp.com
 .narutoapp.jp
 .nashimoto.biz
@@ -2627,6 +2635,7 @@
 .rash.jp
 .rastaneko-blog.com
 .raw-zip.com
+.rayjump.com
 .razerzone.com
 .rbbtoday.com
 .re-zero-anime.jp
@@ -2819,6 +2828,7 @@
 .skmwin.net
 .skr.jp
 .skter.com
+.skylark-app.com
 .skypech.com
 .sleipnirstart.com
 .slism.net
@@ -2975,6 +2985,8 @@
 .tatin.jp
 .tatsumi-sys.jp
 .tatsumix.com
+.tawapri-sv.jp
+.taxel.jp
 .tayutau.co.jp
 .tbn17.com
 .team-cygames.com
