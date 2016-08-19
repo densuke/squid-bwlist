@@ -405,6 +405,7 @@
 .aviutl.info
 .avtv-movie.com
 .avximg.com
+.awe.jp
 .axelgames.net
 .ayacnews2nd.com
 .ayu-nya.com
@@ -1393,6 +1394,7 @@
 .hannichigukoku.info
 .hao123.com
 .hapisupu.com
+.hapiyaku.com
 .happyelements.co.jp
 .hardluckz.com
 .hareruyamtg.com
@@ -3521,6 +3523,7 @@
 .zipbogo.net
 .ziyu.net
 .zopim.com
+.zouri.jp
 .zozo.jp
 .zucks.net
 .zumst.com
