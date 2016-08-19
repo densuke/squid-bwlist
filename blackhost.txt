@@ -817,6 +817,7 @@
 .dokujyoch.net
 .domesoccer.jp
 .dominationsgame.com
+.dominos.jp
 .donderhiroba.jp
 .doope.jp
 .doorblog.jp
@@ -1127,6 +1128,7 @@
 .gal-peace.com
 .galero072.com
 .galnavi.info
+.gamagaeru.jp
 .gamanjiru.net
 .gamdom.biz
 .game-0.net
@@ -1665,6 +1667,7 @@
 .kaminti.com
 .kamisamanoerogazoumatome.com
 .kamislot.info
+.kanasoku.info
 .kancolle-anime.jp
 .kancolle-news.com
 .kancolle-ss.com
@@ -2268,6 +2271,7 @@
 .newsantenna.net
 .newsch.info
 .newser.cc
+.newsmatomedia.com
 .newsnow-2ch.com
 .newspickup.com
 .newstars.com
@@ -2483,6 +2487,7 @@
 .pangya.jp
 .panpilog.com
 .paperman.jp
+.paranormal-ch.com
 .parasute.com
 .parupunte.net
 .parusoku.com
