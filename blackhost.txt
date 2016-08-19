@@ -205,6 +205,7 @@
 .aichiko.jp
 .aichuun.co
 .aikatsu.com
+.aikotoba.jp
 .aiming-inc.com
 .airdroid.com
 .airw.net
@@ -2701,6 +2702,7 @@
 .rental-rental.net
 .rentalhomepage.com
 .rentalkareshi.com
+.rentalurl.net
 .repsoku.net
 .res2ch.net
 .rfs.jp
