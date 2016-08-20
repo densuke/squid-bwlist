@@ -1475,6 +1475,7 @@
 .howto-tokusuru.com
 .hp3200.com
 .href.asia
+.hsano.com
 .htmq.com
 .hug2.biz
 .hujiang.com
