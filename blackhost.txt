@@ -602,6 +602,7 @@
 .cashabout.info
 .cashing.money.goo.ne.jp
 .catshare.org
+.cawaii2ch.com
 .cc-sakura.net
 .ccpgamescdn.com
 .cdn-rare-gacha.com
@@ -1018,6 +1019,7 @@
 .fate-extella.jp
 .fate-go.jp
 .fate-go.net
+.fate-meeting.com
 .fatemaster.net
 .favsite.jp
 .fb.com
@@ -1719,6 +1721,7 @@
 .kijonotakuhaibin.com
 .kijosoku.com
 .kijyo-kijyo.com
+.kijyo-news.com
 .kijyomatome.com
 .kijyomita.com
 .kikonboti.com
@@ -1786,6 +1789,7 @@
 .ksmobile.net
 .kuaibo.com
 .kugou.com
+.kuma-log.net
 .kumacchi.com
 .kurage-bunch.com
 .kuraha.com
@@ -2835,6 +2839,7 @@
 .shikihime-garden.com
 .shikihime-zoushi.com
 .shimamura.co.jp
+.shimamurakun.net
 .shin-godzilla.jp
 .shindanmaker.com
 .shingekikyojin.net
@@ -3303,6 +3308,7 @@
 .wankuma.com
 .wannabe-note.com
 .wara2ch.com
+.waraan.jp
 .wargaming.net
 .warmmovie.com
 .warotagamer.com
@@ -3362,6 +3368,7 @@
 .wizmatome.com
 .wizmatomeselection.com
 .wk-tk.net
+.wobenzym1.info
 .wonderhowto.com
 .wonderpla.net
 .wondershare.com
