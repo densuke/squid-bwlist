@@ -67,6 +67,7 @@
 .2chcopipe.com
 .2chfinder.com
 .2chmap.com
+.2chmatome-antena.com
 .2chmatome-news.com
 .2chmatome.sakura.ne.jp
 .2chmatomeru.info
@@ -277,6 +278,7 @@
 .animate-onlineshop.jp
 .animate.co.jp
 .animatetimes.com
+.anime-antena.com
 .anime-pictures.net
 .anime-sharing.com
 .anime-teen.com
@@ -873,6 +875,7 @@
 .duba.net
 .duelcommander.com
 .duga.jp
+.dvd-access.com
 .dwango.co.jp
 .dwd-anime.com
 .dxlive.com
@@ -1889,6 +1892,7 @@
 .lolnavi.info
 .lolsokuhou.com
 .lolstatic.com
+.longseller.org
 .lordofv.com
 .lose.jp
 .lostgamer.net
@@ -2287,6 +2291,7 @@
 .neuron-age.co.jp
 .neutralx0.net
 .new-akiba.com
+.new-soku.net
 .newblo7.net
 .newnext.me
 .news-choice.net
@@ -2788,6 +2793,7 @@
 .saitama-bg.com
 .sakc.jp
 .sakebigoe.com
+.saki-daisuki.info
 .sakuratan.com
 .san-x.co.jp
 .sansei-rd.com
@@ -3011,6 +3017,7 @@
 .storestrategy.jp
 .stream.co.jp
 .studiok-i.net
+.subcultusin.net
 .success-corp.co.jp
 .sugumiru18.com
 .suites-spot.com
