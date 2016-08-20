@@ -1128,6 +1128,7 @@
 .gaagle.jp
 .gaasuu.com
 .gachinco.com
+.gadget2ch.com
 .gaga.ne.jp
 .gahako.com
 .gakinko.net
@@ -2125,6 +2126,7 @@
 .moguragames.com
 .mojang.com
 .mojimaru.com
+.mojomojo-licarca.com
 .mokugeki.jp
 .mome7.com
 .momo-puri.com
@@ -2608,6 +2610,7 @@
 .poke-neta.com
 .pokecheck.org
 .pokedit.com
+.pokegogo.net
 .pokemon-br.com
 .pokemon-gl.com
 .pokemon-matome.net
@@ -2878,6 +2881,7 @@
 .shuminoengei.jp
 .shuraba-matome.com
 .shuraba.net
+.shurabana.com
 .shuutak.com
 .sierblog.com
 .sifblog.net
