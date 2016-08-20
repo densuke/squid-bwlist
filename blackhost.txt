@@ -1695,6 +1695,7 @@
 .kantanstart.jp
 .kaola.jp
 .karapaia.sakura.ne.jp
+.karukantimes.com
 .karzusp.net
 .kasaneteto.jp
 .kateich.net
@@ -1746,6 +1747,7 @@
 .kir.jp
 .kirekire-diet.com
 .kiritsume.com
+.kiru2ch.com
 .kisskiss-girl.com
 .kisslog2.com
 .kita-kore.com
