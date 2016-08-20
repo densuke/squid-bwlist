@@ -371,6 +371,7 @@
 .asame.sakura.ne.jp
 .ascii.jp
 .asg.to
+.asi-st.com
 .asianews2ch.jp
 .asiareaction.com
 .asiatengoku.com
@@ -1713,7 +1714,9 @@
 .kienizer.com
 .kijishima.com
 .kijobibouroku.com
+.kijojikenbo.com
 .kijomatomelog.com
+.kijonotakuhaibin.com
 .kijosoku.com
 .kijyo-kijyo.com
 .kijyomatome.com
@@ -1742,6 +1745,7 @@
 .kiteretsu2.jp
 .kitimama-matome.net
 .kitimama.jp
+.kitimama.net
 .kitimonogatari.com
 .kitiotoko.com
 .kizitora.jp
@@ -2280,6 +2284,7 @@
 .newser.cc
 .newsmatomedia.com
 .newsnow-2ch.com
+.newsoku.jp
 .newspickup.com
 .newstars.com
 .newtou.info
@@ -3043,6 +3048,7 @@
 .tanoshikoto.com
 .tanx.com
 .taobao.com
+.taptrip.jp
 .tarikin.net
 .tasplus.net
 .tatin.jp
