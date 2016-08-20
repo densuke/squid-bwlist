@@ -50,6 +50,7 @@
 .2ch-matomenews.com
 .2ch-matometter.com
 .2ch-mma.com
+.2ch-n.net
 .2ch-neonews.com
 .2ch-net.jp
 .2ch-news-vip.info
@@ -1751,6 +1752,7 @@
 .kitimama.net
 .kitimonogatari.com
 .kitiotoko.com
+.kitizawa.com
 .kizitora.jp
 .kizyo.net
 .klab.com
@@ -2812,6 +2814,7 @@
 .seiroganmania.com
 .sekainoura.net
 .sekindo.com
+.sekkaku.net
 .sekurosu.com
 .semakimomo.net
 .senddownloadmy.com
