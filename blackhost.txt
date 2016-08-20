@@ -245,6 +245,8 @@
 .amano-jack.jp
 .amazon.co.jp
 .amazon.com
+.amazon.es
+.amazon.fr
 .amazoningadvertisment.com
 .ameba.jp
 .amebagames.com
