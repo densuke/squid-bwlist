@@ -2997,6 +2997,7 @@
 .success-corp.co.jp
 .sugumiru18.com
 .suites-spot.com
+.sukattojapan.com
 .sukumizu.jp
 .sumahoinfo.com
 .summonboard.net
