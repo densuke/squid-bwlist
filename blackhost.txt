@@ -2200,6 +2200,7 @@
 .myurdayz.com
 .n131adserv.com
 .nade-saka.com
+.nadesiko-action.org
 .nagariknews.com
 .nagisa-inc.jp
 .nakanohito.jp
@@ -3445,6 +3446,7 @@
 .y-watch.info
 .y5en.com
 .yac.me
+.yaeyama-nippo.com
 .yahoo-mbga.jp
 .yahooapis.jp
 .yajiuma-antena.com
