@@ -219,6 +219,7 @@
 .akb48.tokyo
 .akb48mato.com
 .akb48matomemory.com
+.akb48nensensou.net
 .akb48rompen.com
 .akbakb.com
 .akibablog.net
@@ -1406,6 +1407,7 @@
 .hapisupu.com
 .hapiyaku.com
 .happyelements.co.jp
+.haraitai.com
 .hardluckz.com
 .hareruyamtg.com
 .harikonotora.net
@@ -2811,6 +2813,7 @@
 .sdvx.info
 .se-kirara.jp
 .se-support.com
+.sechigara.net
 .securitysoft.asia
 .seesaa.net
 .seesaawiki.jp
