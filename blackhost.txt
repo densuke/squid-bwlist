@@ -34,6 +34,7 @@
 .2-carat.net
 .200624nm.com
 .20kaido.com
+.2ant.jp
 .2blo.net
 .2ch-2.net
 .2ch-a.net
@@ -49,6 +50,7 @@
 .2ch-matome.net
 .2ch-matomenews.com
 .2ch-matometter.com
+.2ch-mi.net
 .2ch-mma.com
 .2ch-n.net
 .2ch-neonews.com
@@ -784,6 +786,7 @@
 .deviceplus.jp
 .devilishdesign.net
 .dga.jp
+.diary.to
 .digi-6.com
 .digimonostation.jp
 .digital-mixnews.com
@@ -1243,6 +1246,7 @@
 .gashapon.jp
 .gaworare-anime.com
 .gaym.jp
+.gazo.tokyo
 .gazou-upstage.com
 .gazoukan317.jp
 .gazounabi.com
@@ -1784,6 +1788,7 @@
 .konaminet.jp
 .konomoe.at.webry.info
 .konosuba.com
+.konowaro.net
 .kontagent.net
 .konton.info
 .korewaeroi.com
@@ -2297,6 +2302,7 @@
 .news-choice.net
 .news-edge.com
 .news-matome.com
+.news-pod.net
 .news-select.net
 .news-three-stars.net
 .news-us.jp
