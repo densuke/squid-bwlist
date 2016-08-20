@@ -689,6 +689,7 @@
 .consolegameswiki.com
 .conte-anime.jp
 .contextweb.com
+.conv2ch.com
 .coocan.jp
 .cookpad.com
 .coolcoolapps.com
@@ -3024,6 +3025,7 @@
 .syosetu.org
 .syunakira.com
 .syurabahazard.com
+.syurabakomachi.com
 .syuramama.com
 .syuuchisoku.com
 .t.co
