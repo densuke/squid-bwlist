@@ -1120,6 +1120,7 @@
 .fx-startup.com
 .fx2ch.net
 .g-heaven.net
+.g-matome.com
 .g-sozai.com
 .g-takumi.com
 .g-tune.jp
@@ -1704,6 +1705,7 @@
 .kau.li
 .kawasaki-cp.khi.co.jp
 .kazesoku.com
+.kazetaka.com
 .kazuto-yoshida.com
 .kazutxt.com
 .keihin-park.com
@@ -1718,6 +1720,7 @@
 .kicker.town
 .kidan-ch.com
 .kidan-m.com
+.kidanlog.com
 .kienizer.com
 .kijishima.com
 .kijobibouroku.com
@@ -1782,6 +1785,7 @@
 .kororo.jp
 .kosakalab.com
 .koshiplay.com
+.kosonews.com
 .kosusoku.net
 .kotaku.jp
 .kotaro269.com
@@ -2132,6 +2136,7 @@
 .mokugeki.jp
 .mome7.com
 .momo-puri.com
+.momo96ch.com
 .momoeroantenna.com
 .momokyun.com
 .momon-ga.com
@@ -2461,6 +2466,7 @@
 .otakomu.jp
 .otakuma.net
 .otakumode.com
+.otameshivip.com
 .otamon.net
 .otanew.jp
 .otapol.jp
@@ -2625,6 +2631,7 @@
 .pokemongo-center.com
 .pokemongo-master.com
 .pokemongo-news.com
+.pokemongooo.net
 .pokemonlab.jp
 .pokemonshowdown.com
 .pokerdou.com
@@ -2956,6 +2963,7 @@
 .sorae.jp
 .soregashi.com
 .sosuke7.com
+.soudanch.com
 .sougetsu-on.net
 .sounansa.net
 .soundsonline.com
