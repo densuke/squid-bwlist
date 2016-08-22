@@ -1330,6 +1330,7 @@
 .golgo31.net
 .goo-net.com
 .goo.mx
+.goo.ne.jp
 .goobike.com
 .goodgamestudios.com
 .goodpic.com
@@ -1555,6 +1556,7 @@
 .imas-cinderella.com
 .imasnews765.com
 .imgs.ws
+.imgur.com
 .imgvc.com
 .imikowa.com
 .immoral.jp
@@ -2322,6 +2324,7 @@
 .news-select.net
 .news-three-stars.net
 .news-us.jp
+.news-us.org
 .news.x0.com
 .news109.com
 .news30over.com
@@ -3228,6 +3231,7 @@
 .toychan.net
 .tpnav.com
 .trackfeed.com
+.trackwind.com
 .trackword.biz
 .trackword.net
 .trackwords.jp
