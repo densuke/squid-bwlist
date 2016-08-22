@@ -508,7 +508,6 @@
 .blizzard.com
 .blog-rpg.com
 .blog.jp
-.blog.seesaa.jp
 .blog.so-net.ne.jp
 .blogblog.com
 .blogcms.jp
