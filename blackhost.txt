@@ -392,6 +392,7 @@
 .atelier-ps3.jp
 .atgames.jp
 .atgj.net
+.atna.jp
 .atpages.jp
 .attomaimai.sakura.ne.jp
 .attosoft.info
@@ -478,6 +479,7 @@
 .bethsoft.com
 .bf1.jp
 .bfmatometto.info
+.bibincom.com
 .biccamera.com
 .big-celeb.jp
 .big-echo.jp
@@ -507,7 +509,6 @@
 .blizzard.com
 .blog-rpg.com
 .blog.jp
-.blog.seesaa.jp
 .blog.so-net.ne.jp
 .blogblog.com
 .blogcms.jp
@@ -698,6 +699,7 @@
 .coocan.jp
 .cookpad.com
 .coolcoolapps.com
+.cooljapaan.com
 .cooltext.com
 .corebooks.jp
 .coreda.jp
@@ -836,6 +838,7 @@
 .doorblog.jp
 .doperoms.com
 .dopr.net
+.doramix.com
 .dorapon.info
 .dot-st.com
 .doucolle.net
@@ -1041,6 +1044,7 @@
 .fecipher.jp
 .feedly.com
 .fello.net
+.fem.jp
 .femiluna-room.com
 .fesoku.net
 .feticomx.com
@@ -1114,6 +1118,7 @@
 .fungames-forfree.com
 .funger-antena.info
 .funkygunstattoo.com
+.funnypics.jp
 .funshion.net
 .furansu-go.com
 .futaba-info.sakura.ne.jp
@@ -1293,6 +1298,7 @@
 .ggame.jp
 .gger.jp
 .ggsoku.com
+.gifpeta.com
 .gigafile.nu
 .gigafree.net
 .gigamen.com
@@ -1332,6 +1338,7 @@
 .goodsmileshop.com
 .googlevideo.com
 .googlevideo.com:443
+.goooodtube.com
 .gooside.com
 .gori.me
 .gossip-paper.com
@@ -1399,6 +1406,7 @@
 .hackadoll.com
 .hackerwatch.org
 .hai-furi.com
+.hajimetesenkyo.com
 .halcana.jp
 .hamatorapj.com
 .hamelnovel.com
@@ -1557,6 +1565,7 @@
 .infopot.jp
 .infoq.jp
 .infotop.jp
+.inippon.jp
 .inishie-dungeon.com
 .injulog.com
 .inmobi.com
@@ -1662,6 +1671,7 @@
 .kagajo.com
 .kagekidan.net
 .kai-you.net
+.kaigai-anime.com
 .kaigai-antena.com
 .kaigai-antenna.com
 .kaigai-matome.net
@@ -1670,6 +1680,7 @@
 .kaigaimm.com
 .kaigojob.com
 .kaikatsu.jp
+.kaikhaan.com
 .kairakudoujin.net
 .kairisei-ma.jp
 .kaiseki-website.com
@@ -1782,6 +1793,7 @@
 .kodukai-king.jp
 .koga.me
 .kokotodo.nobody.jp
+.kokunanmonomousu.com
 .komachi.yomiuri.co.jp
 .komica.org
 .konami.jp
@@ -1832,6 +1844,7 @@
 .lady.com
 .laile.co.jp
 .lakatan.net
+.laland-acupressure.com
 .lanceandmasques.jp
 .larc-en-ciel.com
 .latale.jp
@@ -1927,6 +1940,7 @@
 .m-cocolog.jp
 .m-o-w.net
 .m4ex.com
+.m9l-o-l.com
 .ma-bank.net
 .mac-8.net
 .macoopc.com
@@ -2069,6 +2083,7 @@
 .mig60.net
 .mihoudai.net
 .miki800.com
+.mikle.com
 .mikumoba.jp
 .mildch.com
 .mile-stone.jp
@@ -2281,6 +2296,7 @@
 .nest-online.jp
 .net-king.com
 .netaatoz.jp
+.netasite.net
 .netatama.net
 .netcrawl.info
 .netgamewiki.com
@@ -2330,6 +2346,7 @@
 .nflxvideo.net
 .ngnews.me
 .nhncorp.jp
+.ni-moe.com
 .nianticlabs.com
 .nico2ch.com
 .nicoblomaga.jp
@@ -2473,6 +2490,7 @@
 .oshiete.goo.ne.jp
 .oshiete.xgoo.jp
 .osomatsusan.com
+.osoroshian.com
 .ossan-gamer.net
 .otaden.jp
 .otakaragazou.com
@@ -2827,6 +2845,7 @@
 .se-support.com
 .sechigara.net
 .securitysoft.asia
+.seesaa.jp
 .seesaa.net
 .seesaawiki.jp
 .sega-entertainment.jp
@@ -2838,10 +2857,12 @@
 .sega-pc.com
 .sega.co.jp
 .sega.jp
+.seichi-nippon.com
 .seidentest.com
 .seikatuch.com
 .seiroganmania.com
 .sekainoura.net
+.sekanew.com
 .sekindo.com
 .sekkaku.net
 .sekurosu.com
@@ -3188,6 +3209,7 @@
 .toranoana.jp
 .torecapark.com
 .torecolo.jp
+.toremaga.com
 .torepan.com
 .torepiro.com
 .toretsubo.com
@@ -3259,6 +3281,7 @@
 .ubisoft.co.jp
 .uesp.net
 .ufoooo.com
+.ugesi.de
 .ugnews.net
 .uhouho2ch.com
 .ujiarmy.net
@@ -3332,6 +3355,8 @@
 .vube.com
 .w-t-f.jp
 .w3.org
+.wa9sei.net
+.wadainodouga.com
 .wadaiyo.com
 .wakarukoto.com
 .wakuwaku365.com
@@ -3368,11 +3393,14 @@
 .webcrow.jp
 .webgift.jp
 .webike.net
+.webings.net
 .webkaru.net
 .webmanga.info
 .webmatome.info
 .webnew.net
+.webranking.net
 .webron.jp
+.webry.info
 .websae.net
 .webtracker.jp
 .webtruyen.com
@@ -3411,6 +3439,7 @@
 .wonderlaboratory.com
 .wonderpla.net
 .wondershare.com
+.wordpress.org
 .work-city.com
 .worklife-create.com
 .worktoolsmith.com
@@ -3568,6 +3597,7 @@
 .zaka-think.com
 .zakuzaku911.com
 .zap.jp.net
+.zapzapjp.com
 .zasetukinsi.com
 .zasshi-online.com
 .zatunen.com
