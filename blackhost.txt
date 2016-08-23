@@ -543,6 +543,7 @@
 .bijo-linux.com
 .bikechannel.info
 .bilibili.com
+.binan-hochi.org
 .bipblog.com
 .biranger.jp
 .birthdayflower366.com
@@ -882,6 +883,7 @@
 .diary.to
 .digi-6.com
 .digiday.jp
+.digiket.com
 .digimonostation.jp
 .digital-cat.com
 .digital-mixnews.com
@@ -2617,6 +2619,7 @@
 .news-matome.com
 .news-pod.net
 .news-select.net
+.news-taiken.jp
 .news-three-stars.net
 .news-us.jp
 .news-us.org
@@ -2631,6 +2634,7 @@
 .newsnow-2ch.com
 .newsoku.jp
 .newspickup.com
+.newstaiken.jp
 .newstars.com
 .newswitch.jp
 .newtou.info
@@ -3589,6 +3593,7 @@
 .tokkaban.com
 .tokrin.com
 .tokua.info
+.tokudaya.net
 .tokusetsu-news.com
 .tokuteishimasuta.com
 .tokyo-cdn.com
