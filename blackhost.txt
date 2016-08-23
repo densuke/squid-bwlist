@@ -829,6 +829,7 @@
 .d2pass.com
 .d4e.co.jp
 .da-tools.com
+.dabun-doumei.com
 .daccot.com
 .daddymami.net
 .dailyff14.com
@@ -992,6 +993,7 @@
 .e-click.jp
 .e-earphone.jp
 .e-flick.info
+.e-illustrators.jp
 .e-nls.com
 .e-nls.net
 .e-pagerank.net
@@ -2106,6 +2108,7 @@
 .linegames.com
 .linegames.jp
 .linkwithin.com
+.liquorisquicker.net
 .lisa18.com
 .liskul.com
 .little-beans.net
@@ -2656,6 +2659,7 @@
 .nicotto.jp
 .nicovideo.jp
 .nidanida.com
+.night-grow.com
 .nihonjinnanmin.com
 .nihonshu-banduke.net
 .niji-gazo.com
@@ -2798,6 +2802,7 @@
 .orewiz.mobi
 .org.hm
 .oricon.co.jp
+.originalfan.net
 .oroti.net
 .orz.hm
 .oshiete-kun.net
