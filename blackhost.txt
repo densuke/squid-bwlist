@@ -2822,6 +2822,7 @@
 .sakebigoe.com
 .saki-daisuki.info
 .sakuratan.com
+.samuraiclick.com
 .san-x.co.jp
 .sansei-rd.com
 .sanspo.com
@@ -3423,6 +3424,7 @@
 .wikinavi.net
 .wikiwiki.jp
 .will-game.com
+.williamhill.com
 .windowsphone.com
 .winneri.info
 .winvz.jp
