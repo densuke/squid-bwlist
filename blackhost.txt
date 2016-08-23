@@ -579,6 +579,7 @@
 .buzzmag.jp
 .buzznews-net.com
 .buzznews.asia
+.buzznews.jp
 .byonavi.com
 .c-lab.link
 .c-most.net
@@ -1633,6 +1634,7 @@
 .jiqoo.jp
 .jisakunin.com
 .jisakutech.com
+.jishin-news.com
 .jjwxc.net
 .jk-play.com
 .jocee.jp
