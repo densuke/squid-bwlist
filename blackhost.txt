@@ -2310,6 +2310,7 @@
 .media-b.jp
 .media-minecraftforum.cursecdn.com
 .media-shelf.net
+.mediafactory.jp
 .mediafire.com
 .mediaforge.com
 .mediago.us
@@ -3102,6 +3103,7 @@
 .rbbtoday.com
 .rcm-fe.amazon-adsystem.com
 .re-zero-anime.jp
+.re-zero.com
 .readers.jp
 .readmej.com
 .real-diva.com
