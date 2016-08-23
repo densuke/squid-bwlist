@@ -607,7 +607,6 @@
 .carsof2017.com
 .carview.co.jp
 .cashabout.info
-.cashing.money.goo.ne.jp
 .catshare.org
 .cawaii2ch.com
 .cc-sakura.net
@@ -1171,7 +1170,6 @@
 .game-tansaku.net
 .game-tm.com
 .game.ever.jp
-.game.goo.ne.jp
 .game.watch.impress.co.jp
 .game084.com
 .game16.net
@@ -1800,7 +1798,6 @@
 .komica.org
 .konami.jp
 .konaminet.jp
-.konomoe.at.webry.info
 .konosuba.com
 .konowaro.net
 .kontagent.net
