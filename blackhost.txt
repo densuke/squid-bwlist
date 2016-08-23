@@ -314,7 +314,6 @@
 .antenam.info
 .antenna-ero.com
 .antenna-ga.com
-.antenna.ebb.jp
 .antennabank.com
 .antennash.com
 .aoharu-b.com
@@ -2843,7 +2842,6 @@
 .sakc.jp
 .sakebigoe.com
 .saki-daisuki.info
-.sakura.ne.jp
 .sakuratan.com
 .samuraiclick.com
 .san-x.co.jp
