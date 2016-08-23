@@ -84,6 +84,7 @@
 .2djgame.net
 .2game.info
 .2hk.mobi
+.2ikkei.net
 .2ji-antenna.net
 .2jiero.info
 .2jigiri.net
@@ -365,6 +366,7 @@
 .aramame.net
 .arcenserv.info
 .archeage.jpn.org
+.arealme.com
 .arika.co.jp
 .arit-clt.com
 .arithgame.jp
@@ -463,6 +465,7 @@
 .bcde.jp
 .be-max.ac.jp
 .beatmania-clearlamp.com
+.beautiful-japanese-women.net
 .becoolusers.com
 .bee-eggplant.com
 .beelzeboulxxx.com
@@ -517,6 +520,8 @@
 .blognavi.info
 .blogo.jp
 .blogos.com
+.blogpeople.net
+.blogram.jp
 .blogranking.net
 .blogspot.com
 .blogspot.jp
@@ -654,6 +659,7 @@
 .clcount.com
 .clevelandelectronicservices.com
 .clicccar.com
+.client.jp
 .clip.vn
 .clover-rabbit.club
 .cloverlab.biz
@@ -841,6 +847,7 @@
 .doramix.com
 .dorapon.info
 .dot-st.com
+.dotup.org
 .doucolle.net
 .douga-tec.com
 .douga100ka.jp
@@ -897,6 +904,7 @@
 .e-typing.ne.jp
 .ea.com
 .eagate.573.jp
+.ebb.jp
 .ebitsu.net
 .efg-drive.net
 .egoisterog.com
@@ -1325,6 +1333,7 @@
 .godeater.jp
 .godessgame.com
 .gogoanime.com
+.gogotsu.com
 .goldv.ash.jp
 .golgo31.net
 .goo-net.com
@@ -1338,6 +1347,7 @@
 .goodsmileshop.com
 .googlevideo.com
 .googlevideo.com:443
+.goonie.org
 .goooodtube.com
 .gooside.com
 .gori.me
@@ -1433,6 +1443,7 @@
 .hatenanotebook.com
 .hayabusa-at.com
 .hayamentz.com
+.hazardlab.jp
 .he-games.com
 .hearthgamers.com
 .heartlife-matome.com
@@ -1458,6 +1469,7 @@
 .himajinlp.net
 .himarin.net
 .himasoku.com
+.himazin.jp
 .hime-book.net
 .himebook.net
 .hiroburo.com
@@ -1472,6 +1484,7 @@
 .hitoriblog.com
 .hitozuma-xvideos-ero.com
 .hivecolor.com
+.hk.xii.jp
 .hklmm.com
 .hkt48.jp
 .hmix.net
@@ -1635,6 +1648,7 @@
 .jisakunin.com
 .jisakutech.com
 .jishin-news.com
+.jisin.jp
 .jjwxc.net
 .jk-play.com
 .jocee.jp
@@ -1847,7 +1861,9 @@
 .lakatan.net
 .laland-acupressure.com
 .lanceandmasques.jp
+.land.to
 .larc-en-ciel.com
+.lastfm.jp
 .latale.jp
 .latexcapacity.com
 .latexeleven.info
@@ -2020,10 +2036,12 @@
 .matome-plus.net
 .matome-station.com
 .matome-surume.com
+.matome.2ch.to
 .matome.dsup.net
 .matomeantena.com
 .matomeantena.net
 .matomeathena.com
+.matomebakuro.com
 .matomech.com
 .matomecup.com
 .matomedb.com
@@ -2094,6 +2112,7 @@
 .millennium-war.net
 .million-arthurs.com
 .millionarthur.net
+.millioncounter.com
 .min-fx.jp
 .minatosoft.com
 .mindhack2ch.com
@@ -2240,6 +2259,7 @@
 .mxserver33.net
 .myanimelist.net
 .mydns.jp
+.myjitsu.jp
 .mylostgames.com
 .mynv.jp
 .myoji-kakeizu-jp.org
@@ -2292,6 +2312,7 @@
 .nekowan.com
 .nelog.jp
 .nend.net
+.nengu.jp
 .nenshuu.net
 .nero.com
 .nest-online.jp
@@ -2691,6 +2712,7 @@
 .ppy.sh
 .prcm.jp
 .premiumcyzo.com
+.president.jp
 .primasm.com
 .pripara.jp
 .prisma-illya.jp
@@ -2736,6 +2758,7 @@
 .qvod.com
 .r-maker-app2.sakura.ne.jp
 .r18matome.com
+.r25.jp
 .r401.net
 .rabit-money.net
 .radiko.jp
@@ -2820,6 +2843,7 @@
 .sakc.jp
 .sakebigoe.com
 .saki-daisuki.info
+.sakura.ne.jp
 .sakuratan.com
 .samuraiclick.com
 .san-x.co.jp
@@ -2982,6 +3006,7 @@
 .smt-cinema.com
 .smt.docomo.ne.jp
 .snalime.com
+.snaplace.jp
 .snkplaymore.co.jp
 .snmemories.net
 .sns-park.com
@@ -3112,6 +3137,7 @@
 .tamesure.com
 .tanganrss.com
 .tanoshikoto.com
+.tanteifile.com
 .tanx.com
 .taobao.com
 .taptrip.jp
@@ -3169,6 +3195,7 @@
 .tigresoft.com
 .timesale-sokuhou.com
 .tinami.com
+.tirirenge.com
 .tk.ismcdn.jp
 .tkool.jp
 .tkssp.com
@@ -3206,6 +3233,7 @@
 .top55.net
 .tops-game.jp
 .topsrvimp.com
+.topsy.com
 .toptools100.com
 .tora-news.com
 .toram.jp
@@ -3275,6 +3303,7 @@
 .twipple.jp
 .twirobo.com
 .twitter.com
+.twittercounter.com
 .twittericon.com
 .twpf.jp
 .tyabo.com
@@ -3391,6 +3420,7 @@
 .web-jozu.com
 .web-manga.info
 .weban.jp
+.webantenna.info
 .webcamsdemexico.net
 .webcomic-eb.com
 .webcomics.jp
@@ -3465,6 +3495,7 @@
 .wwo.asia
 .www.ekbt.net
 .www.imishin.jp
+.www.ne.jp
 .wwwanime.jp
 .x-legend.co.jp
 .x-porn.me
