@@ -267,6 +267,7 @@
 .alicey.jp
 .aliyun.com
 .all-nationz.com
+.allergy-kabinsyo-byebye-happy.com
 .allxin.com
 .alphabloggers.com
 .alphamax.jp
@@ -469,6 +470,8 @@
 .ayacnews2nd.com
 .ayu-nya.com
 .azukichi.net
+.b-prince.com
+.b.st-hatena.com
 .b9dm.com
 .babarageo.com
 .babel.sc
@@ -863,6 +866,7 @@
 .dechau.com
 .defensegames.jp
 .degital-cash.net
+.dekipaso.com
 .deko8.jp
 .delivery.mp.microsoft.com
 .demae-can.com
@@ -871,7 +875,9 @@
 .dendou.jp
 .denfaminicogamer.jp
 .dengeki.com
+.dengekibunko.jp
 .dengekionline.com
+.dengekiya.com
 .denshoko.com
 .deqwas.net
 .derbyimpact.jp
@@ -1380,6 +1386,7 @@
 .gamme.com.tw
 .gamy.jp
 .ganganonline.com
+.ganjuu.com
 .ganma.jp
 .gaprot.jp
 .garakuta.org
@@ -1422,6 +1429,7 @@
 .genkiszk.com
 .gensen2ch.com
 .geo-online.co.jp
+.geocities.co.jp
 .geocities.jp
 .geonet.jp
 .georgia.jp
@@ -1574,6 +1582,7 @@
 .hamusoku.com
 .hanalog.com
 .hanasakuiroha.jp
+.hand-full-house.net
 .hangame.co.jp
 .hangame.com
 .hanihoh.com
@@ -1594,6 +1603,7 @@
 .hatagashira.com
 .hatalike.jp
 .hatebu-1000users-over.com
+.hatenablog.com
 .hatenanotebook.com
 .hayabusa-at.com
 .hayamentz.com
@@ -2004,6 +2014,7 @@
 .kitizawa.com
 .kizitora.jp
 .kizyo.net
+.kjshintani.com
 .klab.com
 .klabgames.net
 .klein-group.co.jp
@@ -2109,6 +2120,7 @@
 .linegame.jp
 .linegames.com
 .linegames.jp
+.linksynergy.com
 .linkwithin.com
 .liquorisquicker.net
 .lisa18.com
@@ -2516,6 +2528,7 @@
 .musasi.jp
 .museru.com
 .muwangpark.com
+.mwbunko.com
 .mwissoku.com
 .mxserver33.net
 .myanimelist.net
@@ -3297,6 +3310,7 @@
 .shonenjump.com
 .shonenmagazine.com
 .shop-pro.jp
+.shopping.yahoo.co.jp
 .shopserve.jp
 .shoshinsha.com
 .showbyrock-anime.com
@@ -3460,6 +3474,7 @@
 .superoptiresume.net
 .supersoftware365.info
 .supersoftware365.net
+.supersonicads.com
 .suresuta.jp
 .suruga-ya.jp
 .sute.jp
@@ -3952,6 +3967,7 @@
 .xn--hbko4132a.jp
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--o9j0bk5tjce3x.com
+.xn--ols67gexemtbf4hu7bg82b9r6c.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
 .xn--u9jw87h6tdi4hqls.com
 .xn--xvideo-up4jq68t.net
@@ -4042,6 +4058,7 @@
 .youtube.com
 .ytimg.com
 .yu-gi-ohmatome.com
+.yubit.jp
 .yucasee.jp
 .yucomia.com
 .yugioh-antenna.sakura.ne.jp
@@ -4060,6 +4077,7 @@
 .yuriplus.com
 .yurukuyaru.com
 .yuuenchi.com
+.yuugiou.link
 .yuukoku.net
 .yuyu-tei.jp
 .yuzuponzu.net
