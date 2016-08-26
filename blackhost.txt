@@ -1108,6 +1108,7 @@
 .ero-taiken.com
 .ero-talk.info
 .ero-terminal.net
+.ero-tuma.com
 .ero-video.net
 .ero-zo.com
 .ero2sokuhou.jp
@@ -1120,6 +1121,7 @@
 .erobook.info
 .erobooks.net
 .eroch8.com
+.erochronicle.com
 .erochuudoku.com
 .erocloud-no1.com
 .erodaizensyu.com
@@ -1142,6 +1144,7 @@
 .erogaroe.com
 .erogazo-happening.com
 .erogazo-jp.net
+.erogazo-mityau.com
 .erogazo-ngo.com
 .erogazooo.club
 .erogazorush.com
@@ -1168,7 +1171,9 @@
 .erokko-antenna.com
 .erolabo.com
 .erologz.com
+.eromanga-everyday.com
 .eromanga-kingdom.com
+.eromanga-search.com
 .eromanga-simple.com
 .eromanga-sokuhou.com
 .eromanga.jp
@@ -1185,6 +1190,7 @@
 .eropad.com
 .eropasture.com
 .eropeg.net
+.eroppu.com
 .eroproject.com
 .eros-group.net
 .erosite1012.com
@@ -1265,6 +1271,7 @@
 .finalfantasy.jp
 .finalfantasyxiv.com
 .first-jp.com
+.fiveslot777.com
 .flash-game-ziina.com
 .flash-l.net
 .flash-link.net
@@ -1472,6 +1479,7 @@
 .garden-tokyo.net
 .garss.jp
 .gashapon.jp
+.gatyapin.info
 .gaworare-anime.com
 .gaym.jp
 .gazo-news-antenna.com
@@ -1884,6 +1892,7 @@
 .injulog.com
 .inmobi.com
 .inner-active.mobi
+.inouehamuzo.com
 .inpane.com
 .inside-games.jp
 .inspire-design.net
@@ -2748,6 +2757,7 @@
 .nekomekuri.com
 .nekomemo.com
 .nekomeshi.com
+.nekonochie.com
 .nekotekinews.com
 .nekotonekotoneko.com
 .nekotools.club
@@ -2922,6 +2932,7 @@
 .objectclub.jp
 .oboom.com
 .obunko.com
+.ochanokosaisai.net
 .ocnk.net
 .octoba.jp
 .octopuspop.com
@@ -2954,6 +2965,7 @@
 .omtrdc.net
 .ona-kura.com
 .onaneta-soku.com
+.onani-daisuki.com
 .onanie-okazu.com
 .onanist-japan.info
 .onecall2ch.com
@@ -3457,6 +3469,7 @@
 .seoparts.net
 .sexdougalove.com
 .sexual-healing.biz
+.sexynude007.com
 .sexysexy.info
 .sexytvcap.com
 .sgfdgjfdsfjd.biz
@@ -3536,6 +3549,7 @@
 .sixu-f.com
 .siyo.org
 .sk2ch.com
+.ske48matoeme.com
 .skipmore.com
 .skmwin.net
 .skowai.com
@@ -3690,6 +3704,7 @@
 .syurabahazard.com
 .syurabakomachi.com
 .syuramama.com
+.syurasute.com
 .syuuchisoku.com
 .t.co
 .t7s.jp
@@ -3769,6 +3784,7 @@
 .thailog.net
 .thatsping.com
 .the-3rd.net
+.the-erogazou.com
 .the100yengamer.com
 .theapplaunchpad.com
 .theatn.net
