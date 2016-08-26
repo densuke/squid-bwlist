@@ -68,6 +68,7 @@
 .2ch.0726.biz
 .2ch.net
 .2ch.sc
+.2ch.to
 .2ch2.net
 .2chan.net
 .2channeler.com
