@@ -534,6 +534,7 @@
 .bestelevenplus.jp
 .besttrendnews.net
 .bethsoft.com
+.bex.jp
 .bf1.jp
 .bfmatometto.info
 .bibincom.com
@@ -635,6 +636,7 @@
 .buromato.com
 .burorai.com
 .burusoku-vip.com
+.but.jp
 .butt3rs.com
 .butterfly-corp.jp
 .buyma.com
@@ -745,6 +747,7 @@
 .cocolog-nifty.com
 .cocomachi.tokyo
 .cocone.jp
+.cocoronote.com
 .coj-agentlabo.com
 .coliss.com
 .colocal.jp
@@ -1830,6 +1833,7 @@
 .javadrive.jp
 .javaroad.jp
 .javynow.com
+.jdrop.net
 .jeez.jp
 .jeuxvideo24.com
 .jewel-s.jp
@@ -2172,6 +2176,7 @@
 .love-love-dogs.com
 .lovecosmetic.jp
 .lovehomeswap.com
+.lovekizo.com
 .lovelive-anime.jp
 .lovelive-antenna.com
 .lovelive-matome.com
@@ -2180,6 +2185,7 @@
 .lovelivepress.com
 .loveota.com
 .lovesoku.com
+.lovesoku.jp
 .lovetoy.jp
 .luckdou.com
 .lucky-domain.net
@@ -3243,6 +3249,7 @@
 .sega.jp
 .seichi-nippon.com
 .seidentest.com
+.seikatsusokuhou.com
 .seikatuch.com
 .seiroganmania.com
 .sekainoura.net
