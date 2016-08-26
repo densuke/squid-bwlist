@@ -2236,6 +2236,7 @@
 .lifeappli-antenna.com
 .lifecard.co.jp
 .lifehacker.jp
+.lifehacking.jp
 .lifeis-ok.com
 .lifewars.net
 .lightrend.com
