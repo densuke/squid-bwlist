@@ -350,6 +350,7 @@
 .animewallpaperstock.com
 .aniplex.co.jp
 .anipo.jp
+.anisuka.com
 .anitabi.net
 .anitena.tori29.net
 .anitube.se
@@ -870,6 +871,7 @@
 .damonge.com
 .dan-ball.jp
 .dancom.jp
+.danganronpa.net
 .danger-z.com
 .dannychoo.com
 .danshihack.com
@@ -1342,6 +1344,7 @@
 .funshion.net
 .furansu-go.com
 .furyu.jp
+.fusuma444.com
 .futaba-info.sakura.ne.jp
 .futababooks.com
 .futabalog.com
@@ -1955,6 +1958,7 @@
 .jewel-s.jp
 .jiggys-shop.jp
 .jigokuno.com
+.jijisikou.net
 .jikitourai.net
 .jiku-chu.com
 .jimdo.com
@@ -2159,6 +2163,7 @@
 .kodukai-king.jp
 .koga.me
 .kojikisokuhou.com
+.kokopyon.net
 .kokotodo.nobody.jp
 .kokunanmonomousu.com
 .komachi.yomiuri.co.jp
@@ -2785,6 +2790,7 @@
 .netmarble.com
 .netmarble.net
 .netoff.co.jp
+.netotua.com
 .netouyonews.net
 .netsaru.jp
 .neulion.com
@@ -2931,6 +2937,7 @@
 .obenri.com
 .objectclub.jp
 .oboom.com
+.oboroduki.com
 .obunko.com
 .ochanokosaisai.net
 .ocnk.net
@@ -3327,6 +3334,7 @@
 .redbullstudios.com
 .redtube-jp.com
 .redtube.com
+.reggaesound.net
 .rejetweb.jp
 .ren-ai.jp
 .renai-matome.com
@@ -4185,6 +4193,7 @@
 .xiaomi.net
 .xii.jp
 .xiii-xiii.com
+.xn--1iq22t3xn.net
 .xn--ccke7da9de3noexft929csfpb.com
 .xn--cckea4fdab9bb6euag7ysfya9ycf.com
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
