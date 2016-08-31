@@ -380,6 +380,7 @@
 .api.unthem.com
 .app-adforce.jp
 .app-channel.link
+.app-factory.jp
 .app-heaven.net
 .app-liv.jp
 .app-studio.biz
@@ -1233,6 +1234,7 @@
 .fantena.net
 .fashion.cc
 .fast-ranking.com
+.fast-uploader.com
 .faststore.org
 .fate-extella.jp
 .fate-go.jp
@@ -1364,6 +1366,7 @@
 .g-tune.jp
 .g-uwasa.com
 .g.bing.com
+.ga-m.com
 .ga-t.net
 .gaagle.jp
 .gaasuu.com
@@ -1791,6 +1794,7 @@
 .honkan.jp
 .honmotakeshi.com
 .hork.info
+.horsaga.jp
 .horukan.com
 .horukanlite.com
 .hoshidora.jp
@@ -2355,6 +2359,7 @@
 .macromedia.com
 .madoka-magica.com
 .madskills.com
+.mag-u.jp
 .magazinepocket.com
 .magicalmirai.com
 .magicalracing.co.jp
@@ -3340,6 +3345,7 @@
 .renai-matome.com
 .rengoku-teien.com
 .rensai.jp
+.rental-img.com
 .rental-rental.net
 .rentalhomepage.com
 .rentalkareshi.com
@@ -3460,6 +3466,7 @@
 .sekkaku.net
 .sekurosu.com
 .semakimomo.net
+.semasio.net
 .senakablog.com
 .senddownloadmy.com
 .sengokuenbu.jp
@@ -3753,6 +3760,7 @@
 .tarikin.net
 .tasplus.net
 .taste-toy.info
+.tateu.net
 .tatin.jp
 .tatsumi-sys.jp
 .tatsumix.com
@@ -3968,6 +3976,7 @@
 .universal-carnival-sammy-festival2016.com
 .universal-music.co.jp
 .universal-radio.jp
+.unlimapps.com
 .unlock.fm
 .up-stage.info
 .updatepm.com
@@ -4250,6 +4259,7 @@
 .xyz
 .y-watch.info
 .y5en.com
+.yaba-tan.net
 .yac.me
 .yaeyama-nippo.com
 .yahoo-mbga.jp
