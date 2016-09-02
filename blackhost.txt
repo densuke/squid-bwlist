@@ -145,6 +145,7 @@
 .777town.net
 .7gogo.jp
 .800vod.com
+.8569.jp
 .8bit.co.jp
 .8ing.co.jp
 .98yrkewj.com
@@ -451,8 +452,10 @@
 .atari7.com
 .ateitexe.com
 .atelier-ps3.jp
+.atfreaks.co.jp
 .atgames.jp
 .atgj.net
+.atmatome.jp
 .atna.jp
 .atode.cc
 .atolog69.com
@@ -754,6 +757,7 @@
 .cloverlab.biz
 .cloverlab.co.jp
 .clubdam.com
+.clubmint.pw
 .cmcm.com
 .cn
 .cnzz.com
@@ -813,6 +817,7 @@
 .costco.co.jp
 .cotedazur.jp
 .cotinus.org
+.countdownjapan.jp
 .couples.jp
 .cpmok.net
 .cpmstar.com
@@ -1949,6 +1954,7 @@
 .jap-xvideos.com
 .japan-mmm.net
 .japanese.joins.com
+.japanjam.jp
 .japanz.jp
 .japohan.net
 .jappleng.com
@@ -2410,6 +2416,7 @@
 .manmai.jp
 .manna-jp.com
 .mannko.net
+.manpaku.jp
 .mantan-web.jp
 .manycam.com
 .manycams.com
@@ -2901,6 +2908,7 @@
 .nogitweet.com
 .noiretaya.com
 .nomaki.jp
+.nonukes2015.jp
 .noob.jp
 .nordenfelt-thegame.com
 .nosbl.com
@@ -3011,6 +3019,7 @@
 .orewiz.mobi
 .org.hm
 .oricon.co.jp
+.original-game.com
 .originalfan.net
 .oroti.net
 .orz.hm
@@ -3329,6 +3338,7 @@
 .readers.jp
 .readmej.com
 .real-diva.com
+.real-horror.com
 .real.com
 .realonigokko.com
 .realplay.com
@@ -3356,12 +3366,15 @@
 .rhythmxchange.com
 .ri-mode.com
 .rightreader.info
+.rijfes.jp
 .ringoku.com
 .riotgames.com
 .rmake.jp
 .rmpaz.com
+.ro69.jp
 .roccat.org
 .rocketnews24.com
+.rockinstar.jp
 .roketto-ss.sakuraweb.com
 .ronsoku.com
 .room2ch.com
@@ -4271,6 +4284,7 @@
 .yakkun.com
 .yaku-soku.net
 .yakutena.com
+.yakyutsuku.com
 .yamaha-motor.co.jp
 .yamaha-motor.com
 .yamato-toys.com
