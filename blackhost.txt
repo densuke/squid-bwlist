@@ -157,6 +157,7 @@
 .a-matome.com
 .a-slot.com
 .a-spo.com
+.a-too.co.jp
 .a-wiki.net
 .a4c.jp
 .a4g.com
@@ -3543,6 +3544,7 @@
 .shonenjump.com
 .shonenmagazine.com
 .shop-pro.jp
+.shopmania.jp
 .shopping.yahoo.co.jp
 .shopserve.jp
 .shoshinsha.com
@@ -3953,6 +3955,7 @@
 .twilog.org
 .twimg.com
 .twin-angel.com
+.twinavi.jp
 .twinew.com
 .twinews.jp
 .twipple.jp
