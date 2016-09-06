@@ -365,6 +365,7 @@
 .antena.m-yellow.com
 .antenam.biz
 .antenam.info
+.antenam.jp
 .antenna-ero.com
 .antenna-ga.com
 .antenna-ver2.com
@@ -1246,6 +1247,7 @@
 .fast-ranking.com
 .fast-uploader.com
 .faststore.org
+.fate-antenna.com
 .fate-extella.jp
 .fate-go.jp
 .fate-go.net
@@ -1278,6 +1280,7 @@
 .ffrk-ch.com
 .ffrk.tokyo
 .ffxiv.com
+.fgomatome.com
 .fidelity-media.com
 .fightingirl.com
 .figsoku.net
@@ -4160,6 +4163,7 @@
 .whanime.com
 .what-character-are-you.com
 .whitemania.jp
+.whoa.jp
 .whocares.jp
 .wicurio.com
 .wife-jp.com
