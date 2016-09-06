@@ -1303,6 +1303,7 @@
 .fooooo.com
 .football-2ch.com
 .football-lab.jp
+.footballchannel.jp
 .footprintdns.com
 .forexpros.jp
 .forexprostools.com
