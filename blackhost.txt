@@ -47,6 +47,7 @@
 .2ch-antenna.com
 .2ch-antenna.net
 .2ch-antero.com
+.2ch-app.com
 .2ch-c.net
 .2ch-ii.com
 .2ch-k.net
@@ -390,6 +391,7 @@
 .app-wiki.info
 .appbako.com
 .appbank.net
+.appch.net
 .appcogroups.com
 .appdriver.jp
 .appgaku.com
@@ -409,6 +411,7 @@
 .applover.us
 .applovin.com
 .appmarketinglabo.net
+.appmatome.net
 .appmedia.jp
 .appoxee.com
 .appps.jp
@@ -1272,6 +1275,7 @@
 .fezero.jp
 .ff-reunion.net
 .ffgogogo.com
+.ffrk-ch.com
 .ffrk.tokyo
 .ffxiv.com
 .fidelity-media.com
@@ -1354,6 +1358,7 @@
 .funnypics.jp
 .funshion.net
 .furansu-go.com
+.furebo.com
 .furyu.jp
 .fusuma444.com
 .futaba-info.sakura.ne.jp
@@ -2595,6 +2600,7 @@
 .mobilefactory.jp
 .mobilelaby.com
 .mobimagic.com
+.mobiusff-ch.com
 .mobiusfinalfantasy.com
 .mobogenie.com
 .mobu.jp
@@ -2645,18 +2651,23 @@
 .monkeyantenna.net
 .monmato.com
 .monmusugame.com
+.monnsutogatya.com
 .mono-lab.net
 .mononokereport.com
 .monsoku.info
+.monst-antenna.com
+.monst-bakufu.com
 .monst-japan.com
 .monst-lupin.jp
 .monst-multi.net
 .monst-news.net
 .monst-research.com
+.monst.today
 .monst24.jp
 .monster-strike.com
 .monsterstrikekouryaku.com
 .monstop-matome.com
+.monstpress.net
 .moo.jp
 .moog-games.jp
 .moog.me
@@ -3901,6 +3912,7 @@
 .touhoudk.net
 .touken-ranbu.jp
 .toukoucity.to
+.toulove-japan.com
 .touring-navi.com
 .tousatsu1032.com
 .tousatsusokuhou.com
@@ -4317,6 +4329,7 @@
 .yodobashi.com
 .yoiyami.net
 .yomosoku.com
+.yomyo.jp
 .yooiistudios.com
 .yorozu.be
 .yossense.com
