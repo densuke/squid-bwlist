@@ -366,6 +366,7 @@
 .antenam.info
 .antenna-ero.com
 .antenna-ga.com
+.antenna-ver2.com
 .antennabank.com
 .antennachan.com
 .antennakura.net
@@ -3503,6 +3504,7 @@
 .sexytvcap.com
 .sgfdgjfdsfjd.biz
 .sgviewer.com
+.shadowverse-an.net
 .shadowverse-antenna.com
 .shadowverse-portal.com
 .shadowverse.biz
