@@ -2662,6 +2662,7 @@
 .monst-multi.net
 .monst-news.net
 .monst-research.com
+.monst.news
 .monst.today
 .monst24.jp
 .monster-strike.com
@@ -3229,6 +3230,7 @@
 .pokegogo.net
 .pokemon-br.com
 .pokemon-gl.com
+.pokemon-go.today
 .pokemon-matome.net
 .pokemon-movie.jp
 .pokemon.co.jp
