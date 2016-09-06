@@ -1247,6 +1247,7 @@
 .fate-go.jp
 .fate-go.net
 .fate-meeting.com
+.fategrandorder.info
 .fatemaster.net
 .favoch.com
 .favsite.jp
