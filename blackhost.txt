@@ -370,6 +370,7 @@
 .antenna-ga.com
 .antenna-ver2.com
 .antennabank.com
+.antennach.com
 .antennachan.com
 .antennakura.net
 .antennash.com
@@ -1063,6 +1064,7 @@
 .ebb.jp
 .ebis.ne.jp
 .ebitsu.net
+.ebsu.jp
 .ediaryhiroko.com
 .efg-drive.net
 .egoisterog.com
@@ -1251,7 +1253,11 @@
 .fate-extella.jp
 .fate-go.jp
 .fate-go.net
+.fate-grandorder.jp
 .fate-meeting.com
+.fate.kaeru.me
+.fatego-an.com
+.fatego.biz
 .fategrandorder.info
 .fatemaster.net
 .favoch.com
@@ -1438,6 +1444,7 @@
 .gamebase.com.tw
 .gamebit.jp
 .gamebiz.jp
+.gameblogrank.com
 .gamebudgie.com
 .gamecast-blog.com
 .gamecity.ne.jp
@@ -1463,6 +1470,7 @@
 .gamelog.sakura.ne.jp
 .gamemaps.com
 .gamenoarukurashi.com
+.gamenode.jp
 .gameon.jp
 .gamepedia.com
 .gamepot.co.jp
@@ -2479,6 +2487,7 @@
 .matomengo.net
 .matomenomori.net
 .matomeofmatomes.net
+.matomeomatome.com
 .matomeru2ch.com
 .matomesakura.com
 .matometanews.com
@@ -3223,6 +3232,7 @@
 .pmoa.co.jp
 .po-kaki-to.com
 .pockecolo.com
+.pocodun.net
 .point-i.jp
 .pointi.jp
 .pointtown.com
@@ -4230,6 +4240,7 @@
 .x0.to
 .x1x.com
 .x51.org
+.xaid.jp
 .xbox.com
 .xboxlive.com
 .xdomain.jp
