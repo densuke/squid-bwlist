@@ -1029,6 +1029,7 @@
 .drdinl.jp
 .dreadnought-tcg.com
 .dream-room.net
+.dream.jp
 .dreamlog.jp
 .drew5.net
 .dropbooks.com
@@ -2017,6 +2018,7 @@
 .jp-sex.com
 .jp-xvideos-av.com
 .jp.automaton.am
+.jp.lolesports.com
 .jpcamera.info
 .jpddl.com
 .jpn.com
@@ -2323,6 +2325,7 @@
 .lol2048.com
 .lolantena.com
 .lolbuild.jp
+.lolesports.com
 .loli-movix.com
 .lolimanga.com
 .lolipop.jp
@@ -2333,6 +2336,7 @@
 .lolnavi.info
 .lolsokuhou.com
 .lolstatic.com
+.lolwiki-note.info
 .lomo.jp
 .longseller.org
 .lordofv.com
@@ -3535,7 +3539,9 @@
 .shadowverse-an.net
 .shadowverse-antenna.com
 .shadowverse-portal.com
+.shadowverse.ant7.info
 .shadowverse.biz
+.shadowversematome.click
 .shakaijin.org
 .shakin.in
 .share-videos.se
