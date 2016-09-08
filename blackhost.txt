@@ -38,6 +38,7 @@
 .2-d.jp
 .200624nm.com
 .20kaido.com
+.2525r.com
 .29g.net
 .2ant.jp
 .2blo.net
@@ -545,6 +546,7 @@
 .be-max.ac.jp
 .beatmania-clearlamp.com
 .beautiful-japanese-women.net
+.beautyandyouth.jp
 .becoolusers.com
 .bee-eggplant.com
 .beelzeboulxxx.com
@@ -1096,6 +1098,7 @@
 .enkou55.com
 .enoge.org
 .enq-maker.com
+.enskyshop.com
 .enta-tubo.com
 .entapotime.com
 .entermeus.com
@@ -1937,6 +1940,7 @@
 .investing.com
 .iogous.com
 .ioryhamon.com
+.iphone-college.com
 .iphone-mania.jp
 .ipinfo.io
 .iplayer.org
@@ -1963,6 +1967,7 @@
 .izanami-antenna.com
 .izunak.com
 .izzetmtgnews.com
+.j
 .j-antenna.com
 .j-cg.com
 .j-haikyu.com
@@ -2285,6 +2290,7 @@
 .lifehacker.jp
 .lifehacking.jp
 .lifeis-ok.com
+.lifemedia.jp
 .lifewars.net
 .lightrend.com
 .lijiang-pub.com
@@ -2420,6 +2426,7 @@
 .manga-mokuroku.net
 .manga-netabare.net
 .manga-one.com
+.manga-zip.net
 .manga100ka.jp
 .manga777.com
 .mangabox.me
@@ -2442,6 +2449,7 @@
 .mannko.net
 .manpaku.jp
 .mantan-web.jp
+.mantensama.jp
 .manycam.com
 .manycams.com
 .maplestory.jp
@@ -2501,6 +2509,7 @@
 .matomez.jp
 .matsumoto-r.jp
 .maxfactory.jp
+.maybach.tokyo
 .mbdb.jp
 .mbga-platform.jp
 .mbga.jp
@@ -2646,6 +2655,7 @@
 .mogera.jp
 .mognavi.jp
 .moguragames.com
+.moguravr.com
 .mojang.com
 .mojimaru.com
 .mojomojo-licarca.com
@@ -3137,6 +3147,7 @@
 .parusoku.com
 .pascal.jp
 .pasofaq.jp
+.pasokatu.com
 .passer8.net
 .pathofexile.com
 .patolesoft.net
@@ -3541,6 +3552,8 @@
 .shadowverse-portal.com
 .shadowverse.ant7.info
 .shadowverse.biz
+.shadowverse.jp
+.shadowversefan.site
 .shadowversematome.click
 .shakaijin.org
 .shakin.in
@@ -3737,6 +3750,7 @@
 .sugumiru18.com
 .suichu-ka.com
 .suites-spot.com
+.suk9.com
 .sukattojapan.com
 .sukebe-antena.com
 .sukumizu.jp
@@ -3870,6 +3884,7 @@
 .thunder-reggae.com
 .tidaltv.com
 .tigresoft.com
+.timemachine2015.jp
 .timesale-sokuhou.com
 .tinami.com
 .tirirenge.com
@@ -4364,6 +4379,7 @@
 .yourupload.com
 .youskbe.com
 .yousuke3.com
+.youtetsu.com
 .youtu.be
 .youtube-nocookie.com
 .youtube-spot.com
