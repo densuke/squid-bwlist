@@ -295,6 +295,7 @@
 .amaebi.net
 .amakuni.info
 .amano-jack.jp
+.amaotolog.com
 .amata.info
 .amazon.co.jp
 .amazon.com
@@ -1883,6 +1884,7 @@
 .idolmaster.jp
 .idolscope.com
 .idouga.com
+.idqqimg.com
 .ifsf.org
 .iga-log.com
 .igame.com
@@ -1967,7 +1969,6 @@
 .izanami-antenna.com
 .izunak.com
 .izzetmtgnews.com
-.j
 .j-antenna.com
 .j-cg.com
 .j-haikyu.com
