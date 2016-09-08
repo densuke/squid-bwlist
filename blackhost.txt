@@ -3304,6 +3304,7 @@
 .primasm.com
 .pripara.jp
 .prisma-illya.jp
+.privacymark.jp
 .prizebp.jp
 .probuilds.net
 .program-blog.net
@@ -3683,6 +3684,7 @@
 .sonicch.com
 .sonnabakana.com
 .sorae.jp
+.soramame201603.com
 .soregashi.com
 .sosuke7.com
 .soudanch.com
@@ -3733,6 +3735,7 @@
 .stargamesbox.com
 .starlight-stage.jp
 .startappservice.com
+.static.gfavo.com
 .statrow.com
 .steamcommunity.com
 .steampowered.com
@@ -4244,6 +4247,7 @@
 .wp-shotoku.com
 .wp-simplicity.com
 .wp.me
+.wpglamour.com
 .wpongirls.com
 .ws-tcg.com
 .wtbw.net
