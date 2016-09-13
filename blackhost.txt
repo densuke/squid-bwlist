@@ -2972,6 +2972,7 @@
 .no1game.net
 .noahapps.jp
 .noahparty.com
+.nobi-web.com
 .noblewalls.site
 .nobuo-create.net
 .nobuta123.co.jp
@@ -4026,6 +4027,7 @@
 .trpg.net
 .tryspace.net
 .tsite.jp
+.tsubasakaiser.com
 .tsukumo.co.jp
 .tsundora.com
 .tsutaya.co.jp
