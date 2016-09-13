@@ -1738,6 +1738,7 @@
 .hanihoh.com
 .hanimez.com
 .hannichigukoku.info
+.hannoumatome.com
 .hao123.com
 .hapisupu.com
 .hapiyaku.com
@@ -2078,6 +2079,7 @@
 .kaigai-antena.com
 .kaigai-antenna.com
 .kaigai-matome.net
+.kaigaihannou.com
 .kaigaihannou.info
 .kaigaimatome.com
 .kaigaimm.com
