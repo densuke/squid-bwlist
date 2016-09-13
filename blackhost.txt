@@ -127,6 +127,7 @@
 .3hub.co
 .3keta.net
 .3kiss.net
+.3rd-in.co.jp
 .3s3s.org
 .4416.biz
 .4at5.net
@@ -4248,6 +4249,7 @@
 .wife-jp.com
 .wiggle.jp
 .wiki-hp.com
+.wiki3.jp
 .wikia.com
 .wikidot.com
 .wikinavi.net
