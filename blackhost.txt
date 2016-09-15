@@ -451,6 +451,7 @@
 .arsareth.net
 .aruaru.me
 .arumira.com
+.as-web.jp
 .asagei.com
 .asahiwa.jp
 .asame.sakura.ne.jp
@@ -1049,6 +1050,8 @@
 .dream-room.net
 .dream.jp
 .dreamlog.jp
+.dreamonline.co.jp
+.dressup-navi.net
 .drew5.net
 .dropbooks.com
 .ds-seiban.com
@@ -1260,6 +1263,7 @@
 .eyeviewads.com
 .eyny.com
 .f-game.jp
+.f1sokuho.com
 .facebook.com
 .fairydoll.jp
 .fam-ad.com
@@ -1912,6 +1916,7 @@
 .iga-log.com
 .igame.com
 .ignimgs.com
+.ihabu.jp
 .ii-antenna.net
 .iieshiryoudesu.net
 .iinaa.net
@@ -2299,6 +2304,7 @@
 .laland-acupressure.com
 .lanceandmasques.jp
 .land.to
+.lantis.jp
 .larc-en-ciel.com
 .lastday.jp
 .lastfm.jp
@@ -2749,8 +2755,10 @@
 .morningstar.co.jp
 .moroahedoujin.com
 .mosouba.com
+.moto-be.com
 .moto-nari.com
 .moto-neta.com
+.motorheadmagazine.jp
 .motto2.com
 .moudamepo.com
 .moug.net
@@ -3468,6 +3476,7 @@
 .rentalurl.net
 .repsoku.net
 .res2ch.net
+.revspeed.jp
 .rfs.jp
 .rhythmxchange.com
 .ri-mode.com
@@ -4457,6 +4466,7 @@
 .yen-money-point.com
 .yes24.com
 .yeshj.com
+.yeutre.vn
 .yjsnpi.nu
 .yodobashi.com
 .yoiyami.net
