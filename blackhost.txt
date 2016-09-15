@@ -730,6 +730,7 @@
 .ccpgamescdn.com
 .ccrt.biz
 .cdn-rare-gacha.com
+.cdn.ubi.com
 .cdnone.net
 .cebq.biz
 .ceek.jp
