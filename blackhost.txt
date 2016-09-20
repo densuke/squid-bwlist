@@ -90,6 +90,7 @@
 .2chmap.com
 .2chmatome-antena.com
 .2chmatome-news.com
+.2chmatome.biz
 .2chmatome.sakura.ne.jp
 .2chmatome2.jp
 .2chmatomeru.info
@@ -700,6 +701,7 @@
 .c0930.com
 .cafe-capy.net
 .cafeglobe.com
+.calcal.net
 .calciomatome.net
 .cameranonaniwa.jp
 .cample.info
@@ -3064,6 +3066,7 @@
 .ojaru.jp
 .okakuro.org
 .okanehadaiji.com
+.okanemm.com
 .okayamagic.net
 .oki2a24.com
 .okkisokuho.com
