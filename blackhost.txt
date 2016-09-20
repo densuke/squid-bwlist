@@ -151,6 +151,7 @@
 .777.nifty.com
 .777segu.net
 .777town.net
+.7god.com
 .7gogo.jp
 .800vod.com
 .8569.jp
@@ -573,6 +574,7 @@
 .benzine.sakura.ne.jp
 .beretta.com
 .bestelevenplus.jp
+.bestfx.jp
 .besttrendnews.net
 .bethsoft.com
 .bex.jp
@@ -1409,6 +1411,12 @@
 .fuzoku.sh
 .fx-startup.com
 .fx2ch.net
+.fxforexing.com
+.fxlogin.com
+.fxrec.com
+.fxremember.com
+.fxsagasu.com
+.fxshihyo.com
 .g-heaven.net
 .g-hiroba.com
 .g-matome.com
@@ -1969,6 +1977,7 @@
 .instagram.com
 .instanthq.com
 .intoday.in
+.investin.jp
 .investing.com
 .iogous.com
 .ioryhamon.com
@@ -1999,6 +2008,7 @@
 .izanami-antenna.com
 .izunak.com
 .izzetmtgnews.com
+.j-a-net.jp
 .j-antenna.com
 .j-cg.com
 .j-haikyu.com
@@ -2214,6 +2224,7 @@
 .kiritsume.com
 .kiru2ch.com
 .kiss-me-kiss-me.com
+.kissfx.com
 .kisskiss-girl.com
 .kisslog2.com
 .kita-kore.com
@@ -2441,6 +2452,7 @@
 .madoka-magica.com
 .madskills.com
 .mag-u.jp
+.mag2.com
 .magazinepocket.com
 .magicalmirai.com
 .magicalracing.co.jp
@@ -2644,6 +2656,7 @@
 .minne.com
 .minnyuu.jp
 .minpuzz.com
+.miraifx.com
 .miraimirai01.com
 .miruto.org
 .mitemin.net
@@ -3529,6 +3542,7 @@
 .sabuibo.net
 .sabukaruchan.net
 .sagaplanets.product.co.jp
+.sagasufx.com
 .saiani.net
 .saikouninukeru.com
 .saikyou.biz
@@ -3930,6 +3944,7 @@
 .taxel.jp
 .tayutau.co.jp
 .tbn17.com
+.tcs-asp.net
 .tea-nifty.com
 .team-cygames.com
 .team-detonation.net
@@ -3938,6 +3953,7 @@
 .teamliquid.net
 .teamviewer.com
 .teamys.net
+.tebichi.net
 .techbrowsing.com
 .techjp.jp
 .techside.net
@@ -4063,6 +4079,7 @@
 .trackword.biz
 .trackword.net
 .trackwords.jp
+.tradersshop.com
 .train2ch.com
 .travel
 .travian.jp
@@ -4535,6 +4552,7 @@
 .zero-plan.com
 .zerochan.net
 .zerocustom.jp
+.zerojack.jp
 .zinger-hole.net
 .zipbogo.net
 .ziyu.net
