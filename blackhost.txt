@@ -335,6 +335,7 @@
 .angel-live.com
 .angelmov.net
 .angry-mhm.com
+.anichil.com
 .anicole.net
 .anige-sokuhouvip.com
 .animalch.net
@@ -508,6 +509,7 @@
 .axelgames.net
 .ayacnews2nd.com
 .ayamevip.com
+.ayu-net.com
 .ayu-nya.com
 .azukichi.net
 .b-prince.com
@@ -515,6 +517,8 @@
 .b9dm.com
 .babarageo.com
 .babel.sc
+.babymetal-darake.com
+.babymetalmatome.com
 .bahamut.com.tw
 .baidu-cdn-hk.com
 .baidu.com
@@ -1571,6 +1575,7 @@
 .gehasoku.com
 .geinou-viral-news.com
 .geinoueroch.com
+.geinoujin-blog.net
 .geinoumatome.com
 .geitsubo.com
 .geitsuboo.com
@@ -1792,6 +1797,7 @@
 .hellsea.org
 .hemine.co
 .henahon.com
+.henshin-hero.com
 .hentaiantenna.com
 .hentaisokuhou.com
 .herbs-for-horses.com
@@ -2151,6 +2157,7 @@
 .kanpani.jp
 .kansaitei.jp
 .kantai-collection.com
+.kantama.net
 .kantan-shikaku.com
 .kantanstart.jp
 .kanzenkokuchi.jp
@@ -2457,6 +2464,7 @@
 .magazinepocket.com
 .magicalmirai.com
 .magicalracing.co.jp
+.magicianwiz.net
 .magicianwizsoku.com
 .magurooo.com
 .mahoneko.info
@@ -2493,6 +2501,7 @@
 .mangag.com
 .mangahack.com
 .mangahit.com
+.mangajunky.net
 .mangakansou.com
 .mangakit.com
 .mangalog.com
@@ -2619,6 +2628,7 @@
 .mh-stories.jp
 .mh-xr.jp
 .mh4g.org
+.mh4gch.com
 .mhf-g.jp
 .michikusa.jp
 .microad.jp
@@ -3540,6 +3550,7 @@
 .ryuuseinogotoku-trend.com
 .s-bookstore.jp
 .s-manga.net
+.s2-log.com
 .s5-style.com
 .s81c.com
 .saba-navi.com
