@@ -507,6 +507,7 @@
 .awe.jp
 .axelgames.net
 .ayacnews2nd.com
+.ayamevip.com
 .ayu-nya.com
 .azukichi.net
 .b-prince.com
@@ -2945,6 +2946,7 @@
 .newsmatomedia.com
 .newsnow-2ch.com
 .newsoku.jp
+.newsoku2chparadise.com
 .newspickup.com
 .newstaiken.jp
 .newstars.com
@@ -3005,10 +3007,12 @@
 .nishifukuma.com
 .nitroyss.jp
 .niur.net
+.niwakasokuhou.com
 .niziero.com
 .nizigami.com
 .nizigen-matome.com
 .nizigenimage.com
+.nmb48matome.jp
 .nnews1.com
 .no-genkin.com
 .no1game.net
