@@ -3,6 +3,7 @@
 .0en-game.com
 .0matome.com
 .0nyan.jp
+.0yen-health.com
 .0zero.jp
 .10000km.com
 .1000giri.net
@@ -452,6 +453,7 @@
 .aramame.net
 .arcenserv.info
 .archeage.jpn.org
+.arcj.org
 .arealme.com
 .argo-sha.com
 .arijyu.com
@@ -485,6 +487,7 @@
 .atfreaks.co.jp
 .atgames.jp
 .atgj.net
+.athuman.com
 .atmatome.jp
 .atna.jp
 .atode.cc
@@ -590,6 +593,7 @@
 .bestelevenplus.jp
 .bestfx.jp
 .besttrendnews.net
+.bethevoiceforanimals.com
 .bethsoft.com
 .bex.jp
 .bf1.jp
@@ -672,6 +676,7 @@
 .bollystop.com
 .bontoku.com
 .boo.jp
+.bookstand.webdoku.jp
 .boom-app.com
 .bouken.jp
 .boukun.com
@@ -952,6 +957,7 @@
 .demilia.web.infoseek.co.jp
 .demongaze.jp
 .demonition.com
+.dena.jp
 .dendou.jp
 .denfaminicogamer.jp
 .dengeki.com
@@ -1266,6 +1272,7 @@
 .esite100.com
 .eslgaming.com
 .esports-runner.com
+.esspride.com
 .estar.jp
 .esuteru.com
 .ettoday.net
@@ -1320,6 +1327,7 @@
 .fello.net
 .fem.jp
 .femiluna-room.com
+.ferrarilamborghininews.com
 .fesoku.net
 .feticomx.com
 .fevian.org
@@ -1402,6 +1410,7 @@
 .fukayomi-asia.net
 .fukugan.com
 .fukuharaso-pu.com
+.fukuoka-game.com
 .full-count.jp
 .fullcomp.jp
 .fumi23.com
@@ -1444,6 +1453,7 @@
 .ga-t.net
 .gaagle.jp
 .gaasuu.com
+.gachalabo.com
 .gachamoe.com
 .gachinco.com
 .gadget-live.com
@@ -1474,6 +1484,7 @@
 .game-island.info
 .game-kids.net
 .game-matome.net
+.game-member.com
 .game-news.biz
 .game-ou.com
 .game-ss.com
@@ -1680,6 +1691,7 @@
 .googlevideo.com:443
 .goonie.org
 .goooodtube.com
+.goope.jp
 .gooside.com
 .gori.me
 .gosokuhou.com
@@ -1757,6 +1769,7 @@
 .h-navigation.com
 .h-nijisoku.net
 .h3dcg.com
+.hachidory.com
 .hackadoll.com
 .hackerwatch.org
 .hahaue.com
@@ -1785,6 +1798,7 @@
 .haraitai.com
 .hardluckz.com
 .hareruyamtg.com
+.hariko.com
 .harikonotora.net
 .haripotafan.com
 .haru.gs
@@ -1792,6 +1806,7 @@
 .harusuki3.sakura.ne.jp
 .hatagashira.com
 .hatalike.jp
+.hataraku-okashi.com
 .hatebu-1000users-over.com
 .hatenablog.com
 .hatenanotebook.com
@@ -1817,6 +1832,7 @@
 .heroesbattle.jp
 .heros-ultraman.com
 .heroz.jp
+.heteml.jp
 .hexadrive.jp
 .heydouga.com
 .heyzo.com
@@ -1874,10 +1890,12 @@
 .hohochie.com
 .hokanko-alt.com
 .hokkoridays.com
+.homepagine.com
 .honeyworks-movie.jp
 .honeyworks.jp
 .honkan.jp
 .honmotakeshi.com
+.hopeforanimals.org
 .hork.info
 .horsaga.jp
 .horukan.com
@@ -1965,6 +1983,7 @@
 .ikuji-news.com
 .ikumamasokuhou.com
 .im-apps.net
+.image-rentracks.com
 .imagebam.com
 .imas-cg.net
 .imas-cinderella.com
@@ -1996,6 +2015,7 @@
 .instacam.com
 .instagram.com
 .instanthq.com
+.intensive911.com
 .intoday.in
 .investin.jp
 .investing.com
@@ -2375,10 +2395,12 @@
 .line-tatsujin.com
 .line.me
 .lineblog.me
+.linecorp.com
 .linegame.com
 .linegame.jp
 .linegames.com
 .linegames.jp
+.lineq.jp
 .linksynergy.com
 .linkwithin.com
 .liquorisquicker.net
@@ -2795,6 +2817,7 @@
 .morikinoko.com
 .morningstar.co.jp
 .moroahedoujin.com
+.morobrand.net
 .mosouba.com
 .moto-be.com
 .moto-nari.com
@@ -3039,6 +3062,7 @@
 .nizigenimage.com
 .nmb48matome.jp
 .nnews1.com
+.no-fur.org
 .no-genkin.com
 .no1game.net
 .noahapps.jp
@@ -3051,6 +3075,7 @@
 .nogitweet.com
 .noiretaya.com
 .nomaki.jp
+.nomoreanimaltests.com
 .nonukes2015.jp
 .noob.jp
 .nordenfelt-thegame.com
@@ -3110,6 +3135,7 @@
 .okakuro.org
 .okanehadaiji.com
 .okanemm.com
+.okashi-original.jp
 .okayamagic.net
 .oki2a24.com
 .okkisokuho.com
@@ -3283,6 +3309,7 @@
 .peach-soku4.com
 .peach2ch.com
 .peachy.jp
+.peatix.com
 .peco-japan.com
 .pee-puu-see.com
 .peeprec.com
@@ -3521,6 +3548,7 @@
 .rentalhomepage.com
 .rentalkareshi.com
 .rentalurl.net
+.rentracks.jp
 .repsoku.net
 .res2ch.net
 .revspeed.jp
@@ -3647,6 +3675,7 @@
 .sekindo.com
 .sekkaku.net
 .sekurosu.com
+.selvaselva.com
 .semakimomo.net
 .semasio.net
 .senakablog.com
@@ -3741,6 +3770,7 @@
 .silsila.net
 .silversecond.com
 .sim-free-fun.com
+.simeji.me
 .simg.jp
 .simiteku.com
 .simplemeet.me
@@ -3781,6 +3811,7 @@
 .slotmoe.jp
 .slotnippou.com
 .slstage.com
+.sma-sta.com
 .smaato.net
 .smagame.info
 .smagazo.com
@@ -4089,6 +4120,7 @@
 .torepiro.com
 .toretsubo.com
 .tori-ch.com
+.toroadvertisingmedia.com
 .torrent-anime.com
 .torrentstream.org
 .touch-slide.jp
@@ -4209,6 +4241,7 @@
 .upthx.net
 .ura-dipo.com
 .urageispo.com
+.urashita.com
 .uratan.jp
 .urban.ne.jp
 .urbanfonts.com
@@ -4327,6 +4360,7 @@
 .webcomics.jp
 .webcreatorbox.com
 .webcrow.jp
+.webdoku.jp
 .webgift.jp
 .webike.net
 .webings.net
@@ -4406,8 +4440,14 @@
 .wwe.com
 .wwo.asia
 .www.ekbt.net
+.www.fukuoka-game.com
+.www.hachidory.com
+.www.hanhande.com
 .www.imishin.jp
+.www.mai-net.net
 .www.ne.jp
+.www.okashi-original.jp
+.www2.koro-pokemon.com
 .wwwanime.jp
 .x-legend.co.jp
 .x-porn.me
