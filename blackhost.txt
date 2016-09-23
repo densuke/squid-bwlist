@@ -676,7 +676,6 @@
 .bollystop.com
 .bontoku.com
 .boo.jp
-.bookstand.webdoku.jp
 .boom-app.com
 .bouken.jp
 .boukun.com
@@ -4439,15 +4438,6 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
-.www.ekbt.net
-.www.fukuoka-game.com
-.www.hachidory.com
-.www.hanhande.com
-.www.imishin.jp
-.www.mai-net.net
-.www.ne.jp
-.www.okashi-original.jp
-.www2.koro-pokemon.com
 .wwwanime.jp
 .x-legend.co.jp
 .x-porn.me
