@@ -1,3 +1,4 @@
+.07073.com
 .0726.biz
 .0en-game.com
 .0matome.com
@@ -26,6 +27,8 @@
 .1616web-note.com
 .163.com
 .178.162.204.226
+.178.com
+.18183.com
 .194964.com
 .1999.co.jp
 .1geki.jp
@@ -40,6 +43,7 @@
 .200624nm.com
 .20kaido.com
 .2525r.com
+.265g.com
 .29den.com
 .29g.net
 .2ant.jp
@@ -124,6 +128,7 @@
 .2nn.jp
 .365uranai.net
 .365x7.net
+.37.com
 .3751chat.com
 .3dlinks.com
 .3dmgame.com
@@ -139,6 +144,9 @@
 .4gamer.net
 .4shared-china.com
 .4shared.com
+.5068.com
+.51wan.com
+.52pk.com
 .550909.com
 .5kplayer.com
 .5pb.jp
@@ -157,6 +165,7 @@
 .8569.jp
 .8bit.co.jp
 .8ing.co.jp
+.91danji.com
 .98yrkewj.com
 .9post.jp
 .9ualia-room.com
@@ -1071,6 +1080,7 @@
 .duba.net
 .duelcommander.com
 .duga.jp
+.duowan.com
 .dvd-access.com
 .dwango.co.jp
 .dwd-anime.com
@@ -1521,6 +1531,7 @@
 .gamer.ne.jp
 .gamerch.com
 .gamerp.jp
+.gamersky.com
 .gamersnexus.net
 .games.kids.yahoo.co.jp
 .games.yahoo.co.jp
@@ -1898,6 +1909,7 @@
 .huntersokuho.com
 .hurari2ch.com
 .husuma.com
+.huya.com
 .huyosoku.com
 .hvn4u.com
 .hxh-channel-or-jp.s3.amazonaws.com
@@ -1929,6 +1941,7 @@
 .idolscope.com
 .idouga.com
 .idqqimg.com
+.ifeng.com
 .ifsf.org
 .iga-log.com
 .igame.com
@@ -2512,6 +2525,7 @@
 .maniacerogazo.com
 .mankist.com
 .manmai.jp
+.manmankan.com
 .manna-jp.com
 .mannko.net
 .manpaku.jp
@@ -2773,6 +2787,7 @@
 .moog-games.jp
 .moog.me
 .moonmile.net
+.mop.com
 .mopita.com
 .moppy.jp
 .mora.jp
@@ -3259,6 +3274,7 @@
 .pc-karuma.net
 .pc-koubou.jp
 .pc-onlinegames.com
+.pc6.com
 .pcmanabu.com
 .pcmax.jp
 .pcpitshop.com
@@ -3946,6 +3962,7 @@
 .tanoshikoto.com
 .tanteifile.com
 .tanuki-soft.jp
+.tanwan.com
 .tanx.com
 .taobao.com
 .taptrip.jp
@@ -3989,6 +4006,7 @@
 .tetra-inc.com
 .tetrisfriends.com
 .tf3dm.com
+.tgbus.com
 .tgd.jp
 .tgl.jp
 .thailog.net
@@ -4523,6 +4541,7 @@
 .youtube-nocookie.com
 .youtube-spot.com
 .youtube.com
+.youzu.com
 .ytimg.com
 .yu-gi-ohmatome.com
 .yubit.jp
@@ -4548,6 +4567,7 @@
 .yuukoku.net
 .yuyu-tei.jp
 .yuzuponzu.net
+.yxdown.com
 .z49.org
 .za-sh.com
 .zaeega.com
