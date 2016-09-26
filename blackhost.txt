@@ -719,6 +719,7 @@
 .c-tipsref.com
 .c-tpl.com
 .c0930.com
+.ca-mpr.jp
 .cafe-capy.net
 .cafeglobe.com
 .calcal.net
@@ -4521,6 +4522,7 @@
 .yahoo-mbga.jp
 .yahooapis.jp
 .yajiuma-antena.com
+.yakamochi.org
 .yakan.net
 .yakei-mn.com
 .yakiniku-zanmai.net
