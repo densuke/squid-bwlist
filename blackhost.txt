@@ -592,6 +592,7 @@
 .beretta.com
 .bestelevenplus.jp
 .bestfx.jp
+.bestgate.net
 .besttrendnews.net
 .bethevoiceforanimals.com
 .bethsoft.com
@@ -843,6 +844,7 @@
 .conangame.jp
 .concon-collector.com
 .condenast.jp
+.coneco.net
 .consolegameswiki.com
 .conte-anime.jp
 .contextweb.com
@@ -1281,6 +1283,7 @@
 .euroia.org
 .evastore.jp
 .eve-melancholy.jp
+.eventus-partners.com
 .everymanblog.net
 .ex-cloud.jp
 .exawarosu.net
@@ -2881,6 +2884,7 @@
 .n-exceed.net
 .n131adserv.com
 .n1e.jp
+.nachoindustries.de
 .nade-saka.com
 .nadesiko-action.org
 .nagariknews.com
