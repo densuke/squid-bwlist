@@ -1319,7 +1319,6 @@
 .fate-go.net
 .fate-grandorder.jp
 .fate-meeting.com
-.fate.kaeru.me
 .fatego-an.com
 .fatego.biz
 .fategrandorder.info
@@ -4466,7 +4465,7 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
-.www.hanhande.com
+.hanhande.com
 .www.mai-net.net
 .www2.koro-pokemon.com
 .wwwanime.jp
