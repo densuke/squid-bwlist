@@ -86,6 +86,7 @@
 .2chan.net
 .2channeler.com
 .2chav.com
+.2chblog.biz
 .2chblog.jp
 .2chcenter.com
 .2chcopipe.com
@@ -195,6 +196,7 @@
 .accessgames.co.jp
 .accesstrade.net
 .accuweather.com
+.acecombat.jp
 .aceking.info
 .aceonline.arario.jp
 .acquire.co.jp
@@ -395,6 +397,7 @@
 .antennach.com
 .antennachan.com
 .antennakura.net
+.antennam.net
 .antennash.com
 .antenow.com
 .antiina.com
@@ -513,12 +516,14 @@
 .avgazounavi.com
 .aviationwire.jp
 .avinfolie.net
+.avirtualhome.com
 .aviutl.info
 .avtv-movie.com
 .avximg.com
 .awasete.com
 .awe.jp
 .axelgames.net
+.axelmark.jp
 .ayacnews2nd.com
 .ayamevip.com
 .ayu-net.com
@@ -565,6 +570,9 @@
 .bash-tv.com
 .battle.net
 .battlefield.com
+.battlegirl-hs.com
+.battlegirl-hs.jp
+.battlegirlhs-news.com
 .bay12games.com
 .bb-douga.com
 .bbb-bike.com
@@ -664,6 +672,8 @@
 .bm.to
 .bmcaxis.jp
 .bn765.com
+.bne-live.net
+.bnent.jp
 .bngames.net
 .boardgamearena.net
 .bochist.com
@@ -1294,6 +1304,7 @@
 .f-game.jp
 .f1sokuho.com
 .facebook.com
+.factage.com
 .fairydoll.jp
 .fam-ad.com
 .famitsu.com
@@ -1545,6 +1556,8 @@
 .gamer.ne.jp
 .gamerch.com
 .gamerp.jp
+.gamers-link.net
+.gamers-next.com
 .gamersky.com
 .gamersnexus.net
 .games.kids.yahoo.co.jp
@@ -1894,10 +1907,12 @@
 .hokanko-alt.com
 .hokkoridays.com
 .homepagine.com
+.hon-hikidashi.jp
 .honeyworks-movie.jp
 .honeyworks.jp
 .honkan.jp
 .honmotakeshi.com
+.honyaclub.com
 .hopeforanimals.org
 .hork.info
 .horsaga.jp
@@ -2072,6 +2087,7 @@
 .jarodtaylor.com
 .javadrive.jp
 .javaroad.jp
+.javascriptist.net
 .javynow.com
 .jdrop.net
 .jeez.jp
@@ -2141,6 +2157,7 @@
 .kabooo.net
 .kachibito.net
 .kaerini-kitaiti.com
+.kaeru.me
 .kagajo.com
 .kagekidan.net
 .kai-han.com
@@ -2606,6 +2623,7 @@
 .matomenomori.net
 .matomeofmatomes.net
 .matomeomatome.com
+.matomeplus.net
 .matomeru2ch.com
 .matomesakura.com
 .matometanews.com
@@ -2719,6 +2737,7 @@
 .mizuhonokuni2ch.com
 .mizukinana.jp
 .mizutamacollage-factory.net
+.mkubara.com
 .mlb.com
 .mmate.jp
 .mmmzy.jp
@@ -3514,6 +3533,7 @@
 .rampokitan.com
 .random-call.net
 .rankin9.com
+.rantenna.com
 .rapidgator.net
 .rare-gacha.com
 .rash.jp
@@ -3860,6 +3880,7 @@
 .sosuke7.com
 .soudanch.com
 .sougetsu-on.net
+.soulcalibur.com
 .sounansa.net
 .soundsonline.com
 .soupresed.com
@@ -4027,6 +4048,7 @@
 .techside.net
 .techxt.com
 .teepr.com
+.tekken-official.jp
 .tel03.com
 .telaffy.jp
 .ten-navi.com
@@ -4208,6 +4230,7 @@
 .tyabo.com
 .type-music.com
 .type.jp
+.typemoon.com
 .u-note.me
 .u0u0.net
 .uauniverse.com
@@ -4443,6 +4466,9 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
+.www.hanhande.com
+.www.mai-net.net
+.www2.koro-pokemon.com
 .wwwanime.jp
 .x-legend.co.jp
 .x-porn.me
@@ -4467,15 +4493,23 @@
 .xn--ccke7da9de3noexft929csfpb.com
 .xn--cckea4fdab9bb6euag7ysfya9ycf.com
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
+.xn--cckta3ffn5a0pnc1d3251esfpb.com
 .xn--eck7a6c879tprd955g.com
+.xn--eckpeh3c1e4bf2p9bobe6uf0171nhlxbe28cle0f.biz
 .xn--eckq7fg8cygsa1a1je.xn--wiki-4i9hs14f.com
 .xn--eckxbbb2a8bm6x4ff.com
 .xn--eckxbbb2a8bm6x4ff0428l0ssb.com
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--fatego-8c4e9f2a1906ksfpb.com
+.xn--go-jb4asdqa7zrkmbxks096csfpb.co
 .xn--hbko4132a.jp
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--ick7bf1142a905dzoah89f.com
+.xn--mckvcxa3ib5hp954axr3e.com
+.xn--mckvcxa4ipd.com
+.xn--mckvcxa4ipd.net
+.xn--news-uk4cvbwa3fsgzci93abe3wf0948te29b.biz
+.xn--o9j0bk1lpbt3e1fuch21abe6uf5115s5o6b.com
 .xn--o9j0bk5tjce3x.com
 .xn--ols67gexemtbf4hu7bg82b9r6c.com
 .xn--r8jwklh769h2mc880dk1o431a.com
@@ -4483,6 +4517,7 @@
 .xn--u9jw87h6tdi4hqls.com
 .xn--xvideo-up4jq68t.net
 .xn--zck0ab2m.com
+.xn--zck0ab2mr42rre5d.biz
 .xnews.jp
 .xonline.jp
 .xperia-freaks.org
