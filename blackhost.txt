@@ -4527,6 +4527,7 @@
 .xnews.jp
 .xonline.jp
 .xperia-freaks.org
+.xpg.jp
 .xrea.com
 .xsrv.jp
 .xunlei.com
