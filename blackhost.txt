@@ -1518,6 +1518,7 @@
 .gameassetstudio.jp
 .gamebanana.com
 .gamebase.com.tw
+.gamebbs.info
 .gamebit.jp
 .gamebiz.jp
 .gameblogrank.com
