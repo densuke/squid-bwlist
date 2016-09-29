@@ -350,6 +350,7 @@
 .anichil.com
 .anicole.net
 .anige-sokuhouvip.com
+.anihatsu.com
 .animalch.net
 .animate-onlineshop.jp
 .animate.co.jp
@@ -1722,6 +1723,7 @@
 .gpf.mymd.jp
 .gqjapan.jp
 .grabzer.com
+.gran-matome.com
 .gran-turismo.com
 .granbluefantasy.jp
 .graniph.com
@@ -1801,6 +1803,7 @@
 .hand-full-house.net
 .hangame.co.jp
 .hangame.com
+.hanhande.com
 .hanihoh.com
 .hanimez.com
 .hannichigukoku.info
@@ -2040,6 +2043,7 @@
 .ioryhamon.com
 .iphone-college.com
 .iphone-mania.jp
+.iphonech.info
 .ipinfo.io
 .iplayer.org
 .ippa.jp
@@ -3041,6 +3045,7 @@
 .nicoblomaga.jp
 .nicodic.jp
 .nicoken.com
+.nicolog.net
 .nicomato.com
 .nicomi.com
 .niconicogakkai.jp
@@ -3252,6 +3257,7 @@
 .otyayuku.com
 .ouchi.to
 .oukasoft.com
+.oumaga-times.com
 .overlord-anime.com
 .owata-antenna.com
 .owata-net.com
@@ -3810,6 +3816,7 @@
 .siyo.org
 .sk2ch.com
 .ske48matoeme.com
+.ske48matome.net
 .skipmore.com
 .skmwin.net
 .skowai.com
@@ -4465,7 +4472,6 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
-.hanhande.com
 .www.mai-net.net
 .www2.koro-pokemon.com
 .wwwanime.jp
@@ -4550,6 +4556,7 @@
 .xvideosmovie.com
 .xvideosnavi.mobi
 .xxeronetxx.info
+.xxhuyuzero.jp
 .xxxxxxxx.jp
 .xyz
 .y-watch.info
