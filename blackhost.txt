@@ -2505,6 +2505,7 @@
 .lxdns.com
 .m-ant.com
 .m-cocolog.jp
+.m-drug.com
 .m-glam.net
 .m-o-w.net
 .m4ex.com
@@ -4606,6 +4607,7 @@
 .yjsnpi.nu
 .yodobashi.com
 .yoiyami.net
+.yokinihakarae.com
 .yomosoku.com
 .yomyo.jp
 .yooiistudios.com
