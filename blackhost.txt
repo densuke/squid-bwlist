@@ -826,6 +826,7 @@
 .cobwebs.jp
 .cocacola.co.jp
 .cocktail-recipe.net
+.coco-log.net
 .cocolog-nifty.com
 .cocomachi.tokyo
 .coconala.co.jp
@@ -3561,6 +3562,7 @@
 .real.com
 .realonigokko.com
 .realplay.com
+.realtime-news.net
 .recochoku.jp
 .recordchina.co.jp
 .recruitment.jp
