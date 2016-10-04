@@ -3379,6 +3379,7 @@
 .pinknotora.net
 .pinknoyakata.com
 .pinkpineapple.co.jp
+.pinterest.com
 .pinvoke.com
 .pioncoo.net
 .pipa.jp
@@ -4525,6 +4526,7 @@
 .xn--news-uk4cvbwa3fsgzci93abe3wf0948te29b.biz
 .xn--o9j0bk1lpbt3e1fuch21abe6uf5115s5o6b.com
 .xn--o9j0bk5tjce3x.com
+.xn--o9j0bk8t7cqhlg.com
 .xn--ols67gexemtbf4hu7bg82b9r6c.com
 .xn--r8jwklh769h2mc880dk1o431a.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
