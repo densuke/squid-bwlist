@@ -2227,6 +2227,7 @@
 .karukantimes.com
 .karzusp.net
 .kasaneteto.jp
+.kasemato.com
 .katei-matome.com
 .kateich.net
 .katsumoku.net
@@ -2370,6 +2371,7 @@
 .kyomohot.com
 .kyonyudouga.com
 .kyonyudouga.me
+.kyoumo-life.com
 .kyousoku.net
 .kyukyo.com
 .kyuukyoku-matome.info
@@ -3166,6 +3168,7 @@
 .oj-group.net
 .ojaru.jp
 .okakuro.org
+.okane-antena.com
 .okanehadaiji.com
 .okanemm.com
 .okashi-original.jp
@@ -3319,6 +3322,7 @@
 .passer8.net
 .pathofexile.com
 .patolesoft.net
+.pattoma.com
 .pazdra-blogparts.net
 .pazdraism.info
 .pazu.biz
@@ -3889,6 +3893,7 @@
 .sogou.com
 .soku.com
 .sokuhabo.net
+.sokutatubin.com
 .solty.2-d.jp
 .solty.biz
 .sonicch.com
@@ -4251,6 +4256,7 @@
 .type.jp
 .typemoon.com
 .u-note.me
+.u-style.biz
 .u0u0.net
 .uauniverse.com
 .ubisoft.co.jp
