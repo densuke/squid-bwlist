@@ -1,3 +1,4 @@
+.0574.jp
 .07073.com
 .0726.biz
 .0en-game.com
@@ -498,6 +499,7 @@
 .atode.cc
 .atolog69.com
 .atpages.jp
+.attaka-navi.com
 .attomaimai.sakura.ne.jp
 .attosoft.info
 .attrip.jp
@@ -566,6 +568,7 @@
 .bandainamcogames.co.jp
 .bandainamcoid.com
 .bandch.com
+.bang-dream.com
 .bannerbridge.net
 .baraero.com
 .barcode-net.com
@@ -713,6 +716,7 @@
 .buromato.com
 .burorai.com
 .burusoku-vip.com
+.bushimo.jp
 .but.jp
 .butt3rs.com
 .butterfly-corp.jp
@@ -775,6 +779,7 @@
 .ceipmsn.com
 .cetrk.com
 .cf-vanguard.com
+.cg-wallpaper.com
 .cgi-games.com
 .ch
 .ch9.ms
@@ -891,6 +896,7 @@
 .crazyrape.net
 .crc-japan.com
 .creamu.com
+.creative-box.in
 .creative-video.info
 .credit-zeus.net
 .criteo.com
@@ -1291,6 +1297,7 @@
 .esspride.com
 .estar.jp
 .esuteru.com
+.eternal-moment-mw.com
 .ettoday.net
 .euro-sports.jp
 .eurogamer.net
@@ -1309,6 +1316,7 @@
 .f1sokuho.com
 .facebook.com
 .factage.com
+.faifai24.com
 .fairydoll.jp
 .fam-ad.com
 .famitsu.com
@@ -1424,6 +1432,7 @@
 .fujibaba.com
 .fujimarukun.co.jp
 .fujitaiju.com
+.fujiten.jp
 .fukayomi-asia.net
 .fukugan.com
 .fukuharaso-pu.com
@@ -1570,6 +1579,7 @@
 .gameserver.hyperphoton.com
 .gamesforwork.com
 .gamesindustry.biz
+.gamesiyo.com
 .gameslando.com
 .gamesnatch2042.com
 .gamespark.jp
@@ -1577,6 +1587,7 @@
 .gamestalk.net
 .gametama.jp
 .gametsu.net
+.gametter.com
 .gameusers.org
 .gamewalker.link
 .gamewith.jp
@@ -1655,6 +1666,7 @@
 .ggame.jp
 .gger.jp
 .ggsoku.com
+.gifmagazine.net
 .gifnuki.com
 .gifpeta.com
 .gift-gift.jp
@@ -1672,6 +1684,7 @@
 .girldoll.org
 .girlsbook.net
 .girlschannel.net
+.girlsheaven-job.net
 .girlsnews.jp
 .girlsreader.com
 .girlsvip-matome.com
@@ -1789,6 +1802,7 @@
 .h-ken.net
 .h-navigation.com
 .h-nijisoku.net
+.h-shacho.com
 .h3dcg.com
 .hachidory.com
 .hackadoll.com
@@ -2404,6 +2418,8 @@
 .leagueoflegends.com
 .leaked.jp
 .ledyba.org
+.legend24.jp
+.legendarypokemon.net
 .lelezhen.com
 .letskendo.com
 .letv.com
@@ -2670,6 +2686,7 @@
 .megamiengage.com
 .megavideo-navi.com
 .megwin.com
+.mei-news.com
 .meigaraguide.com
 .melon.com
 .melonbooks.co.jp
@@ -2835,8 +2852,10 @@
 .monst.today
 .monst24.jp
 .monster-strike.com
+.monsterstrike-news.com
 .monsterstrikekouryaku.com
 .monstop-matome.com
+.monstpress.com
 .monstpress.net
 .moo.jp
 .moog-games.jp
@@ -3163,6 +3182,7 @@
 .odysseytweet.com
 .officedaytime.com
 .officiallyjd.com
+.ogotoso-pu.com
 .ogp.me
 .ohugi.com
 .oishi-hitozuma.com
@@ -3426,6 +3446,7 @@
 .pmoa.co.jp
 .po-kaki-to.com
 .pockecolo.com
+.pocketmonsters.net
 .pocodun.net
 .point-i.jp
 .pointi.jp
@@ -3449,6 +3470,7 @@
 .pokemongo-master.com
 .pokemongo-matomechan.com
 .pokemongo-news.com
+.pokemongo24g.com
 .pokemongooo.net
 .pokemonlab.jp
 .pokemonshowdown.com
@@ -3507,6 +3529,7 @@
 .punipuni.co
 .pupa-anime.com
 .pupu.jp
+.purelovers.com
 .purl.org
 .purotora.com
 .pussy-doranka.com
@@ -3649,6 +3672,7 @@
 .saiani.net
 .saikouninukeru.com
 .saikyo-jump.com
+.saikyo.biz
 .saikyou.biz
 .sailormoon-official.com
 .saionji.net
@@ -3681,6 +3705,7 @@
 .sblo.jp
 .sbr-vcj.com
 .sbs-ad.com
+.scandal-4.com
 .schema.org
 .schizophonic9.com
 .schoolgirlstrikers.jp
@@ -3739,6 +3764,8 @@
 .seo-stats.com
 .seo.net-tribe.jp
 .seoparts.net
+.serebii.net
+.serebiiforums.com
 .setsuyaku-hukugyou.net
 .sexdougalove.com
 .sexual-healing.biz
@@ -3911,6 +3938,8 @@
 .soundsonline.com
 .soupresed.com
 .sousakuba.com
+.sozainomori.com
+.sozaiya-search.com
 .sp-antenna.com
 .spccint.com
 .special-pink-image.com
@@ -4077,6 +4106,7 @@
 .tekken-official.jp
 .tel03.com
 .telaffy.jp
+.template-party.com
 .ten-navi.com
 .tenga.client.jp
 .tenkomo.com
@@ -4103,6 +4133,7 @@
 .thechork.com
 .theg0.info
 .thegame.jp
+.thegifs.net
 .thehikaku.net
 .theinfoapps.com
 .theme.o2gp.com
@@ -4215,6 +4246,7 @@
 .tsubasakaiser.com
 .tsukumo.co.jp
 .tsundora.com
+.tsunezu.net
 .tsutaya.co.jp
 .ttvnw.net
 .tubakurame.com
