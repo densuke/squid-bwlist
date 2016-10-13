@@ -530,6 +530,7 @@
 .ayamevip.com
 .ayu-net.com
 .ayu-nya.com
+.ayushii.net
 .azukichi.net
 .b-prince.com
 .b.st-hatena.com
@@ -3283,6 +3284,7 @@
 .p-world.co.jp
 .pachinker.sakura.ne.jp
 .pachinkokouryaku.com
+.pachinkopachisro.com
 .pachinkovista.com
 .pachiseven.jp
 .pachislot-movie.com
