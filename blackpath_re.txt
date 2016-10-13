@@ -38,3 +38,4 @@ nijimoe
 /api/MemberGetMyState
 ^/images/gyao
 /images/games/
+/.*PepperFlashPlayer.crx
