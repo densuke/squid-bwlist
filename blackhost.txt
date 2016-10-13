@@ -1970,6 +1970,7 @@
 .i2iserv.com
 .icchibanketu.net
 .ichikatsu.com
+.ichioshikabunavi.net
 .icloud.com
 .idea-unlimited.com
 .ideatool.jp
@@ -3093,6 +3094,7 @@
 .nizigenimage.com
 .nmb48matome.jp
 .nnews1.com
+.nnt-sokuhou.com
 .no-fur.org
 .no-genkin.com
 .no1game.net
@@ -3707,6 +3709,7 @@
 .seikatsusokuhou.com
 .seikatuch.com
 .seiroganmania.com
+.sekai-kabuka.com
 .sekainoura.net
 .sekanew.com
 .sekindo.com
