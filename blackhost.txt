@@ -387,6 +387,7 @@
 .annoisli.com
 .anoero.com
 .anonymous-post.com
+.ant7.info
 .antch.net
 .antena.m-yellow.com
 .antenam.biz
@@ -619,6 +620,7 @@
 .big-echo.jp
 .biglettershirt.com
 .bigmining.com
+.bigworldtech.com
 .bijin-club.net
 .bijinbu.me
 .bijo-linux.com
@@ -640,6 +642,7 @@
 .bittorrent.com
 .bituse.info
 .bizmakoto.jp
+.bl-koubou.com
 .black-flag.net
 .blacksmith-gilgamesh.jp
 .blazegames.jp
@@ -693,6 +696,7 @@
 .bollystop.com
 .bontoku.com
 .boo.jp
+.bookshorts.jp
 .boom-app.com
 .bouken.jp
 .boukun.com
@@ -703,6 +707,7 @@
 .bravelyarchive.jp
 .brightcove.co.jp
 .brightcove.com
+.brillia-sst.jp
 .broccoli.co.jp
 .bst-akiba.net
 .bsveri.com
@@ -1856,6 +1861,7 @@
 .hearthgamers.com
 .heartlife-matome.com
 .hekk.org
+.hellotalk.com
 .hellsea.org
 .hemine.co
 .henahon.com
@@ -2031,6 +2037,7 @@
 .imgs.ws
 .imgur.com
 .imgvc.com
+.imigame.com
 .imikowa.com
 .immoral.jp
 .imperialsaga.jp
@@ -2070,6 +2077,7 @@
 .ironna.jp
 .iruna.jp
 .iryoku.net
+.iskysoft.com
 .iso-labo.com
 .isopro91.com
 .isus.jp
@@ -2391,6 +2399,7 @@
 .kyukyo.com
 .kyuukyoku-matome.info
 .kyuusai2nd.net
+.l--l.jp
 .l-l-life.com
 .lab-genetique-biometrie.com
 .lab-matome.com
@@ -2551,6 +2560,7 @@
 .magurooo.com
 .mahoneko.info
 .mahoutsukaino.com
+.mai-net.net
 .maikiuchi.sakura.ne.jp
 .mailchimp.com
 .maimai48.net
@@ -2715,6 +2725,7 @@
 .mh4g.org
 .mh4gch.com
 .mhf-g.jp
+.mhx-navi.com
 .michikusa.jp
 .microad.jp
 .microsoftstore.com
@@ -2921,6 +2932,7 @@
 .mwissoku.com
 .mxserver33.net
 .myanimelist.net
+.mycardgame.net
 .mydns.jp
 .myjitsu.jp
 .mylohas.net
@@ -3082,6 +3094,7 @@
 .nicovideo.jp
 .nidanida.com
 .night-grow.com
+.nihao520.com
 .nihonjinnanmin.com
 .nihonshu-banduke.net
 .niji-gazo.com
@@ -3127,6 +3140,7 @@
 .nobuo-create.net
 .nobuta123.co.jp
 .nobuwiki.org
+.noface.jp
 .nogitweet.com
 .noiretaya.com
 .nomaki.jp
@@ -3379,6 +3393,7 @@
 .persona5.jp
 .petippai.com
 .petitlyrics.com
+.petitrare.com
 .pf-x.net
 .pfota.com
 .phmovielife.com
@@ -3776,6 +3791,7 @@
 .sgviewer.com
 .shadovermatome.com
 .shadowlog.com
+.shadowverse-an.com
 .shadowverse-an.net
 .shadowverse-antenna.com
 .shadowverse-portal.com
@@ -3784,6 +3800,7 @@
 .shadowverse.jp
 .shadowversefan.site
 .shadowversematome.click
+.shadowversepress.biz
 .shakaijin.org
 .shakin.in
 .share-videos.se
@@ -3827,6 +3844,7 @@
 .shopmania.jp
 .shopping.yahoo.co.jp
 .shopserve.jp
+.shortshorts.org
 .shoshinsha.com
 .showbyrock-anime.com
 .shrinky.link
@@ -4041,6 +4059,7 @@
 .t.co
 .t7s.jp
 .tabibitojin.com
+.tabimoja.com
 .tabizine.jp
 .tabkul.com
 .tabtter.jp
@@ -4143,6 +4162,7 @@
 .thumbs.canstockphoto.com
 .thunder-reggae.com
 .tidaltv.com
+.tietuku.com
 .tigresoft.com
 .tiki.ne.jp
 .timemachine2015.jp
@@ -4178,6 +4198,7 @@
 .tokyokawaiilife.jp
 .tokyoloader.com
 .tomangan.org
+.tomatama.com
 .tome-uto.com
 .tomodachi.game
 .tonakai.aki.gs
@@ -4419,6 +4440,7 @@
 .waraan.jp
 .waraiseek.jp
 .waranews.com
+.wargaming.com
 .wargaming.net
 .warmmovie.com
 .warotach.com
@@ -4511,6 +4533,7 @@
 .worldfn.net
 .worldof-tanks.com
 .worldoftanks.asia
+.worldofwarships.asia
 .worldsirouto.com
 .wot-news.com
 .wowgame.jp
@@ -4665,6 +4688,7 @@
 .youkaiwatch-nyansoku.com
 .youkanman.com
 .youku.com
+.youle55.com
 .youngjump.jp
 .yourupload.com
 .youskbe.com
