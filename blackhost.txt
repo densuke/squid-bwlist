@@ -1270,6 +1270,7 @@
 .eromanga.jp
 .eromangacafe.com
 .eromangalife.com
+.eromanganomori.com
 .eromangaosamu.com
 .eromate.info
 .eromazofu.com
@@ -1692,6 +1693,7 @@
 .girlsheaven-job.net
 .girlsnews.jp
 .girlsreader.com
+.girlsreport.net
 .girlsvip-matome.com
 .girlzbar.com
 .giwiz-quriosity.c.yimg.jp
@@ -3294,6 +3296,7 @@
 .otokuhikkoshi.net
 .otokumedia.com
 .otomens.com
+.otonanoeigakan.com
 .otonarisoku.com
 .otonomai.me
 .otoshiana.com
@@ -3491,6 +3494,7 @@
 .pokemonshowdown.com
 .pokerdou.com
 .pokesen.com
+.pokesoku.co
 .pokesoku.jp
 .pokestop.link
 .pokkentournament.jp
@@ -3556,6 +3560,7 @@
 .puzu.biz
 .puzzdragon.jp
 .puzzdrashinbun.com
+.pvk.jp
 .pxy.jp
 .pya.cc
 .q-six.net
@@ -3830,6 +3835,7 @@
 .shironekoproject-news.com
 .shironekoproject.jp
 .shiroutmove.com
+.shiroutosan.com
 .shirumonovideo.com
 .shishioh.info
 .shisuh.com
@@ -4082,6 +4088,7 @@
 .taleworlds.com
 .tam-music.com
 .tam-music.sub.jp
+.tamaerogazo.com
 .tamahobby.com
 .tamashii.jp
 .tamenal.com
@@ -4253,6 +4260,7 @@
 .train2ch.com
 .travel
 .travian.jp
+.tre-ero.net
 .treasonnews.com
 .treasonnews.net
 .treeofsavior.it
@@ -4484,6 +4492,7 @@
 .webtracker.jp
 .webtruyen.com
 .webworkersclip.com
+.weeeisokuhou.com
 .weeklymouse.com
 .wemade.jp
 .whanime.com
@@ -4574,6 +4583,7 @@
 .xn--ccke7da9de3noexft929csfpb.com
 .xn--cckea4fdab9bb6euag7ysfya9ycf.com
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
+.xn--cckl9h3crds541co4i.com
 .xn--cckta3ffn5a0pnc1d3251esfpb.com
 .xn--eck7a6c879tprd955g.com
 .xn--eckpeh3c1e4bf2p9bobe6uf0171nhlxbe28cle0f.biz
@@ -4587,6 +4597,7 @@
 .xn--hbko4132a.jp
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--ick7bf1142a905dzoah89f.com
+.xn--icki3m8b5az364en4ql70f.com
 .xn--mckvcxa3ib5hp954axr3e.com
 .xn--mckvcxa4ipd.com
 .xn--mckvcxa4ipd.net
