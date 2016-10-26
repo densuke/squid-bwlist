@@ -631,6 +631,7 @@
 .biranger.jp
 .birthdayflower366.com
 .bishatti.com
+.bit.ly
 .bita.jp
 .bitcash.jp
 .bitcoinstat.org
@@ -826,6 +827,9 @@
 .clover-rabbit.club
 .cloverlab.biz
 .cloverlab.co.jp
+.club-t.com
+.club-terras.jp
+.club-tourism.co.jp
 .clubdam.com
 .clubmint.pw
 .cmcm.com
@@ -844,6 +848,7 @@
 .coconala.com
 .cocone.jp
 .cocoronote.com
+.coels.net
 .coj-agentlabo.com
 .coliss.com
 .colocal.jp
@@ -912,6 +917,7 @@
 .crossange.com
 .crx7601.com
 .csgowild.com
+.ctmb.jp
 .cube-soft.jp
 .cuebic.biz
 .cuns.net
@@ -1611,6 +1617,7 @@
 .garden-tokyo.net
 .garss.jp
 .gashapon.jp
+.gatyaken.com
 .gatyapin.info
 .gaworare-anime.com
 .gaym.jp
@@ -1923,6 +1930,7 @@
 .hn-antena.com
 .hnalady.com
 .hntk.org
+.ho.huegame.jp
 .hobby-channel.net
 .hobby-wave.com
 .hobby.gray-japan.com
@@ -2117,6 +2125,7 @@
 .japohan.net
 .jappleng.com
 .jarodtaylor.com
+.jata-net.or.jp
 .javadrive.jp
 .javaroad.jp
 .javascriptist.net
@@ -2337,6 +2346,7 @@
 .klein-group.co.jp
 .kmatome.com
 .kmlg.jp
+.knt.co.jp
 .kobo.com
 .kobobooks.com
 .kodukai-king.jp
@@ -2354,9 +2364,11 @@
 .konowaro.net
 .konoyubitomare.jp
 .kontagent.net
+.kontany.net
 .konton.info
 .korewaeroi.com
 .kororo.jp
+.koroweb.com
 .kosakalab.com
 .koshiplay.com
 .kosonews.com
@@ -2365,6 +2377,7 @@
 .kotaro269.com
 .kotarogame.com
 .kotobukiya.co.jp
+.kotorikyo.org
 .kotoripiyopiyo.com
 .koty.wiki
 .koukasound.com
@@ -2619,6 +2632,7 @@
 .maria-marie.info
 .marinediving.com
 .mariobros.net
+.markpoke.com
 .mars-tohken.co.jp
 .marugame-seimen.com
 .marugoto-antenna.com
@@ -2899,6 +2913,7 @@
 .movin.co.jp
 .movingflash.com
 .mp3cut.net
+.mp3fino.com
 .msgamestudios.com
 .msmtk.com
 .mstmtt.com
@@ -2936,6 +2951,7 @@
 .myanimelist.net
 .mycardgame.net
 .mydns.jp
+.myfirststory.net
 .myjitsu.jp
 .mylohas.net
 .mylostgames.com
@@ -3065,6 +3081,7 @@
 .newspickup.com
 .newstaiken.jp
 .newstars.com
+.newstisiki.com
 .newswitch.jp
 .newtopics.info
 .newtou.info
@@ -3425,6 +3442,7 @@
 .pinknotora.net
 .pinknoyakata.com
 .pinkpineapple.co.jp
+.pinopino-cha.info
 .pinterest.com
 .pinvoke.com
 .pioncoo.net
@@ -3548,6 +3566,7 @@
 .punipuni.co
 .pupa-anime.com
 .pupu.jp
+.pureka86.com
 .purelovers.com
 .purl.org
 .purotora.com
@@ -3583,6 +3602,7 @@
 .r401.net
 .rabit-money.net
 .radiko.jp
+.rafnewjs.info
 .rafuten.com
 .railgun-antenna-x.info
 .railgun-antenna.info
@@ -3786,6 +3806,7 @@
 .seoparts.net
 .serebii.net
 .serebiiforums.com
+.servebom.com
 .setsuyaku-hukugyou.net
 .sexdougalove.com
 .sexual-healing.biz
@@ -3913,6 +3934,7 @@
 .slstage.com
 .sma-sta.com
 .smaato.net
+.smacolle.jp
 .smagame.info
 .smagazo.com
 .smart-click.net
@@ -4064,8 +4086,10 @@
 .syuuchisoku.com
 .t.co
 .t7s.jp
+.tabee-japan.com
 .tabibitojin.com
 .tabimoja.com
+.tabitomoshop.jp
 .tabizine.jp
 .tabkul.com
 .tabtter.jp
@@ -4410,6 +4434,7 @@
 .vipelog.com
 .vipick.net
 .vippers.jp
+.vipprog.net
 .vipsister23.com
 .vipvipnews.com
 .viral-community.com
