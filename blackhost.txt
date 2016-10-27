@@ -271,6 +271,7 @@
 .aiueo-keizai.com
 .aiyokugekijo.com
 .ajifun.com
+.ajinori.com
 .akaguro.jp
 .akari-house.net
 .akb2ch.com
@@ -3497,6 +3498,7 @@
 .pokemon-go.today
 .pokemon-matome.net
 .pokemon-movie.jp
+.pokemon-style.com
 .pokemon.co.jp
 .pokemon.com
 .pokemon.jp
