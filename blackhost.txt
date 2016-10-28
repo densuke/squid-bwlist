@@ -1452,6 +1452,7 @@
 .fukuoka-game.com
 .full-count.jp
 .fullcomp.jp
+.fullrevo777.com
 .fumi23.com
 .fundo.jp
 .fungames-forfree.com
@@ -2385,6 +2386,7 @@
 .kourick.net
 .kowabana.jp
 .kowabanakaii.com
+.kowai-story.net
 .koyakucounter.com
 .kppa20xx.com
 .kra-ken.com
@@ -4758,6 +4760,7 @@
 .yunfan.com
 .yuriplus.com
 .yurukuyaru.com
+.yusaani.com
 .yuuenchi.com
 .yuugiou.link
 .yuukoku.net
