@@ -812,6 +812,7 @@
 .chonborista.com
 .ciatr.jp
 .cinematoday.jp
+.cinesoku.net
 .civ4multi.info
 .civ5nobunaga.com
 .civic-apps.com
@@ -1109,6 +1110,7 @@
 .dream.jp
 .dreamlog.jp
 .dreamonline.co.jp
+.dreamvocalaudition.jp
 .dressup-navi.net
 .drew5.net
 .dropbooks.com
@@ -1335,6 +1337,7 @@
 .famitsu.com
 .fantena.net
 .fashion.cc
+.fashionch.com
 .fast-ranking.com
 .fast-uploader.com
 .faststore.org
@@ -1720,6 +1723,7 @@
 .gnst.jp
 .godeater.jp
 .godessgame.com
+.godfes.com
 .goemonburo.com
 .gogoanime.com
 .gogotsu.com
@@ -2282,6 +2286,8 @@
 .kekkonch.com
 .kemco.jp
 .ketchapp.jp
+.keyakizaka-46.org
+.keyakizaka46matomerabo.com
 .kichiku-doujinko.com
 .kichikudoujin.com
 .kichimama.com
@@ -2674,6 +2680,7 @@
 .matomeindex.com
 .matomeja.jp
 .matomelotte.com
+.matomemotors.com
 .matomena.jp
 .matomengo.net
 .matomenomori.net
@@ -2863,7 +2870,9 @@
 .mondo64.com
 .monegle.com
 .moneykit.net
+.monge-sokuhou.com
 .monhang.com
+.monhang.net
 .monkeyantenna.net
 .monmato.com
 .monmusugame.com
@@ -3102,6 +3111,7 @@
 .nhncorp.jp
 .ni-moe.com
 .nianticlabs.com
+.niccorin.com
 .nico2ch.com
 .nicoblomaga.jp
 .nicodic.jp
@@ -3558,6 +3568,7 @@
 .prorom.sakura.ne.jp
 .prt.nu
 .ps3-jp.net
+.psneolog.com
 .psnova.net
 .pso-world.com
 .pso2.jp
@@ -3938,6 +3949,7 @@
 .slstage.com
 .sma-sta.com
 .smaato.net
+.smabros.net
 .smacolle.jp
 .smagame.info
 .smagazo.com
@@ -4114,6 +4126,7 @@
 .tales-ch.jp
 .talewiki.com
 .taleworlds.com
+.talko-media.jp
 .tam-music.com
 .tam-music.sub.jp
 .tamaerogazo.com
@@ -4259,6 +4272,7 @@
 .torepiro.com
 .toretsubo.com
 .tori-ch.com
+.toriizaka46.jp
 .toroadvertisingmedia.com
 .torrent-anime.com
 .torrentstream.org
@@ -4619,6 +4633,7 @@
 .xn--eckq7fg8cygsa1a1je.xn--wiki-4i9hs14f.com
 .xn--eckxbbb2a8bm6x4ff.com
 .xn--eckxbbb2a8bm6x4ff0428l0ssb.com
+.xn--eckyfna8731bop8c.jp
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--fatego-8c4e9f2a1906ksfpb.com
 .xn--ffrk-ew5g930m2ievofcu5d06m.com
@@ -4627,6 +4642,7 @@
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--ick7bf1142a905dzoah89f.com
 .xn--icki3m8b5az364en4ql70f.com
+.xn--lckk7id5ivdy350bzuc.com
 .xn--mckvcxa3ib5hp954axr3e.com
 .xn--mckvcxa4ipd.com
 .xn--mckvcxa4ipd.net
