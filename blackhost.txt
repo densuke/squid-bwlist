@@ -1017,6 +1017,7 @@
 .digital-thread.com
 .digital.hmx.net
 .digitaldj-network.com
+.dime.jp
 .dip.jp
 .dirtnp.com
 .diskunion.net
