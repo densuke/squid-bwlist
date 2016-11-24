@@ -184,7 +184,6 @@
 .a4g.com
 .a8.net
 .a9vg.com
-.aa-yaruobunko.x0.com
 .aaaf.jp
 .abema.io
 .abematv.akamaized.net
@@ -3120,7 +3119,6 @@
 .news-three-stars.net
 .news-us.jp
 .news-us.org
-.news.x0.com
 .news1.link
 .news109.com
 .news30over.com
