@@ -167,6 +167,7 @@
 .7gogo.jp
 .800vod.com
 .8569.jp
+.89slot.com
 .8bit.co.jp
 .8ing.co.jp
 .91danji.com
@@ -388,6 +389,7 @@
 .anitabi.net
 .anitena.tori29.net
 .anitube.se
+.anke-zettai.com
 .ankomochi.cc
 .annoisli.com
 .anoero.com
@@ -3401,12 +3403,14 @@
 .p-world.co.jp
 .pachinker.sakura.ne.jp
 .pachinkokouryaku.com
+.pachinkolist.com
 .pachinkopachisro.com
 .pachinkovista.com
 .pachiseven.jp
 .pachislot-movie.com
 .pachisrock.com
 .pachisuro-house.com
+.pachisurodouga.com
 .pack-depot.com
 .pacman.com
 .pacopacomama.com
@@ -3749,6 +3753,7 @@
 .rocketbbs.com
 .rocketnews24.com
 .rockinstar.jp
+.rockstargames.com
 .roketto-ss.sakuraweb.com
 .ronsoku.com
 .room2ch.com
