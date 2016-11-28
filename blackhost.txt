@@ -393,6 +393,7 @@
 .ant7.info
 .antch.net
 .antena.m-yellow.com
+.antena456.link
 .antenam.biz
 .antenam.info
 .antenam.jp
@@ -420,6 +421,7 @@
 .app-factory.jp
 .app-heaven.net
 .app-liv.jp
+.app-plat.jp
 .app-studio.biz
 .app-wiki.info
 .appbako.com
@@ -1535,6 +1537,7 @@
 .gamdom.biz
 .game-0.net
 .game-ac.com
+.game-ai.jp
 .game-api.de
 .game-b.com
 .game-cmr.com
@@ -1854,6 +1857,7 @@
 .hahaue.com
 .hai-furi.com
 .hajimetesenkyo.com
+.hakuhin.jp
 .halcana.jp
 .hamatea.jp
 .hamatorapj.com
@@ -1926,6 +1930,7 @@
 .hijyoushiki.sakura.ne.jp
 .hikakucity.com
 .hikaru-tanimoto.com
+.hikochans.com
 .hikoneko.net
 .hilink.info
 .hima-log.com
@@ -2314,6 +2319,7 @@
 .kekkon-sokuho.com
 .kekkonch.com
 .kemco.jp
+.kenjasyukatsu.com
 .ketchapp.jp
 .keyakizaka-46.org
 .keyakizaka46matomerabo.com
@@ -2364,6 +2370,7 @@
 .kirimix.net
 .kiritsume.com
 .kiru2ch.com
+.kisotsu-navi.com
 .kiss-me-kiss-me.com
 .kissfx.com
 .kisskiss-girl.com
@@ -3610,6 +3617,7 @@
 .projectpokemon.org
 .promamo.com
 .pronews.jp
+.proparm.jp
 .prorom.sakura.ne.jp
 .prt.nu
 .ps3-jp.net
@@ -3724,11 +3732,13 @@
 .res2ch.net
 .revspeed.jp
 .rfs.jp
+.rhythmfactory.jp
 .rhythmxchange.com
 .ri-mode.com
 .rightreader.info
 .rijfes.jp
 .ringoku.com
+.ringon-antenna.com
 .riotgames.com
 .rmake.jp
 .rmpaz.com
@@ -3885,6 +3895,7 @@
 .sgfdgjfdsfjd.biz
 .sgviewer.com
 .shadovermatome.com
+.shadow-verse-antenna.com
 .shadowlog.com
 .shadowverse-an.com
 .shadowverse-an.net
@@ -4268,6 +4279,7 @@
 .thehikaku.net
 .theinfoapps.com
 .theme.o2gp.com
+.themonic.com
 .thenbapps.com
 .theworldendeclipse.jp
 .thisisgame.com
@@ -4645,6 +4657,7 @@
 .wizmatomeselection.com
 .wk-tk.net
 .wobenzym1.info
+.wonderfl.net
 .wonderhowto.com
 .wonderlaboratory.com
 .wonderpla.net
