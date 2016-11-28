@@ -33,6 +33,7 @@
 .18183.com
 .194964.com
 .1999.co.jp
+.1billing.jp
 .1geki.jp
 .1kibaku.jp
 .1mobile.com
@@ -365,6 +366,7 @@
 .anime-torrent-start.com
 .anime-tourism.com
 .anime44.com
+.animeanime.biz
 .animeanime.jp
 .animedoujin.com
 .animegif.net
