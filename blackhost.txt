@@ -419,6 +419,7 @@
 .aozora-pw.com
 .aozora-pwresult.com
 .ap-land.com
+.ap.lijit.com
 .api.unthem.com
 .app-adforce.jp
 .app-channel.link
@@ -496,6 +497,7 @@
 .asobism.co.jp
 .asobisystem.com
 .asobuoiphone.com
+.asterizm.jp
 .at-douga.com
 .atari7.com
 .ateitexe.com
@@ -578,6 +580,7 @@
 .bandainamcoent.co.jp
 .bandainamcogames.co.jp
 .bandainamcoid.com
+.bandcamp.com
 .bandch.com
 .bang-dream.com
 .bannerbridge.net
@@ -749,6 +752,7 @@
 .buzznews-net.com
 .buzznews.asia
 .buzznews.jp
+.bvb.jp
 .byonavi.com
 .c-lab.link
 .c-most.net
@@ -786,6 +790,7 @@
 .cat-clock.net
 .catshare.org
 .cattleya.konjiki.jp
+.cavestory-dsi.com
 .cavolump.com
 .cawaii2ch.com
 .cc-sakura.net
@@ -2331,6 +2336,7 @@
 .kichikudoujin.com
 .kichimama.com
 .kickassasia.com
+.kicker.de
 .kicker.town
 .kidan-ch.com
 .kidan-m.com
@@ -2471,6 +2477,7 @@
 .kyuusai2nd.net
 .l--l.jp
 .l-l-life.com
+.la-mulana.com
 .lab-genetique-biometrie.com
 .lab-matome.com
 .labaq.com
@@ -3121,6 +3128,7 @@
 .newblo7.net
 .newnext.me
 .newposu.com
+.newproject.nigoro.jp
 .news-choice.net
 .news-edge.com
 .news-matome.com
@@ -3177,6 +3185,7 @@
 .nicovideo.jp
 .nidanida.com
 .night-grow.com
+.nigoro.jp
 .nihao520.com
 .nihonjinnanmin.com
 .nihonshu-banduke.net
@@ -3832,6 +3841,7 @@
 .sbr-vcj.com
 .sbs-ad.com
 .scandal-4.com
+.schalke04.de
 .schema.org
 .schizophonic9.com
 .schoolgirlstrikers.jp
