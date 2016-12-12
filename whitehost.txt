@@ -51,6 +51,8 @@
 .kaspersky-labs.com
 .kaspersky.com
 .kir986723.kir.jp
+.kobedenshi.ac.jp
+.kobedenshi.jp
 .live.com
 .live.jp
 .live.net
