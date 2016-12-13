@@ -440,6 +440,7 @@
 .appholic.cc
 .appland.co.jp
 .apple-geeks.com
+.apple-style.com
 .applean.info
 .applibot.co.jp
 .applift.com
@@ -1479,6 +1480,7 @@
 .fujitaiju.com
 .fujiten.jp
 .fukayomi-asia.net
+.fukkou-arena.jp
 .fukugan.com
 .fukuharaso-pu.com
 .fukuoka-game.com
@@ -1866,6 +1868,7 @@
 .hahaue.com
 .hai-furi.com
 .hajimetesenkyo.com
+.hakkaku.net
 .hakuhin.jp
 .halcana.jp
 .hamatea.jp
@@ -2322,6 +2325,7 @@
 .kazuto-yoshida.com
 .kazutxt.com
 .keihin-park.com
+.keiken-xeno.sakura.ne.jp
 .keizoku.com
 .kekeke.cc
 .kekkaisensen.com
@@ -3622,6 +3626,7 @@
 .prcm.jp
 .premiumcyzo.com
 .president.jp
+.prf.hn
 .primasm.com
 .pripara.jp
 .prisma-illya.jp
@@ -3693,6 +3698,7 @@
 .rafuten.com
 .railgun-antenna-x.info
 .railgun-antenna.info
+.raise-eyes.jp
 .rakuburo.com
 .rakugakichou.com
 .rakugakidou.net
@@ -3755,6 +3761,7 @@
 .rijfes.jp
 .ringoku.com
 .ringon-antenna.com
+.rinkaji-mac.com
 .riotgames.com
 .rmake.jp
 .rmpaz.com
@@ -4180,6 +4187,7 @@
 .syaka1.com
 .syanago.com
 .syncer.jp
+.synodos.jp
 .syoboi.jp
 .syosetu.com
 .syosetu.org
