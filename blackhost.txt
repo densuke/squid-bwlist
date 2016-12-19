@@ -134,6 +134,7 @@
 .365x7.net
 .37.com
 .3751chat.com
+.38mgp-ch.com
 .3dlinks.com
 .3dmgame.com
 .3gokushi.jp
@@ -203,6 +204,7 @@
 .aceonline.arario.jp
 .acquire.co.jp
 .acronia.net
+.acus.jp
 .ad
 .ad-manga.com
 .ad-stir.com
@@ -658,6 +660,7 @@
 .bittorrent.com
 .bituse.info
 .bizmakoto.jp
+.bizzine.jp
 .bl-koubou.com
 .black-flag.net
 .blacksmith-gilgamesh.jp
@@ -1549,6 +1552,7 @@
 .game-0.net
 .game-ac.com
 .game-ai.jp
+.game-antennas.com
 .game-api.de
 .game-b.com
 .game-cmr.com
@@ -2018,6 +2022,7 @@
 .hp3200.com
 .hqt.jp
 .href.asia
+.hrog.net
 .hsano.com
 .htmq.com
 .hug2.biz
@@ -2660,6 +2665,7 @@
 .makebot.sh
 .makeshop.jp
 .makonako.com
+.mamastar.jp
 .mamesoku.com
 .mandarake.net
 .manegemusette.com
@@ -3024,6 +3030,7 @@
 .mwbunko.com
 .mwissoku.com
 .mxserver33.net
+.my-moon.jp
 .myanimelist.net
 .mycardgame.net
 .mydns.jp
@@ -3209,6 +3216,7 @@
 .nimg.jp
 .ninja-x.jp
 .ninja.co.jp
+.ninjadoodle.com
 .ninjyaman.com
 .ninpou.jp
 .nintendo.co.jp
@@ -3828,6 +3836,7 @@
 .saki0102.org
 .sakurafeed.com
 .sakuratan.com
+.sales-in-china.jp
 .samurai-factory.jp
 .samurai-sounds.jp
 .samurai777.net
@@ -3919,6 +3928,7 @@
 .sexytvcap.com
 .sgfdgjfdsfjd.biz
 .sgviewer.com
+.shadover.com
 .shadovermatome.com
 .shadow-verse-antenna.com
 .shadowlog.com
@@ -3956,6 +3966,7 @@
 .shironeko-matomech.com
 .shironeko-project.biz
 .shironeko.me
+.shironekochannel.com
 .shironekonews.biz
 .shironekopro.com
 .shironekoproject-news.com
@@ -4534,9 +4545,11 @@
 .uyosoku.com
 .uzauza01.com
 .uzusionet.com
+.vaders-game.com
 .valuecommerce.com
 .vampire-blood.net
 .vehicle123.com
+.vellio.jp
 .veryposi.info
 .viber.com
 .vicuna.jp
@@ -4691,6 +4704,7 @@
 .wordpress.org
 .work-city.com
 .worklife-create.com
+.works-i.com
 .worktoolsmith.com
 .world-action.net
 .world-antenna.net
@@ -4742,6 +4756,7 @@
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
 .xn--cckl9h3crds541co4i.com
 .xn--cckta3ffn5a0pnc1d3251esfpb.com
+.xn--ch-yg4a2a2cveukobi5f7904exsvbkd0e.com
 .xn--eck7a6c879tprd955g.com
 .xn--eckpeh3c1e4bf2p9bobe6uf0171nhlxbe28cle0f.biz
 .xn--eckq7fg8cygsa1a1je.xn--wiki-4i9hs14f.com
@@ -4750,13 +4765,17 @@
 .xn--eckyfna8731bop8c.jp
 .xn--fate-go-kk9kq72hp5ms35bzgzf.com
 .xn--fatego-8c4e9f2a1906ksfpb.com
+.xn--ffbech-6j2km57fci6a439c.com
 .xn--ffrk-ew5g930m2ievofcu5d06m.com
 .xn--go-jb4asdqa7zrkmbxks096csfpb.co
+.xn--go-x93azb8f1byczorovb7l8092d85ub.com
 .xn--hbko4132a.jp
 .xn--hckqz0e9cygy540a71vak01acxe0mdd11j.com
 .xn--ick7bf1142a905dzoah89f.com
 .xn--icki3m8b5az364en4ql70f.com
+.xn--kck3aye6byce9d6cb9684ksfpb.biz
 .xn--lckk7id5ivdy350bzuc.com
+.xn--lckta6bycua6k0a3it875bdduac3sxwx.com
 .xn--mckvcxa3ib5hp954axr3e.com
 .xn--mckvcxa4ipd.com
 .xn--mckvcxa4ipd.net
@@ -4771,6 +4790,7 @@
 .xn--xvideo-up4jq68t.net
 .xn--zck0ab2m.com
 .xn--zck0ab2mr42rre5d.biz
+.xn--zckzap1184cvto37c38b.com
 .xnews.jp
 .xonline.jp
 .xperia-freaks.org
@@ -4848,6 +4868,7 @@
 .yeshj.com
 .yeutre.vn
 .yjsnpi.nu
+.ynn.jp
 .yodobashi.com
 .yoiyami.net
 .yokinihakarae.com
