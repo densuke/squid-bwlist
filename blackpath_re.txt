@@ -39,3 +39,4 @@ nijimoe
 ^/images/gyao
 /images/games/
 /.*PepperFlashPlayer.crx
+/shadovermatome.com
