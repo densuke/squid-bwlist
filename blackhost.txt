@@ -3571,6 +3571,7 @@
 .pmang.jp
 .pmoa.co.jp
 .po-kaki-to.com
+.pochi-pochi.jp
 .pockecolo.com
 .pocketmonsters.net
 .pocodun.net
@@ -3928,6 +3929,7 @@
 .sexytvcap.com
 .sgfdgjfdsfjd.biz
 .sgviewer.com
+.shadosoku.com
 .shadover.com
 .shadovermatome.com
 .shadow-verse-antenna.com
@@ -4195,6 +4197,7 @@
 .svgr.jp
 .swiki.jp
 .switch-box.net
+.syadoreco.com
 .syaka1.com
 .syanago.com
 .syncer.jp
