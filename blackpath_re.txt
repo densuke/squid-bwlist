@@ -40,3 +40,4 @@ nijimoe
 /images/games/
 /.*PepperFlashPlayer.crx
 /shadovermatome.com
+/pbs.twimg.com
