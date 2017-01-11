@@ -405,6 +405,7 @@
 .antenam.jp
 .antenna-ero.com
 .antenna-ga.com
+.antenna-pro.net
 .antenna-ver2.com
 .antennabank.com
 .antennach.com
@@ -437,6 +438,7 @@
 .appcogroups.com
 .appdriver.jp
 .appgaku.com
+.appgameqa.com
 .appget.com
 .appgiga.jp
 .appholic.cc
@@ -1557,6 +1559,7 @@
 .game-b.com
 .game-cmr.com
 .game-core-ent.com
+.game-daisuki.net
 .game-de.com
 .game-hikidashi.com
 .game-hiroba.com
@@ -3791,6 +3794,7 @@
 .rottengirl.net
 .round1.co.jp
 .round1.jp
+.roysokunet.net
 .rpgmaker.net
 .rs-taichi.co.jp
 .rss-loader.com
@@ -3937,13 +3941,17 @@
 .shadowverse-an.com
 .shadowverse-an.net
 .shadowverse-antenna.com
+.shadowverse-japan.com
 .shadowverse-portal.com
 .shadowverse.ant7.info
+.shadowverse.antena.link
 .shadowverse.biz
+.shadowverse.club
 .shadowverse.jp
 .shadowversefan.site
 .shadowversematome.click
 .shadowversepress.biz
+.shadowversetetteikouryaku.top
 .shakaijin.org
 .shakin.in
 .share-videos.se
@@ -4784,10 +4792,15 @@
 .xn--mckvcxa4ipd.net
 .xn--news-uk4cvbwa3fsgzci93abe3wf0948te29b.biz
 .xn--o9j0bk1lpbt3e1fuch21abe6uf5115s5o6b.com
+.xn--o9j0bk3kdi1ma7c0defxy30alhva6kygy952i26qc.com
 .xn--o9j0bk5tjce3x.com
+.xn--o9j0bk6k5am9oual1a5iqqu319chkxb.net
+.xn--o9j0bk6ka8azcyeyfsb6byg4fyg7cbk4202vmgmc.com
 .xn--o9j0bk8t7cqhlg.com
+.xn--o9j0bk9l8cn4i9byj2jo863c0ssb.com
 .xn--ols67gexemtbf4hu7bg82b9r6c.com
 .xn--r8jwklh769h2mc880dk1o431a.com
+.xn--shadowverse-e63t796khk9bk11e.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
 .xn--u9jw87h6tdi4hqls.com
 .xn--xvideo-up4jq68t.net
