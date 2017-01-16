@@ -339,6 +339,7 @@
 .amiami.com
 .amiami.jp
 .amoad.com
+.amps-web.biz
 .amung.us
 .ana-ero.com
 .anabuki-style.com
@@ -496,6 +497,7 @@
 .arsareth.net
 .aruaru.me
 .arumira.com
+.as-com.jp
 .as-inc.info
 .as-web.jp
 .asagei.com
@@ -584,6 +586,7 @@
 .bakattan.com
 .bakuero.net
 .bakufu.jp
+.bakumatsu.org
 .bakuren-sokuhou.com
 .bakuretuken.com
 .bakusai.com
@@ -871,6 +874,7 @@
 .clubdam.com
 .clubmint.pw
 .cmcm.com
+.cmoa.jp
 .cn
 .cnzz.com
 .cnzz.net
@@ -1042,6 +1046,7 @@
 .deqwas.net
 .derbyimpact.jp
 .design-plus1.com
+.design.trident.ac.jp
 .deviceplus.jp
 .devilishdesign.net
 .dfnt.net
@@ -1191,6 +1196,8 @@
 .ebsu.jp
 .echowhite.homelinux.net
 .ediaryhiroko.com
+.edo-g.co
+.edo-ichi.jp
 .eek.jp
 .efg-drive.net
 .egoisterog.com
@@ -1433,6 +1440,7 @@
 .filepuma.com
 .finalfantasy.jp
 .finalfantasyxiv.com
+.firealpaca.com
 .first-jp.com
 .fiveslot777.com
 .flash-game-ziina.com
@@ -1613,6 +1621,7 @@
 .gamedeets.com
 .gamedesign.jp
 .gamedev.net
+.gameedge.jp
 .gamefactory.jp
 .gamefavo.com
 .gamefeat.net
@@ -1756,6 +1765,7 @@
 .gikotena.net
 .girinio.jp
 .girldoll.org
+.girls-tribe.com
 .girlsbook.net
 .girlschannel.net
 .girlsheaven-job.net
@@ -1925,6 +1935,7 @@
 .harusuki3.sakura.ne.jp
 .hatagashira.com
 .hatalike.jp
+.hatarako.net
 .hataraku-okashi.com
 .hatebu-1000users-over.com
 .hatenablog.com
@@ -2060,6 +2071,7 @@
 .hvn4u.com
 .hxh-channel-or-jp.s3.amazonaws.com
 .hyakuretsu.com
+.hyouga.jp
 .hyperdouraku.com
 .i-chu.jp
 .i-funbox.com
@@ -2161,6 +2173,7 @@
 .iratsuku.com
 .ironna.jp
 .iruna.jp
+.iryo-de-hatarako.net
 .iryoku.net
 .isize.com
 .iskysoft.com
@@ -2446,6 +2459,7 @@
 .komica.org
 .konami.jp
 .konaminet.jp
+.konamistyle.jp
 .konosuba.com
 .konowaro.net
 .konoyubitomare.jp
@@ -2502,6 +2516,7 @@
 .kyonyudouga.me
 .kyoumo-life.com
 .kyousoku.net
+.kyujin-ascom.com
 .kyukyo.com
 .kyuukyoku-matome.info
 .kyuusai2nd.net
@@ -2805,6 +2820,8 @@
 .mediaforge.com
 .mediago.us
 .mediav.com
+.medibang.com
+.medibangpaint.com
 .medicalslotter.com
 .megahobby.jp
 .megahouse.co.jp
@@ -3286,6 +3303,7 @@
 .nstimes.com
 .nt-studio.info
 .ntr-ch.com
+.nttsolmare.com
 .nukerudogaju.com
 .nukeruerodouga.com
 .nuketa.com
@@ -3311,6 +3329,7 @@
 .nyoshin.com
 .nyss2.sakura.ne.jp
 .o0o0.jp
+.oaed.jp
 .oakcorp.net
 .obasanantena.kill.jp
 .obenri.com
@@ -3653,6 +3672,7 @@
 .porn.com
 .porori-ch.com
 .pororich.com
+.portalgraphics.net
 .portnet.ne.jp
 .pos.to
 .posite-c.com
@@ -3939,6 +3959,7 @@
 .semasio.net
 .senakablog.com
 .senddownloadmy.com
+.sengoku-g.net
 .sengokuenbu.jp
 .sengokuixa.jp
 .senmanga.com
@@ -4031,6 +4052,7 @@
 .shortshorts.org
 .shoshinsha.com
 .shoumatsuya.com
+.showa-g.org
 .showbyrock-anime.com
 .shrinky.link
 .shueisha.co.jp
@@ -4265,6 +4287,7 @@
 .tabtter.jp
 .tackysroom.com
 .taipingu.net
+.taisho-g.com
 .taisy02.com
 .taiwannohannou.com
 .tajigen.com
