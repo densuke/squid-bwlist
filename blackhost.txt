@@ -1151,7 +1151,6 @@
 .dousoku.net
 .dousyoko.net
 .doutr.biz
-.download.windowsupdate.com
 .doyaero.com
 .dpface.info
 .dqmp.jp
