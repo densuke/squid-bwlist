@@ -405,7 +405,6 @@
 .anipo.jp
 .anisuka.com
 .anitabi.net
-.anitena.tori29.net
 .anitube.se
 .anke-zettai.com
 .ankomochi.cc
@@ -415,7 +414,6 @@
 .anonymous-post.com
 .ant7.info
 .antch.net
-.antena.m-yellow.com
 .antena456.link
 .antenam.biz
 .antenam.info
