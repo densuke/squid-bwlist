@@ -1424,6 +1424,7 @@
 .fate-grandorder.jp
 .fate-meeting.com
 .fatego-an.com
+.fatego-japan.com
 .fatego.biz
 .fategrandorder.info
 .fatemaster.net
