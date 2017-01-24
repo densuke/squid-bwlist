@@ -3,7 +3,6 @@
 AP$
 AmazonCloudPlayer
 Android
-BITS
 BTWebClient
 BaiduYunGuanJia
 Battle.net
