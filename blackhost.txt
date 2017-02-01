@@ -2730,6 +2730,7 @@
 .magicianwizsoku.com
 .magurooo.com
 .mahoneko.info
+.mahouka.jp
 .mahoutsukaino.com
 .mai-net.net
 .maikiuchi.sakura.ne.jp
@@ -2789,6 +2790,7 @@
 .maria-marie.info
 .marinediving.com
 .mariobros.net
+.mariowiki.com
 .markpoke.com
 .marqrel.jp
 .mars-tohken.co.jp
@@ -2886,6 +2888,7 @@
 .men-joy.jp
 .mens-time01.com
 .menscyzo.com
+.meron.jp.net
 .merry-news.com
 .mery.jp
 .mess-y.com
@@ -3013,6 +3016,7 @@
 .mojimaru.com
 .mojomojo-licarca.com
 .mokugeki.jp
+.mol-fp.com
 .mome7.com
 .momo-puri.com
 .momo96ch.com
@@ -4062,6 +4066,7 @@
 .shadowverse-an.com
 .shadowverse-an.net
 .shadowverse-antenna.com
+.shadowverse-deck.com
 .shadowverse-japan.com
 .shadowverse-portal.com
 .shadowverse.ant7.info
