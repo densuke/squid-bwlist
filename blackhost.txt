@@ -566,6 +566,7 @@
 .avinfolie.net
 .avirtualhome.com
 .aviutl.info
+.avtobania.pro
 .avtv-movie.com
 .avximg.com
 .awasete.com
@@ -2527,6 +2528,7 @@
 .kourick.net
 .kousoku2ch.com
 .kowabana.jp
+.kowabana.top
 .kowabanakaii.com
 .kowai-story.net
 .koyakucounter.com
@@ -4592,6 +4594,7 @@
 .tsundora.com
 .tsunezu.net
 .tsutaya.co.jp
+.tsuvasa.com
 .ttvnw.net
 .tubakurame.com
 .tube8.com
