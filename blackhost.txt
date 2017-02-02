@@ -928,6 +928,7 @@
 .commseed.jp
 .commte.net
 .completedouga.com
+.computeremuzone.com
 .conangame.jp
 .concon-collector.com
 .condenast.jp
@@ -1240,6 +1241,7 @@
 .emei-landarms.com
 .eminews.jp
 .emu-russia.net
+.emulanium.com
 .en-zine.jp
 .enasiyo.com
 .endroll.net
@@ -1518,6 +1520,7 @@
 .freemoviedeh.com
 .freeonlinegames.com
 .freeonlinegames.name
+.freeroms.com
 .freesoft-100.com
 .freesoft-concierge.com
 .freexdouga.com
@@ -3066,6 +3069,7 @@
 .mopita.com
 .moppy.jp
 .mora.jp
+.moreroms.com
 .moriforest.com
 .morikinoko.com
 .morningstar.co.jp
@@ -3903,6 +3907,8 @@
 .rockinstar.jp
 .rockstargames.com
 .roketto-ss.sakuraweb.com
+.romhustler.net
+.romulation.net
 .ronsoku.com
 .room2ch.com
 .roomie.jp
