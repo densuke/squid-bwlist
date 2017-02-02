@@ -1242,6 +1242,7 @@
 .eminews.jp
 .emu-russia.net
 .emulanium.com
+.emusite.com
 .en-zine.jp
 .enasiyo.com
 .endroll.net
