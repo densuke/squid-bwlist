@@ -537,6 +537,7 @@
 .atfreaks.co.jp
 .atgames.jp
 .atgj.net
+.athemes.com
 .athuman.com
 .atmatome.jp
 .atna.jp
@@ -1471,6 +1472,7 @@
 .finalfantasyxiv.com
 .firealpaca.com
 .first-jp.com
+.firstron.jp
 .fiveslot777.com
 .flash-game-ziina.com
 .flash-l.net
@@ -2329,7 +2331,12 @@
 .kabaneri.com
 .kabegami.com
 .kabekin.com
+.kablog.info
 .kabooo.net
+.kabu-sokuhou.com
+.kabuline.com
+.kabusaku.com
+.kabusensor.com
 .kachibito.net
 .kaerini-kitaiti.com
 .kaeru.me
@@ -2715,6 +2722,7 @@
 .m-drug.com
 .m-glam.net
 .m-o-w.net
+.m-p.sakura.ne.jp
 .m-yellow.com
 .m4ex.com
 .m78.com
@@ -3839,6 +3847,7 @@
 .rampokitan.com
 .random-call.net
 .rankin9.com
+.ranking.sitepedia.jp
 .rantenna.com
 .rapidgator.net
 .rare-gacha.com
@@ -3899,6 +3908,7 @@
 .ringon-antenna.com
 .rinkaji-mac.com
 .riotgames.com
+.rizumu.net
 .rmake.jp
 .rmpaz.com
 .ro69.jp
@@ -4804,6 +4814,7 @@
 .web-jong.com
 .web-jozu.com
 .web-manga.info
+.web-tan.forum.impressrd.jp
 .web75mix.com
 .weban.jp
 .webantenna.info
