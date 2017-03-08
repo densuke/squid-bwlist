@@ -111,6 +111,7 @@
 .2chnewswatch.info
 .2chrss.com
 .2chspa.com
+.2chtena.link
 .2chwatch.net
 .2chx.com
 .2chzzz.com
@@ -162,6 +163,7 @@
 .55karada.com
 .5kplayer.com
 .5pb.jp
+.5rin.info
 .5rocks.io
 .60me.com
 .6182.info
@@ -412,12 +414,15 @@
 .anoero.com
 .anond.hatelabo.jp
 .anonymous-post.com
+.ant-ant.net
 .ant7.info
 .antch.net
 .antena456.link
 .antenam.biz
 .antenam.info
 .antenam.jp
+.antenasu.net
+.antenna-3.com
 .antenna-ero.com
 .antenna-ga.com
 .antenna-pro.net
@@ -702,6 +707,7 @@
 .blite-design.com
 .blizzard.com
 .blog-rpg.com
+.blog-text.jp
 .blog.jp
 .blog.so-net.ne.jp
 .blogblog.com
@@ -776,6 +782,7 @@
 .burorai.com
 .burusoku-vip.com
 .bushimo.jp
+.busitry-photo.info
 .but.jp
 .butt3rs.com
 .butterfly-corp.jp
@@ -1508,6 +1515,7 @@
 .foto-webcam.eu
 .fpsjp.net
 .fpsunknown.com
+.fpv.jp
 .fqsearch.com
 .frablo.jp
 .freakshare.com
@@ -1568,6 +1576,7 @@
 .futago-life.com
 .futakuro.com
 .futene.net
+.fuubunn.com
 .fuyu.gs
 .fuzoku.sh
 .fx-startup.com
@@ -1827,6 +1836,7 @@
 .godeater.jp
 .godessgame.com
 .godfes.com
+.goemona.com
 .goemonburo.com
 .gogoanime.com
 .gogotsu.com
@@ -1959,6 +1969,7 @@
 .hannichigukoku.info
 .hannoumatome.com
 .hao123.com
+.hapiasi.com
 .hapisupu.com
 .hapiyaku.com
 .happy-page.jp
@@ -2338,6 +2349,7 @@
 .kabusaku.com
 .kabusensor.com
 .kachibito.net
+.kachoufugetsu.info
 .kaerini-kitaiti.com
 .kaeru.me
 .kagajo.com
@@ -2564,6 +2576,7 @@
 .kurowizu.net
 .kurumachannel.com
 .kurushiunai.jp
+.kuruten.jp
 .kwausa.com
 .kwcgun.com
 .kyogokudo.com
@@ -2637,6 +2650,7 @@
 .linegames.com
 .linegames.jp
 .lineq.jp
+.linklick.net
 .linksynergy.com
 .linkwithin.com
 .liquorisquicker.net
@@ -2830,6 +2844,7 @@
 .matome-blog.jp
 .matome-ch.com
 .matome-complate.com
+.matome-crawler.com
 .matome-plus.com
 .matome-plus.net
 .matome-plus.sakura.ne.jp
@@ -2837,6 +2852,7 @@
 .matome-surume.com
 .matome.2ch.to
 .matome.dsup.net
+.matome.online
 .matomea.net
 .matomeantena.com
 .matomeantena.net
@@ -2942,6 +2958,7 @@
 .millionarthur.net
 .millioncounter.com
 .min-fx.jp
+.min-tenna.com
 .minatosoft.com
 .mindhack2ch.com
 .minecraft.com
@@ -4469,6 +4486,7 @@
 .tesgeneral.com
 .tetra-inc.com
 .tetrisfriends.com
+.texas-daddy.com
 .tf3dm.com
 .tgbus.com
 .tgd.jp
@@ -4584,6 +4602,7 @@
 .toygun.jp
 .toyokeizai.net
 .tozanabo.com
+.tpa-issue.net
 .tpnav.com
 .trackfeed.com
 .trackwind.com
@@ -4600,10 +4619,12 @@
 .treeofsavior.it
 .trend-hot-news.com
 .trendpride.com
+.trendust.net
 .tribalfusion.com
 .tricksterwiki.info
 .trilltrill.jp
 .trpg.net
+.try-movie.jp
 .tryspace.net
 .tsite.jp
 .tsubasakaiser.com
@@ -4933,6 +4954,7 @@
 .xiaomi.net
 .xii.jp
 .xiii-xiii.com
+.xma.pw
 .xn--1iq22t3xn.net
 .xn--2qq684doji.net
 .xn--ccke7da9de3noexft929csfpb.com
