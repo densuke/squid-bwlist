@@ -146,6 +146,7 @@
 .3dmgame.com
 .3gokushi.jp
 .3hub.co
+.3javdaily.com
 .3keta.net
 .3kiss.net
 .3rd-in.co.jp
@@ -584,6 +585,7 @@
 .ayu-net.com
 .ayu-nya.com
 .ayushii.net
+.azaban.com
 .azukichi.net
 .b-prince.com
 .b.st-hatena.com
@@ -666,6 +668,7 @@
 .besttrendnews.net
 .bethevoiceforanimals.com
 .bethsoft.com
+.bettaguard.com
 .bex.jp
 .bf1.jp
 .bfmatometto.info
@@ -772,6 +775,8 @@
 .bsveri.com
 .bto-pc.jp
 .btrll.com
+.bttt99.com
+.bubadog.net
 .buffaloes.co.jp
 .buhidoh.net
 .bulesky58.com
@@ -790,6 +795,7 @@
 .buzfeed.com
 .buzz-netnews.com
 .buzz-plus.com
+.buzzgala.com
 .buzzhand.com
 .buzzhand.net
 .buzzmag.jp
@@ -1715,6 +1721,7 @@
 .gametter.com
 .gameusers.org
 .gamewalker.link
+.gamewith.co.jp
 .gamewith.jp
 .gamez.com.tw
 .gamez.jp
@@ -1727,6 +1734,7 @@
 .gaprot.jp
 .garakuta.org
 .garanger.net
+.garbagenet.net
 .garden-tokyo.net
 .garss.jp
 .gashapon.jp
@@ -2491,6 +2499,7 @@
 .kiru2ch.com
 .kisotsu-navi.com
 .kiss-me-kiss-me.com
+.kissanime.ru
 .kissfx.com
 .kisskiss-girl.com
 .kisslog2.com
@@ -2511,6 +2520,7 @@
 .kmatome.com
 .kmlg.jp
 .knt.co.jp
+.knuckleport.com
 .kobo.com
 .kobobooks.com
 .kodukai-king.jp
@@ -2675,6 +2685,7 @@
 .livetube.cc
 .lix.jp
 .lmv.jp
+.location.am-all.net
 .lock-up.jp
 .logicerror.sakura.ne.jp
 .logpo.jp
@@ -2695,6 +2706,7 @@
 .lolstatic.com
 .lolwiki-note.info
 .lomo.jp
+.lon-chaney.com
 .longseller.org
 .lordofv.com
 .lose.jp
@@ -3113,6 +3125,11 @@
 .movie-house.jp
 .movie-wife.net
 .movie.oshirimania.com
+.moviesun.net
+.moviesunkd.net
+.moviesunus.disqus.com
+.moviesunusa.net
+.moviesunusa.org
 .movietrailers-db.com
 .movin.co.jp
 .movingflash.com
@@ -4001,6 +4018,7 @@
 .samurai777.net
 .samuraiclick.com
 .san-x.co.jp
+.sangokushi-taisen.com
 .sansei-rd.com
 .sanspo.com
 .santalab.me
@@ -4044,6 +4062,7 @@
 .seesaawiki.jp
 .sega-entertainment.jp
 .sega-games.co.jp
+.sega-interactive.co.jp
 .sega-mj.com
 .sega-net.com
 .sega-net.jp
@@ -4697,6 +4716,7 @@
 .umengcloud.com
 .under.jp
 .uneedzone.jp
+.unimhk.com
 .unity-games.jp
 .unity3d.com
 .universal-carnival-sammy-festival2016.com
@@ -5093,6 +5113,7 @@
 .yooiistudios.com
 .yorozu.be
 .yossense.com
+.yougaku-nihongo.com
 .youkaiwatch-nyansoku.com
 .youkanman.com
 .youku.com
