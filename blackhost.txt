@@ -515,6 +515,7 @@
 .arrive.co.jp
 .arsareth.net
 .aruaru.me
+.arukunews.jp
 .arumira.com
 .arunidadesu.com
 .as-com.jp
@@ -573,6 +574,7 @@
 .avinfolie.net
 .avirtualhome.com
 .aviutl.info
+.avoidingthepuddle.com
 .avtobania.pro
 .avtv-movie.com
 .avximg.com
@@ -966,6 +968,7 @@
 .cosmicbreak.jp
 .cosp.jp
 .cospa.com
+.cost-zero.com
 .costco.co.jp
 .cotedazur.jp
 .cotinus.org
@@ -974,6 +977,7 @@
 .cpmok.net
 .cpmstar.com
 .crank-in.net
+.crashaikou.net
 .crashfever.com
 .crashlytics.com
 .crazyrape.net
@@ -1231,6 +1235,7 @@
 .ebis.ne.jp
 .ebitsu.net
 .ebsu.jp
+.ec-russell.jp
 .echowhite.homelinux.net
 .ediaryhiroko.com
 .edo-g.co
@@ -1428,6 +1433,7 @@
 .faifai24.com
 .fairydoll.jp
 .fam-ad.com
+.famima.com
 .famitsu.com
 .fantena.net
 .fashion.cc
@@ -1527,6 +1533,7 @@
 .freakshare.com
 .free-av-douga.com
 .free-flash-game.net
+.free-share.jp
 .free-video-movie
 .free-xvideos.net
 .freegame-mugen.jp
@@ -1957,6 +1964,7 @@
 .hackerwatch.org
 .hahaue.com
 .hai-furi.com
+.haijin-boys.com
 .hajimetesenkyo.com
 .hakkaku.net
 .hakuhin.jp
@@ -1979,6 +1987,7 @@
 .hao123.com
 .hapiasi.com
 .hapisupu.com
+.hapitas.jp
 .hapiyaku.com
 .happy-page.jp
 .happyelements.co.jp
@@ -2114,6 +2123,8 @@
 .href.asia
 .hrog.net
 .hsano.com
+.hstar-mu-fc.com
+.hstar-mu.com
 .htmq.com
 .hug2.biz
 .huhen.net
@@ -2387,6 +2398,7 @@
 .kakao.com
 .kakeru-news.com
 .kakeru.me
+.kako-tama.com
 .kakuge-checker.com
 .kakuriyo-no-mon.com
 .kakuyasu-sim.jp
@@ -2527,6 +2539,8 @@
 .koenokatachi-movie.com
 .koga.me
 .kojikisokuhou.com
+.kojimaproductions-store.jp
+.kojimaproductions.jp
 .kokopyon.net
 .kokotodo.net
 .kokotodo.nobody.jp
@@ -2594,6 +2608,7 @@
 .kyomohot.com
 .kyonyudouga.com
 .kyonyudouga.me
+.kyoraku.co.jp
 .kyoumo-life.com
 .kyousoku.net
 .kyujin-ascom.com
@@ -2952,6 +2967,7 @@
 .mh4gch.com
 .mhf-g.jp
 .mhx-navi.com
+.mi-ka-do.net
 .michikusa.jp
 .microad.jp
 .microsoftstore.com
@@ -3359,6 +3375,7 @@
 .nikkan-spa.jp
 .nikkanerog.com
 .nikkansports.com
+.nikki.ne.jp
 .nikonikozone.com
 .nikukyu-punch.com
 .nimg.jp
@@ -3579,6 +3596,7 @@
 .p-game.jp
 .p-tora.com
 .p-world.co.jp
+.p-world.jp
 .pachinker.sakura.ne.jp
 .pachinkokouryaku.com
 .pachinkolist.com
@@ -3820,6 +3838,7 @@
 .pso2es.jp
 .pso2skillsimulator.com
 .pssokuhou.jp
+.psuq.jp
 .ptengine.jp
 .ptnwiki.com
 .ptvcdn.net
@@ -3936,6 +3955,7 @@
 .rhythmfactory.jp
 .rhythmxchange.com
 .ri-mode.com
+.ricorico77.com
 .rightreader.info
 .rijfes.jp
 .ringoku.com
@@ -4070,6 +4090,7 @@
 .sega-pc.com
 .sega.co.jp
 .sega.jp
+.segaplaza.jp
 .seichi-nippon.com
 .seidentest.com
 .seikatsusokuhou.com
@@ -4397,6 +4418,7 @@
 .suumo.jp
 .svgfire.com
 .svgr.jp
+.sweets-paradise.jp
 .swiki.jp
 .switch-box.net
 .syadoreco.com
@@ -5155,6 +5177,7 @@
 .yuugiou.link
 .yuukoku.net
 .yuyu-tei.jp
+.yuzu-soft.com
 .yuzuponzu.net
 .yxdown.com
 .z49.org
