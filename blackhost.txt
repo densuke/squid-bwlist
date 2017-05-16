@@ -2809,6 +2809,7 @@
 .manetatsu.com
 .mang.jp
 .manga-ch.net
+.manga-free-online.com
 .manga-mokuroku.net
 .manga-netabare.net
 .manga-one.com
