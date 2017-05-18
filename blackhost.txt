@@ -207,6 +207,7 @@
 .absoku072.com
 .abugames.com
 .abyssal.biz
+.accel-world.net
 .accessgames.co.jp
 .accesstrade.net
 .accuweather.com
@@ -311,6 +312,7 @@
 .akindo-sushiro.co.jp
 .akira-watson.com
 .akrw.net
+.alderamin.net
 .alexgorbatchev.com
 .alfalfalfa.com
 .alg-d.com
@@ -525,6 +527,7 @@
 .asahiwa.jp
 .asame.sakura.ne.jp
 .ascii.jp
+.asciimw.jp
 .asg.to
 .asi-st.com
 .asianews2ch.jp
@@ -705,6 +708,7 @@
 .bizmakoto.jp
 .bizzine.jp
 .bl-koubou.com
+.black-bullet.net
 .black-flag.net
 .blacksmith-gilgamesh.jp
 .blazegames.jp
@@ -1078,6 +1082,7 @@
 .dengeki.com
 .dengekibunko.jp
 .dengekionline.com
+.dengekitaisho.jp
 .dengekiya.com
 .denshoko.com
 .deqwas.net
@@ -1193,6 +1198,7 @@
 .dreadnought-tcg.com
 .dream-room.net
 .dream.jp
+.dreamcreation.co.jp
 .dreamlog.jp
 .dreamonline.co.jp
 .dreamvocalaudition.jp
@@ -1210,6 +1216,7 @@
 .duelcommander.com
 .duga.jp
 .duowan.com
+.durarara.com
 .dvd-access.com
 .dwango.co.jp
 .dwd-anime.com
@@ -1267,6 +1274,7 @@
 .endroll.net
 .enflatpark.com
 .engadget.com
+.enjin.com
 .enjo-matome.com
 .enjoy-clash-royale.com
 .enjoypclife.net
@@ -1371,6 +1379,7 @@
 .eromanga-everyday.com
 .eromanga-kingdom.com
 .eromanga-search.com
+.eromanga-sensei.com
 .eromanga-simple.com
 .eromanga-sokuhou.com
 .eromanga.jp
@@ -2000,6 +2009,7 @@
 .haru.gs
 .harusuki.net
 .harusuki3.sakura.ne.jp
+.hasekuraisuna.jp
 .hatagashira.com
 .hatalike.jp
 .hatarako.net
@@ -2018,6 +2028,7 @@
 .hearthgamers.com
 .heartlife-matome.com
 .heavenlyblue.info
+.heavyobject.net
 .hekk.org
 .hellotalk.com
 .hellsea.org
@@ -2158,6 +2169,7 @@
 .i2isample.com
 .i2iserv.com
 .icchibanketu.net
+.ichijinsha.co.jp
 .ichikatsu.com
 .ichioshikabunavi.net
 .icloud.com
@@ -2245,6 +2257,7 @@
 .ippa.jp
 .iratsuku.com
 .ironna.jp
+.irumahitoma.jp
 .iruna.jp
 .iryo-de-hatarako.net
 .iryoku.net
@@ -2430,6 +2443,7 @@
 .kantanstart.jp
 .kanzenkokuchi.jp
 .kaola.jp
+.kaomojich.com
 .karapaia.com
 .karapaia.sakura.ne.jp
 .karenschocolate.net
@@ -2501,6 +2515,7 @@
 .kinguin.net
 .kininaru-syumi.com
 .kinisuru.com
+.kinonotabi.com
 .kinyu-z.net
 .kinza.jp
 .kir.jp
@@ -2784,6 +2799,7 @@
 .magicianwiz.net
 .magicianwizsoku.com
 .magurooo.com
+.maho.jp
 .mahoneko.info
 .mahouka.jp
 .mahoutsukaino.com
@@ -2991,9 +3007,14 @@
 .min-tenna.com
 .minatosoft.com
 .mindhack2ch.com
+.minecraft-mp.com
+.minecraft-schematics.com
+.minecraft-skin-viewer.com
 .minecraft.com
 .minecraft.net
+.minecraftskins.fr
 .minecraftuser.jp
+.minecraftwiki.net
 .minhyo.jp
 .minibird.jp
 .minimini-fc.jp
@@ -3292,6 +3313,7 @@
 .netmarble.com
 .netmarble.net
 .netoff.co.jp
+.netogenoyome.com
 .netotua.com
 .netouyonews.net
 .netsaru.jp
@@ -4040,6 +4062,7 @@
 .samurai777.net
 .samuraiclick.com
 .san-x.co.jp
+.sandbox-games.net
 .sangokushi-taisen.com
 .sansei-rd.com
 .sanspo.com
@@ -4108,6 +4131,7 @@
 .semakimomo.net
 .semasio.net
 .senakablog.com
+.senchro.jp
 .senddownloadmy.com
 .sengoku-g.net
 .sengokuenbu.jp
@@ -4386,6 +4410,7 @@
 .store.microsoft.com
 .storestrategy.jp
 .stream.co.jp
+.strike-the-blood.com
 .studiok-i.net
 .studiorzhobby.sakura.ne.jp
 .sub.jp
@@ -4424,6 +4449,7 @@
 .sweets-paradise.jp
 .swiki.jp
 .switch-box.net
+.swordart-online.net
 .syadoreco.com
 .syaka1.com
 .syanago.com
@@ -4522,6 +4548,7 @@
 .tenkomo.com
 .tennis365.net
 .tenryu-gs.com
+.tenshi-no-3p.com
 .tenshoku.mynavi.jp
 .tensyoku-now.com
 .terafile.co
@@ -4780,6 +4807,7 @@
 .utamap.com
 .utapri.com
 .utorrent.com
+.uunyan.com
 .uuu9.com
 .uwakich.com
 .uwakitaiken.com
@@ -4828,6 +4856,7 @@
 .vis.ne.jp
 .vita-chi.net
 .vitaminless.sakura.ne.jp
+.vivamaga.jp
 .voguegirl.jp
 .volks.co.jp
 .vpngate.net
@@ -5176,6 +5205,7 @@
 .yurionice.com
 .yuriplus.com
 .yurukuyaru.com
+.yuruyuri.com
 .yusaani.com
 .yuuenchi.com
 .yuugiou.link
@@ -5202,11 +5232,13 @@
 .zemanta.com
 .zen6.jp
 .zennihonbudougu.com
+.zenryoku-express.com
 .zenshin.org
 .zero-plan.com
 .zerochan.net
 .zerocustom.jp
 .zerojack.jp
+.zeronosyo.com
 .zexy.net
 .zinger-hole.net
 .zipbogo.net
