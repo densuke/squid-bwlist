@@ -855,6 +855,7 @@
 .ccrt.biz
 .cdn-rare-gacha.com
 .cdn.ubi.com
+.cdnnow.ru
 .cdnone.net
 .cebq.biz
 .ceek.jp
