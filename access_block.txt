@@ -34,4 +34,5 @@
 .kairisei-ma.jp
 .spotify.com.edgesuite.net
 .audio-sp-tyo.spotify.com
+.api.monster-strike.com
 
