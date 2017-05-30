@@ -47,6 +47,7 @@
 .20kaido.com
 .24vice.biz
 .2525r.com
+.2525syaken.com
 .265g.com
 .29den.com
 .29g.net
@@ -490,6 +491,7 @@
 .appmarketinglabo.net
 .appmatome.net
 .appmedia.jp
+.appnews365.com
 .appoxee.com
 .appps.jp
 .apprevolve.com
@@ -592,7 +594,9 @@
 .ayushii.net
 .azaban.com
 .azukichi.net
+.b-ch.com
 .b-prince.com
+.b.hatena.ne.jp
 .b.st-hatena.com
 .b9dm.com
 .babarageo.com
@@ -939,6 +943,7 @@
 .com2us.net
 .comdotgame.com
 .comic-earthstar.jp
+.comic-gene.com
 .comic-polaris.jp
 .comic-walker.com
 .comico.jp
@@ -1453,10 +1458,14 @@
 .faststore.org
 .fate-antenna.com
 .fate-extella.jp
+.fate-extra-ccc.jp
+.fate-extra.jp
 .fate-go.jp
 .fate-go.net
+.fate-grandorder.com
 .fate-grandorder.jp
 .fate-meeting.com
+.fate-rpg.jp
 .fatego-an.com
 .fatego-japan.com
 .fatego.biz
@@ -1563,6 +1572,7 @@
 .frlamemonger.com
 .frogagent.com
 .frogstone.jp
+.from-a100.com
 .fromacareer.com
 .fromsoftware.jp
 .ftbucket.info
@@ -2830,6 +2840,7 @@
 .manga-mokuroku.net
 .manga-netabare.net
 .manga-one.com
+.manga-spoiler.com
 .manga-zip.net
 .manga100ka.jp
 .manga777.com
@@ -3277,6 +3288,7 @@
 .nefficient.jp
 .negisoku.com
 .neko.mokuren.ne.jp
+.nekocafe-hitoyasumi.com
 .nekogames.jp
 .nekomekuri.com
 .nekomemo.com
@@ -3369,6 +3381,7 @@
 .ni-moe.com
 .nianticlabs.com
 .niccorin.com
+.nico
 .nico2ch.com
 .nicoblomaga.jp
 .nicodic.jp
@@ -3596,6 +3609,7 @@
 .otokonoganbo.com
 .otokuhikkoshi.net
 .otokumedia.com
+.otomate.jp
 .otomens.com
 .otonanoeigakan.com
 .otonarisoku.com
@@ -3609,6 +3623,7 @@
 .overlord-anime.com
 .owata-antenna.com
 .owata-net.com
+.owsokuhou.com
 .owt.io
 .oxynotes.com
 .ozmafia.com
@@ -4132,6 +4147,7 @@
 .semakimomo.net
 .semasio.net
 .senakablog.com
+.senbura.jp
 .senchro.jp
 .senddownloadmy.com
 .sengoku-g.net
@@ -4611,6 +4627,7 @@
 .tokimeki-s.com
 .tokiwaelog.com
 .tokkaban.com
+.tokoton-navi.com
 .tokrin.com
 .tokua.info
 .tokudaya.net
@@ -4950,6 +4967,7 @@
 .wife-jp.com
 .wiggle.jp
 .wiki-hp.com
+.wiki.cre.jp
 .wiki3.jp
 .wikia.com
 .wikidot.com
@@ -5153,6 +5171,7 @@
 .yaruomiotukusi.com
 .yaruox.jp
 .yaruyomi.com
+.yasuda1949.com
 .ybbo.net
 .yen-money-point.com
 .yes24.com
