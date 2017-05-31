@@ -61,7 +61,6 @@ for D in $(cat /tmp/href.txt); do
  echo "$D" | fgrep $(cat blackhost.txt | sed -e 's;^;-e ;')
  if [ $? = 0 ]; then
    echo "ドメイン $D はすでにある設定で該当するため無視します" >/dev/stderr
-	 shift
    continue
  fi
  echo "ドメイン $D 追加します…"
