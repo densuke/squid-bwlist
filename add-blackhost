@@ -76,7 +76,6 @@ for D in $(cat /tmp/href.txt); do
 #	echo "REVERTED DOMAIN $D" > /dev/stderr
 # fi
  rm -f ${WORKFILE}
- shift
 done
 fi
 git commit -m "batch commit" && \
