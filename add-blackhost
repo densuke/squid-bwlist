@@ -1,6 +1,6 @@
 #!/bin/sh
 
-EDITOR=true
+export EDITOR=true
 
 usage () {
  echo "Usage: $0 domain [...]"
@@ -50,6 +50,35 @@ while [ ! "x$1" = "x" ]; do
  rm -f ${WORKFILE}
  shift
 done
+if [ -f /tmp/href.txt ]; then
+echo "--- href.txtがあるので処理対象に加えました ---"
+for D in $(cat /tmp/href.txt); do
+ echo "ドメイン $D 前処理中…"
+ echo "$D" | grep -q "^\."
+ if [ ! $? = 0 ]; then
+  D=".${D}"
+ fi
+ echo "$D" | fgrep $(cat blackhost.txt | sed -e 's;^;-e ;')
+ if [ $? = 0 ]; then
+   echo "ドメイン $D はすでにある設定で該当するため無視します" >/dev/stderr
+	 shift
+   continue
+ fi
+ echo "ドメイン $D 追加します…"
+ echo "$D" >> blackhost.txt && \
+ make sort
+ WORKFILE=/tmp/check.$$
+ #./check 2>&1 | tee ${WORKFILE}
+ #if [ $? = 0 -a $(wc -l < ${WORKFILE}) -le 4 ]; then
+  git add blackhost.txt
+# else
+  git checkout blackhost.txt
+#	echo "REVERTED DOMAIN $D" > /dev/stderr
+# fi
+ rm -f ${WORKFILE}
+ shift
+done
+fi
 git commit -m "batch commit" && \
 git checkout develop && git merge "${BRANCH}" && \
 git checkout master && git merge develop
