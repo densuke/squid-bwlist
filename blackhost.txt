@@ -262,6 +262,7 @@
 .aeoncinema.com
 .af5.jp
 .affection-web.co.jp
+.affikatsu.com
 .affiliate-b.com
 .affiliate-dti.com
 .affiliate-net.info
@@ -1063,6 +1064,7 @@
 .data-vocabulary.org
 .daumcdn.net
 .daumkakao.com
+.dawnfun.com
 .dayztv.com
 .dbonline.jp
 .dc7.jp
@@ -4924,6 +4926,7 @@
 .wayohoo.net
 .wazap.com
 .weairsoft.com
+.web-giga.com
 .web-jong.com
 .web-jozu.com
 .web-manga.info
