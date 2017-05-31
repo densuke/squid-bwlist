@@ -1093,6 +1093,7 @@
 .dengekitaisho.jp
 .dengekiya.com
 .denshoko.com
+.depfile.com
 .deqwas.net
 .derbyimpact.jp
 .design-plus1.com
@@ -2137,6 +2138,7 @@
 .hot-oku.com
 .hot-topic-news.com
 .hotcom-web.com
+.hotmoe.com
 .hotp.jp
 .hotpepper.jp
 .housewife-ch.com
@@ -2229,6 +2231,7 @@
 .imas-cinderella.com
 .imashun-navi.com
 .imasnews765.com
+.imgfor.me
 .imgs.ws
 .imgur.com
 .imgvc.com
@@ -2348,6 +2351,7 @@
 .jojo-animation.com
 .jojomatome.jp
 .jojoss.jp
+.jolinfile.com
 .jordanmania.com
 .josei-bigaku.jp
 .joshi-spa.jp
@@ -3483,6 +3487,7 @@
 .nuwton.com
 .nvtrlab.jp
 .nxgamers.jp
+.nyaa.im
 .nyaa.se
 .nyaasoku.com
 .nyaasokuvip.net
@@ -3949,6 +3954,7 @@
 .rash.jp
 .rastaneko-blog.com
 .raw-zip.com
+.raw.im
 .rayjump.com
 .razerzone.com
 .rbbtoday.com
@@ -4400,6 +4406,7 @@
 .ss-matome.net
 .ssantenna.com
 .ssflash.net
+.ssh.tf
 .sshozonbasho.com
 .ssmatome.com
 .ssmatomeantenna.info
