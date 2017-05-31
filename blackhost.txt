@@ -806,6 +806,7 @@
 .buzfeed.com
 .buzz-netnews.com
 .buzz-plus.com
+.buzzap.jp
 .buzzgala.com
 .buzzhand.com
 .buzzhand.net
@@ -4052,6 +4053,7 @@
 .ryuuseinogotoku-trend.com
 .s-bookstore.jp
 .s-manga.net
+.s-p-r-6.com
 .s2-log.com
 .s2s.co.jp
 .s5-style.com
@@ -4923,6 +4925,7 @@
 .warotagamer.com
 .warotah.com
 .warotamaker.com
+.warotamaker2.com
 .warotanews.com
 .warotanikki.com
 .warotaw.com
@@ -5104,6 +5107,7 @@
 .xn--shadowverse-e63t796khk9bk11e.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
 .xn--u9jw87h6tdi4hqls.com
+.xn--u9jw87h6tdi4hqls.jp
 .xn--xvideo-up4jq68t.net
 .xn--zck0ab2m.com
 .xn--zck0ab2mr42rre5d.biz
