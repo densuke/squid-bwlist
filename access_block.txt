@@ -37,4 +37,5 @@
 .api.monster-strike.com
 .comico.jp
 .comico.com
+.nicoblomaga.jp
 
