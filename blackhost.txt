@@ -625,6 +625,7 @@
 .bakusai.com
 .bally.co.jp
 .bamka.info
+.bananabona.com
 .bandai-hobbuy.net
 .bandai-hobby.net
 .bandainamco-ol.co.jp
@@ -1050,6 +1051,7 @@
 .daisuki-otameshi.com
 .daki-makura.info
 .damage0.com
+.damege0.com
 .damonge.com
 .dan-ball.jp
 .dancom.jp
@@ -3424,6 +3426,7 @@
 .nikonikozone.com
 .nikukyu-punch.com
 .nimg.jp
+.ninja-web.net
 .ninja-x.jp
 .ninja.co.jp
 .ninjadoodle.com
@@ -5282,6 +5285,7 @@
 .zouri.jp
 .zozo.jp
 .zucks.net
+.zukyun.jp
 .zumst.com
 .zwei.com
 .zzzsearch.com
