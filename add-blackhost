@@ -16,7 +16,7 @@ cleaning () {
 
 trap cleaning 0 1 2 3 4 5 6 7 8 9 10 15
 
-if [ "x$1" = "x" -o -f /tmp/href.txt ]; then
+if [ "x$1" = "x" -a ! -f /tmp/href.txt ]; then
  usage
 fi
 
