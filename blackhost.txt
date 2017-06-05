@@ -517,7 +517,10 @@
 .arika.co.jp
 .arit-clt.com
 .arithgame.jp
+.armor.ag
 .armoredcore.net
+.armorgames.com
+.armorgames.zendesk.com
 .arrive.co.jp
 .arsareth.net
 .aruaru.me
@@ -784,6 +787,7 @@
 .brightcove.com
 .brillia-sst.jp
 .broccoli.co.jp
+.browsehappy.com
 .bst-akiba.net
 .bsveri.com
 .bto-pc.jp
