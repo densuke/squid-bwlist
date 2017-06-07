@@ -2579,6 +2579,7 @@
 .knuckleport.com
 .kobo.com
 .kobobooks.com
+.kodansha-novels.jp
 .kodukai-king.jp
 .koenokatachi-movie.com
 .koga.me
@@ -4220,6 +4221,7 @@
 .shadowversematome.click
 .shadowversepress.biz
 .shadowversetetteikouryaku.top
+.shaft-web.co.jp
 .shakaijin.org
 .shakin.in
 .share-videos.se
@@ -5270,6 +5272,7 @@
 .zakuzaku911.com
 .zap.jp.net
 .zapzapjp.com
+.zaregoto-series.com
 .zasetukinsi.com
 .zasshi-online.com
 .zatunen.com
