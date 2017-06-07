@@ -2281,6 +2281,7 @@
 .ipinfo.io
 .iplayer.org
 .ippa.jp
+.irasutoya.com
 .iratsuku.com
 .ironna.jp
 .irumahitoma.jp
@@ -2499,6 +2500,7 @@
 .kekkon-sokuho.com
 .kekkonch.com
 .kemco.jp
+.kemono-friendsch.com
 .kenjasyukatsu.com
 .ketchapp.jp
 .keyakizaka-46.org
@@ -5055,7 +5057,6 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
-.www.irasutoya.com
 .www.mai-net.net
 .www2.koro-pokemon.com
 .wwwanime.jp
