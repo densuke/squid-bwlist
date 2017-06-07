@@ -289,6 +289,7 @@
 .aiueo-keizai.com
 .aiyokugekijo.com
 .ajifun.com
+.ajikichi.com
 .ajinori.com
 .akaguro.jp
 .akairsoft.jp
@@ -3617,6 +3618,7 @@
 .otajo.jp
 .otakara-idol.com
 .otakaragazou.com
+.otakaraou.com
 .otakomu.jp
 .otakuma.net
 .otakumode.com
@@ -5053,6 +5055,7 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
+.www.irasutoya.com
 .www.mai-net.net
 .www2.koro-pokemon.com
 .wwwanime.jp
