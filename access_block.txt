@@ -4,6 +4,7 @@
 .comico.com
 .comico.jp
 .esuteru.com
+.hangame.co.jp
 .hekk.org
 .jin115.com
 .kairisei-ma.jp
