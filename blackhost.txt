@@ -407,6 +407,7 @@
 .animesachi.com
 .animesin.net
 .animetheworld.com
+.animetimes.com
 .animevari.info
 .animewallpaperstock.com
 .animg.net
@@ -1842,6 +1843,7 @@
 .ggame.jp
 .gger.jp
 .ggsoku.com
+.ghibli-tosidensetu.com
 .ghkairsoft.com
 .gifmagazine.net
 .gifnuki.com
@@ -3695,6 +3697,7 @@
 .pangya.jp
 .panpilog.com
 .pantena.net
+.paopaoche.net
 .paperman.jp
 .papimami.jp
 .paranormal-ch.com
@@ -4536,6 +4539,7 @@
 .takashi1016.com
 .takenokosokuhou.com
 .takeshobo.co.jp
+.takoyaki-utako.com
 .talent-zukan.com
 .tales-ch.jp
 .talewiki.com
