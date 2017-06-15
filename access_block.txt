@@ -6,6 +6,7 @@
 .coskaba.com
 .do-ra.org
 .esuteru.com
+.ga-m.com
 .game-tm.com
 .granbluefantasy.jp
 .hangame.co.jp
@@ -23,6 +24,7 @@
 .nicovideo.jp
 .nimg.jp
 .paopaoche.net
+.pk-mn.com
 .sengokuixa.jp
 .smilevideo.jp
 .spotify.com.edgesuite.net
