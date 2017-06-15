@@ -31,6 +31,7 @@
 .steamcommunity.com
 .steampowered.com
 .steamstatic.com
+.turbosquad.com
 .tv
 .xvideo-japon.com
 .xvideo-jp.com
