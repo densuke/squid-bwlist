@@ -3829,6 +3829,7 @@
 .pokecheck.org
 .pokedit.com
 .pokegogo.net
+.pokelabo.co.jp
 .pokelabo.jp
 .pokemon-br.com
 .pokemon-gl.com
