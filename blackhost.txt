@@ -136,6 +136,7 @@
 .2monkeys.jp
 .2mq.info
 .2mtmex.com
+.2ndstreet.jp
 .2nisoku9.com
 .2nn.jp
 .365uranai.net
@@ -601,6 +602,7 @@
 .ayushii.net
 .azaban.com
 .azukichi.net
+.b-boys.jp
 .b-ch.com
 .b-prince.com
 .b.hatena.ne.jp
@@ -608,6 +610,7 @@
 .b9dm.com
 .babarageo.com
 .babel.sc
+.babylabo.jp
 .babylink.herokuapp.com
 .babymetal-darake.com
 .babymetalmatome.com
@@ -632,8 +635,11 @@
 .bally.co.jp
 .bamka.info
 .bananabona.com
+.bandai-a.akamaihd.net
 .bandai-hobbuy.net
 .bandai-hobby.net
+.bandai-lifestyle.jp
+.bandai.co.jp
 .bandainamco-ol.co.jp
 .bandainamco-ol.jp
 .bandainamcoent.co.jp
@@ -1008,6 +1014,7 @@
 .creative-box.in
 .creative-video.info
 .credit-zeus.net
+.creerbeaute.co.jp
 .criteo.com
 .crocro.com
 .croozsocial.com
@@ -1294,6 +1301,7 @@
 .en-zine.jp
 .enasiyo.com
 .endroll.net
+.enet-dvd.com
 .enflatpark.com
 .engadget.com
 .enjin.com
@@ -1627,6 +1635,7 @@
 .futakuro.com
 .futene.net
 .fuubunn.com
+.fuwa-portal.jp
 .fuyu.gs
 .fuzoku.sh
 .fx-startup.com
@@ -1637,6 +1646,7 @@
 .fxremember.com
 .fxsagasu.com
 .fxshihyo.com
+.g-cafe.jp
 .g-heaven.net
 .g-hiroba.com
 .g-matome.com
@@ -1773,6 +1783,7 @@
 .gamingcx.com
 .gamme.com.tw
 .gamy.jp
+.ganbarizing.com
 .ganganonline.com
 .ganjuu.com
 .ganma.jp
@@ -1826,10 +1837,13 @@
 .genkiszk.com
 .gensen2ch.com
 .gensenrorikko.com
+.geo-mobile.jp
 .geo-online.co.jp
 .geo.jp
 .geocities.co.jp
 .geocities.jp
+.geomanga.jp
+.geonet.co.jp
 .geonet.jp
 .georgia.jp
 .gera-comic.net
@@ -1896,6 +1910,7 @@
 .gogotsu.com
 .goldv.ash.jp
 .golf-jalan.net
+.golf-kace.com
 .golgo31.net
 .golog.jp
 .gomtv.com
@@ -1952,6 +1967,7 @@
 .groovecoaster.jp
 .grotesque1234.com
 .grotty-monday.com
+.group-h.jp
 .growthhackjapan.com
 .growthseed.jp
 .gsreloaded.jp
@@ -2073,6 +2089,7 @@
 .heroesandgenerals.com
 .heroesbattle.jp
 .heros-ultraman.com
+.herotime.jp
 .heroz.jp
 .heteml.jp
 .hexadrive.jp
@@ -2803,6 +2820,7 @@
 .lovetoy.jp
 .luckdou.com
 .lucky-domain.net
+.lueca.jp
 .luidas.com
 .lukemcg.com
 .lululuxxne.jp
@@ -2835,6 +2853,7 @@
 .mag-u.jp
 .mag2.com
 .magazinepocket.com
+.magic-castle-kss.com
 .magicalmirai.com
 .magicalracing.co.jp
 .magicianwiz.net
