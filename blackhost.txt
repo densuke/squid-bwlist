@@ -1262,6 +1262,7 @@
 .ebis.ne.jp
 .ebitsu.net
 .ebsu.jp
+.ebten.jp
 .ec-russell.jp
 .echowhite.homelinux.net
 .ediaryhiroko.com
