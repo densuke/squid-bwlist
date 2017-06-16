@@ -762,6 +762,7 @@
 .bn765.com
 .bne-live.net
 .bnent.jp
+.bngames.jp
 .bngames.net
 .boardgamearena.net
 .bochist.com
@@ -1641,6 +1642,7 @@
 .g-matome.com
 .g-sozai.com
 .g-takumi.com
+.g-tekketsu.com
 .g-tune.jp
 .g-uwasa.com
 .g.bing.com
@@ -1965,6 +1967,7 @@
 .gundam-bf.net
 .gundam-cardbuilder.com
 .gundam-kizuna.jp
+.gundam-tb.net
 .gundam-vs.jp
 .gundam.info
 .gundamlog.com
