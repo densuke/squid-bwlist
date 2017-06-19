@@ -495,6 +495,7 @@
 .applovin.com
 .appmarketinglabo.net
 .appmatome.net
+.appmedia.co.jp
 .appmedia.jp
 .appnews365.com
 .appoxee.com
@@ -4145,6 +4146,7 @@
 .sao-movie.net
 .sappukei.com
 .sarashi.com
+.satoru.net
 .satsubatsusekai.sakura.ne.jp
 .satubatu.com
 .saunaya.com
