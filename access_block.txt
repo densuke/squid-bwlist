@@ -1,6 +1,8 @@
 .4gamer.net
 .altema.jp
 .api.monster-strike.com
+.app-adforce.jp
+.appmedia.jp
 .audio-sp-tyo.spotify.com
 .candycrashsoda.king.com
 .cdnnow.ru
@@ -10,6 +12,7 @@
 .crashfever.com
 .do-ra.org
 .esuteru.com
+.finalfantasyxiv.com
 .ga-m.com
 .game-tm.com
 .godessgame.com
@@ -29,6 +32,7 @@
 .nicoseiga.jp
 .nicovideo.jp
 .nimg.jp
+.open2ch.net
 .paopaoche.net
 .pk-mn.com
 .pokelabo.jp
@@ -40,6 +44,7 @@
 .steamstatic.com
 .turbosquad.com
 .tv
+.twimg.com
 .xvideo-japon.com
 .xvideo-jp.com
 .xvideo.com
