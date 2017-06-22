@@ -717,6 +717,7 @@
 .bita.jp
 .bitcash.jp
 .bitcoinstat.org
+.bitcomet.com
 .bitmango.com
 .bitshare.com
 .bitsummit.org
@@ -763,6 +764,7 @@
 .blozoo.net
 .blue-a.org
 .bluekai.com
+.bluemsx.com
 .bluestacks.com
 .bm.to
 .bmcaxis.jp
@@ -912,9 +914,11 @@
 .ciatr.jp
 .cinematoday.jp
 .cinesoku.net
+.cinnamonpirate.com
 .civ4multi.info
 .civ5nobunaga.com
 .civic-apps.com
+.cjb.net
 .ckworks.jp
 .clan-battle.jp
 .clarksvillegamedesign.net
@@ -974,11 +978,13 @@
 .commte.net
 .completedouga.com
 .computeremuzone.com
+.comsort.jp
 .conangame.jp
 .concon-collector.com
 .condenast.jp
 .coneco.net
 .consolegameswiki.com
+.consolemul.com
 .conte-anime.jp
 .contextweb.com
 .conv2ch.com
@@ -986,6 +992,7 @@
 .cookpad.com
 .coolcoolapps.com
 .cooljapaan.com
+.coolrom.com
 .cooltext.com
 .copulation-ch.com
 .corebooks.jp
@@ -1002,6 +1009,7 @@
 .cotedazur.jp
 .cotinus.org
 .countdownjapan.jp
+.counter-value.com
 .couples.jp
 .cpmok.net
 .cpmstar.com
@@ -1172,6 +1180,7 @@
 .dokoda.jp
 .dokokarasokuhou.com
 .dokujyoch.net
+.dolphin-emu.com
 .domesoccer.jp
 .dominationsgame.com
 .dominos.jp
@@ -1236,6 +1245,7 @@
 .dropbooks.com
 .ds-seiban.com
 .dsalon.net
+.dsromplanet.com
 .dsup.net
 .dt-a.jp
 .dtiblog.com
@@ -1285,6 +1295,7 @@
 .egv.cc
 .ehgt.org
 .ehoh.net
+.eidolons-inn.net
 .eigaunchiku.com
 .eitarosoft.co.jp
 .elementalstory.com
@@ -1297,8 +1308,18 @@
 .emei-landarms.com
 .eminews.jp
 .emu-russia.net
+.emubase.de
+.emucn.net
+.emudev.org
 .emulanium.com
+.emulation64.com
+.emulation9.com
+.emulator-zone.com
+.emulatronia.com
+.emuparadise.org
 .emusite.com
+.emutalk.net
+.emuxhaven.net
 .en-zine.jp
 .enasiyo.com
 .endroll.net
@@ -1324,6 +1345,7 @@
 .epoch.jp
 .epochtimes.com
 .epochtimes.jp
+.epsxe.com
 .ercim.eu
 .erecty.com
 .eriones.com
@@ -1463,6 +1485,7 @@
 .ex-cloud.jp
 .exawarosu.net
 .exiletribestation.jp
+.exophase.com
 .exploader.net
 .eyeviewads.com
 .eyny.com
@@ -1531,6 +1554,7 @@
 .figure-antenna.com
 .figureheads.jp
 .filepuma.com
+.finalburn.com
 .finalfantasy.jp
 .finalfantasyxiv.com
 .firealpaca.com
@@ -1580,6 +1604,7 @@
 .free-share.jp
 .free-video-movie
 .free-xvideos.net
+.freedo.org
 .freegame-mugen.jp
 .freegame.on.arena.ne.jp
 .freegamecenter.net
@@ -1772,6 +1797,7 @@
 .gamespark.jp
 .gamesq.jp
 .gamestalk.net
+.gamestorrents.com
 .gametama.jp
 .gametsu.net
 .gametter.com
@@ -3286,6 +3312,7 @@
 .mytimeline-news.com
 .myurdayz.com
 .n-exceed.net
+.n-roms.de
 .n131adserv.com
 .n1e.jp
 .nachoindustries.de
@@ -3350,12 +3377,14 @@
 .nekowan.com
 .nekozekone.com
 .nelog.jp
+.nemu.com
 .nend.net
 .nengu.jp
 .nenshuu.net
 .neraime.com
 .nero.com
 .nest-online.jp
+.nestopia.sourceforge.net
 .net-king.com
 .neta.jpn.org
 .neta03.com
@@ -3426,6 +3455,7 @@
 .nflximg.com
 .nflximg.net
 .nflxvideo.net
+.ngemu.com
 .ngnews.me
 .nhncorp.jp
 .ni-moe.com
@@ -3479,6 +3509,7 @@
 .nippon1.jp
 .nishi2002.com
 .nishifukuma.com
+.nitroroms.com
 .nitroyss.jp
 .niur.net
 .niwakasokuhou.com
@@ -3751,14 +3782,18 @@
 .pazudorayarouzu.com
 .pazumato.com
 .pazupura.com
+.pbernert.com
 .pc-gamerpg.com
 .pc-karuma.net
 .pc-koubou.jp
 .pc-onlinegames.com
 .pc6.com
+.pcemumu.hp.infoseek.co.jp
 .pcmanabu.com
 .pcmax.jp
 .pcpitshop.com
+.pcsx.net
+.pcsx2.net
 .pdmatometa.com
 .peacepopo.net
 .peach-soku4.com
@@ -3816,7 +3851,9 @@
 .pixiv.me
 .pixiv.net
 .piyosoku.net
+.pj64-emu.com
 .pk-mn.com
+.planetemu.net
 .planetminecraft.com
 .plasma-antenna.com
 .plastic-memories.jp
@@ -4049,6 +4086,8 @@
 .rentracks.jp
 .repsoku.net
 .res2ch.net
+.retrogames.com
+.retropc.net
 .revspeed.jp
 .rfs.jp
 .rgf-hragent.asia
@@ -4072,6 +4111,7 @@
 .rockinstar.jp
 .rockstargames.com
 .roketto-ss.sakuraweb.com
+.rom-world.com
 .romhustler.net
 .romulation.net
 .ronsoku.com
@@ -4106,6 +4146,7 @@
 .s-manga.net
 .s-p-r-6.com
 .s2-log.com
+.s2mall.net
 .s2s.co.jp
 .s5-style.com
 .s81c.com
@@ -4180,6 +4221,7 @@
 .securitysoft.asia
 .sedo.co.uk
 .sedo.com
+.seedpeer.com
 .seesaa.jp
 .seesaa.net
 .seesaawiki.jp
@@ -4373,6 +4415,7 @@
 .slotmoe.jp
 .slotnippou.com
 .slstage.com
+.slysoft.com
 .sma-sta.com
 .smaato.net
 .smabros.net
@@ -4397,7 +4440,10 @@
 .smt.docomo.ne.jp
 .snalime.com
 .snaplace.jp
+.snes9x.com
+.snk-neofighters.com
 .snkplaymore.co.jp
+.snkplaymore.jp
 .snmemories.net
 .sns-park.com
 .so9.jp
@@ -4422,6 +4468,7 @@
 .soramame201603.com
 .soregashi.com
 .sosuke7.com
+.sottoikiru.hp.infoseek.co.jp
 .soudanch.com
 .sougetsu-on.net
 .soulcalibur.com
@@ -4490,6 +4537,7 @@
 .stmato.com
 .stoicfps.com
 .store.microsoft.com
+.storeroom.info
 .storestrategy.jp
 .stream.co.jp
 .strike-the-blood.com
@@ -4663,6 +4711,8 @@
 .themonic.com
 .thenbapps.com
 .thenewlaunchcollections.com
+.theoldcomputer.com
+.thepiratebay.org
 .theworldendeclipse.jp
 .thisisgame.com
 .thumbs.canstockphoto.com
@@ -4943,6 +4993,7 @@
 .vivamaga.jp
 .voguegirl.jp
 .volks.co.jp
+.voo.to
 .vpngate.net
 .vqpv.biz
 .vsnp.net
@@ -5337,6 +5388,7 @@
 .zopim.com
 .zouri.jp
 .zozo.jp
+.zsnes.com
 .zucks.net
 .zukyun.jp
 .zumst.com
