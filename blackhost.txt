@@ -1765,6 +1765,7 @@
 .gamejolt.com
 .gamekana.com
 .gamekouryaku.com
+.gamelandos.com
 .gamelearning.jp
 .gamelive.jp
 .gameloft.com
@@ -2277,6 +2278,7 @@
 .ijinshan.com
 .ikarishintou.com
 .ikaros.jp
+.ikazok.net
 .ikeike2ch.jp
 .ikimonomatometyou.com
 .ikki-para.com
@@ -4484,6 +4486,7 @@
 .speedtrace.co.jp
 .spike-chunsoft.co.jp
 .spky.org
+.splatoon-antenna.net
 .splatoon-nawabari.com
 .splax.net
 .spoilerbomb.com
