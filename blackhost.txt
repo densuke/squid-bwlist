@@ -446,6 +446,7 @@
 .antiina.com
 .anything-navi.net
 .aoharu-b.com
+.aoitorinouta.com
 .aokihagane.com
 .aosbox.com
 .aozora-pw.com
@@ -552,6 +553,7 @@
 .asobuoiphone.com
 .asterizm.jp
 .at-douga.com
+.at-ninja.jp
 .atari7.com
 .ateitexe.com
 .atelier-ps3.jp
@@ -987,6 +989,7 @@
 .consolegameswiki.com
 .consolemul.com
 .conte-anime.jp
+.conte-de-fees.com
 .contextweb.com
 .conv2ch.com
 .coocan.jp
@@ -1049,6 +1052,7 @@
 .cxense.com
 .cyanmag.jp
 .cyber-life.info
+.cyber-rainforce.net
 .cyberbuzz.jp
 .cybergadget.co.jp
 .cybergun.com
@@ -1063,6 +1067,7 @@
 .cyzowoman.com
 .d-deltanet.com
 .d-quest-10.com
+.d-symphony.com
 .d.hatena.ne.jp
 .d2pass.com
 .d4e.co.jp
@@ -2251,6 +2256,7 @@
 .ichijinsha.co.jp
 .ichikatsu.com
 .ichioshikabunavi.net
+.icio.us
 .icloud.com
 .idea-unlimited.com
 .ideatool.jp
@@ -2360,6 +2366,7 @@
 .iwashi.biz
 .iwww.jp
 .iyashieromanga.com
+.iza-yoi.net
 .izanami-antenna.com
 .izunak.com
 .izzetmtgnews.com
@@ -2417,6 +2424,8 @@
 .jojo-animation.com
 .jojomatome.jp
 .jojoss.jp
+.jokersounds.co.jp
+.jokersounds.com
 .jolinfile.com
 .jordanmania.com
 .josei-bigaku.jp
@@ -2429,6 +2438,7 @@
 .jpcamera.info
 .jpddl.com
 .jpn.com
+.jpn.org
 .jpnz.jp
 .jpvoutube.com
 .jra.jp
@@ -2454,6 +2464,7 @@
 .k-img.com
 .k-jz.com
 .k-manga.jp
+.k2works.com
 .ka-nabell.com
 .kabaneri.com
 .kabegami.com
@@ -2695,6 +2706,7 @@
 .kuma-log.net
 .kumacchi.com
 .kurage-bunch.com
+.kurage-kosho.info
 .kuraha.com
 .kuroneko-wiz.com
 .kuroneko-wiz9675.net
@@ -2948,6 +2960,7 @@
 .mantensama.jp
 .manycam.com
 .manycams.com
+.maoudamashii.com
 .maplestory.jp
 .marandr.com
 .maria-marie.info
@@ -3088,6 +3101,7 @@
 .mildch.com
 .mile-stone.jp
 .milestone-net.co.jp
+.miliardo.jp
 .milihime.jp
 .military38.com
 .millennium-war.net
@@ -3296,6 +3310,7 @@
 .muryougamesmph.com
 .musasi.jp
 .museru.com
+.musix51.com
 .mutimutigazou.com
 .muwangpark.com
 .mwbunko.com
@@ -4263,6 +4278,7 @@
 .senmanga.com
 .senpaigamer.com
 .senryaku.sengoku-jidai.commens
+.senses-circuit.com
 .sensns.com
 .sensodyne.es
 .sensodyne.jp
@@ -4726,6 +4742,7 @@
 .tigresoft.com
 .tiki.ne.jp
 .time-share.me
+.timelessberry.com
 .timemachine2015.jp
 .timesale-sokuhou.com
 .tinami.com
@@ -5099,6 +5116,7 @@
 .will-game.com
 .williamhill.com
 .windowsphone.com
+.wingless-seraph.net
 .winneri.info
 .winvz.jp
 .wired.jp
@@ -5298,6 +5316,7 @@
 .yasuda1949.com
 .ybbo.net
 .yen-money-point.com
+.yen-soft.com
 .yes24.com
 .yeshj.com
 .yetivip.com
