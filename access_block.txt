@@ -44,6 +44,7 @@
 .g-tune.jp
 .ga-m.com
 .game-tm.com
+.gamelandos.com
 .gamestorrents.com
 .godessgame.com
 .goobike.com
@@ -97,6 +98,7 @@
 .snkplaymore.jp
 .sottoikiru.hp.infoseek.co.jp
 .spotify.com.edgesuite.net
+.sta-navi.net
 .steamcommunity.com
 .steampowered.com
 .steamstatic.com
