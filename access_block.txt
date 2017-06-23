@@ -45,6 +45,7 @@
 .ga-m.com
 .game-tm.com
 .gamelandos.com
+.gameranbu.jp
 .gamestorrents.com
 .godessgame.com
 .goobike.com
