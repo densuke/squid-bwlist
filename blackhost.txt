@@ -719,6 +719,7 @@
 .bitcoinstat.org
 .bitcomet.com
 .bitmango.com
+.bitmining.com
 .bitshare.com
 .bitsummit.org
 .bitter.jp
