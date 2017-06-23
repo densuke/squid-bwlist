@@ -53,6 +53,7 @@
 .hangame.co.jp
 .hekk.org
 .ign.com
+.itunes.apple.com
 .jin115.com
 .kaigai-binary.com
 .kairisei-ma.jp
@@ -82,6 +83,7 @@
 .pj64-emu.com
 .pk-mn.com
 .planetemu.net
+.play.google.com
 .pokelabo.jp
 .rental-rental.net
 .rentalurl.net
