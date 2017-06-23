@@ -1781,6 +1781,7 @@
 .gamer-log.com
 .gamer.com
 .gamer.ne.jp
+.gameranbu.jp
 .gamerch.com
 .gamerp.jp
 .gamers-link.net
