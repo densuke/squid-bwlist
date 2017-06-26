@@ -1,6 +1,7 @@
 .4gamer.net
 .altema.jp
 .ameblo.jp
+.antenna-pro.net
 .api.monster-strike.com
 .app-adforce.jp
 .appmedia.jp
@@ -37,6 +38,11 @@
 .epsxe.com
 .esuteru.com
 .exophase.com
+.fate-grandorder.jp
+.fatede-go.com
+.fatego-japan.com
+.fatego.jp
+.fategofan.site
 .finalburn.com
 .finalfantasyxiv.com
 .freedo.org
@@ -44,6 +50,7 @@
 .g-tune.jp
 .ga-m.com
 .game-tm.com
+.gameinn.jp
 .gamelandos.com
 .gameranbu.jp
 .gamestorrents.com
@@ -106,12 +113,14 @@
 .steampowered.com
 .steamstatic.com
 .storeroom.info
+.sukasaha-antenna.net
 .theoldcomputer.com
 .thepiratebay.org
 .turbosquad.com
 .tv
 .twimg.com
 .voo.to
+.xn--fgo-gh8fn72e.com
 .xvideo-japon.com
 .xvideo-jp.com
 .xvideo.com
