@@ -6,6 +6,7 @@
 .0nyan.jp
 .0yen-health.com
 .0zero.jp
+.1);
 .10000km.com
 .1000giri.net
 .1000giribest.com
@@ -1519,9 +1520,12 @@
 .fate-grandorder.jp
 .fate-meeting.com
 .fate-rpg.jp
+.fatede-go.com
 .fatego-an.com
 .fatego-japan.com
 .fatego.biz
+.fatego.jp
+.fategofan.site
 .fategrandorder.info
 .fatemaster.net
 .favoch.com
@@ -4571,6 +4575,7 @@
 .suichu-ka.com
 .suites-spot.com
 .suk9.com
+.sukasaha-antenna.net
 .sukattojapan.com
 .sukebe-antena.com
 .sukumizu.jp
@@ -5189,6 +5194,8 @@
 .xii.jp
 .xiii-xiii.com
 .xma.pw
+.xn---fate-grandorder-794ovb07b7ht176ef78bjy',
+.xn---fate-grandorder-794ovb07b7ht176ef78bjy3dxb0g.com
 .xn--1iq22t3xn.net
 .xn--2qq684doji.net
 .xn--ccke7da9de3noexft929csfpb.com
@@ -5207,6 +5214,7 @@
 .xn--fatego-8c4e9f2a1906ksfpb.com
 .xn--ffbech-6j2km57fci6a439c.com
 .xn--ffrk-ew5g930m2ievofcu5d06m.com
+.xn--fgo-gh8fn72e.com
 .xn--go-jb4asdqa7zrkmbxks096csfpb.co
 .xn--go-x93azb8f1byczorovb7l8092d85ub.com
 .xn--hbko4132a.jp
