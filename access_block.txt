@@ -1,4 +1,7 @@
+.2ch-c.net
+.2chblog.jp
 .4gamer.net
+.agemanlabo.com
 .altema.jp
 .ameblo.jp
 .antenna-pro.net
@@ -45,6 +48,9 @@
 .fatego-japan.com
 .fatego.jp
 .fategofan.site
+.ff14channel.net
+.ff14chihou.net
+.ff14wiki.info
 .finalburn.com
 .finalfantasyxiv.com
 .freedo.org
@@ -56,6 +62,7 @@
 .gamelandos.com
 .gameranbu.jp
 .gamestorrents.com
+.ggame.jp
 .godessgame.com
 .goobike.com
 .granbluefantasy.jp
@@ -64,14 +71,17 @@
 .ign.com
 .itunes.apple.com
 .jin115.com
+.k-ani.com
 .kaigai-binary.com
 .kairisei-ma.jp
 .kissanime.to
 .leagueoflegends.com
 .levelup.cn
 .linksynergy.com
+.matomeantena.com
 .memories-in-time.net
 .meyou.jp
+.moudamepo.com
 .n-roms.de
 .nemu.com
 .nestopia.sourceforge.net
@@ -82,6 +92,7 @@
 .nimg.jp
 .nitroroms.com
 .nobody.jp
+.nullpoantenna.com
 .omegumi.com
 .open2ch.net
 .paopaoche.net
@@ -94,6 +105,7 @@
 .planetemu.net
 .play.google.com
 .pokelabo.jp
+.rakuraku-mercari.com
 .rental-rental.net
 .rentalurl.net
 .retrogames.com
@@ -123,6 +135,7 @@
 .twimg.com
 .voo.to
 .xn--fgo-gh8fn72e.com
+.xn--p8j0c7waacaa1469dq3bjz4aujoeo5cgl2agxbbxvw3n4ssqxh.com
 .xvideo-japon.com
 .xvideo-jp.com
 .xvideo.com
