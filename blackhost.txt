@@ -302,6 +302,7 @@
 .akb48mato.com
 .akb48matome.com
 .akb48matomemory.com
+.akb48matomemoryu.com
 .akb48mt.com
 .akb48nensensou.net
 .akb48newstimes.jp
@@ -597,6 +598,7 @@
 .avximg.com
 .awasete.com
 .awe.jp
+.axdx.net
 .axelgames.net
 .axelmark.jp
 .ayacnews2nd.com
@@ -1554,6 +1556,9 @@
 .fevian.org
 .fezero.jp
 .ff-reunion.net
+.ff14channel.net
+.ff14chihou.net
+.ff14wiki.info
 .ffgogogo.com
 .ffrk-ch.com
 .ffrk.tokyo
@@ -4056,6 +4061,7 @@
 .rakugakichou.com
 .rakugakidou.net
 .rakugan.com
+.rakuraku-mercari.com
 .rakuten.co.jp
 .rampokitan.com
 .random-call.net
@@ -4505,6 +4511,7 @@
 .sozainomori.com
 .sozaiya-search.com
 .sp-antenna.com
+.spacejam.site
 .spccint.com
 .special-pink-image.com
 .speedtrace.co.jp
@@ -5241,6 +5248,7 @@
 .xn--o9j0bk8t7cqhlg.com
 .xn--o9j0bk9l8cn4i9byj2jo863c0ssb.com
 .xn--ols67gexemtbf4hu7bg82b9r6c.com
+.xn--p8j0c7waacaa1469dq3bjz4aujoeo5cgl2agxbbxvw3n4ssqxh.com
 .xn--r8jwklh769h2mc880dk1o431a.com
 .xn--shadowverse-e63t796khk9bk11e.com
 .xn--u9j4g9dxd292pfbtfskdg9f.com
