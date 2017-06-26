@@ -69,7 +69,7 @@
 .hangame.co.jp
 .hekk.org
 .ign.com
-.itunes.apple.com
+.iosapps.itunes.apple.com
 .jin115.com
 .k-ani.com
 .kaigai-binary.com
