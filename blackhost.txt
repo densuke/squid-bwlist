@@ -274,6 +274,7 @@
 .agag.tw
 .agar.io
 .age-corp.jp
+.agemanlabo.com
 .agemoe072.com
 .ageofstrife.com
 .agilemedia.jp
@@ -2463,6 +2464,7 @@
 .jyouhouya3.sakura.ne.jp
 .jyouhouya3b.sakura.ne.jp
 .jyukujo-douga.net
+.k-ani.com
 .k-bouken.com
 .k-img.com
 .k-jz.com
