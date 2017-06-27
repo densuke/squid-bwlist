@@ -129,6 +129,7 @@
 .steamstatic.com
 .storeroom.info
 .sukasaha-antenna.net
+.teamviewer.com
 .theoldcomputer.com
 .thepiratebay.org
 .turbosquad.com
