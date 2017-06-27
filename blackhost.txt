@@ -429,6 +429,7 @@
 .ant-ant.net
 .ant7.info
 .antch.net
+.antena-go.net
 .antena456.link
 .antenam.biz
 .antenam.info
@@ -1015,6 +1016,7 @@
 .costco.co.jp
 .cotedazur.jp
 .cotinus.org
+.cougar-antenna.net
 .countdownjapan.jp
 .counter-value.com
 .couples.jp
@@ -1854,6 +1856,7 @@
 .gb-tech.jp
 .gb-wiki.net
 .gbf-wiki.com
+.gbf-wiki.net
 .gc-img.net
 .gczero.com
 .gdunlimited.net
@@ -4487,6 +4490,7 @@
 .sofmap.com
 .softhouse-seal.com
 .sogou.com
+.soiyasoiyasoiya.com
 .soku.com
 .sokuhabo.net
 .sokutatubin.com
