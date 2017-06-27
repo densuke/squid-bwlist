@@ -106,6 +106,7 @@
 .play.google.com
 .pokelabo.jp
 .rakuraku-mercari.com
+.rare-gacha.com
 .rental-rental.net
 .rentalurl.net
 .retrogames.com
