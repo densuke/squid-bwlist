@@ -116,6 +116,7 @@
 .seedpeer.com
 .sengokuixa.jp
 .shinobi.jp
+.sinoalice.jp
 .slysoft.com
 .smilevideo.jp
 .snes9x.com
