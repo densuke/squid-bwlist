@@ -10,6 +10,7 @@
 .appmedia.jp
 .audio-sp-tyo.spotify.com
 .bitcomet.com
+.blogo.jp
 .bluemsx.com
 .candycrashsoda.king.com
 .cdnnow.ru
@@ -43,6 +44,7 @@
 .epsxe.com
 .esuteru.com
 .exophase.com
+.facebook.com
 .fate-grandorder.jp
 .fatede-go.com
 .fatego-japan.com
@@ -77,6 +79,10 @@
 .kissanime.to
 .leagueoflegends.com
 .levelup.cn
+.line-apps.com
+.line-cdn.net
+.line-scdn.net
+.line.me
 .linksynergy.com
 .matomeantena.com
 .memories-in-time.net
@@ -136,6 +142,7 @@
 .turbosquad.com
 .tv
 .twimg.com
+.twitter.com
 .voo.to
 .xn--fgo-gh8fn72e.com
 .xn--p8j0c7waacaa1469dq3bjz4aujoeo5cgl2agxbbxvw3n4ssqxh.com
