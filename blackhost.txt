@@ -780,6 +780,7 @@
 .bnent.jp
 .bngames.jp
 .bngames.net
+.boardgamearena.com
 .boardgamearena.net
 .bochist.com
 .bof6.jp
