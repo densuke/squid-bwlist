@@ -577,6 +577,7 @@
 .atwiki.jp
 .atwikiimg.com
 .auctions.search.yahoo.co.jp
+.audio-sp-tyo.spotify.com
 .autoblog.com
 .autoc-one.jp
 .av-365.com
@@ -977,6 +978,7 @@
 .comic-gene.com
 .comic-polaris.jp
 .comic-walker.com
+.comico.com
 .comico.jp
 .comics.shogakukan.co.jp
 .comisoku.com
@@ -1009,6 +1011,7 @@
 .coremagazine.co.jp
 .coreserver.jp
 .corobuzz.com
+.coskaba.com
 .cosme.net
 .cosmicbreak.jp
 .cosp.jp
@@ -1178,6 +1181,7 @@
 .dnaimg.com
 .dng65.com
 .do-mono.jp
+.do-ra.org
 .dobon.net
 .docodoco.jp
 .doda.jp
@@ -2287,6 +2291,7 @@
 .ifsf.org
 .iga-log.com
 .igame.com
+.ign.com
 .ignimgs.com
 .ihabu.jp
 .iherb.com
@@ -2503,6 +2508,7 @@
 .kaigai-anime.com
 .kaigai-antena.com
 .kaigai-antenna.com
+.kaigai-binary.com
 .kaigai-matome.net
 .kaigaihannou.com
 .kaigaihannou.info
@@ -2797,6 +2803,7 @@
 .lijiang-pub.com
 .line-apps.com
 .line-cdn.net
+.line-scdn.net
 .line-tatsujin.com
 .line.me
 .lineblog.me
@@ -3080,6 +3087,7 @@
 .melonbooks.co.jp
 .melonbooks.com
 .mementoo.info
+.memories-in-time.net
 .men-joy.jp
 .mens-time01.com
 .menscyzo.com
@@ -3092,6 +3100,7 @@
 .metyatoku.com
 .mew5.com
 .mewo2.com
+.meyou.jp
 .mezasou.com
 .mfac.jp
 .mfroapps.net
@@ -4530,6 +4539,7 @@
 .spon.me
 .sponichi.co.jp
 .sports.yahoo.co.jp
+.spotify.com.edgesuite.net
 .springserve.com
 .sprite.org
 .spriters-resource.com
@@ -4889,6 +4899,7 @@
 .tumblr.com
 .turbo-bee.com
 .turbobit.net
+.turbosquad.com
 .turezure01.com
 .turn.com
 .turukusa.com
@@ -5369,6 +5380,7 @@
 .youtube-nocookie.com
 .youtube-spot.com
 .youtube.com
+.youtuber-naruniha.net
 .youzu.com
 .ytimg.com
 .yu-gi-ohmatome.com
@@ -5387,6 +5399,7 @@
 .yukinyan.jp
 .yukoyuko.net
 .yume-100.com
+.yume551.com
 .yuna-service.com
 .yunfan.com
 .yurionice.com
