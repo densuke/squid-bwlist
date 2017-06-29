@@ -66,6 +66,7 @@
 .mynavi.jp
 .norton.com
 .rikunabi.com
+.microsoft.com
 .microsoft.com.edgesuite.net
 .s-microsoft.com
 .smartnews.be
