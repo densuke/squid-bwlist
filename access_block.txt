@@ -10,9 +10,11 @@
 .app-adforce.jp
 .appmedia.jp
 .audio-sp-tyo.spotify.com
+.baitoru.com
 .bitcomet.com
 .blogo.jp
 .bluemsx.com
+.boardgamearena.com
 .candycrashsoda.king.com
 .cdnnow.ru
 .cinnamonpirate.com
@@ -90,6 +92,7 @@
 .meyou.jp
 .moudamepo.com
 .n-roms.de
+.naver.jp
 .nemu.com
 .nestopia.sourceforge.net
 .ngemu.com
@@ -122,6 +125,7 @@
 .s2mall.net
 .seedpeer.com
 .sengokuixa.jp
+.shadowverse.jp
 .shinobi.jp
 .sinoalice.jp
 .slysoft.com
@@ -178,4 +182,3 @@
 .yume551.com
 .zozo.jp
 .zsnes.com
-.boardgamearena.com
