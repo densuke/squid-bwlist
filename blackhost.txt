@@ -2606,6 +2606,7 @@
 .kijomatomelog.com
 .kijonotakuhaibin.com
 .kijosoku.com
+.kijoume.net
 .kijyo-antena.com
 .kijyo-kijyo.com
 .kijyo-news.com
