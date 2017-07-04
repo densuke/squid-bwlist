@@ -73,6 +73,8 @@
 .goobike.com
 .granbluefantasy.jp
 .gvt1.com
+.gvt2.com
+.gvt3.com
 .hangame.co.jp
 .hekk.org
 .ign.com
