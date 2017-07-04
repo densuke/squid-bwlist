@@ -1240,6 +1240,7 @@
 .doutr.biz
 .doyaero.com
 .dpface.info
+.dq11.jp
 .dqmp.jp
 .dqmsl.co
 .dqmslchannel.com
