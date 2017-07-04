@@ -2433,6 +2433,7 @@
 .jinjitter.jp
 .jinkutsu.net
 .jiqoo.jp
+.jisaku-game.com
 .jisakunin.com
 .jisakutech.com
 .jishin-news.com
