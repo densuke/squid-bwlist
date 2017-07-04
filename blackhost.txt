@@ -736,6 +736,7 @@
 .bizmakoto.jp
 .bizzine.jp
 .bl-koubou.com
+.bl-novel.jp
 .black-bullet.net
 .black-flag.net
 .blacksmith-gilgamesh.jp
@@ -891,6 +892,7 @@
 .cc-sakura.net
 .ccpgamescdn.com
 .ccrt.biz
+.cddgg.com
 .cdn-rare-gacha.com
 .cdn.ubi.com
 .cdnnow.ru
@@ -1067,6 +1069,7 @@
 .cyber-life.info
 .cyber-rainforce.net
 .cyberbuzz.jp
+.cyberchimps.com
 .cybergadget.co.jp
 .cybergun.com
 .cyberlink.com
@@ -1676,6 +1679,7 @@
 .funkygunstattoo.com
 .funnypics.jp
 .funshion.net
+.funwarijump.jp
 .furansu-go.com
 .furebo.com
 .furyu.jp
@@ -2557,6 +2561,7 @@
 .kankokuhannou.com
 .kankokunohannou.org
 .kanmaga.com
+.kanno-novel.jp
 .kanpani.jp
 .kansaitei.jp
 .kantai-collection.com
@@ -2679,6 +2684,7 @@
 .kodukai-king.jp
 .koenokatachi-movie.com
 .koga.me
+.kohrogi.com
 .kojikisokuhou.com
 .kojimaproductions-store.jp
 .kojimaproductions.jp
@@ -3357,6 +3363,7 @@
 .mynv.jp
 .myoji-kakeizu-jp.org
 .mysns.jp
+.mystery-novel.jp
 .mytimeline-news.com
 .myurdayz.com
 .n-exceed.net
@@ -3745,6 +3752,7 @@
 .otokumedia.com
 .otomate.jp
 .otomens.com
+.otona-novel.jp
 .otonanoeigakan.com
 .otonarisoku.com
 .otonomai.me
@@ -4639,6 +4647,7 @@
 .swordart-online.net
 .syadoreco.com
 .syaka1.com
+.syakunetsu.com
 .syanago.com
 .syncer.jp
 .synodos.jp
@@ -4700,6 +4709,7 @@
 .tanwan.com
 .tanx.com
 .taobao.com
+.tapenjoy.com
 .taptrip.jp
 .tarikin.net
 .tasplus.net
