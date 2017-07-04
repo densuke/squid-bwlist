@@ -811,6 +811,7 @@
 .browsehappy.com
 .bst-akiba.net
 .bsveri.com
+.btmao.cc
 .bto-pc.jp
 .btrll.com
 .bttt99.com
@@ -4043,6 +4044,7 @@
 .pxy.jp
 .pya.cc
 .q-six.net
+.qhimg.com
 .qiantucdn.com
 .qiita.com
 .qilook.com
