@@ -17,6 +17,7 @@ case $OPT in
 			;;
 esac
 done
+shift $((OPTIND - 1))
 
 
 BRANCH="$(date +'%Y%m%d-%H%M%S-batch')"
