@@ -5512,7 +5512,6 @@
 91.228.167.103
 91.228.167.46
 91.228.167.86
-.hoge
 .syakunetsu.com
 .tapenjoy.com
 .funwarijump.jp
