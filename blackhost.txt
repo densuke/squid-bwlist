@@ -855,8 +855,11 @@
 .cafeglobe.com
 .calcal.net
 .calciomatome.net
+.camelife.biz
 .cameranonaniwa.jp
+.camerapapa.com
 .campaign-archive1.com
+.campfan.info
 .cample.info
 .canpan.info
 .capcom-networks.jp
@@ -4213,6 +4216,7 @@
 .saisin-news.com
 .saisokuspi.com
 .saitama-bg.com
+.saitamabase.com
 .sakc.jp
 .sakebigoe.com
 .saki-daisuki.info
@@ -5045,6 +5049,7 @@
 .vita-chi.net
 .vitaminless.sakura.ne.jp
 .vivamaga.jp
+.vmax1200.info
 .voguegirl.jp
 .volks.co.jp
 .voo.to
