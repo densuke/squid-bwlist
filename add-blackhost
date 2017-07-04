@@ -1,11 +1,23 @@
-#!/bin/sh
+#!/bin/bash
 
 export EDITOR=true
 
 usage () {
- echo "Usage: $0 domain [...]"
- exit 1
+ echo "Usage: $0 domain [...]" > /dev/stderr
 }
+
+while getopts a; do
+case $OPT in
+	a)  FLAG_A=1
+	    ;;
+  *)
+		  echo "unknown option $OPT" >/dev/stderr
+			usage
+			exit 1
+			;;
+esac
+done
+
 
 BRANCH="$(date +'%Y%m%d-%H%M%S-batch')"
 
@@ -18,6 +30,7 @@ trap cleaning 0 1 2 3 4 5 6 7 8 9 10 15
 
 if [ "x$1" = "x" -a ! -f /tmp/href.txt ]; then
  usage
+ exit 1
 fi
 
 git checkout develop
@@ -37,6 +50,7 @@ while [ ! "x$1" = "x" ]; do
    continue
  fi
  echo "ドメイン $D 追加します…"
+ [ ! "x$FLAG_A" = "x" ] && echo "$D" >> access_block.txt
  echo "$D" >> blackhost.txt && \
  make sort
  WORKFILE=/tmp/check.$$
@@ -64,6 +78,7 @@ for D in $(cat /tmp/href.txt); do
    continue
  fi
  echo "ドメイン $D 追加します…"
+ [ ! "x$FLAG_A" = "x" ] && echo "$D" >> access_block.txt
  echo "$D" >> blackhost.txt && \
  make sort
  WORKFILE=/tmp/check.$$

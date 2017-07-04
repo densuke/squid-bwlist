@@ -77,6 +77,7 @@
 .ign.com
 .iosapps.itunes.apple.com
 .jin115.com
+.johnnys-net.jp 
 .k-ani.com
 .kaigai-binary.com
 .kairisei-ma.jp
