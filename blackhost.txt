@@ -1,3 +1,4 @@
+.-a
 .-x
 .0574.jp
 .07073.com
@@ -5512,6 +5513,3 @@
 91.228.167.103
 91.228.167.46
 91.228.167.86
-.syakunetsu.com
-.tapenjoy.com
-.funwarijump.jp
