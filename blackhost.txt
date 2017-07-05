@@ -3565,6 +3565,7 @@
 .nippon1.jp
 .nishi2002.com
 .nishifukuma.com
+.nissen.co.jp
 .nitroroms.com
 .nitroyss.jp
 .niur.net
@@ -4156,6 +4157,7 @@
 .ricorico77.com
 .rightreader.info
 .rijfes.jp
+.rin-kyo.com
 .ringoku.com
 .ringon-antenna.com
 .rinkaji-mac.com
