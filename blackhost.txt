@@ -894,7 +894,6 @@
 .cddgg.com
 .cdn-rare-gacha.com
 .cdn.ubi.com
-.cdnnow.ru
 .cdnone.net
 .cebq.biz
 .ceek.jp
@@ -2655,7 +2654,6 @@
 .kiru2ch.com
 .kisotsu-navi.com
 .kiss-me-kiss-me.com
-.kissanime.ru
 .kissanime.to
 .kissfx.com
 .kisskiss-girl.com
@@ -4196,7 +4194,6 @@
 .ruisenhoukai.com
 .run-tomorrow.com
 .ruten.com.tw
-.rutube.ru
 .rx7038.com
 .ryu-ga-gotoku.com
 .ryukyushimpo.jp
