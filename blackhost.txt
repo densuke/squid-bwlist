@@ -4191,6 +4191,7 @@
 .rss-rank.com
 .rss.rssad.jp
 .rssread.net
+.ru
 .rubiconproject.com
 .ruisenhoukai.com
 .run-tomorrow.com
