@@ -163,3 +163,7 @@ nikeplus-gps
 null
 stagefright/
 uwp_
+KDDI
+samsung
+KIWAMI
+
