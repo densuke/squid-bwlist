@@ -4878,6 +4878,7 @@
 .toychan.net
 .toygun.jp
 .toyokeizai.net
+.toyota.jp
 .tozanabo.com
 .tpa-issue.net
 .tpnav.com
