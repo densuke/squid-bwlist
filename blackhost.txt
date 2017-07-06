@@ -3294,6 +3294,7 @@
 .morningstar.co.jp
 .moroahedoujin.com
 .morobrand.net
+.moshimo.com
 .mosouba.com
 .moto-be.com
 .moto-nari.com
@@ -4837,6 +4838,7 @@
 .tonarini.net
 .tonarinoyj.jp
 .tonyu-arpg.com
+.toolmania.info
 .toonova.com
 .top-airsoft.co.jp
 .top55.net
