@@ -2041,6 +2041,7 @@
 .guitarlist.net
 .gumi-sapporo.com
 .gundam-antenna.net
+.gundam-base.net
 .gundam-bf.net
 .gundam-cardbuilder.com
 .gundam-kizuna.jp
@@ -4782,6 +4783,7 @@
 .thenewlaunchcollections.com
 .theoldcomputer.com
 .thepiratebay.org
+.thewonder.it
 .theworldendeclipse.jp
 .thisisgame.com
 .thumbs.canstockphoto.com
