@@ -557,6 +557,7 @@
 .asterizm.jp
 .at-douga.com
 .at-ninja.jp
+.atamasoft.jp
 .atari7.com
 .ateitexe.com
 .atelier-ps3.jp
@@ -1301,6 +1302,7 @@
 .ea.com
 .eagate.573.jp
 .earlbox.com
+.easyramble.com
 .ebb.jp
 .ebis.ne.jp
 .ebitsu.net
@@ -2328,6 +2330,7 @@
 .im-apps.net
 .image-rentracks.com
 .imagebam.com
+.imagict.com
 .imas-cg.net
 .imas-cinderella.com
 .imashun-navi.com
@@ -3849,6 +3852,7 @@
 .pc-karuma.net
 .pc-koubou.jp
 .pc-onlinegames.com
+.pc-seven.jp
 .pc6.com
 .pcemumu.hp.infoseek.co.jp
 .pcmanabu.com
@@ -4074,6 +4078,8 @@
 .quiizu.com
 .quiz-wiz.com
 .quizgenerator.net
+.quizken.jp
+.quizoo.jp
 .qvod.com
 .qwe.jp
 .r-agent.com
