@@ -49,6 +49,7 @@
 .2525r.com
 .2525syaken.com
 .265g.com
+.2689web.com
 .29den.com
 .29g.net
 .2ant.jp
@@ -365,6 +366,7 @@
 .amps-web.biz
 .amung.us
 .amzn.to
+.an-matome.com
 .ana-ero.com
 .anabuki-style.com
 .anacel.com
@@ -555,6 +557,7 @@
 .asobisystem.com
 .asobuoiphone.com
 .asterizm.jp
+.asylog.jp
 .at-douga.com
 .at-ninja.jp
 .atamasoft.jp
@@ -662,7 +665,14 @@
 .baraero.com
 .barcode-net.com
 .barks.jp
+.baseball-data.com
+.baseball-freak.com
+.baseball-lab.jp
+.baseball-mag.net
+.baseball-pr.com
+.baseball.antennach.net
 .baseball.yahoo.co.jp
+.baseballdata.jp
 .bash-tv.com
 .battle.net
 .battlefield.com
@@ -2310,6 +2320,7 @@
 .ihabu.jp
 .iherb.com
 .ii-antenna.net
+.ii-net-ii.com
 .iiaccess.net
 .iieshiryoudesu.net
 .iinaa.net
@@ -2596,6 +2607,7 @@
 .kawasaki-cp.khi.co.jp
 .kazesoku.com
 .kazetaka.com
+.kazmix.com
 .kazuto-yoshida.com
 .kazutxt.com
 .keihin-park.com
@@ -2639,6 +2651,7 @@
 .kijyomita.com
 .kikonboti.com
 .killing-time.biz
+.killmej.com
 .kimagureman.net
 .kimajime-yukky.com
 .kimonolog.com
@@ -2716,6 +2729,7 @@
 .kororo.jp
 .koroweb.com
 .kosakalab.com
+.koshien-appreciation.com
 .koshiplay.com
 .kosonews.com
 .kosusoku.net
@@ -2795,6 +2809,7 @@
 .laughsketch.com
 .lazy1st.net
 .lcarsmania.com
+.lcom.sakura.ne.jp
 .lctairsoft.com
 .lcv.ne.jp
 .ldblog.jp
@@ -3363,6 +3378,7 @@
 .mwbunko.com
 .mwissoku.com
 .mxserver33.net
+.my-antena.com
 .my-moon.jp
 .myanimelist.net
 .mycardgame.net
@@ -3398,6 +3414,11 @@
 .nanamomorio.sakura.ne.jp
 .nananine.com
 .nanj-matome.com
+.nanjallstars.net
+.nanjfan.com
+.nanjheadline.com
+.nanjkekkaron.com
+.nanjmin.net
 .nankaibuhin.co.jp
 .nanos.jp
 .nanouniverse.jp
@@ -3493,6 +3514,7 @@
 .news-us.jp
 .news-us.org
 .news1.link
+.news1000000.com
 .news109.com
 .news30over.com
 .newsantenna.net
@@ -3723,6 +3745,7 @@
 .oppainorakuen.com
 .oratta.net
 .orcatoys.com
+.ore-antenna.me
 .orebibou.com
 .orememo.net
 .oremo-gold.com
@@ -5363,6 +5386,7 @@
 .yakan.net
 .yakei-mn.com
 .yakiniku-zanmai.net
+.yakiu-antenna.net
 .yakkun.com
 .yaku-soku.net
 .yakutena.com
