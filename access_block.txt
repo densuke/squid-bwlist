@@ -82,6 +82,7 @@
 .iosapps.itunes.apple.com
 .jin115.com
 .johnnys-net.jp 
+.jyukujyo-sm.com
 .k-ani.com
 .kaigai-binary.com
 .kairisei-ma.jp
