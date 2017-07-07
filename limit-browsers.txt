@@ -9,7 +9,7 @@ Battle.net
 Beacon
 BitComet
 CLIPSTUDIO
-CloudKit
+CloudKit/
 CoreDAV
 Downloader
 DroidGuard
