@@ -8,7 +8,6 @@ BaiduYunGuanJia
 Battle.net
 Beacon
 BitComet
-CFNetwork
 CLIPSTUDIO
 CloudKit
 CoreDAV
