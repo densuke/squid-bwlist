@@ -2520,7 +2520,9 @@
 .kabekin.com
 .kablog.info
 .kabooo.net
+.kabu-1.jp
 .kabu-sokuhou.com
+.kabu1bucket.storage.googleapis.com
 .kabuline.com
 .kabusaku.com
 .kabusensor.com
