@@ -659,7 +659,9 @@
 .bandainamcoid.com
 .bandcamp.com
 .bandch.com
+.bang-dream-news.com
 .bang-dream.com
+.banndorikouryaku.com
 .bannerbridge.net
 .bar-rockaholic.jp
 .baraero.com
@@ -807,6 +809,7 @@
 .bolt-japan.jp
 .bontoku.com
 .boo.jp
+.bookoff-online.jp
 .bookshorts.jp
 .boom-app.com
 .bouken.jp
@@ -980,6 +983,7 @@
 .cocone.jp
 .cocoronote.com
 .coels.net
+.cog-members.mhf-z.jp
 .coj-agentlabo.com
 .coliss.com
 .colocal.jp
@@ -1585,6 +1589,7 @@
 .ff-reunion.net
 .ff14channel.net
 .ff14chihou.net
+.ff14tansu.com
 .ff14wiki.info
 .ffgogogo.com
 .ffrk-ch.com
@@ -2302,6 +2307,7 @@
 .icloud.com
 .idea-unlimited.com
 .ideatool.jp
+.ideeile.com
 .idol-blog.com
 .idoldvd.co.jp
 .idolish7.com
@@ -2621,6 +2627,8 @@
 .kekkonch.com
 .kemco.jp
 .kemono-friendsch.com
+.ken-haiku2017.jp
+.ken-love.jp
 .kenjasyukatsu.com
 .ketchapp.jp
 .keyakizaka-46.org
@@ -2695,6 +2703,7 @@
 .kizitora.jp
 .kizyo.net
 .kjshintani.com
+.kkbbc-db.com
 .klab.com
 .klabgames.net
 .klein-group.co.jp
@@ -3262,6 +3271,7 @@
 .mognavi.jp
 .moguragames.com
 .moguravr.com
+.moguribu.com
 .mojang.com
 .mojimaru.com
 .mojomojo-licarca.com
@@ -3478,6 +3488,7 @@
 .neta.jpn.org
 .neta03.com
 .netaatoz.jp
+.netacube.com
 .netafull.net
 .netamesi.com
 .netasite.net
@@ -3791,6 +3802,7 @@
 .otomens.com
 .otona-novel.jp
 .otonanoeigakan.com
+.otonaradicon.com
 .otonarisoku.com
 .otonomai.me
 .otoshiana.com
@@ -5122,6 +5134,7 @@
 .wakarukoto.com
 .wakiga-iwareta.com
 .wakuwaku365.com
+.wakuwakugamer.net
 .walkerplus.com
 .wallpaperboys.com
 .wallpaperland.me
@@ -5132,11 +5145,13 @@
 .waniantenna.com
 .wankuma.com
 .wannabe-note.com
+.wanonaka.jp
 .wapuwapu.com
 .wara2ch.com
 .waraan.jp
 .waraiseek.jp
 .waranews.com
+.waraou.net
 .wargaming.com
 .wargaming.net
 .warmmovie.com
@@ -5453,6 +5468,7 @@
 .yugioh-antenna.sakura.ne.jp
 .yugioh-card.com
 .yugioh-list.com
+.yugioh-resaler.com
 .yugioh-todays.com
 .yugioh-wiki.net
 .yujin-figure.com
