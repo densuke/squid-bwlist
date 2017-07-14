@@ -1139,6 +1139,7 @@
 .dechamore.com
 .dechamore.net
 .dechau.com
+.deconcept.com
 .defensegames.jp
 .degital-cash.net
 .dekipaso.com
@@ -3494,6 +3495,7 @@
 .netasite.net
 .netatama.net
 .netazine.sakura.ne.jp
+.netbusinessstyle.com
 .netcrawl.info
 .netgamejp.com
 .netgamesenka.com
@@ -4236,6 +4238,7 @@
 .round1.co.jp
 .round1.jp
 .roysokunet.net
+.roytanck.com
 .rpgmaker.net
 .rs-taichi.co.jp
 .rss-loader.com
@@ -4578,6 +4581,7 @@
 .somerandomdude.com
 .sonicch.com
 .sonnabakana.com
+.sonoyama.org
 .sorae.jp
 .soramame201603.com
 .soregashi.com
