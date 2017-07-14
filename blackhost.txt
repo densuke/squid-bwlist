@@ -1982,6 +1982,7 @@
 .gmpg.org
 .gnavi.co.jp
 .gnst.jp
+.go-al.co.jp
 .godeater.jp
 .godessgame.com
 .godfes.com
@@ -2240,6 +2241,7 @@
 .honeyworks-movie.jp
 .honeyworks.jp
 .honkan.jp
+.honkiblog.link
 .honmotakeshi.com
 .honne-ch.com
 .honyaclub.com
@@ -2340,12 +2342,14 @@
 .ikazok.net
 .ikeike2ch.jp
 .ikimonomatometyou.com
+.ikipedeia.info
 .ikki-para.com
 .ikoinoba.net
 .iku-sokuho.info
 .ikubon.com
 .ikuji-news.com
 .ikumamasokuhou.com
+.ikura-inc.com
 .im-apps.net
 .image-rentracks.com
 .imagebam.com
@@ -2471,6 +2475,7 @@
 .jjwxc.net
 .jk-perokun.net
 .jk-play.com
+.joblivecompany.jp
 .jocee.jp
 .johnnys-watcher.net
 .johnnyswest-love.com
@@ -2578,6 +2583,7 @@
 .kaminti.com
 .kamisamanoerogazoumatome.com
 .kamislot.info
+.kanari21.com
 .kanasoku.info
 .kancolle-anime.jp
 .kancolle-matome.com
@@ -3375,6 +3381,7 @@
 .mudana.net
 .mudasure.com
 .mugendai-web.jp
+.mugenservice.co.jp
 .mukade.jp
 .mukankei151.com
 .muketsu.info
