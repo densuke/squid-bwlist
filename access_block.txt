@@ -29,6 +29,7 @@
 .coskaba.com
 .counter-value.com
 .crashfever.com
+.dena.com
 .dissidiaff-oo.com
 .do-ra.org
 .dolphin-emu.com
@@ -112,6 +113,7 @@
 .nitroroms.com
 .nobody.jp
 .nullpoantenna.com
+.ogatashota.com
 .omegumi.com
 .open2ch.net
 .paopaoche.net
@@ -142,6 +144,7 @@
 .snes9x.com
 .snk-neofighters.com
 .snkplaymore.jp
+.sonoyama.org
 .sottoikiru.hp.infoseek.co.jp
 .spotify.com.edgesuite.net
 .sta-navi.net
