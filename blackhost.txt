@@ -3839,6 +3839,7 @@
 .p-world.co.jp
 .p-world.jp
 .pachinker.sakura.ne.jp
+.pachinkocol.com
 .pachinkokouryaku.com
 .pachinkolist.com
 .pachinkopachisro.com
@@ -4532,12 +4533,14 @@
 .slot-suki.com
 .slotblogpachinkoblog.com
 .slotdoki.com
+.sloter-samurai.com
 .slotinfo.net
 .slotjin.com
 .slotkaiseki.jp
 .slotmaxtype.com
 .slotmoe.jp
 .slotnippou.com
+.slotto.jp
 .slstage.com
 .slysoft.com
 .sma-sta.com
