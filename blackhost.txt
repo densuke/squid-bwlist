@@ -3698,6 +3698,7 @@
 .office-attend.jp
 .officedaytime.com
 .officiallyjd.com
+.ogatashota.com
 .ogotoso-pu.com
 .ogp.me
 .ohugi.com
