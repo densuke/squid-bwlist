@@ -1535,6 +1535,7 @@
 .eyny.com
 .f-game.jp
 .f1sokuho.com
+.fa-matome.com
 .facebook.com
 .factage.com
 .faifai24.com
@@ -5305,6 +5306,7 @@
 .wtp101.com
 .wwe.com
 .wwo.asia
+.wws-channel.com
 .www.mai-net.net
 .www2.koro-pokemon.com
 .wwwanime.jp
