@@ -1096,6 +1096,7 @@
 .cysoku.com
 .cyzo.co.jp
 .cyzowoman.com
+.d-064.com
 .d-deltanet.com
 .d-quest-10.com
 .d-symphony.com
@@ -1903,6 +1904,7 @@
 .geinoueroch.com
 .geinoujin-blog.net
 .geinoumatome.com
+.geitopi.com
 .geitsubo.com
 .geitsuboo.com
 .gekikame.com
@@ -2203,6 +2205,7 @@
 .himegalnews.net
 .himitsukichi.com
 .himo2.jp
+.hinata-antenna.com
 .hippopotimes.com
 .hiroburo.com
 .hiroimono.org
@@ -2778,6 +2781,7 @@
 .kuchinawa.com
 .kugou.com
 .kuich.net
+.kuma-antena01.com
 .kuma-log.net
 .kumacchi.com
 .kurage-bunch.com
@@ -3000,6 +3004,7 @@
 .makonako.com
 .mamastar.jp
 .mamesoku.com
+.mamikosan.com
 .mandarake.net
 .manegemusette.com
 .manetatsu.com
@@ -3221,6 +3226,7 @@
 .mitemin.net
 .mitsuki-o.com
 .miwotsukushi.net
+.mixh.jp
 .mixi.co.jp
 .mixi.jp
 .mixi.servedbyopenx.com
@@ -3333,6 +3339,7 @@
 .mopita.com
 .moppy.jp
 .mora.jp
+.moratame.net
 .moreroms.com
 .moriforest.com
 .morikinoko.com
@@ -4514,6 +4521,7 @@
 .sironekokouryaku.com
 .sisainlive.com
 .site.wepage.com
+.site11.com
 .site2913.com
 .sixu-f.com
 .siyo.org
@@ -5200,6 +5208,7 @@
 .web75mix.com
 .weban.jp
 .webantenna.info
+.webathena.net
 .webcamsdemexico.net
 .webcomic-eb.com
 .webcomics.jp
@@ -5457,6 +5466,7 @@
 .yeshj.com
 .yetivip.com
 .yeutre.vn
+.yhvh.jp
 .yjsnpi.nu
 .ynn.jp
 .yodobashi.com
