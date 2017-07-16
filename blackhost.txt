@@ -948,6 +948,7 @@
 .cinematoday.jp
 .cinesoku.net
 .cinnamonpirate.com
+.citizen-journal.link
 .civ4multi.info
 .civ5nobunaga.com
 .civic-apps.com
