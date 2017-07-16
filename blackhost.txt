@@ -421,6 +421,7 @@
 .anipo.jp
 .anisuka.com
 .anitabi.net
+.anitopire.net
 .anitube.se
 .anke-zettai.com
 .ankomochi.cc
@@ -432,6 +433,7 @@
 .ant7.info
 .antch.net
 .antena-go.net
+.antena3110.com
 .antena456.link
 .antenam.biz
 .antenam.info
@@ -1112,6 +1114,7 @@
 .dailymotion.com
 .dailynewsonline.jp
 .daimajin.net
+.daipon01.com
 .daisuki-otameshi.com
 .daki-makura.info
 .damage0.com
@@ -2481,6 +2484,7 @@
 .jjwxc.net
 .jk-perokun.net
 .jk-play.com
+.jnews1.com
 .joblivecompany.jp
 .jocee.jp
 .johnnys-watcher.net
@@ -3694,6 +3698,7 @@
 .nyaasokuvip.net
 .nyan.eggtree.net
 .nyanderful.biz
+.nyanjan.com
 .nyankobiyori.com
 .nyansoku.jp
 .nyanta.jp
@@ -3730,6 +3735,7 @@
 .okanehadaiji.com
 .okanemm.com
 .okashi-original.jp
+.okashinahitobito.net
 .okayamagic.net
 .oki2a24.com
 .okkisokuho.com
@@ -4294,6 +4300,7 @@
 .sabukaruchan.net
 .sagaplanets.product.co.jp
 .sagasufx.com
+.sai-deli.jp
 .saiani.net
 .saikouninukeru.com
 .saikyo-jump.com
@@ -5385,6 +5392,7 @@
 .xn--xvideo-up4jq68t.net
 .xn--zck0ab2m.com
 .xn--zck0ab2mr42rre5d.biz
+.xn--zck3adi4kpbxc7d3343bjryb.xn--tckwe
 .xn--zck9awe6d0523auwbp4rs9t.com
 .xn--zckzap1184cvto37c38b.com
 .xnews.jp
