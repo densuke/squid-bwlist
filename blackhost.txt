@@ -92,7 +92,6 @@
 .2ch-news-vip.info
 .2ch-rank.net
 .2ch-sogou.site
-.2ch-sougou.tanapon.link
 .2ch-source.net
 .2ch-tachiyomi.com
 .2ch.0726.biz
@@ -295,7 +294,6 @@
 .af5.jp
 .affection-web.co.jp
 .affikatsu.com
-.affiliate-antenna.rma-prj.net
 .affiliate-b.com
 .affiliate-dti.com
 .affiliate-net.info
@@ -2452,7 +2450,6 @@
 .hikoneko.net
 .hilink.info
 .hima-log.com
-.hima.rma-prj.net
 .hima1.club
 .himado.in
 .himajinlp.net
@@ -2948,7 +2945,6 @@
 .kichiku-doujinko.com
 .kichikudoujin.com
 .kichimama.com
-.kichimama.rma-prj.net
 .kickassasia.com
 .kicker.de
 .kicker.town
