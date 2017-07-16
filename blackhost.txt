@@ -3050,6 +3050,7 @@
 .manpaku.jp
 .mantan-web.jp
 .mantensama.jp
+.manualstinger.com
 .manycam.com
 .manycams.com
 .maoudamashii.com
@@ -3467,6 +3468,7 @@
 .nantenna-2ch.com
 .nantoka-antenna.com
 .nantv.com
+.naotan-net.com
 .napontheapp.com
 .naps-jp.com
 .narinari.com
@@ -3563,6 +3565,7 @@
 .newsch.info
 .newser.cc
 .newsjapan.jp
+.newskfm.com
 .newsmatome.info
 .newsmatomedia.com
 .newsnow-2ch.com
@@ -4425,6 +4428,7 @@
 .serebii.net
 .serebiiforums.com
 .servebom.com
+.servedbyopenx.com
 .setsuyaku-hukugyou.net
 .sexdougalove.com
 .sexual-healing.biz
@@ -4810,6 +4814,7 @@
 .tapenjoy.com
 .taptrip.jp
 .tarikin.net
+.taro-column.com
 .tasplus.net
 .taste-toy.info
 .tateu.net
@@ -4993,6 +4998,7 @@
 .treasonnews.net
 .treeofsavior.it
 .trend-hot-news.com
+.trendnewwave.com
 .trendpride.com
 .trendust.net
 .tribalfusion.com
@@ -5519,6 +5525,7 @@
 .yubit.jp
 .yucasee.jp
 .yucomia.com
+.yuekijyoho.net
 .yugioh-antenna.sakura.ne.jp
 .yugioh-card.com
 .yugioh-list.com
