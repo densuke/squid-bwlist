@@ -3645,6 +3645,7 @@
 .noface.jp
 .nog.cc
 .nogitweet.com
+.nogizaka46.com
 .noiretaya.com
 .nomaki.jp
 .nomoreanimaltests.com
