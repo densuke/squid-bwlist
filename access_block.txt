@@ -152,6 +152,7 @@
 .potatohed1001.com
 .rakuraku-mercari.com
 .rare-gacha.com
+.redroom-kobe.com
 .rental-rental.net
 .rentalurl.net
 .retrogames.com
@@ -205,6 +206,8 @@
 .twitter.com
 .umani-to777.com
 .voo.to
+.warp-mens.com
+.wonder7.com
 .xn--fgo-gh8fn72e.com
 .xn--p8j0c7waacaa1469dq3bjz4aujoeo5cgl2agxbbxvw3n4ssqxh.com
 .xvideo-japon.com
