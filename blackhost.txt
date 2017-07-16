@@ -436,6 +436,7 @@
 .antenam.biz
 .antenam.info
 .antenam.jp
+.antenan.net
 .antenasu.net
 .antenna-3.com
 .antenna-ero.com
