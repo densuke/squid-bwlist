@@ -421,6 +421,7 @@
 .anipo.jp
 .anisuka.com
 .anitabi.net
+.anitaso.com
 .anitopire.net
 .anitube.se
 .anke-zettai.com
@@ -1225,6 +1226,7 @@
 .dokoda.jp
 .dokokarasokuhou.com
 .dokujyoch.net
+.dolgazo.com
 .dolphin-emu.com
 .domesoccer.jp
 .dominationsgame.com
@@ -3074,6 +3076,7 @@
 .maternity-march.jp
 .mato-mato.net
 .mato-me.com
+.matobull.com
 .matolabel.net
 .matomagi.com
 .matomame.jp
@@ -3559,8 +3562,10 @@
 .newsch.info
 .newser.cc
 .newsjapan.jp
+.newsmatome.info
 .newsmatomedia.com
 .newsnow-2ch.com
+.newsoku.blog
 .newsoku.jp
 .newsoku2chparadise.com
 .newspickup.com
@@ -3866,6 +3871,7 @@
 .pachinkovista.com
 .pachiseven.jp
 .pachislot-movie.com
+.pachislotzone.com
 .pachisrock.com
 .pachisuro-house.com
 .pachisurodouga.com
@@ -4751,6 +4757,7 @@
 .syuramama.com
 .syurasute.com
 .syuuchisoku.com
+.syuukatsu2ch.com
 .t.co
 .t7s.jp
 .tabee-japan.com
@@ -4854,6 +4861,7 @@
 .thatsping.com
 .the-3rd.net
 .the-erogazou.com
+.the-snack-world.com
 .the100yengamer.com
 .theapplaunchpad.com
 .theatn.net
@@ -5349,6 +5357,7 @@
 .xn--cckl9h3crds541co4i.com
 .xn--cckta3ffn5a0pnc1d3251esfpb.com
 .xn--ch-yg4a2a2cveukobi5f7904exsvbkd0e.com
+.xn--dckce1b2cc6938q.jp
 .xn--eck7a6c879tprd955g.com
 .xn--eckpeh3c1e4bf2p9bobe6uf0171nhlxbe28cle0f.biz
 .xn--eckq7fg8cygsa1a1je.xn--wiki-4i9hs14f.com
