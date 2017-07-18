@@ -25,13 +25,16 @@
 .2chantena.link
 .2chantena.net
 .2chblog.jp
+.2chcopipe.com
 .2chmatome-news.com
 .2chmatome-souken.net
 .2chmatome.jp
 .2chmatome.link
 .2chmatome.sakura.ne.jp
 .2chmatomeportal.com
+.2chmm.com
 .2chnoantena.info
+.2logch.com
 .2nisoku9.com
 .300star.info
 .4gamer.net
@@ -45,6 +48,7 @@
 .adult-gather.net
 .affiliate-net.info
 .afiliate-review.com
+.afo-news.com
 .agemanlabo.com
 .akb48matome.site
 .akbantena.click
@@ -193,6 +197,7 @@
 .cdnnow.ru
 .cecotclubff.com
 .ch-doo.net
+.chaos2ch.com
 .cheery.info
 .chobinkan.net
 .chokkanteki.com
@@ -436,6 +441,7 @@
 .kumocorp.com
 .kusudamaex.top
 .l-l-life.com
+.labaq.com
 .lansokumatome.club
 .latestnews.jp
 .leagueoflegends.com
@@ -456,6 +462,7 @@
 .matome-antena.top
 .matome-ch.com
 .matome-crawler.com
+.matome-plus.com
 .matome-vision.com
 .matome3.net
 .matome33.info
@@ -472,6 +479,7 @@
 .matomematome.biz
 .matomena.info
 .matomena.jp
+.matomesakura.com
 .matomesites.com
 .matometatta.link
 .matomete.tokyo
@@ -486,6 +494,7 @@
 .milita.click
 .min-tenna.com
 .minatwo.info
+.mindhack2ch.com
 .miracle-antenna.com
 .mobantenna.com
 .moefeed.link
@@ -512,13 +521,16 @@
 .net-affiliate1231.com
 .netapi-news.net
 .news-antena.com
+.news-choice.net
 .news-entry.net
 .news-geinou.net
 .news-matome.com
 .news1.link
+.news109.com
 .newsantena.click
 .newsantena.net
 .newsbanban.net
+.newser.cc
 .newslife.biz
 .newsmt2.net
 .newsnews.tokyo
@@ -657,6 +669,7 @@
 .sokuhou23.com
 .sokuhouya3.club
 .sokutokunews.link
+.sonicch.com
 .sonnakoto.link
 .sonoyama.org
 .sottoikiru.hp.infoseek.co.jp
@@ -698,6 +711,7 @@
 .thepiratebay.org
 .thrfactory.com
 .tnn-antena1.com
+.tocana.jp
 .tokumag.com
 .tomo-blog.net
 .tora-neko.info
@@ -731,6 +745,7 @@
 .webword.biz
 .widesokuhouhaya.net
 .wonder7.com
+.world-fusigi.net
 .wpmaker.blog
 .xiaolong0703.net
 .xn--f9jmp.com
