@@ -177,6 +177,7 @@
 .3rd-in.co.jp
 .3s3s.org
 .4416.biz
+.489ban.net
 .4at5.net
 .4coma.com
 .4gamer.net
@@ -363,6 +364,7 @@
 .aliceorder.com
 .alicesoft.com
 .alicey.jp
+.alivecast.co.jp
 .aliyun.com
 .all-nationz.com
 .allabout.co.jp
@@ -1388,6 +1390,7 @@
 .doda.jp
 .dodoujin.com
 .dogazofree.com
+.dohmiya.com
 .dojin-pandemic.com
 .dojin.com
 .dojinongaku.com
@@ -1886,6 +1889,7 @@
 .from-a100.com
 .fromacareer.com
 .fromsoftware.jp
+.froovie.jp
 .ftbucket.info
 .ftbwiki.org
 .fthrust.com
@@ -3324,6 +3328,7 @@
 .mamastar.jp
 .mamesoku.com
 .mamikosan.com
+.manapedia.jp
 .mandarake.net
 .manegemusette.com
 .manetatsu.com
@@ -5390,6 +5395,8 @@
 .tokyo-lc.com
 .tokyo-marui.co.jp
 .tokyogamestation.com
+.tokyoghoul.jp
+.tokyoghoulmap.jp
 .tokyokawaiilife.jp
 .tokyoloader.com
 .tomangan.org
@@ -5424,6 +5431,7 @@
 .toretsubo.com
 .tori-ch.com
 .tori29.net
+.toriho-dai.com
 .toriizaka46.jp
 .toroadvertisingmedia.com
 .torrent-anime.com
@@ -5669,6 +5677,7 @@
 .walls4joy.com
 .wanconyan.co
 .wangan-maxi.net
+.wanganmaxi-official.com
 .waniantenna.com
 .wankuma.com
 .wannabe-note.com
@@ -5777,6 +5786,7 @@
 .wizlife.jp
 .wizmatome.com
 .wizmatomeselection.com
+.wizshare.co.jp
 .wk-tk.net
 .wobenzym1.info
 .wonder7.com
