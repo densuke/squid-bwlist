@@ -383,11 +383,18 @@
 .hukurou.1homesource.com
 .i-pclub.com
 .ichikatsu.com
+.idol-blog.com
 .idol-matome.info
 .idoldol.net
+.idoldvd.co.jp
 .idolf1.antenak1.com
+.idolish7.com
 .idolm1.antenak1.com
+.idolmaster-an.net
+.idolmaster-sls.biz
+.idolmaster.jp
 .idolmaster.matometa-antenna.com
+.idolscope.com
 .ign.com
 .ii-antenna.net
 .iinaa.info
@@ -581,6 +588,7 @@
 .opst.info
 .orz.black
 .otajapan.com
+.otakara-idol.com
 .otomebeuty.trade
 .otomehobby.click
 .oyakudatizyouhou.info
