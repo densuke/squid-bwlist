@@ -207,8 +207,13 @@
 .cocokatu1.com
 .coffee-drip.info
 .com2us.net
+.comic-earthstar.jp
+.comic-gene.com
+.comic-polaris.jp
+.comic-walker.com
 .comico.com
 .comico.jp
+.comics.shogakukan.co.jp
 .comsort.jp
 .condor-antena.link
 .consolemul.com
@@ -273,6 +278,7 @@
 .entnews.matrix.jp
 .epsxe.com
 .erfolg1210.com
+.ero-comic-hunter.net
 .error404-try.com
 .esuteru.com
 .evermatome.com
@@ -296,6 +302,7 @@
 .freeroms.com
 .freyjavion.com
 .fukugyo-antn.com
+.fun-comic.com
 .funger-antena.info
 .fusigiisekai.com
 .fxautomaticbuyingandselling.com
@@ -325,6 +332,7 @@
 .geispoidol.net
 .generalnews.link
 .genslim.com
+.gera-comic.net
 .gesewantena.com
 .ggame.jp
 .ggxxbbs.net
@@ -375,11 +383,18 @@
 .hukurou.1homesource.com
 .i-pclub.com
 .ichikatsu.com
+.idol-blog.com
 .idol-matome.info
 .idoldol.net
+.idoldvd.co.jp
 .idolf1.antenak1.com
+.idolish7.com
 .idolm1.antenak1.com
+.idolmaster-an.net
+.idolmaster-sls.biz
+.idolmaster.jp
 .idolmaster.matometa-antenna.com
+.idolscope.com
 .ign.com
 .ii-antenna.net
 .iinaa.info
@@ -573,6 +588,7 @@
 .opst.info
 .orz.black
 .otajapan.com
+.otakara-idol.com
 .otomebeuty.trade
 .otomehobby.click
 .oyakudatizyouhou.info
@@ -704,6 +720,7 @@
 .tanapon.link
 .tanoshiidoga.com
 .teamviewer.com
+.tenhou.net
 .the-antenna.org
 .the-object.com
 .the-rooms.work
@@ -740,6 +757,8 @@
 .warp-mens.com
 .watoson2.link
 .webathena.net
+.webcomic-eb.com
+.webcomics.jp
 .webnchi.com
 .webnew.net
 .webword.biz
