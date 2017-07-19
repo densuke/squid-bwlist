@@ -909,6 +909,7 @@
 .blju.net
 .blog-rpg.com
 .blog-text.jp
+.blog.hatena.ne.jp
 .blog.jp
 .blog.so-net.ne.jp
 .blogblog.com
