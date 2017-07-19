@@ -36,6 +36,7 @@
 .194964.com
 .1999.co.jp
 .1billing.jp
+.1day-rich.com
 .1geki.jp
 .1kibaku.jp
 .1mobile.com
@@ -848,6 +849,8 @@
 .behe.com
 .belajar.biz
 .benefitgreen.net
+.benesse.co.jp
+.benesse.ne.jp
 .benri.com
 .benricho.org
 .benrisite.net
@@ -969,6 +972,7 @@
 .bookoff.co.jp
 .bookoffonline.co.jp
 .bookshorts.jp
+.bookwalker.jp
 .boom-app.com
 .bouken.jp
 .boukun.com
@@ -1020,6 +1024,7 @@
 .buzznews.jp
 .bvb.jp
 .byonavi.com
+.c-egg.com
 .c-lab.link
 .c-most.net
 .c-sqr.net
@@ -1275,6 +1280,7 @@
 .d-deltanet.com
 .d-quest-10.com
 .d-symphony.com
+.d-symphony.nsf.jp
 .d.hatena.ne.jp
 .d2pass.com
 .d4e.co.jp
@@ -1315,6 +1321,7 @@
 .dc7.jp
 .dclog.jp
 .dd-on.jp
+.ddnavi.com
 .deaicity.jp
 .dearps.lovwar.com
 .dechamore.com
@@ -1519,6 +1526,7 @@
 .eant12.net
 .earlbox.com
 .easyramble.com
+.eatsmart.co.jp
 .ebb.jp
 .ebis.ne.jp
 .ebitsu.net
@@ -1793,6 +1801,7 @@
 .feedburner.jp
 .feedly.com
 .feedmeter.net
+.feel-ing.com
 .fello.net
 .fem.jp
 .femiluna-room.com
@@ -1811,6 +1820,7 @@
 .ffrk.tokyo
 .ffxiv.com
 .fgomatome.com
+.ficusel.com
 .fidelity-media.com
 .fightingirl.com
 .figsoku.net
@@ -1976,6 +1986,8 @@
 .gakusei2slot.com
 .gal-peace.com
 .galero072.com
+.galko-chan.com
+.galko.jp
 .galnavi.info
 .gamagaeru.jp
 .gamanjiru.net
@@ -2099,6 +2111,7 @@
 .garbagenet.net
 .garden-tokyo.net
 .garss.jp
+.garyoutensei.com
 .gashapon.jp
 .gatrakampus.com
 .gatyaken.com
@@ -2370,6 +2383,7 @@
 .hakkaku.net
 .hakuhin.jp
 .halcana.jp
+.halfmoon.jp
 .hamatea.jp
 .hamatorapj.com
 .hamburg-sokuhou.com
@@ -2845,6 +2859,7 @@
 .kachibito.net
 .kachikachiooenu.com
 .kachoufugetsu.info
+.kadokawa.co.jp
 .kaerini-kitaiti.com
 .kaeru.me
 .kaeruantena123.com
@@ -3179,6 +3194,7 @@
 .lifehacking.jp
 .lifeis-ok.com
 .lifemedia.jp
+.lifesmile.jp
 .lifewars.net
 .lightrend.com
 .lijiang-pub.com
@@ -3329,6 +3345,7 @@
 .makasetetyo.net
 .makebot.sh
 .makeshop.jp
+.makibishi.jp
 .makonako.com
 .mamastar.jp
 .mamesoku.com
@@ -3624,6 +3641,7 @@
 .moco-coin.com
 .moddb.com
 .modelers-g.jp
+.modelkasten.com
 .modgames.net
 .moe-gameaward.com
 .moe-nifty.com
@@ -3667,6 +3685,7 @@
 .mona-news.com
 .mondo64.com
 .monegle.com
+.money-academy.jp
 .moneykit.net
 .monge-sokuhou.com
 .monhang.com
@@ -3731,6 +3750,7 @@
 .movietrailers-db.com
 .movin.co.jp
 .movingflash.com
+.mozeen.com
 .mp3cut.net
 .mp3fino.com
 .mrun-sokuho.com
@@ -4309,6 +4329,7 @@
 .papimami.jp
 .paranormal-ch.com
 .paraponera.net
+.pararium.com
 .parasute.com
 .paropunte.net
 .parupunte.net
@@ -4430,6 +4451,7 @@
 .plumoi.jp
 .plustarnet.com
 .pmang.jp
+.pmelo.jp
 .pmoa.co.jp
 .po-kaki-to.com
 .pochi-pochi.jp
@@ -4762,6 +4784,7 @@
 .san-x.co.jp
 .sandbox-games.net
 .sangokushi-taisen.com
+.sanroku-go.com
 .sansei-rd.com
 .sanspo.com
 .santalab.me
@@ -4830,6 +4853,7 @@
 .sekindo.com
 .sekkaku.net
 .sekurosu.com
+.self-ltv.net
 .selvaselva.com
 .semakimomo.net
 .semasio.net
@@ -5261,6 +5285,7 @@
 .tam-music.com
 .tam-music.sub.jp
 .tamaerogazo.com
+.tamahiyo.jp
 .tamahobby.com
 .tamashii.jp
 .tamenal.com
@@ -5315,6 +5340,7 @@
 .template-party.com
 .ten-navi.com
 .tenga.client.jp
+.tenhou.net
 .tenkomo.com
 .tennis365.net
 .tenryu-gs.com
@@ -6052,6 +6078,7 @@
 .yukoyuko.net
 .yume-100.com
 .yume551.com
+.yumemiduki.jp
 .yuna-service.com
 .yunfan.com
 .yurionice.com
