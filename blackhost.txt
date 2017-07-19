@@ -721,6 +721,7 @@
 .atwiki.jp
 .atwikiimg.com
 .auctions.search.yahoo.co.jp
+.auctions.yahoo.co.jp
 .audio-sp-tyo.spotify.com
 .autoblog.com
 .autoc-one.jp
@@ -962,7 +963,10 @@
 .bolt-japan.jp
 .bontoku.com
 .boo.jp
+.booklog.jp
 .bookoff-online.jp
+.bookoff.co.jp
+.bookoffonline.co.jp
 .bookshorts.jp
 .boom-app.com
 .bouken.jp
@@ -4593,6 +4597,7 @@
 .rakugan.com
 .rakuraku-mercari.com
 .rakuten.co.jp
+.rakuten.ne.jp
 .rampokitan.com
 .random-call.net
 .rankin9.com
