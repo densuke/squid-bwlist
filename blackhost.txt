@@ -1065,6 +1065,7 @@
 .carview.co.jp
 .cashabout.info
 .cat-clock.net
+.catmiimi.com
 .catshare.org
 .cattleya.konjiki.jp
 .cavestory-dsi.com
@@ -1166,6 +1167,7 @@
 .com2us.com
 .com2us.net
 .comdotgame.com
+.comi-tan.com
 .comic-earthstar.jp
 .comic-gene.com
 .comic-polaris.jp
@@ -1327,6 +1329,7 @@
 .dechamore.com
 .dechamore.net
 .dechau.com
+.dechisoku.com
 .deconcept.com
 .defensegames.jp
 .degital-cash.net
@@ -1867,6 +1870,7 @@
 .fortalk.net
 .fortress-web.com
 .foryourbaby.jp
+.forzaxbox.net
 .foto-webcam.eu
 .fpsjp.net
 .fpsunknown.com
@@ -2375,6 +2379,7 @@
 .hachidory.com
 .hackadoll.com
 .hackerwatch.org
+.hagesoku.net
 .hahaue.com
 .hai-furi.com
 .haifuri.link
@@ -3528,6 +3533,7 @@
 .meron.jp.net
 .merry-news.com
 .mery.jp
+.meshiuma.info
 .mess-y.com
 .mesubenkei.net
 .metabopro.com
@@ -5249,6 +5255,7 @@
 .syuukatsu2ch.com
 .t-x2.com
 .t.co
+.t1500.com
 .t7s.jp
 .tabee-japan.com
 .tabibitojin.com
@@ -5643,6 +5650,7 @@
 .valuecommerce.com
 .vampire-blood.net
 .vanish-official.com
+.vefumo.com
 .vehicle123.com
 .vellio.jp
 .verticalstand.net
@@ -5767,6 +5775,7 @@
 .webike.net
 .webings.net
 .webkaru.net
+.weblog.to
 .webmanga.info
 .webmatome.info
 .webmoney.jp
