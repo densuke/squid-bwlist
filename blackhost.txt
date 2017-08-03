@@ -3364,6 +3364,7 @@
 .manga-ch.net
 .manga-free-online.com
 .manga-mokuroku.net
+.manga-mura.net
 .manga-netabare.net
 .manga-one.com
 .manga-spoiler.com
