@@ -5062,6 +5062,7 @@
 .smartstream.ne.jp
 .smartteamhk.com
 .smatch.jp
+.smatv.se
 .smilevideo.jp
 .smith-wesson.com
 .smj.io
