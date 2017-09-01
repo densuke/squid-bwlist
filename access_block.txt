@@ -703,6 +703,7 @@
 .static.evernote.com
 .staygold.mobi
 .steamcommunity.com
+.steampipe.akamaized.net
 .steampowered.com
 .steamstatic.com
 .storeroom.info
