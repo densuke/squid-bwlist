@@ -351,6 +351,7 @@
 .akibaphotography.net
 .akibaphotography.sakura.ne.jp
 .akihiro-anime.com
+.akinator.com
 .akindo-sushiro.co.jp
 .akira-watson.com
 .akotai.link
@@ -1307,6 +1308,7 @@
 .dancom.jp
 .danganronpa.net
 .danger-z.com
+.danmachixi.com
 .dannychoo.com
 .danshihack.com
 .daradaramainichi.com
@@ -3269,6 +3271,7 @@
 .lose.jp
 .lostgamer.net
 .lostzeromagichs.jp
+.louisvuitton.com
 .loumo.jp
 .lova.jp
 .love-collection.com
@@ -3929,6 +3932,7 @@
 .netotua.com
 .netouyonews.net
 .netsaru.jp
+.netsuzoutrap.com
 .neulion.com
 .neuron-age.co.jp
 .neutralx0.net
@@ -4565,6 +4569,7 @@
 .ptengine.jp
 .ptnwiki.com
 .ptvcdn.net
+.pubgmato.club
 .pudding.cc
 .pun6.com
 .punipuni.co
