@@ -2138,6 +2138,7 @@
 .gbf-bbs.com
 .gbf-wiki.com
 .gbf-wiki.net
+.gbf.xzz.jp
 .gc-img.net
 .gczero.com
 .gdunlimited.net
