@@ -1432,6 +1432,7 @@
 .doorblog.jp
 .doperoms.com
 .dopr.net
+.doramaroom.com
 .doramix.com
 .dorapon.info
 .dorknews.com
@@ -5764,6 +5765,7 @@
 .warotanikki.com
 .warotaw.com
 .warp-mens.com
+.warthunder.com
 .watarukiti.com
 .watch2chan.com
 .wate.jp
