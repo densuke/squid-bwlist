@@ -1285,6 +1285,7 @@
 .d-symphony.com
 .d-symphony.nsf.jp
 .d.hatena.ne.jp
+.d1eda0jwt04oe3.cloudfront.net
 .d2pass.com
 .d4e.co.jp
 .da-tools.com
@@ -2570,7 +2571,6 @@
 .hptool.link
 .hqt.jp
 .href.asia
-.href=
 .hrog.net
 .hsano.com
 .hstar-mu-fc.com
