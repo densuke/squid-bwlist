@@ -2486,6 +2486,7 @@
 .hima-log.com
 .hima1.club
 .himado.in
+.himagoku.com
 .himajinlp.net
 .himanews.net
 .himapo.com
@@ -2569,6 +2570,7 @@
 .hptool.link
 .hqt.jp
 .href.asia
+.href=
 .hrog.net
 .hsano.com
 .hstar-mu-fc.com
