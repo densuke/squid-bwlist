@@ -2570,7 +2570,6 @@
 .hptool.link
 .hqt.jp
 .href.asia
-.href=
 .hrog.net
 .hsano.com
 .hstar-mu-fc.com
