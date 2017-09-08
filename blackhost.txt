@@ -2135,6 +2135,7 @@
 .gazousukie.net
 .gb-tech.jp
 .gb-wiki.net
+.gbf-bbs.com
 .gbf-wiki.com
 .gbf-wiki.net
 .gc-img.net
