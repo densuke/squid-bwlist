@@ -3084,6 +3084,7 @@
 .komakedara.com
 .komica.org
 .konami.jp
+.konami.net
 .konaminet.jp
 .konamistyle.jp
 .konosuba.com
