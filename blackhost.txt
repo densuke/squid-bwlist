@@ -3567,6 +3567,7 @@
 .mh4g.org
 .mh4gch.com
 .mhf-g.jp
+.mhf-z.jp
 .mhx-navi.com
 .mi-ka-do.net
 .michikusa.jp
