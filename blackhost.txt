@@ -1356,6 +1356,7 @@
 .depfile.com
 .deqwas.net
 .derbyimpact.jp
+.derbystallion-gold.com
 .design-plus1.com
 .design.trident.ac.jp
 .designcafe-jp.com
@@ -1490,6 +1491,7 @@
 .dressup-navi.net
 .drew5.net
 .dropbooks.com
+.ds-sakatsuku.net
 .ds-seiban.com
 .dsalon.net
 .dsromplanet.com
@@ -4791,6 +4793,8 @@
 .saisokuspi.com
 .saitama-bg.com
 .saitamabase.com
+.saka-tsuku.net
+.sakatsuku.info
 .sakc.jp
 .sakebigoe.com
 .saki-daisuki.info
@@ -5041,6 +5045,7 @@
 .skylark-app.com
 .skypech.com
 .sleipnirstart.com
+.slgclear.com
 .slism.net
 .slo7.net
 .slogui.com
@@ -5201,6 +5206,7 @@
 .steamcontent.com
 .steampowered.com
 .steamstatic.com
+.steins-gate0.com
 .stinger3.com
 .stmato.com
 .stoicfps.com
@@ -5453,6 +5459,7 @@
 .tokyo-hot.com
 .tokyo-lc.com
 .tokyo-marui.co.jp
+.tokyo-xanadu.com
 .tokyogamestation.com
 .tokyoghoul.jp
 .tokyoghoulmap.jp
@@ -5544,6 +5551,7 @@
 .tryspace.net
 .tsite.jp
 .tsubasakaiser.com
+.tsukuclear.com
 .tsukumo.co.jp
 .tsun7.com
 .tsundora.com
@@ -5835,6 +5843,7 @@
 .windowsphone.com
 .wingless-seraph.net
 .winneri.info
+.winningpost8.com
 .winvz.jp
 .wired.jp
 .wisdom-guild.net
