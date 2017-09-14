@@ -1542,6 +1542,7 @@
 .ebten.jp
 .ec-russell.jp
 .echowhite.homelinux.net
+.ecq.sc
 .ediaryhiroko.com
 .edo-g.co
 .edo-ichi.jp
