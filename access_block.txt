@@ -407,6 +407,7 @@
 .isonari.info
 .it-channel.link
 .it-kit.info
+.izooto.jp
 .japan-hot-times.vivian.jp
 .jemonet.com
 .jidou.link
