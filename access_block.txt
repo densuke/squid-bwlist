@@ -199,6 +199,7 @@
 .ch-doo.net
 .chaos2ch.com
 .cheery.info
+.chibiquest.net
 .chobinkan.net
 .chokkanteki.com
 .cinnamonpirate.com
@@ -458,6 +459,7 @@
 .kumocorp.com
 .kusudamaex.top
 .l-l-life.com
+.l-tike.com
 .labaq.com
 .lansokumatome.club
 .latestnews.jp
@@ -618,6 +620,7 @@
 .portal001.com
 .potatohed1001.com
 .proactive.space
+.pso2.jp
 .pun6.com
 .pupupepe4321.com
 .pyonpyon.link
