@@ -1024,6 +1024,7 @@
 .buzznews.asia
 .buzznews.jp
 .bvb.jp
+.bylo.jp
 .byonavi.com
 .c-egg.com
 .c-lab.link
@@ -3155,6 +3156,7 @@
 .kyonyudouga.com
 .kyonyudouga.me
 .kyoraku.co.jp
+.kyou-kore.com
 .kyoumo-life.com
 .kyousoku.net
 .kyujin-ascom.com
@@ -3546,6 +3548,7 @@
 .mens-skincare-univ.com
 .mens-time01.com
 .menscyzo.com
+.mercury-enterprise.com
 .meron.jp.net
 .merry-news.com
 .mery.jp
@@ -3570,6 +3573,7 @@
 .mh4gch.com
 .mhf-g.jp
 .mhf-z.jp
+.mhthemes.com
 .mhx-navi.com
 .mi-ka-do.net
 .michikusa.jp
@@ -5224,6 +5228,7 @@
 .strike-the-blood.com
 .studiok-i.net
 .studiorzhobby.sakura.ne.jp
+.sturk.jp
 .sub.jp
 .subcultusin.net
 .subtlepatterns.com
@@ -6169,6 +6174,7 @@
 .zerojack.jp
 .zeronosyo.com
 .zexy.net
+.zigsow.jp
 .zinger-hole.net
 .zipbogo.net
 .ziyu.net
