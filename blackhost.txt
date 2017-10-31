@@ -3821,6 +3821,7 @@
 .mxserver33.net
 .my-antena.com
 .my-moon.jp
+.my.com
 .myanimelist.net
 .mycardgame.net
 .mydns.jp
