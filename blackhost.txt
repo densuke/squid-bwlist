@@ -1823,6 +1823,7 @@
 .fevian.org
 .fezero.jp
 .ff-reunion.net
+.ff14beginner.com
 .ff14channel.net
 .ff14chihou.net
 .ff14tansu.com
