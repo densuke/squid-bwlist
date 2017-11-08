@@ -2636,7 +2636,6 @@
 .idolmaster-an.net
 .idolmaster-sls.biz
 .idolmaster.jp
-.idolmaster.matometa-antenna.com
 .idolscope.com
 .idouga.com
 .idqqimg.com
