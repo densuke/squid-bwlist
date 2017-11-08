@@ -829,6 +829,7 @@
 .battlegirl-hs.com
 .battlegirl-hs.jp
 .battlegirlhs-news.com
+.battlespirits.com
 .bay12games.com
 .bb-douga.com
 .bbb-bike.com
@@ -5262,6 +5263,7 @@
 .summonnight.net
 .sumomo-ch.com
 .sun-moon-star.link
+.sunrise-inc.co.jp
 .sunsunsunny.net
 .suomi-neito.com
 .suparobo.jp
