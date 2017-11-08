@@ -3016,11 +3016,13 @@
 .kijyo-antena.com
 .kijyo-kijyo.com
 .kijyo-news.com
+.kijyokaigi.com
 .kijyomatome.com
 .kijyomita.com
 .kikonboti.com
 .killing-time.biz
 .killmej.com
+.kimagure-kijyo.com
 .kimagureman.net
 .kimajime-yukky.com
 .kimonolog.com
@@ -3499,11 +3501,13 @@
 .matomeplus.net
 .matomeru2ch.com
 .matomesakura.com
+.matomeshi.net
 .matomesites.com
 .matometanews.com
 .matometatta-news.net
 .matometatta.link
 .matomete.tokyo
+.matometemitatta.com
 .matometrix.com
 .matomett.com
 .matomeume.com
@@ -5292,6 +5296,7 @@
 .syunakira.com
 .syurabahazard.com
 .syurabakomachi.com
+.syurabattle.com
 .syuramama.com
 .syurasute.com
 .syuuchisoku.com
