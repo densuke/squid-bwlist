@@ -2306,6 +2306,7 @@
 .gossip1.net
 .gossip2.net
 .gossipantenna.com
+.gossiptale.net
 .gosugamers.net
 .gotcha-note.com
 .gotfes.com
@@ -3504,6 +3505,7 @@
 .matomesakura.com
 .matomeshi.net
 .matomesites.com
+.matometa-antenna.com
 .matometanews.com
 .matometatta-news.net
 .matometatta.link
