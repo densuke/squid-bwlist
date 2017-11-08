@@ -1824,6 +1824,7 @@
 .fevian.org
 .fezero.jp
 .ff-reunion.net
+.ff14angler.com
 .ff14beginner.com
 .ff14channel.net
 .ff14chihou.net
@@ -2636,7 +2637,6 @@
 .idolmaster-an.net
 .idolmaster-sls.biz
 .idolmaster.jp
-.idolmaster.matometa-antenna.com
 .idolscope.com
 .idouga.com
 .idqqimg.com
