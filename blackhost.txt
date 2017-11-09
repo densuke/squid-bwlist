@@ -878,6 +878,7 @@
 .bigworldtech.com
 .bijin-club.net
 .bijinbu.me
+.bijo-kawase.com
 .bijo-linux.com
 .bikechannel.info
 .bikyakuyakata.com
@@ -5238,6 +5239,7 @@
 .steins-gate0.com
 .stinger3.com
 .stmato.com
+.stockvoice.jp
 .stoicfps.com
 .store.microsoft.com
 .storeroom.info
