@@ -2267,6 +2267,7 @@
 .gnst.jp
 .go-al.co.jp
 .gocha.ima2.link
+.gochiusa.com
 .godeater.jp
 .godessgame.com
 .godfes.com
@@ -2625,6 +2626,7 @@
 .i2iparts.jp
 .i2isample.com
 .i2iserv.com
+.ibarakinews.jp
 .icchibanketu.net
 .ichijinsha.co.jp
 .ichikatsu.com
