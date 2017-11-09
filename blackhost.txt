@@ -1966,6 +1966,7 @@
 .fuwa-portal.jp
 .fuyu.gs
 .fuzoku.sh
+.fx-on.com
 .fx-startup.com
 .fx2ch.net
 .fxautomaticbuyingandselling.com
