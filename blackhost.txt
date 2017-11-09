@@ -619,6 +619,7 @@
 .appcogroups.com
 .appdriver.jp
 .appgaku.com
+.appgameinfo.com
 .appgameqa.com
 .appget.com
 .appgiga.jp
