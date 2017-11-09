@@ -212,6 +212,7 @@
 .89slot.com
 .8bit.co.jp
 .8ing.co.jp
+.8wayrun.com
 .91danji.com
 .98yrkewj.com
 .9post.jp
@@ -4534,6 +4535,7 @@
 .pokemon-go.today
 .pokemon-matome.net
 .pokemon-movie.jp
+.pokemon-online.eu
 .pokemon-style.com
 .pokemon-times.com
 .pokemon.co.jp
@@ -5958,6 +5960,7 @@
 .xboxlive.com
 .xdomain.jp
 .xeengames.com
+.xenforo.com
 .xhamster.com
 .xiami.net
 .xiaobingdou.com
