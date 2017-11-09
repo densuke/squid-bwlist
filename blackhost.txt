@@ -3529,6 +3529,7 @@
 .mbga.jp
 .mbok.jp
 .mc.adkda.net
+.mclover.net
 .mcnt.jp
 .mctjp.com
 .mdpr.jp
