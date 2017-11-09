@@ -1792,6 +1792,8 @@
 .fate-grandorder.jp
 .fate-meeting.com
 .fate-rpg.jp
+.fate-sn.com
+.fate-sn.jp
 .fatede-go.com
 .fatego-an.com
 .fatego-japan.com
