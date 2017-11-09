@@ -2213,6 +2213,7 @@
 .georgia.jp
 .gera-comic.net
 .gesewantena.com
+.gesoten.com
 .get-club.net
 .get2ch.net
 .getamped2.jp
@@ -2264,6 +2265,7 @@
 .glitty.jp
 .gmo-media.jp
 .gmo.jp
+.gmo.media
 .gmocloud.com
 .gmossp-sp.jp
 .gmpg.org
