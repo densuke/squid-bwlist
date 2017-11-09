@@ -356,6 +356,7 @@
 .akira-watson.com
 .akotai.link
 .akrw.net
+.albatrus.com
 .alchemy-angels.com
 .alderamin.net
 .alexgorbatchev.com
@@ -5255,6 +5256,7 @@
 .strike-the-blood.com
 .studiok-i.net
 .studiorzhobby.sakura.ne.jp
+.study-cocos2d-x.info
 .sturk.jp
 .sub.jp
 .subcultusin.net
