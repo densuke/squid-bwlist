@@ -1376,6 +1376,7 @@
 .digiket.com
 .digimonostation.jp
 .digital-cat.com
+.digital-east.net
 .digital-mixnews.com
 .digital-thread.com
 .digital.hmx.net
@@ -3086,6 +3087,7 @@
 .kmlg.jp
 .knt.co.jp
 .knuckleport.com
+.kobe-sannomiya-ramen.com
 .kobo.com
 .kobobooks.com
 .kodansha-novels.jp
