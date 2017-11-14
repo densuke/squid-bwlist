@@ -1481,6 +1481,7 @@
 .dqnnews.net
 .dqnworld.com
 .dqx.jp
+.dqxx.biz
 .dragon-projectch.com
 .dragonballsokuhou.net
 .dragonbrave.com
