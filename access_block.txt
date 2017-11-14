@@ -434,6 +434,7 @@
 .kaigai-binary.com
 .kaigainetbiz.com
 .kairisei-ma.jp
+.kakaocdn.net
 .kamesennin.info
 .kamislot.info
 .kanmuru-news.com
