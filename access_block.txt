@@ -773,6 +773,7 @@
 .webnchi.com
 .webnew.net
 .webword.biz
+.wf
 .widesokuhouhaya.net
 .wonder7.com
 .world-fusigi.net
