@@ -5197,6 +5197,7 @@
 .spjackpot.net
 .spky.org
 .splatoon-antenna.net
+.splatoon-matome.com
 .splatoon-nawabari.com
 .splax.net
 .spoilerbomb.com
