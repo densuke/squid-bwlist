@@ -2063,6 +2063,7 @@
 .gamecity.ne.jp
 .gamecopyworld.com
 .gamecradle.net
+.gamedbs.jp
 .gamedeets.com
 .gamedesign.jp
 .gamedev.net
