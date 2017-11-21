@@ -4348,6 +4348,7 @@
 .p-bandai.jp
 .p-ch.jp
 .p-game.jp
+.p-ken.jp
 .p-tora.com
 .p-world.co.jp
 .p-world.jp
@@ -4361,6 +4362,7 @@
 .pachislot-movie.com
 .pachislotzone.com
 .pachisrock.com
+.pachist.jp
 .pachisuro-house.com
 .pachisurodouga.com
 .pacificleague.jp
@@ -5208,6 +5210,7 @@
 .sponichi.co.jp
 .sports.yahoo.co.jp
 .sportschannel.yokohama
+.spotify.com
 .spotify.com.edgesuite.net
 .springserve.com
 .sprite.org
@@ -5954,6 +5957,7 @@
 .wwo.asia
 .wws-channel.com
 .www.mai-net.net
+.www.pachinkovillage.com
 .www2.koro-pokemon.com
 .wwwanime.jp
 .x-legend.co.jp
