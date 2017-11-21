@@ -728,7 +728,6 @@
 .atwikiimg.com
 .auctions.search.yahoo.co.jp
 .auctions.yahoo.co.jp
-.audio-sp-tyo.spotify.com
 .autoblog.com
 .autoc-one.jp
 .av-365.com
