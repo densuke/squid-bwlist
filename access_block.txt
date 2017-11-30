@@ -624,6 +624,7 @@
 .pokelabo.jp
 .portal001.com
 .potatohed1001.com
+.ppy.sh
 .proactive.space
 .pso2.jp
 .pun6.com
