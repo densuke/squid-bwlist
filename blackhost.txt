@@ -3428,6 +3428,7 @@
 .mangakansou.com
 .mangakit.com
 .mangalog.com
+.mangamura.org
 .mangania.jp
 .mangapolo.com
 .mangazenkan.com
@@ -3965,6 +3966,7 @@
 .neta.jpn.org
 .neta03.com
 .netaatoz.jp
+.netabare.city
 .netacube.com
 .netafull.net
 .netamesi.com
