@@ -742,6 +742,7 @@
 .tnn-antena1.com
 .tocana.jp
 .tokumag.com
+.tokyo-cdn.com
 .tomo-blog.net
 .tora-neko.info
 .trend-jpn.link
