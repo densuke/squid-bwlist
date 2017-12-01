@@ -88,3 +88,4 @@
 .xn--1kr69rl7h0yh.com
 10.16.0.2
 localhost
+.evernote.com
