@@ -711,7 +711,6 @@
 .ss-matomeblog.net
 .sta-navi.net
 .starchild.link
-.static.evernote.com
 .staygold.mobi
 .steamcommunity.com
 .steampipe.akamaized.net

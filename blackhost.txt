@@ -5258,7 +5258,6 @@
 .starlight-stage.jp
 .starrainbow.com.tw
 .startappservice.com
-.static.evernote.com
 .static.gfavo.com
 .statrow.com
 .staygold.mobi
