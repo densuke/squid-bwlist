@@ -3376,6 +3376,7 @@
 .magicianwiz.net
 .magicianwizsoku.com
 .magurooo.com
+.maharishi.or.jp
 .maho.jp
 .mahoneko.info
 .mahouka.jp
@@ -5500,6 +5501,7 @@
 .tk.ismcdn.jp
 .tkool.jp
 .tkssp.com
+.tm-meisou.jp
 .tmbox.net
 .tmntmutantsinmanhattan.com
 .tnn-antena1.com
