@@ -361,6 +361,7 @@
 .akrw.net
 .albatrus.com
 .alchemy-angels.com
+.alchemyblue.net
 .alderamin.net
 .alexgorbatchev.com
 .alfalfalfa.com
@@ -722,6 +723,7 @@
 .atozex.com
 .atpages.jp
 .attaka-navi.com
+.attentionqualificationshokai.com
 .attomaimai.sakura.ne.jp
 .attosoft.info
 .attrip.jp
@@ -762,6 +764,7 @@
 .azaban.com
 .azmall.leiya.tk
 .azukichi.net
+.azupashiboh.sakura.ne.jp
 .b-antena.click
 .b-boys.jp
 .b-ch.com
@@ -847,6 +850,7 @@
 .beautiful-japanese-women.net
 .beautyandyouth.jp
 .beautyplan.club
+.beautysalon-kanto.net
 .becoolusers.com
 .bee-eggplant.com
 .beelzeboulxxx.com
@@ -1386,6 +1390,7 @@
 .digital.hmx.net
 .digitaldj-network.com
 .dime.jp
+.dimguilgames.jp
 .dip.jp
 .direct124.com
 .dirtnp.com
@@ -2289,6 +2294,7 @@
 .goemonburo.com
 .gogoanime.com
 .gogotsu.com
+.going-out-bike.net
 .gold-sokuhou.site
 .goldhoken.com
 .goldv.ash.jp
@@ -3231,6 +3237,7 @@
 .legend24.jp
 .legendarypokemon.net
 .lelezhen.com
+.lemon-slice.net
 .letskendo.com
 .letv.com
 .lglime.com
@@ -3345,6 +3352,7 @@
 .lumi-co.com
 .lunascape.jp
 .luxad.kr
+.lv9.org
 .lvchat.info
 .lvgod.com
 .lvimg.jp
@@ -4010,6 +4018,7 @@
 .news-matome.com
 .news-pod.net
 .news-select.net
+.news-site.net
 .news-taiken.jp
 .news-three-stars.net
 .news-us.jp
@@ -4145,6 +4154,7 @@
 .noiretaya.com
 .nolantena.link
 .nomaki.jp
+.nombeol-jidarakudiary.net
 .nomoreanimaltests.com
 .nonukes2015.jp
 .noob.jp
@@ -4408,6 +4418,7 @@
 .pararium.com
 .parasute.com
 .paropunte.net
+.partner-get.com
 .parupunte.net
 .parusoku.com
 .pascal.jp
@@ -4850,6 +4861,7 @@
 .saisin-news.com
 .saisokuspi.com
 .saitama-bg.com
+.saitama-daisuki.com
 .saitamabase.com
 .saka-tsuku.net
 .sakatsuku.info
@@ -4909,6 +4921,7 @@
 .se-support.com
 .searchina.net
 .sechigara.net
+.secret-diaries-of-petshop-clerk.com
 .secrettalk.me
 .securitysoft.asia
 .sedo.co.uk
@@ -5541,6 +5554,7 @@
 .tome-uto.com
 .tomo-blog.net
 .tomodachi.game
+.tomoshibi.net
 .tonakai.aki.gs
 .tonari-it.com
 .tonarini.net
