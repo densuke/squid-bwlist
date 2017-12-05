@@ -20,7 +20,6 @@ KuGou2012
 MicroMessenger
 Minecraft
 Mobile Safari
-SettingsSync
 Simeji.SimejiKB
 SogouMobile
 Streaming Player
