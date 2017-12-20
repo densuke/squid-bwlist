@@ -89,3 +89,12 @@
 10.16.0.2
 localhost
 .evernote.com
+.github.com
+.github.io
+.slack.com
+.slack-msgs.com
+.githubusercontent.com
+.githubapp.com
+.slack-edge.com
+
+
