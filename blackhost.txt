@@ -2758,6 +2758,7 @@
 .iruna.jp
 .iryo-de-hatarako.net
 .iryoku.net
+.ishikisoku.com
 .isize.com
 .iskysoft.com
 .iso-labo.com
@@ -2821,6 +2822,7 @@
 .jikitourai.net
 .jiku-chu.com
 .jikyu2000.com
+.jim-dandy.jp
 .jimdo.com
 .jin115.com
 .jinjitter.jp
