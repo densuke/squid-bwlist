@@ -1554,6 +1554,7 @@
 .eant12.com
 .eant12.net
 .earlbox.com
+.eastday.com
 .easyramble.com
 .eatsmart.co.jp
 .ebb.jp
