@@ -1980,6 +1980,7 @@
 .futabalog.comfutalog.com
 .futago-life.com
 .futakuro.com
+.futappa.jp
 .futene.net
 .fuubunn.com
 .fuwa-portal.jp
@@ -5415,6 +5416,7 @@
 .tanaka-works.com
 .tanaka617.hp.infoseek.co.jp
 .tanapon.link
+.taneppa.net
 .tanganrss.com
 .tank.jp
 .tanoshiidoga.com
