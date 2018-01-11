@@ -1334,6 +1334,7 @@
 .daumcdn.net
 .daumkakao.com
 .dawnfun.com
+.dayz.jp
 .dayztv.com
 .dbonline.jp
 .dc7.jp
