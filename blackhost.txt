@@ -5244,6 +5244,7 @@
 .splatoon-matome.com
 .splatoon-nawabari.com
 .splax.net
+.spochi.com
 .spoilerbomb.com
 .spon.me
 .sponichi.co.jp
