@@ -19,7 +19,6 @@ KUGOU2012
 KuGou2012
 MicroMessenger
 Minecraft
-Mobile Safari
 Simeji.SimejiKB
 SogouMobile
 Streaming Player
@@ -41,8 +40,6 @@ Yahoo AppID
 ^Bokete
 ^CharacterAnimator
 ^Chilkat/
-^Chrome ANDROID
-^Chrome IOS-PHONE
 ^ComicViewer
 ^Comico
 ^DOCOMO
@@ -78,7 +75,6 @@ Yahoo AppID
 ^Manga
 ^Manner
 ^ManuCam
-^MobileSafari/
 ^MojangLauncher
 ^Monazilla
 ^MonstDB
