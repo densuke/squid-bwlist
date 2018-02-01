@@ -2326,7 +2326,6 @@
 .goodsmile.info
 .goodsmileshop.com
 .googlevideo.com
-.googlevideo.com:443
 .goohooo.net
 .goonie.org
 .goooodtube.com
