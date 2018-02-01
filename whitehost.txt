@@ -99,3 +99,4 @@ localhost
 .verisign.com
 .ds-voice.net
 .cybozu.com
+.fonts.gstatic.com
