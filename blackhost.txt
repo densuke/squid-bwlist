@@ -4536,6 +4536,7 @@
 .platinumgames.co.jp
 .play-app.net
 .play.google.com
+.play.googleapis.com
 .play44.net
 .playbuzz.com
 .playgame24.com
