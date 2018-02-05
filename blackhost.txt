@@ -234,6 +234,7 @@
 .a9vg.com
 .aaaf.jp
 .ab-road.net
+.abc-streaming.akamaized.net
 .abcwordexpress.com
 .abema.io
 .abematv.akamaized.net
