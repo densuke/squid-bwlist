@@ -3639,6 +3639,8 @@
 .mhf-g.jp
 .mhf-z.jp
 .mhthemes.com
+.mhwbbs.com
+.mhwg.org
 .mhx-navi.com
 .mi-ka-do.net
 .michikusa.jp
