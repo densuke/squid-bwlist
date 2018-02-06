@@ -5963,6 +5963,7 @@
 .wish.com
 .with2.net
 .wix.com
+.wixoss.com
 .wizards.com
 .wizblack.com
 .wizdamashi.com
