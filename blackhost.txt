@@ -879,6 +879,7 @@
 .bex.jp
 .bf1.jp
 .bfmatometto.info
+.bh-academy.jp
 .bi-ken.top
 .bibincom.com
 .biccamera.com
@@ -3088,6 +3089,7 @@
 .kinonotabi.com
 .kinyu-z.net
 .kinza.jp
+.kioku-tamatebako.com
 .kir.jp
 .kirekire-diet.com
 .kirikae.biz
