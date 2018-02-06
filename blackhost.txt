@@ -1314,6 +1314,7 @@
 .dailymotion.com
 .dailynewsonline.jp
 .daimajin.net
+.daimaoh.co.jp
 .daipon01.com
 .daisuki-otameshi.com
 .daki-makura.info
@@ -2808,6 +2809,7 @@
 .jankara.ne.jp
 .jankara.net
 .jap-xvideos.com
+.japan-ara.or.jp
 .japan-hot-times.vivian.jp
 .japan-mmm.net
 .japanese.joins.com
@@ -3784,6 +3786,7 @@
 .monnsutogatya.com
 .mono-lab.net
 .mononokereport.com
+.monoshiri.com
 .monsoku.info
 .monst-antenna.com
 .monst-bakufu.com
