@@ -1895,6 +1895,7 @@
 .fm-p.jp
 .fo-lens.net
 .focas.jp
+.fofy.com
 .foobarbaz.jp
 .fool.jp
 .fooline.net
