@@ -401,6 +401,7 @@
 .amazon.com
 .amazon.es
 .amazon.fr
+.amazonhonyaku.com
 .amazoningadvertisment.com
 .ameba.jp
 .amebagames.com
@@ -1298,6 +1299,7 @@
 .cysoku.com
 .cyzo.co.jp
 .cyzowoman.com
+.cz-lab.com
 .d-064.com
 .d-deltanet.com
 .d-quest-10.com
@@ -4955,6 +4957,7 @@
 .schoolgirlstrikers.jp
 .science-2ch.net
 .scienceplus2ch.com
+.scmp.com
 .scrapmagazine.com
 .scraptanteidan.com
 .scupio.com.tw
@@ -6043,6 +6046,7 @@
 .wtfast.com
 .wtp101.com
 .wwe.com
+.wwnp-sokuho.biz
 .wwo.asia
 .wws-channel.com
 .www.mai-net.net
