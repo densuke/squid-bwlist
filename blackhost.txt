@@ -1250,6 +1250,7 @@
 .crashaikou.net
 .crashfever.com
 .crashlytics.com
+.crazy-movie-freak.com
 .crazyrape.net
 .crc-japan.com
 .creamu.com
@@ -2557,6 +2558,7 @@
 .hime-book.net
 .himebook.net
 .himegalnews.net
+.himegimi.jp
 .himitsukichi.com
 .himo2.jp
 .hinata-antenna.com
@@ -2956,6 +2958,7 @@
 .kaigaimm.com
 .kaigainetbiz.com
 .kaigaino.net
+.kaigainohannou.info
 .kaigojob.com
 .kaikatsu.jp
 .kaikhaan.com
@@ -3021,6 +3024,7 @@
 .katei-matome.com
 .kateich.net
 .katsumoku.net
+.kattobi-japan.com
 .katuru.com
 .kau.li
 .kawasaki-cp.khi.co.jp
@@ -3273,6 +3277,7 @@
 .letv.com
 .lglime.com
 .lhrpg.org
+.life-kuroda.com
 .life.matomex.info
 .lifeantenna.com
 .lifeappli-antenna.com
