@@ -2054,6 +2054,7 @@
 .game-hikidashi.com
 .game-hiroba.com
 .game-island.info
+.game-ism.net
 .game-kids.net
 .game-matome.net
 .game-member.com
@@ -2250,6 +2251,7 @@
 .getuploader.com
 .geunoudiet.com
 .gff.jp
+.gfoodd.com
 .gg-blog.com
 .ggame.jp
 .gger.jp
@@ -5705,6 +5707,7 @@
 .tweetswind.com
 .twi1.me
 .twi55.com
+.twiani.com
 .twilog.org
 .twimg.com
 .twin-angel.com
