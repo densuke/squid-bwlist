@@ -3554,6 +3554,7 @@
 .matomeofmatomes.net
 .matomeomatome.com
 .matomeplus.net
+.matomerry.com
 .matomeru2ch.com
 .matomesakura.com
 .matomeshi.net
@@ -4029,6 +4030,7 @@
 .neutralx0.net
 .new-akiba.com
 .new-soku.net
+.newantenna.net
 .newblo7.net
 .newnext.me
 .newposu.com
@@ -5212,6 +5214,7 @@
 .soiyasoiyasoiya.com
 .soku.com
 .sokuhabo.net
+.sokuho.org
 .sokuhou23.com
 .sokuhouya3.club
 .sokutatubin.com
