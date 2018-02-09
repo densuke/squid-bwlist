@@ -814,6 +814,7 @@
 .bandainamcoid.com
 .bandcamp.com
 .bandch.com
+.bandrythm.com
 .bang-dream-news.com
 .bang-dream.com
 .banndorikouryaku.com
@@ -1485,6 +1486,7 @@
 .doutr.biz
 .doyaero.com
 .dpface.info
+.dq-ism.com
 .dq-msl.net
 .dq10ragu.com
 .dq11.jp
@@ -2996,6 +2998,7 @@
 .kantama.net
 .kantan-shikaku.com
 .kantanstart.jp
+.kanzae.net
 .kanzenkokuchi.jp
 .kaola.jp
 .kaomojich.com
@@ -4611,6 +4614,7 @@
 .pokemonlab.jp
 .pokemonshowdown.com
 .pokemonsmsokuhou.com
+.pokemori-life.com
 .pokerdou.com
 .pokesen.com
 .pokesoku.co
