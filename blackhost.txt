@@ -2080,6 +2080,7 @@
 .game1wiki.com
 .game2ji.com
 .game4broke.sakura.ne.jp
+.game8.co.jp
 .game8.jp
 .gameanalytics.com
 .gameappch.com
