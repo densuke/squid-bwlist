@@ -1208,6 +1208,7 @@
 .condenast.jp
 .condor-antena.link
 .coneco.net
+.coneon.com
 .consolegameswiki.com
 .consolemul.com
 .conte-anime.jp
@@ -1641,6 +1642,7 @@
 .entamepot-antenna.com
 .entapotime.com
 .entenna.net
+.enterbrain.co.jp
 .entermeus.com
 .entertainer.auto-cs.com
 .entertainmentsummary.net
@@ -2434,6 +2436,7 @@
 .gwiki.jp
 .gyaku.site
 .gyazo.com
+.gzbrain.jp
 .gzn.jp
 .h-d.jp
 .h-douga.net
