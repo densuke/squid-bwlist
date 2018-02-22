@@ -1972,6 +1972,7 @@
 .fukkou-arena.jp
 .fukugan.com
 .fukugyo-antn.com
+.fukugyo-earnstyle.com
 .fukuharaso-pu.com
 .fukuoka-game.com
 .full-count.jp
