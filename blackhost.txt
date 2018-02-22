@@ -1106,6 +1106,7 @@
 .ceipmsn.com
 .cetrk.com
 .cf-vanguard.com
+.cg-con.com
 .cg-wallpaper.com
 .cgi-games.com
 .ch
@@ -1638,6 +1639,7 @@
 .enseinavi.com
 .enskyshop.com
 .enta-tubo.com
+.entame-awards.jp
 .entame.net
 .entameantenna.net
 .entamepot-antenna.com
@@ -4405,6 +4407,7 @@
 .oukasoft.com
 .oumaga-times.com
 .ourage.jp
+.over-lap.co.jp
 .overlord-anime.com
 .owaraidaizukan.com
 .owata-antenna.com
@@ -5096,6 +5099,7 @@
 .shingakunet.com
 .shingekikyojin.net
 .shingekinobahamut-genesis.jp
+.shinkigensha.co.jp
 .shinkokyubiyori.com
 .shinobi.jp
 .shinra-game.jp
