@@ -5231,6 +5231,7 @@
 .smt-cinema.com
 .smt.docomo.ne.jp
 .snalime.com
+.snapchat.com
 .snaplace.jp
 .snes9x.com
 .snk-neofighters.com
