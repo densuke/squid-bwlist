@@ -773,7 +773,6 @@
 .b-ch.com
 .b-prince.com
 .b.hatena.ne.jp
-.b.st-hatena.com
 .b9dm.com
 .babarageo.com
 .babel.sc
