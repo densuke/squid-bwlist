@@ -2748,6 +2748,7 @@
 .imgvc.com
 .imigame.com
 .imikowa.com
+.imimatome.com
 .immoral.jp
 .imperialsaga.jp
 .inazumanews2.com
@@ -6321,6 +6322,7 @@
 .zaregoto-series.com
 .zasetukinsi.com
 .zasshi-online.com
+.zatugakuunun.com
 .zatunen.com
 .zawazawa.hateblo.jp
 .zawazawa.jp
