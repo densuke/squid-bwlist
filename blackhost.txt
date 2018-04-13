@@ -5535,6 +5535,7 @@
 .tenryu-gs.com
 .tenshi-no-3p.com
 .tenshoku.mynavi.jp
+.tenso.com
 .tensyoku-now.com
 .terafile.co
 .teratail.com
