@@ -434,8 +434,10 @@
 .angelmov.net
 .angry-mhm.com
 .angry.jp
+.ani-mad.com
 .anichil.com
 .anicole.net
+.aniful.com
 .anigad.link
 .anige-sokuhouvip.com
 .anihatsu.com
@@ -454,6 +456,7 @@
 .anime44.com
 .animeanime.biz
 .animeanime.jp
+.animedouga.net
 .animedoujin.com
 .animegif.net
 .animegoods.info
@@ -469,6 +472,7 @@
 .animesokuhou.net
 .animetheworld.com
 .animetimes.com
+.animetore.net
 .animevari.info
 .animewallpaperstock.com
 .animg.net
@@ -1939,6 +1943,7 @@
 .free-share.jp
 .free-video-movie
 .free-xvideos.net
+.freeanimemovie.net
 .freedo.org
 .freefuture.tokyo
 .freegame-mugen.jp
@@ -3149,6 +3154,7 @@
 .kmlg.jp
 .knt.co.jp
 .knuckleport.com
+.ko-ani.com
 .kobe-sannomiya-ramen.com
 .kobo.com
 .kobobooks.com
@@ -3894,6 +3900,7 @@
 .mtgwiki.com
 .mtislet.com
 .mtrainier.jp
+.mtvrockthecradle.com
 .muchgames.com
 .mudainodocument.com
 .mudana.net
@@ -4166,6 +4173,7 @@
 .ninja.co.jp
 .ninjadoodle.com
 .ninjyaman.com
+.ninkirank.misty.ne.jp
 .ninpou.jp
 .nintendo.co.jp
 .nintendowifi.net
@@ -6104,6 +6112,7 @@
 .xn--2qq684doji.net
 .xn--bdka7fb.net
 .xn--bdka7fb9090d5qvatl9d.jp
+.xn--cck5dwcr34p969a.nagoya
 .xn--ccke7da9de3noexft929csfpb.com
 .xn--cckea4fdab9bb6euag7ysfya9ycf.com
 .xn--cckea5a6cidcbh6ce7ghug17a2ge3aht3nwigef51658aw7kd.com
@@ -6357,6 +6366,7 @@
 .zwei.com
 .zyuoudan.com
 .zzzsearch.com
+.アニメ動画.nagoya
 .ゴシップ速報123.コム
 .ジャニらぶアンテナ.com
 .ブルーベリーの効果.jp
