@@ -25,6 +25,8 @@
 .126.net
 .127.net
 .12seiza.coresv.com
+.13dl.net
+.13dl.to
 .15-daifuku.com
 .15qm.com
 .1616bbs.com
@@ -205,6 +207,7 @@
 .777.nifty.com
 .777segu.net
 .777town.net
+.77hs.net
 .7god.com
 .7gogo.jp
 .7th-master.info
