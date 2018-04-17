@@ -2759,6 +2759,7 @@
 .imimatome.com
 .immoral.jp
 .imperialsaga.jp
+.imtranslator.net
 .inazumanews2.com
 .indie-dev.at
 .indiegame-japan.com
@@ -5227,6 +5228,7 @@
 .smart-click.net
 .smart-douga.mobi
 .smartgame.jp
+.smartlinkcorp.com
 .smartnews-ads.com
 .smartnews.be
 .smartnews.jp
