@@ -406,11 +406,17 @@
 .amazon.fr
 .amazonhonyaku.com
 .amazoningadvertisment.com
+.ame-nmam13.com
+.ameba-sp.jp
+.ameba.glcl.syapp.jp
 .ameba.jp
+.ameba.plgl.syapp.jp
+.ameba.tgirl.jp
 .amebagames.com
 .amebame.com
 .amebaspgame.com
 .ameblo.jp
+.ametopi.jp
 .amfys.net
 .amiami.com
 .amiami.jp
@@ -1049,6 +1055,7 @@
 .buzznews.asia
 .buzznews.jp
 .bvb.jp
+.by-s.me
 .bylo.jp
 .byonavi.com
 .c-egg.com
@@ -1058,6 +1065,7 @@
 .c-tipsref.com
 .c-tpl.com
 .c0930.com
+.ca-girlstalk.jp
 .ca-mpr.jp
 .cafe-capy.net
 .cafeglobe.com
@@ -1071,6 +1079,7 @@
 .campaign-archive1.com
 .campfan.info
 .cample.info
+.candy.am
 .canpan.info
 .capcom-networks.jp
 .capcom-onlinegames.jp
@@ -1613,6 +1622,7 @@
 .elpericuto.com
 .emei-landarms.com
 .eminews.jp
+.emiq.jp
 .empty-matome01.jp
 .emu-russia.net
 .emubase.de
@@ -4530,6 +4540,7 @@
 .peachy.jp
 .peatix.com
 .peco-japan.com
+.pecolly.jp
 .pee-puu-see.com
 .peeprec.com
 .peepsamurai.com
@@ -5385,6 +5396,7 @@
 .subcultusin.net
 .subtlepatterns.com
 .success-corp.co.jp
+.success-corp.jp
 .sugarlove.jp
 .sugumiru18.com
 .suguyomi-antenna.net
@@ -5539,6 +5551,7 @@
 .tekken-official.jp
 .tel03.com
 .telaffy.jp
+.tell-me.jp
 .template-party.com
 .ten-navi.com
 .tenga.client.jp
