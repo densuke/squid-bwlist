@@ -2877,6 +2877,7 @@
 .jidou.link
 .jiggys-shop.jp
 .jigokuno.com
+.jigsaw.sakura.ne.jp
 .jijisikou.net
 .jikitourai.net
 .jiku-chu.com
@@ -5802,6 +5803,8 @@
 .type-music.com
 .type.jp
 .typemoon.com
+.typing.sakura.ne.jp
+.typingx0.net
 .u-note.me
 .u-style.biz
 .u0u0.net
