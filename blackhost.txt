@@ -1874,6 +1874,7 @@
 .feedly.com
 .feedmeter.net
 .feel-ing.com
+.felestore.com
 .fello.net
 .fem.jp
 .femiluna-room.com
@@ -3711,6 +3712,7 @@
 .million-arthurs.com
 .millionarthur.net
 .millioncounter.com
+.mimono.wpblog.jp
 .min-fx.jp
 .min-tenna.com
 .minatosoft.com
@@ -4560,6 +4562,7 @@
 .photo-ac.com
 .photo-capsule.net
 .photobag.in
+.photoboxone.com
 .photoshopvip.net
 .phpbook.jp
 .pia.co.jp
