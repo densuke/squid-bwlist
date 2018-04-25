@@ -2150,6 +2150,7 @@
 .gamenode.jp
 .gameon.jp
 .gamepedia.com
+.gameplayapi.intel.com
 .gamepot.co.jp
 .gamer-log.com
 .gamer.com
