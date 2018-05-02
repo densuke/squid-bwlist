@@ -42,3 +42,4 @@ nijimoe
 /shadovermatome.com
 /pbs.twimg.com
 /GFE/vops/playerunknowns_battlegrounds
+^/images/lol
