@@ -1342,6 +1342,7 @@
 .daimaoh.co.jp
 .daipon01.com
 .daisuki-otameshi.com
+.daitogiken.com
 .daki-makura.info
 .damage0.com
 .damege0.com
@@ -4496,6 +4497,7 @@
 .pangya.jp
 .panpilog.com
 .pantena.net
+.paon-dp.com
 .paopaoche.net
 .paperman.jp
 .papimami.jp
@@ -6295,6 +6297,8 @@
 .yorozu-antenna.net
 .yorozu-news-sokuhou.net
 .yorozu.be
+.yoshimune.jp
+.yoshimunecity.com
 .yossense.com
 .yougaku-nihongo.com
 .youkaiwatch-nyansoku.com
