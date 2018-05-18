@@ -773,6 +773,8 @@
 .axelgames.net
 .axelmark.jp
 .ayacnews2nd.com
+.ayakashi-g.com
+.ayakashi-g.net
 .ayamevip.com
 .ayu-net.com
 .ayu-nya.com
@@ -3320,6 +3322,7 @@
 .lifehacker.jp
 .lifehacking.jp
 .lifeis-ok.com
+.lifemaker.co.jp
 .lifemedia.jp
 .lifesmile.jp
 .lifewars.net
