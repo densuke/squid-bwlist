@@ -4303,6 +4303,7 @@
 .office-attend.jp
 .officedaytime.com
 .officiallyjd.com
+.offisoku.net
 .ogatashota.com
 .ogotoso-pu.com
 .ogp.me
