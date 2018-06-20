@@ -5881,6 +5881,7 @@
 .uta-net.com
 .utamap.com
 .utapri.com
+.utaten.com
 .utorrent.com
 .uunyan.com
 .uuu9.com
