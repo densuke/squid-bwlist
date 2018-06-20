@@ -4579,6 +4579,7 @@
 .phpbook.jp
 .pia.co.jp
 .pia.jp
+.piapro.jp
 .pico-n.com
 .pics
 .pict-navi.net
