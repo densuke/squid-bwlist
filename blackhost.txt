@@ -4827,6 +4827,7 @@
 .rare-gacha.com
 .rash.jp
 .rastaneko-blog.com
+.ratel-everchanging.com
 .raw-zip.com
 .raw.im
 .rayjump.com
@@ -5244,6 +5245,7 @@
 .slotinfo.net
 .slotjin.com
 .slotkaiseki.jp
+.slotmatome.com
 .slotmaxtype.com
 .slotmoe.jp
 .slotnippou.com
