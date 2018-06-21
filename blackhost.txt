@@ -2814,6 +2814,7 @@
 .ipinfo.io
 .iplayer.org
 .ippa.jp
+.iqoo.me
 .irasutoya.com
 .iratsuku.com
 .ironna.jp
@@ -5421,6 +5422,7 @@
 .success-corp.co.jp
 .success-corp.jp
 .sugarlove.jp
+.sugirl.info
 .sugumiru18.com
 .suguyomi-antenna.net
 .suichu-ka.com
