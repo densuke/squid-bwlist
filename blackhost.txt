@@ -3188,6 +3188,7 @@
 .koenokatachi-movie.com
 .koga.me
 .kohrogi.com
+.koihime-ac.jp
 .kojikisokuhou.com
 .kojimaproductions-store.jp
 .kojimaproductions.jp
@@ -6297,6 +6298,7 @@
 .yen-soft.com
 .yes24.com
 .yeshj.com
+.yetigame.jp
 .yetivip.com
 .yeutre.vn
 .yggdrasil-senki.jp
