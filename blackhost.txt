@@ -4622,6 +4622,7 @@
 .play.google.com
 .play.googleapis.com
 .play44.net
+.playbattlegrounds.com
 .playbuzz.com
 .playgame24.com
 .playism.jp
