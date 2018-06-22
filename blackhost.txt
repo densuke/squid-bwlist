@@ -192,6 +192,7 @@
 .550909.com
 .55karada.com
 .5ch.net
+.5chmm.jp
 .5kplayer.com
 .5pb.jp
 .5rin.info
@@ -1589,6 +1590,7 @@
 .eant12.com
 .eant12.net
 .earlbox.com
+.earsoku.com
 .eastday.com
 .easyramble.com
 .eatsmart.co.jp
