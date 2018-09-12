@@ -235,6 +235,7 @@
 .a4c.jp
 .a4g.com
 .a8.net
+.a8campus.com
 .a9vg.com
 .aaaf.jp
 .ab-road.net
@@ -426,8 +427,10 @@
 .ampleurreview.com
 .amps-web.biz
 .amung.us
+.amzn.asia
 .amzn.to
 .an-matome.com
+.an48.net
 .ana-ero.com
 .anabuki-style.com
 .anacel.com
@@ -464,6 +467,7 @@
 .anime-torrent-start.com
 .anime-tourism.com
 .anime-umamusume.jp
+.anime.information.jp
 .anime44.com
 .animeanime.biz
 .animeanime.jp
@@ -949,6 +953,7 @@
 .blog-text.jp
 .blog.hatena.ne.jp
 .blog.jp
+.blog.mokosoft.com
 .blog.so-net.ne.jp
 .blogblog.com
 .blogcms.jp
@@ -1839,6 +1844,8 @@
 .fam-ad.com
 .famima.com
 .famitsu.com
+.fanblogs.jp
+.fancs.com
 .fantena.net
 .fashion.cc
 .fashionch.com
@@ -2200,6 +2207,9 @@
 .ganganonline.com
 .ganjuu.com
 .ganma.jp
+.gantz-l-stage.jp
+.gantzo.jp
+.gantzx.jp
 .gaprot.jp
 .garakuta.org
 .garanger.net
@@ -3497,6 +3507,7 @@
 .mamastar.jp
 .mamesoku.com
 .mamikosan.com
+.manabanai.opinet.jp
 .manapedia.jp
 .mandarake.net
 .manegemusette.com
@@ -4412,6 +4423,7 @@
 .oshiete.xgoo.jp
 .osomatsusan.com
 .osoroshian.com
+.osoroshiya.com
 .ossan-gamer.net
 .ossya.com
 .ota-suke.jp
@@ -4871,6 +4883,7 @@
 .redtube.com
 .refined-mentor.com
 .reggaesound.net
+.reichan7279.com
 .rejetweb.jp
 .rekitan.net
 .ren-ai.jp
@@ -4958,6 +4971,7 @@
 .s2s.co.jp
 .s5-style.com
 .s81c.com
+.sa-reika.com
 .saba-navi.com
 .sabage.jp
 .saboriman.com
@@ -5501,6 +5515,7 @@
 .tabroom.jp
 .tabtter.jp
 .tackysroom.com
+.taikaisyu.com
 .taipingu.net
 .taisho-g.com
 .taisy02.com
@@ -5656,6 +5671,7 @@
 .tmbox.net
 .tmntmutantsinmanhattan.com
 .tnn-antena1.com
+.to-ti.in
 .toacco.com
 .tocana.jp
 .toei.co.jp
@@ -5722,6 +5738,7 @@
 .toriho-dai.com
 .toriizaka46.jp
 .torik0419.com
+.torisky.com
 .toroadvertisingmedia.com
 .torrent-anime.com
 .torrentstream.org
@@ -5875,6 +5892,7 @@
 .urageispo.com
 .uraken.net
 .urashita.com
+.urasunday.com
 .uratan.jp
 .urban.ne.jp
 .urbanfonts.com
@@ -6299,6 +6317,7 @@
 .yaruox.jp
 .yaruyomi.com
 .yasuda1949.com
+.yawaspi.com
 .ybbo.net
 .yen-money-point.com
 .yen-soft.com
@@ -6347,6 +6366,7 @@
 .yubit.jp
 .yucan.cranky.jp
 .yucasee.jp
+.yucl.net
 .yucomia.com
 .yuekijyoho.net
 .yugioh-antenna.sakura.ne.jp
