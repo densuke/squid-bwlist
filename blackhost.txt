@@ -2995,6 +2995,7 @@
 .kaigai-antenna.com
 .kaigai-binary.com
 .kaigai-matome.net
+.kaigai-otaku.jp
 .kaigaihannou.com
 .kaigaihannou.info
 .kaigaimatome.com
