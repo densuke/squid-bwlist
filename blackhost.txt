@@ -2441,7 +2441,6 @@
 .gscoop.net
 .gsreloaded.jp
 .gsspcln.jp
-.gstatic.com
 .gu-kawagazo-ch.com
 .gu3.co.jp
 .gu3.jp
