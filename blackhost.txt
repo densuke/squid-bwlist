@@ -675,7 +675,6 @@
 .apps.skype.com
 .appsary.com
 .appsflyer.com
-.appspot.com
 .appteam.biz
 .appzooxx.com
 .apserver.net
